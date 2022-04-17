@@ -2,8 +2,10 @@
 export default function English() {
     return (
     <>
-        <h1> English version </h1>
-        <h2> Coming soon </h2>
+        <br/>
+        <br/>
+        <h3 className="text-center"> English version </h3>
+        <h3 className="text-center"> Coming soon </h3>
     </>
     )
 }

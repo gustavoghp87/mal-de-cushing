@@ -1,25 +1,20 @@
+import styles from '../css/Home.module.css'
+
 export const DarkModeButton = props => {
 
-    const { isDarkMode, setIsDarkModeHandler, isEnglish } = props
+    const { isEnglish, isMobile, isDarkMode, setIsDarkModeHandler } = props
     
     return (
-        <div id={"darkModeBtn"}
-            className={`custom-control custom-switch ${isDarkMode ? 'bg-dark' : 'bg-light'} `}
+        <div
+            className={`${styles.card} custom-control custom-switch ${isDarkMode ? 'bg-dark' : 'bg-light'} `}
             style={{
                 position: 'fixed',
-                bottom: '20px',
-                left: 0,
+                bottom: isMobile ? '' : 0,
+                top: isMobile ? 0 : '',
+                left: isMobile ? '40%' : 0,
                 marginLeft: '3%',
                 cursor: 'pointer',
-                paddingTop: '7px',
-                paddingBottom: '7px',
-                paddingRight: '10px',
-                padding: '7px',
-                color: 'inherit',
-                textDecoration: 'none',
-                border: '1px solid #eaeaea',
-                borderRadius: '10px',
-                transition: 'color 0.15s ease, border-color 0.15s ease'
+                padding: '10px'
             }}
         >
             &nbsp;
@@ -38,13 +33,17 @@ export const DarkModeButton = props => {
                 }}
             />
             
-            <label className={`custom-control-label ${isDarkMode ? 'text-white' : ''}`}
+            <label
+                className={`custom-control-label ${isDarkMode ? 'text-white' : ''}`}
                 htmlFor={'customSwitches'}
+                style={{
+                    cursor: 'pointer'
+                }}
             >
-                <b> {isEnglish && isDarkMode && 'Light Mode'} </b>
-                <b> {isEnglish && !isDarkMode && 'Dark Mode'} </b>
-                <b> {!isEnglish && isDarkMode && 'Modo Claro'} </b>
-                <b> {!isEnglish && !isDarkMode && 'Modo Oscuro'} </b>
+                <b> {isEnglish && isDarkMode && (isMobile ? 'Mode' : 'Light Mode')} </b>
+                <b> {isEnglish && !isDarkMode && (isMobile ? 'Mode' : 'Dark Mode')} </b>
+                <b> {!isEnglish && isDarkMode && (isMobile ? 'Modo' : 'Modo Claro')} </b>
+                <b> {!isEnglish && !isDarkMode && (isMobile ? 'Modo' : 'Modo Oscuro')} </b>
             </label>
             
         </div>

@@ -3,23 +3,19 @@ import { PlusSquare, DashSquare } from 'react-bootstrap-icons'
 
 export const SizeButton = props => {
 
-    const { isDarkMode, isEnglish } = props
+    const { isDarkMode, isEnglish, isMobile } = props
     const textSize = window.localStorage.getItem('textSizeCushing')
     
     return (
         <div
-            className={styles.card + ` ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}
+            className={`${styles.card} ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}
             style={{
                 position: 'fixed',
-                bottom: '10px',
+                bottom: isMobile ? '' : 0,
+                top: isMobile ? 0 : '',
                 right: 0,
-                marginRight: '3%',
-                padding: '5px',
-                color: 'inherit',
-                textDecoration: 'none',
-                border: '1px solid #eaeaea',
-                borderRadius: '10px',
-                transition: 'color 0.15s ease, border-color 0.15s ease'
+                marginRight: isMobile ? '3%' : '3%',
+                padding: '5px'
             }}
         >
 
@@ -34,7 +30,10 @@ export const SizeButton = props => {
                     }}
                     style={{ cursor: 'pointer' }}
                 >
-                    <PlusSquare size={26} /> &nbsp; <b> {isEnglish ? 'Increase Text Size' : 'Agrandar Texto'} &nbsp; </b>
+                    <PlusSquare size={26} />
+                    &nbsp;
+                    <b className={isMobile ? 'd-none' : ''}> {isEnglish ? 'Increase Text Size' : 'Agrandar Texto'} &nbsp; </b>
+                    <b className={isMobile ? '' : 'd-none'}> A &nbsp; </b>
                     {/* color={'royalblue'} */}
                 </div>
 
@@ -47,7 +46,10 @@ export const SizeButton = props => {
                     }}
                     style={{ cursor: 'pointer' }}
                 >
-                    <DashSquare size={26} /> &nbsp; <b> {isEnglish ? 'Decrease Text Size' : 'Achicar Texto'} </b>
+                    <DashSquare size={26} />
+                    &nbsp;
+                    <b className={isMobile ? 'd-none' : ''}> {isEnglish ? 'Decrease Text Size' : 'Achicar Texto'} </b>
+                    <b className={isMobile ? '' : 'd-none'}> A </b>
                 </div>
             </div>
 

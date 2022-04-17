@@ -5,7 +5,7 @@ import Spanish from './Spanish'
 import { DarkModeButton } from './common/DarkModeButton'
 import { IndexButton } from './common/IndexButton'
 import { SizeButton } from './common/SizeButton'
-
+import { ArrowBarRight } from 'react-bootstrap-icons'
 
 export const App = () => {
     const [isEnglish, setIsEnglish] = useState(false)
@@ -16,6 +16,16 @@ export const App = () => {
 
     const setIsDarkModeHandler = newState => setIsDarkMode(newState)
     const setShowIndexHandler = newState => setShowIndex(newState)
+    
+    let isMobile = window.innerWidth < 1000
+    const adjustIsMobile = () => {
+        setTimeout(() => {
+            const isMobile1 = window.innerWidth < 1000
+            if (isMobile1 !== isMobile) isMobile = isMobile1
+            adjustIsMobile()
+        }, 2000)
+    }
+    adjustIsMobile()
 
     document.addEventListener('scroll', () => {
         const windowScroll = window.scrollY
@@ -30,70 +40,89 @@ export const App = () => {
     }, [])
 
     return (
-        <div className={`${styles.container} ${isDarkMode ? 'bg-dark text-white' : ''}`}>
+        <div className={`p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}>
 
-            <main className={styles.main}>
+            <div className={''}
+                style={{
+                    minHeight: '100vh',
+                    marginInline: isMobile ? '7%' : '20%',
+                    // padding: '1rem 0 4rem 0',
+                    // flex: 1,
+                    // display: 'flex',
+                    // flexDirection: 'column',
+                    // justifyContent: 'center'
+                }}
+            >
 
+                <br/>
+                <br/>
+                <br/>
+                <br/>
                 <br/>
 
                 <div className={styles.card + ' d-block m-auto'} onClick={() => setIsEnglish(!isEnglish)}>
-                    <h2 className={'mb-0'}>
+                    <h2 className={'mb-0 text-center'} style={{ width: '250px' }}>
                         {isEnglish ? "Versión en Español" : "English version"}
-                        &nbsp;&rarr;
+                        &nbsp; <ArrowBarRight />
                     </h2>
                 </div>
 
                 <br/>
                 <br/>
 
-                <h1 className={styles.title}>
+                <div className={''}
+                    style={{
+                        margin: 0,
+                        lineHeight: 1.15,
+                        fontSize: isMobile ? '2.5rem ' : '3.4rem',
+                        textAlign: 'center'
+                    }}
+                >
                     {isEnglish ?
                         "Cushing's Desease in dogs and trilostane & mitotane treatments:"
                         :
                         "Mal de Cushing en perros y tratamientos con trilostano y mitotano:"
                     }
-                </h1>
-
-                <h1 className={styles.title} >
+                    <br/>
                     {isEnglish ?
                         "Ally's case"
                         :
                         "El caso de Ally"
                     }
-                </h1>
+                </div>
 
                 <br/>
 
-                {!isEnglish && <Spanish />}
-
-                {isEnglish && <English />}
-
                 {scrollDown &&
                 <>
-                    <DarkModeButton
-                        isDarkMode={isDarkMode}
-                        setIsDarkModeHandler={setIsDarkModeHandler}
-                        isEnglish={isEnglish}
-                    />
-
                     <IndexButton
+                        isEnglish={isEnglish}
+                        isMobile={isMobile}
                         isDarkMode={isDarkMode}
                         showIndex={showIndex}
                         setShowIndexHandler={setShowIndexHandler}
+                    />
+
+                    <DarkModeButton
                         isEnglish={isEnglish}
+                        isMobile={isMobile}
+                        isDarkMode={isDarkMode}
+                        setIsDarkModeHandler={setIsDarkModeHandler}
                     />
 
                     <SizeButton
-                        isDarkMode={isDarkMode}
-                        showIndex={showIndex}
-                        setShowIndexHandler={setShowIndexHandler}
                         isEnglish={isEnglish}
+                        isMobile={isMobile}
+                        isDarkMode={isDarkMode}
                     />
                 </>
                 }
 
+                {!isEnglish && <Spanish />}
+
+                {isEnglish && <English />}
                 
-            </main>
+            </div>
 
             <footer className={styles.footer}>
                 <p> Se aceptan donaciones en Bitcoin para pagar el dominio: </p>

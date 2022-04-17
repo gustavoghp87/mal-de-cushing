@@ -1,11 +1,11 @@
 import styles from './css/Home.module.css'
-import { P } from './css/styles'
+import { P, subtitleStyles } from './css/styles'
 
 export default function Spanish() {
 
     return (
-    <>
-        <div className={styles.subtitle} id={'1'}> Intro </div>
+    <div>
+        <div style={subtitleStyles} id={'1'}> Intro </div>
 
         <P>
         Ally tenía 9 años y 3 meses cuando murió por complicaciones metastásicas del mal de Cushing. O por una mala ejecución de la terapia de reemplazo de corticoides. O por la pasión eutanasiadora de los veterinarios. No lo sé. Publico hoy aprendizajes importantes que me hubiese gustado haber conocido a tiempo pero no encontré por ningún lado.
@@ -53,7 +53,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'2'}> Ella </div>
+        <div style={subtitleStyles} id={'2'}> Ella </div>
 
         <P>
             Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal de una familia conocida de la mía.
@@ -73,7 +73,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'3'}> Los antibióticos </div>
+        <div style={subtitleStyles} id={'3'}> Los antibióticos </div>
 
         <P>
         De las cosas que nos quedó de la época sanguinaria de la Segunda Guerra Mundial es el uso indiscriminado de antibióticos. Envenenar un cuerpo entero con veneno para bacterias producido por los hongos es bastante parecido a bombardear una ciudad entera porque se metió una banda de narcotraficantes.
@@ -105,7 +105,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'4'}> Las 2 semanas y la castración </div>
+        <div style={subtitleStyles} id={'4'}> Las 2 semanas y la castración </div>
 
         <P>
         Para septiembre de 2018, con 5 años, había tenido dos falsas preñeces y cada vez volvía más alterada de los cortes de pelo. Un viernes tenía problemas para masticar y pude verle una muela floja. Acordé un turno para castración, remoción de la muela y limpieza de sarro. Para prepararla quise cortarle el pelo. Volvió de la veterinaria temblando como una hoja y con falsa preñez, la tercera. Le di el antiprolactínico que me había sobrado de la vez anterior; una droga que bloquea la producción de leche. No noté que estaba vencido y le provocó diarrea y no recuerdo si vómitos.
@@ -125,7 +125,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'5'}> Indicios de mal de Cushing y diagnóstico </div>
+        <div style={subtitleStyles} id={'5'}> Indicios de mal de Cushing y diagnóstico </div>
 
         <P>
         A partir de esa fecha comenzó a engordar a un ritmo de algo así como 100 gramos por mes durante año y medio, pero acelerando sobre el final. O sea que duplicó su peso de 2.5 kg a 4.9 kg. Contando poco más de un año desde la esterilización, no había solo un gradual engordamiento sino que cada vez orinaba más y bebía más y hasta desarrolló un apetito hacia los carbohidratos que nunca había tenido. Tuve que sacar de su alcance la comida del gato, hecha con arroz marrón, menudencias y mucha grasa, que hasta entonces nunca había probado pero que ahora rogaba por tener.
@@ -157,7 +157,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'6'}> El cirujano </div>
+        <div style={subtitleStyles} id={'6'}> El cirujano </div>
 
         <P>
         En agosto de 2020, con ella completamente recuperada, conocí a un cirujano por la posibilidad de remover el tumor y rehabilitar la glándula sana y olvidarnos de la enfermedad. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable.
@@ -177,7 +177,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'7'}> El año y medio posterior y el indicio de metástasis </div>
+        <div style={subtitleStyles} id={'7'}> El año y medio posterior y el indicio de metástasis </div>
 
         <P>
         Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; me esforcé de que viviese especialmente bien porque estaba presente la posibilidad de que el tumor creciese y taponase la vena cava inferior o forzase una producción de corticoides inmanejable con trilostano... hasta le corté el pelo y las uñas yo, para bien y para mal, aunque a veces temblaba.
@@ -209,7 +209,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'8'}> Cáncer tumoroso </div>
+        <div style={subtitleStyles} id={'8'}> Cáncer tumoroso </div>
 
         <P>
         Un tumor surge cuando muchas células sufren un daño en el ADN y fallan los mecanismos externos para su destrucción.
@@ -217,7 +217,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'9'}> La metástasis y el único tratamiento posible </div>
+        <div style={subtitleStyles} id={'9'}> La metástasis y el único tratamiento posible </div>
 
         <P>
         En agosto me mudé solo y ella quedó con mi madre y hermana menor. Me demoré 7 meses en volver a hacer sus estudios. Este es el segundo mayor de los errores propios.
@@ -257,7 +257,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'10'}> Mitotano sin trilostano </div>
+        <div style={subtitleStyles} id={'10'}> Mitotano sin trilostano </div>
 
         <P>
         El tratamiento empezó el domingo 6 de febrero de 2022. Y que sepa bien el lector: Fue un desastre retirarle el trilostano el día anterior al comienzo del tratamiento con mitotano. Se suponía que ambas drogas no se debían usar juntas porque ambas reducen la producción de corticoides y si la cantidad de corticoides baja mucho hay riesgo de muerte. La idea era ir bajando los corticoides en sangre gradualmente por efecto exclusivo del mitotano, que demoraría entre 3 y 5 días en causar una deficiencia notoria, ante la cual comenzaría la suplementación con corticoides sintéticos de vía oral: prednisolona en gotas (glucocorticoide) y acetato de fludrocortisona (mineralocorticoide y glucocorticoide a la vez). Y, en caso de emergencia, se usarían corticoides inyectables de acción inmediata: dexametasona (glucocorticoide) e hidrocortisona (mineralocorticoide y glucocorticoide a la vez).
@@ -289,7 +289,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'11'}> Mitotano con trilostano </div>
+        <div style={subtitleStyles} id={'11'}> Mitotano con trilostano </div>
 
         <P>
         Cuando íbamos 4 o 5 días de mitotano probé darle alguna dosis baja de trilostano porque el Cushing la estaba atormentando. Se ponía mejor de inmediato, en algo así como media hora, pero luego tenía problemas nocturnos de agitación y deambular de acá para allá, y lo suspendí.
@@ -313,7 +313,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'12'}> La crisis respiratoria y la radiografía </div>
+        <div style={subtitleStyles} id={'12'}> La crisis respiratoria y la radiografía </div>
 
         <P>
         El sábado 26 de febrero lo pasó conmigo. Al cerrar el día la dejé con mi madre para que tomara la última dosis del día de trilostano y mitotano. Trilostano consumía 7,5 mg por día en dos tomas y mitotano tomaba 400 mg en 3 tomas.
@@ -341,7 +341,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'13'}> El oncólogo </div>
+        <div style={subtitleStyles} id={'13'}> El oncólogo </div>
 
         <P>
         Quise saber si un oncólogo podía arrojarme algo de luz sobre el nuevo cuadro y sobre el tratamiento; preguntarle qué opinaba del mitotano y si se podía combinar con otro tratamiento. Siempre noté una resistencia del endocrinólogo a derivarme con un oncólogo pero esta vez, siendo tan directo, me dio un contacto. Como me demoraba 8 o 9 días, busqué por mi zona y conseguí uno para el día siguiente.
@@ -405,7 +405,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'14'}> Mitotano y trilostano </div>
+        <div style={subtitleStyles} id={'14'}> Mitotano y trilostano </div>
 
         <P>
         Para estos días entendí algo que también puede servirle al lector. Absolutamente todo lo que pude leer acerca del mitotano es anterior a la existencia del trilostano, y esto es bastante importante.
@@ -421,7 +421,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'15'}> Mudanza y aumentos de dosis </div>
+        <div style={subtitleStyles} id={'15'}> Mudanza y aumentos de dosis </div>
 
         <P>
         Cuando me mudé con ella el día 25 del tratamiento (2 de marzo), lo primero que quise hacer fue saber cuál era la tolerancia máxima de Ally al mitotano. Venía consumiendo 400 mg y este día lo subí a 500. Sobre el final del día, la noté con problemas de coordinación, como si estuviese ligeramente ebria. Aparte dejó una buena diarrea en la madrugada. También fue el primer día de antibióticos pero con el tiempo se vio que los antibióticos no le causaban diarrea. Me di cuenta que 450 mg diarios era el límite y que la droga no estaba adulterada o diluida (estos son los efectos secundarios característicos del mitotano).
@@ -441,7 +441,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'16'}> La fallida terapia de reemplazo de corticoides: viernes negro </div>
+        <div style={subtitleStyles} id={'16'}> La fallida terapia de reemplazo de corticoides: viernes negro </div>
 
         <P>
         Llegó entonces el que llamo viernes negro, el 18 de marzo de 2022. A media mañana, la noté dolorida al ponerse en 4 patas. Me pareció que no tenía fuerzas en las patas traseras o que le dolía el abdomen. Me preocupé por el hígado. Días después hubo otras 2 veces en que me pareció que le dolía el abdomen, teniendo mucho ruido de fluidos del lado derecho, y lo resolví de inmediato con 100 mg de paracetamol.
@@ -495,7 +495,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'17'}> Los caóticos 20 días finales </div>
+        <div style={subtitleStyles} id={'17'}> Los caóticos 20 días finales </div>
 
         <P>
         Sufrí mucho estos días no tener instrumentos de medición para saber lo que estaba pasando y tomar decisiones de inmediato, como sí le pasa al insulinodependiente con el glucómetro. Estuve cerca de comprar un tensiómetro para animales caro y de dudosa calidad pero los compradores estaban decepcionados con el tamaño del brazalete. Ally era caniche toy. Y los análisis de sangre y orina demoraban al menos 2 días.
@@ -515,7 +515,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'18'}> Glucocorticoides y mineralocorticoides </div>
+        <div style={subtitleStyles} id={'18'}> Glucocorticoides y mineralocorticoides </div>
 
         <P>
         Tengo una posible explicación a los problemas que tuvimos estas semanas. Me siento ridículo formulando tesis de trabajo de la ciencia médica siendo informático. Pero no es mi culpa, es el estado de la ciencia donde se pretende delegar completamente la salud en manos de un profesional que, si no sabe, se te muere el perro.
@@ -551,7 +551,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'19'}> La fallida terapia de reemplazo de corticoides: sábado negro </div>
+        <div style={subtitleStyles} id={'19'}> La fallida terapia de reemplazo de corticoides: sábado negro </div>
 
         <P>
         El sábado 19 de marzo la vi caminando muy temprano por el pasillo con la cabeza medio gacha. Me levanté y le di corticoides en leche. Al rato se vino a acostar conmigo totalmente recuperada. Fue otro motivo para afianzar la confusión. Mas bien se estaban cumpliendo 9 horas desde el último trilostano y 18 desde el último fludrocortisona.
@@ -559,7 +559,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'20'}> Metástasis cerebral que no era </div>
+        <div style={subtitleStyles} id={'20'}> Metástasis cerebral que no era </div>
 
         <P>
         El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza gacha, redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides por sus funciones antiinflamatorias.
@@ -575,7 +575,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'21'}> La llamada rinitis alérgica </div>
+        <div style={subtitleStyles} id={'21'}> La llamada rinitis alérgica </div>
 
         <P>
         No fue algo divertido para mí darle antibióticos a mi perra sabiendo lo malos que son pero supuse que no era tiempo de pensar en el largo plazo sino de salvarla. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico.
@@ -603,7 +603,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'22'}> El día final </div>
+        <div style={subtitleStyles} id={'22'}> El día final </div>
 
         <P>
         El 6 de abril de 2022 era el día que estaba esperando. Quiero decir, pasé de evitar la tomografía por querer evitarle el mal momento a mi perra a desearla con anhelo. Consideraba terminada la etapa de inducción y quería saber 5 cosas para avanzar con confianza a la segunda etapa del tratamiento.
@@ -657,7 +657,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'23'}> El estudio y la eutanasia </div>
+        <div style={subtitleStyles} id={'23'}> El estudio y la eutanasia </div>
 
         <P>
         25 minutos después me la devolvieron, mientras se despertaba. La levantamos. Me dieron un CD con las imágenes y parecía que nos íbamos.
@@ -725,7 +725,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'24'}> La tomografía </div>
+        <div style={subtitleStyles} id={'24'}> La tomografía </div>
 
         <P>
         No quise mirar las imágenes y no sabía si lo iba a hacer. 27 horas después de la muerte me llegó el informe, bastante breve. Al leerlo, primero me di cuenta que el cráneo estaba limpio, y la garganta también. Y después me llamó la atención que decía, palabras más, palabras menos, lo mismo que habían dicho la ecografía de enero y la radiografía de febrero.
@@ -767,7 +767,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'25'}> La conversación final </div>
+        <div style={subtitleStyles} id={'25'}> La conversación final </div>
 
         <P>
         Mi incapacidad para ver el tumor primario en las imágenes de la tomografía me obligó a pedir una cita al endocrinólogo. Le dije que quería regalarle las drogas que me sobraron, una cantidad en dinero equivalente a todas las consultas que me cobró desde que lo conocí... que de todos modos no era mucho en comparación a las drogas y la tomografía. Y que quería, también, conversar un poco para cerrar la historia.
@@ -795,7 +795,7 @@ export default function Spanish() {
 
 
 
-        <div className={styles.subtitle} id={'26'}> Conclusiones </div>
+        <div style={subtitleStyles} id={'26'}> Conclusiones </div>
 
         <P>
         Cuando un perro empieza a comer de más, a beber y orinar de más, tuerce su apetito hacia los carbohidratos, sean dulces o salados, y con mucha más razón si le aparece una barriga dura cerca de las costillas, lejos de los genitales, es hora de mirar las glándulas suprarrenales y el hígado con ecógrafo, hacer una prueba en orina de la relación cortisol/creatinina y mirar los pulmones con radiografía. Cuanto antes mejor.
@@ -848,5 +848,5 @@ export default function Spanish() {
         <P>
         La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la narré.
         </P>
-    </>)
+    </div>)
 }
