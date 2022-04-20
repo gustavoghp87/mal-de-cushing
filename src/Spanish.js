@@ -32,7 +32,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Hay varios errores que hubiesen evitado la enfermedad, el sufrimiento y el desenlace, algunos certeros y otros de aproximación, algunos mi culpa y otros de los demás.
+        Hay varios errores importantes que, de no cometerse, se hubiese evitado la enfermedad, el sufrimiento y el desenlace, algunos certeros y otros de aproximación, algunos mi culpa y otros de los demás.
         </P>
         
         <P>
@@ -44,11 +44,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        Busco respuestas en internet. Si no encuentro, cuando encuentro las publico en internet, con errores propios, la autocrítica que corresponda y la exposición de la corrupción del sistema y de la imbecilidad del hombre común, en tanto sea relevante.
+        Busco respuestas en internet. Si no encuentro, cuando encuentro las publico yo mismo, con errores propios, la autocrítica que corresponda y la exposición de la corrupción del sistema y de la imbecilidad del hombre común, en tanto sea relevante. Recibo críticas y enriquezco. Aunque, por esta vez y la sensibilidad del caso, hago también de editor con línea editorial.
         </P>
         
         <P>
-        Para todo el que quiera salvar a su mascota de esta enfermedad y de las garras de los profesionales de los servicios médicos veterinarios.
+        Para todo el que quiera salvar a su mascota de esta enfermedad, de los profesionales de los servicios médicos veterinarios y del sistema todo.
         </P>
 
 
@@ -56,76 +56,40 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'2'}> Ella </div>
 
         <P>
-            Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal de una familia conocida de la mía.
+        Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal de una familia conocida de la mía.
         </P>
 
         <P>
-            Cuando cumplía 8 meses tenía turno para esterilización. Yo creí que era el consenso de la familia pero cuando me dispuse a llevarla me encontré con que algunas miembros de la familia esperaban que tuviera cachorros más adelante y llamaron a la veterinaria para cancelar la cirugía.
+        Cuando cumplía 8 meses tenía turno para esterilización. Yo creí que era el consenso de la familia pero cuando me dispuse a llevarla porque era la hora me encontré con que algunas miembros de la familia esperaban que tuviera cachorros más adelante y llamaron a la veterinaria para cancelar la cirugía.
         </P>
 
         <P>
-            Ally siempre fue de carácter tranquilo. Rara vez jugó con un perro, mas bien los evitaba. Quería estar con la familia, especialmente arriba de alguno de nosotros.
+        Ally siempre fue de carácter tranquilo. Rara vez jugó con un perro, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros.
         </P>
 
         <P>
-            Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad. Un problema que pocos dudarían en asociar con su tamaño, pero esta interpretación pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
+        Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad. Un problema que pocos dudarían en asociar con su tamaño, pero no deja de ser una interpretación esta que pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'3'}> Los antibióticos </div>
+        <div style={subtitleStyles} id={'3'}> Las 2 semanas y la castración </div>
 
         <P>
-        De las cosas que nos quedó de la época sanguinaria de la Segunda Guerra Mundial es el uso indiscriminado de antibióticos. Envenenar un cuerpo entero con veneno para bacterias producido por los hongos es bastante parecido a bombardear una ciudad entera porque se metió una banda de narcotraficantes.
+        Para septiembre de 2018, con 5 años, había tenido dos falsas preñeces y cada vez volvía más alterada de los cortes de pelo. Un viernes tenía problemas para masticar y pude verle una muela floja. Acordé un turno para castración, remoción de la muela y limpieza de sarro. Para prepararla quise cortarle el pelo. Le cortaron el pelo demasiado corto, rapado, y volvió de la veterinaria temblando como una hoja y con falsa preñez, la tercera. Le di el antiprolactínico que me había sobrado de la vez anterior; una droga que bloquea la producción de leche. No noté que estaba vencido y le provocó diarrea y no recuerdo si vómitos.
         </P>
         
         <P>
-        Cuento algo que es muy difícil de hallar en los ámbitos académicos porque son investigaciones más o menos recientes y los profesionales están metidos en un sistema creado por ellos mismos que castiga el actualizarse y premia la práctica de las teorías obsoletas.
+        Cuando se estaba recuperando, llegó la cirugía. Salió del quirófano temblando como hoja al viento y se atrincheró en el sillón grande por 4 días. No dejaba que nadie se le acercase. Tomó muchos antibióticos, por supuesto, con analgésicos y antiácidos. Luego se recuperó completamente. Fueron 2 semanas muy estresantes
         </P>
         
         <P>
-        En cada mucosa del cuerpo hay una relación de poder entre las bacterias y los hongos. La principal mucosa del cuerpo es la intestinal, de muchos metros cuadrados. Las bacterias están allí y el sistema inmunológico no las ataca porque cumplen esta función esencial: se atrinchera cada bacteria en su parcela, donde tiene hábitat, comida, agua, calor y oxígeno gratis, a cambio de que no permita la expansión de los hongos.
-        </P>
-        
-        <P>
-        Los hongos tampoco son destructivos, por eso las defensas del cuerpo no los atacan; pero la basura metabólica que generan sí es dañina, tóxica; mientras que la basura metabólica de las bacterias normales del cuerpo son inofensivas, y muchas de ellas también funcionan como neurotransmisores y ansiolíticos. Por eso es tan fuerte la correlación entre la salud intestinal y la socialización, el valor y el procesamiento del estrés, y es tan fuerte la correlación entre la mala salud intestinal y la cobardía, los trastornos de ansiedad social y el mal procesamiento del estrés.
-        </P>
-        
-        <P>
-        Cuando se bombardea una mucosa intestinal con antibióticos, se desequilibra la relación de poder. Muchas bacterias mueren y muchos hongos avanzan, ocupando posición. La diversidad y las cantidades de las bacterias se reducen, como se reducen las funciones que desempeñan. Y queda, en su lugar, una mala manera de procesar el estrés y la ansiedad, con pocos ansiolíticos y mucha intoxicación cada vez que se pasa por malos momentos, desde una tormenta eléctrica o la explosión de petardos hasta un simple estado de alerta y nerviosismo permanente.
-        </P>
-        
-        <P>
-        Puede pasar cualquier cosa. Es como bombardear una ciudad y nunca llegar a saber qué hubiesen logrado en la vida los que murieron.
-        </P>
-        
-        <P>
-        Chocando de frente contra todas las estadísticas y las investigaciones, los ignorantes no basilan en culpar a la genética y corren a los médicos para que les den muchos antibióticos. Y llevan a sus mascotas recién nacidas para envenenarlas para salvarlas de presuntas bacterias peligrosas, creyendo que la ciencia los avala.
+        Como curiosidad, los puntos demoraron como 2 años en irse del todo. Y quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de que hubiesen dejado todo bien o si dejaron ahí alguna fuente de conflicto, estresante, que explicase lo que vino después.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'4'}> Las 2 semanas y la castración </div>
-
-        <P>
-        Para septiembre de 2018, con 5 años, había tenido dos falsas preñeces y cada vez volvía más alterada de los cortes de pelo. Un viernes tenía problemas para masticar y pude verle una muela floja. Acordé un turno para castración, remoción de la muela y limpieza de sarro. Para prepararla quise cortarle el pelo. Volvió de la veterinaria temblando como una hoja y con falsa preñez, la tercera. Le di el antiprolactínico que me había sobrado de la vez anterior; una droga que bloquea la producción de leche. No noté que estaba vencido y le provocó diarrea y no recuerdo si vómitos.
-        </P>
-        
-        <P>
-        Cuando se estaba recuperando, llegó la cirugía. Salió del quirófano temblando como hoja al viento y se atrincheró en el sofá por 4 días. No dejaba que nadie se le acercase. Tomó muchos antibióticos, por supuesto.
-        </P>
-        
-        <P>
-        Luego se recuperó completamente.
-        </P>
-        
-        <P>
-        Los puntos demoraron como 2 años en irse del todo. Quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de que hubiesen dejado todo bien o si dejaron ahí alguna fuente de conflicto, estresante, que explicase lo que vino después.
-        </P>
-
-
-
-        <div style={subtitleStyles} id={'5'}> Indicios de mal de Cushing y diagnóstico </div>
+        <div style={subtitleStyles} id={'4'}> Indicios de mal de Cushing y diagnóstico </div>
 
         <P>
         A partir de esa fecha comenzó a engordar a un ritmo de algo así como 100 gramos por mes durante año y medio, pero acelerando sobre el final. O sea que duplicó su peso de 2.5 kg a 4.9 kg. Contando poco más de un año desde la esterilización, no había solo un gradual engordamiento sino que cada vez orinaba más y bebía más y hasta desarrolló un apetito hacia los carbohidratos que nunca había tenido. Tuve que sacar de su alcance la comida del gato, hecha con arroz marrón, menudencias y mucha grasa, que hasta entonces nunca había probado pero que ahora rogaba por tener.
@@ -140,24 +104,24 @@ export default function Spanish() {
         </P>
         
         <P>
-        Mientras esperábamos otra tanda de estudios ridículos, una de las veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un cáncer de tejidos superficiales, aunque por estos días nadie le llamaba cáncer.
+        Mientras esperábamos otra tanda de estudios ridículos, una de las veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un cáncer de tejidos superficiales, aunque por estos días nadie le llamaba cáncer ni carcinoma.
         </P>
         
         <P>
-        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista. Centroamericano, egresado de la UBA, especialista en razas pequeñas. Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos nuevos y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
+        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista de la historia, aparte de Ally y yo; egresado de la UBA pero de acento centroamericano, especialista en razas pequeñas. Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos de la marca nueva y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
         </P>
         
         <P>
-        Este profesional quiso confirmar el diagnóstico con una prueba de orina que se llama relación cortisol/creatinina, que también es barata y demora pocos días, cerca de 4.
+        Este profesional confirmó el diagnóstico con una prueba de orina que se llama relación cortisol/creatinina, que también es barata y demora pocos días, cerca de 4. Y esta misma prueba usó para el ajuste de la dosis después. El trilostano, por su parte, cuesta cerca de un dólar cada 15 mg y se consume algo así como 5 mg por kilo de animal por día, dependiendo de la fuerza y tamaño del tumor. El consumo de Ally era 30 dólares al mes, pesando 5 kg al principio pero estabilizada en 3,3 kg poco después.
         </P>
         
         <P>
-        El trilostano cuesta cerca de un dólar cada 15 mg y se consume algo así como 5 mg por kilo de animal por día. El consumo de Ally era 30 dólares al mes.
+        Como lo mencionado, la recuperación fue rapidísima y total. No obstante, todos los sitios coincidían en darle una esperanza de vida de 2 o 3 años. Parecía que el tumor iba a seguir creciendo, obligando a llevar la dosis a una cantidad inaceptable para el hígado. Y en la dosis máxima tolerable habría un deterioro de la salud que llevaría a la muerte. Con el tiempo llegué a creer que nada de eso iba a pasar y que ella iba a cumplir con su expectativa normal de vida para su raza.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'6'}> El cirujano </div>
+        <div style={subtitleStyles} id={'5'}> El cirujano </div>
 
         <P>
         En agosto de 2020, con ella completamente recuperada, conocí a un cirujano por la posibilidad de remover el tumor y rehabilitar la glándula sana y olvidarnos de la enfermedad. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable.
@@ -172,23 +136,27 @@ export default function Spanish() {
         </P>
         
         <P>
-        Como punto destacado en retrospectiva, mencionó este cirujano que este tipo de tumor a veces se vuelve maligno y ataca al hígado con tumores secundarios, metastásicos. Me pareció una posibilidad muy remota para una perra de tan buena salud y con un tumor domado con inhibidor, pero lo recordé.
+        Como punto destacado en retrospectiva, mencionó este cirujano que este tipo de tumor a veces se vuelve maligno y ataca al hígado con tumores secundarios, metastásicos. Me pareció una posibilidad muy remota para una perra de tan buena salud y con un tumor domado con inhibidor, pero lo recordé. La posibilidad de una metástasis pulmonar, en cambio, no se mencionó jamás hasta la crisis del sábado 26 de febrero de 2022.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'7'}> El año y medio posterior y el indicio de metástasis </div>
+        <div style={subtitleStyles} id={'6'}> El año y medio posterior y el indicio de metástasis </div>
 
         <P>
-        Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; me esforcé de que viviese especialmente bien porque estaba presente la posibilidad de que el tumor creciese y taponase la vena cava inferior o forzase una producción de corticoides inmanejable con trilostano... hasta le corté el pelo y las uñas yo, para bien y para mal, aunque a veces temblaba.
-        </P>
-        
-        <P>
-        En esta etapa, estos eran los 2 desenlaces mortales que yo conocía; es decir, una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “una imagen focal hipoecoica de 4.1 mm en lóbulo lateral izquierdo”, junto con una inflamación general del órgano. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal. Y también estaba alto el valor en sangre de VCM, indicador de enfermedad del hígado.
+        Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; me esforcé de que viviese especialmente bien porque estaba presente la posibilidad de que el tumor creciese y taponase la vena cava inferior o forzase una producción de corticoides inmanejable con trilostano... hasta le corté el pelo y las uñas yo, para bien y para mal, aunque a veces temblaba. Y los malos ratos eran solamente los de la extracción de muestras de sangre y, sobre todo, las ecografías, que duraban 30 o 40 minutos cada una.
         </P>
         
         <P>
-        Para el endocrinólogo esto era un indicio de metástasis y era el momento de pasar a la acción con un tratamiento agresivo del que hasta entonces no había hablado: una quimioterapia limpia y selectiva capaz de destruir las cortezas suprarrenales y la incipiente metástasis pero que la volvería dependiente de por vida del suministro externo de corticoides por vía oral, y de inyecciones en caso de emergencia. Es decir, la estrategia opuesta a la que seguía, de inhibir. La droga, el mitotano.
+        En esta etapa, estos eran los 2 desenlaces mortales que yo conocía; es decir, una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “una imagen focal hipoecoica de 4.1 mm en lóbulo lateral izquierdo”, junto con una inflamación general del órgano. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal (85,2 contra 65).
+        </P>
+        
+        <P>
+        Comentarios aparte, y tema que descubro ahora que reviso los resultados, también estaban altos el valor en sangre de VCM (83 contra 75), indicador de enfermedad del hígado, y el valor de CHCM (39 contra 36), indicador confuso para mí, que, a este nivel altísimo, podría significar que falló la medición, o algún tipo raro de anemia, o intoxicación con plomo, lo cual, para esto último, solo tendría sentido desde alguna negligencia superlativa durante la cirugía de esterilización. Este CHCM, coeficiente de concentración de hemoglobina en los glóbulos rojos, solo fue medido en mayo de 2021.
+        </P>
+        
+        <P>
+        Para el endocrinólogo esto era un indicio de metástasis y era el momento de pasar a la acción con un tratamiento agresivo del que hasta entonces no había hablado: una quimioterapia limpia y selectiva capaz de destruir las cortezas suprarrenales y la incipiente metástasis pero que volvería al animal dependiente de por vida del suministro externo de corticoides por vía oral, y de inyecciones en caso de emergencia; es decir, la estrategia opuesta a la que seguía, de inhibir. La droga, el mitotano.
         </P>
         
         <P>
@@ -209,7 +177,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'8'}> Cáncer tumoroso </div>
+        <div style={subtitleStyles} id={'7'}> Cáncer tumoroso </div>
 
         <P>
         Un tumor surge cuando muchas células sufren un daño en el ADN y fallan los mecanismos externos para su destrucción.
@@ -217,7 +185,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'9'}> La metástasis y el único tratamiento posible </div>
+        <div style={subtitleStyles} id={'8'}> La metástasis y el único tratamiento posible </div>
 
         <P>
         En agosto me mudé solo y ella quedó con mi madre y hermana menor. Me demoré 7 meses en volver a hacer sus estudios. Este es el segundo mayor de los errores propios.
@@ -257,7 +225,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'10'}> Mitotano sin trilostano </div>
+        <div style={subtitleStyles} id={'9'}> Mitotano sin trilostano </div>
 
         <P>
         El tratamiento empezó el domingo 6 de febrero de 2022. Y que sepa bien el lector: Fue un desastre retirarle el trilostano el día anterior al comienzo del tratamiento con mitotano. Se suponía que ambas drogas no se debían usar juntas porque ambas reducen la producción de corticoides y si la cantidad de corticoides baja mucho hay riesgo de muerte. La idea era ir bajando los corticoides en sangre gradualmente por efecto exclusivo del mitotano, que demoraría entre 3 y 5 días en causar una deficiencia notoria, ante la cual comenzaría la suplementación con corticoides sintéticos de vía oral: prednisolona en gotas (glucocorticoide) y acetato de fludrocortisona (mineralocorticoide y glucocorticoide a la vez). Y, en caso de emergencia, se usarían corticoides inyectables de acción inmediata: dexametasona (glucocorticoide) e hidrocortisona (mineralocorticoide y glucocorticoide a la vez).
@@ -289,7 +257,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'11'}> Mitotano con trilostano </div>
+        <div style={subtitleStyles} id={'10'}> Mitotano con trilostano </div>
 
         <P>
         Cuando íbamos 4 o 5 días de mitotano probé darle alguna dosis baja de trilostano porque el Cushing la estaba atormentando. Se ponía mejor de inmediato, en algo así como media hora, pero luego tenía problemas nocturnos de agitación y deambular de acá para allá, y lo suspendí.
@@ -313,7 +281,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'12'}> La crisis respiratoria y la radiografía </div>
+        <div style={subtitleStyles} id={'11'}> La crisis respiratoria y la radiografía </div>
 
         <P>
         El sábado 26 de febrero lo pasó conmigo. Al cerrar el día la dejé con mi madre para que tomara la última dosis del día de trilostano y mitotano. Trilostano consumía 7,5 mg por día en dos tomas y mitotano tomaba 400 mg en 3 tomas.
@@ -341,7 +309,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'13'}> El oncólogo </div>
+        <div style={subtitleStyles} id={'12'}> El oncólogo </div>
 
         <P>
         Quise saber si un oncólogo podía arrojarme algo de luz sobre el nuevo cuadro y sobre el tratamiento; preguntarle qué opinaba del mitotano y si se podía combinar con otro tratamiento. Siempre noté una resistencia del endocrinólogo a derivarme con un oncólogo pero esta vez, siendo tan directo, me dio un contacto. Como me demoraba 8 o 9 días, busqué por mi zona y conseguí uno para el día siguiente.
@@ -405,7 +373,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'14'}> Mitotano y trilostano </div>
+        <div style={subtitleStyles} id={'13'}> Mitotano y trilostano </div>
 
         <P>
         Para estos días entendí algo que también puede servirle al lector. Absolutamente todo lo que pude leer acerca del mitotano es anterior a la existencia del trilostano, y esto es bastante importante.
@@ -421,7 +389,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'15'}> Mudanza y aumentos de dosis </div>
+        <div style={subtitleStyles} id={'14'}> Mudanza y aumentos de dosis </div>
 
         <P>
         Cuando me mudé con ella el día 25 del tratamiento (2 de marzo), lo primero que quise hacer fue saber cuál era la tolerancia máxima de Ally al mitotano. Venía consumiendo 400 mg y este día lo subí a 500. Sobre el final del día, la noté con problemas de coordinación, como si estuviese ligeramente ebria. Aparte dejó una buena diarrea en la madrugada. También fue el primer día de antibióticos pero con el tiempo se vio que los antibióticos no le causaban diarrea. Me di cuenta que 450 mg diarios era el límite y que la droga no estaba adulterada o diluida (estos son los efectos secundarios característicos del mitotano).
@@ -441,14 +409,21 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'16'}> La fallida terapia de reemplazo de corticoides: viernes negro </div>
+
+
+
+
+
+
+
+        <div style={subtitleStyles} id={'15'}> La fallida terapia de reemplazo de corticoides: viernes negro </div>
 
         <P>
         Llegó entonces el que llamo viernes negro, el 18 de marzo de 2022. A media mañana, la noté dolorida al ponerse en 4 patas. Me pareció que no tenía fuerzas en las patas traseras o que le dolía el abdomen. Me preocupé por el hígado. Días después hubo otras 2 veces en que me pareció que le dolía el abdomen, teniendo mucho ruido de fluidos del lado derecho, y lo resolví de inmediato con 100 mg de paracetamol.
         </P>
         
         <P>
-        Mientras tanto, no entendía lo que pasaba pero me pareció una buena idea no darle comida y suspender el mitotano pero darle 5 mg de trilostano diluido en leche para evitar que volviera el Cushing, y esperar (estos 5 completan los 10 que mencioné antes). Acto seguido, decayó de otra manera. Ya no parecía dolorida sino débil, decaída, como estaba esperando que ocurriera por efecto de la quimioterapia y la deficiencia de corticoides.
+        Mientras tanto, no entendía lo que pasaba pero me pareció una buena idea no darle comida, suspender el mitotano pero darle 5 mg de trilostano diluido en leche para evitar que volviera el Cushing, y esperar (estos 5 mg completan los 10 que mencioné antes). Acto seguido, decayó de otra manera. Ya no parecía dolorida sino débil, decaída, caminaba lento y mirando el piso; más o menos como estaba esperando que ocurriera por efecto de la quimioterapia y la deficiencia de corticoides.
         </P>
         
         <P>
@@ -495,7 +470,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'17'}> Los caóticos 20 días finales </div>
+        <div style={subtitleStyles} id={'16'}> Los caóticos 20 días finales </div>
 
         <P>
         Sufrí mucho estos días no tener instrumentos de medición para saber lo que estaba pasando y tomar decisiones de inmediato, como sí le pasa al insulinodependiente con el glucómetro. Estuve cerca de comprar un tensiómetro para animales caro y de dudosa calidad pero los compradores estaban decepcionados con el tamaño del brazalete. Ally era caniche toy. Y los análisis de sangre y orina demoraban al menos 2 días.
@@ -515,7 +490,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'18'}> Glucocorticoides y mineralocorticoides </div>
+        <div style={subtitleStyles} id={'17'}> Glucocorticoides y mineralocorticoides </div>
 
         <P>
         Tengo una posible explicación a los problemas que tuvimos estas semanas. Me siento ridículo formulando tesis de trabajo de la ciencia médica siendo informático. Pero no es mi culpa, es el estado de la ciencia donde se pretende delegar completamente la salud en manos de un profesional que, si no sabe, se te muere el perro.
@@ -551,7 +526,7 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'19'}> La fallida terapia de reemplazo de corticoides: sábado negro </div>
+        <div style={subtitleStyles} id={'18'}> La fallida terapia de reemplazo de corticoides: sábado negro </div>
 
         <P>
         El sábado 19 de marzo la vi caminando muy temprano por el pasillo con la cabeza medio gacha. Me levanté y le di corticoides en leche. Al rato se vino a acostar conmigo totalmente recuperada. Fue otro motivo para afianzar la confusión. Mas bien se estaban cumpliendo 9 horas desde el último trilostano y 18 desde el último fludrocortisona.
@@ -559,7 +534,46 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'20'}> Metástasis cerebral que no era </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div style={subtitleStyles} id={'19'}> Metástasis cerebral que no era </div>
 
         <P>
         El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza gacha, redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides por sus funciones antiinflamatorias.
@@ -573,6 +587,37 @@ export default function Spanish() {
         El que me dijo dónde hacían tomografías fue el endocrinólogo también. Allí moriría el 6 de abril, el día 60 del tratamiento.
         </P>
 
+
+
+        <div style={subtitleStyles} id={'20'}> Los antibióticos </div>
+
+        <P>
+        De las cosas que nos quedó de la época sanguinaria de la Segunda Guerra Mundial es el uso indiscriminado de antibióticos. Envenenar un cuerpo entero con veneno para bacterias producido por los hongos es bastante parecido a bombardear una ciudad entera porque se metió una banda de narcotraficantes.
+        </P>
+        
+        <P>
+        Cuento algo que es muy difícil de hallar en los ámbitos académicos porque son investigaciones más o menos recientes y los profesionales están metidos en un sistema creado por ellos mismos que castiga el actualizarse y premia la práctica de las teorías obsoletas.
+        </P>
+        
+        <P>
+        En cada mucosa del cuerpo hay una relación de poder entre las bacterias y los hongos. La principal mucosa del cuerpo es la intestinal, de muchos metros cuadrados. Las bacterias están allí y el sistema inmunológico no las ataca porque cumplen esta función esencial: se atrinchera cada bacteria en su parcela, donde tiene hábitat, comida, agua, calor y oxígeno gratis, a cambio de que no permita la expansión de los hongos.
+        </P>
+        
+        <P>
+        Los hongos tampoco son destructivos, por eso las defensas del cuerpo no los atacan; pero la basura metabólica que generan sí es dañina, tóxica; mientras que la basura metabólica de las bacterias normales del cuerpo son inofensivas, y muchas de ellas también funcionan como neurotransmisores y ansiolíticos. Por eso es tan fuerte la correlación entre la salud intestinal y la socialización, el valor y el procesamiento del estrés, y es tan fuerte la correlación entre la mala salud intestinal y la cobardía, los trastornos de ansiedad social y el mal procesamiento del estrés.
+        </P>
+        
+        <P>
+        Cuando se bombardea una mucosa intestinal con antibióticos, se desequilibra la relación de poder. Muchas bacterias mueren y muchos hongos avanzan, ocupando posición. La diversidad y las cantidades de las bacterias se reducen, como se reducen las funciones que desempeñan. Y queda, en su lugar, una mala manera de procesar el estrés y la ansiedad, con pocos ansiolíticos y mucha intoxicación cada vez que se pasa por malos momentos, desde una tormenta eléctrica o la explosión de petardos hasta un simple estado de alerta y nerviosismo permanente.
+        </P>
+        
+        <P>
+        Puede pasar cualquier cosa. Es como bombardear una ciudad y nunca llegar a saber qué hubiesen logrado en la vida los que murieron.
+        </P>
+        
+        <P>
+        Chocando de frente contra todas las estadísticas y las investigaciones, los ignorantes no basilan en culpar a la genética y corren a los médicos para que les den muchos antibióticos. Y llevan a sus mascotas recién nacidas para envenenarlas para salvarlas de presuntas bacterias peligrosas, creyendo que la ciencia los avala.
+        </P>
 
 
         <div style={subtitleStyles} id={'21'}> La llamada rinitis alérgica </div>
@@ -782,11 +827,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        Y no es que me fíe del todo. Le hice una larga introducción indicándole qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia. Y hasta juraría que me mostró el tumor adrenal como una mancha blanca del lado equivocado del cuerpo, el izquierdo, donde el corazón golpea el pecho, donde el riñón no está elevado por efecto del hígado y donde están los tumores linfáticos. Y no me olvido de que el trilostano fue incapaz de apagar el último incendio. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Pero ya no importa.
+        Y no es que me fíe del todo. Le hice una larga introducción indicándole qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia. Y hasta juraría que me mostró el tumor adrenal como una mancha blanca del lado equivocado del cuerpo, el izquierdo, donde el corazón golpea el pecho, donde el riñón no está elevado por efecto del hígado y donde están los tumores linfáticos. Y no me olvido de que el trilostano fue incapaz de apagar el último incendio. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Y me acuerdo que él no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
         </P>
         
         <P>
-        Supongo que me voy a preguntar siempre si el estado era y siempre fue terminal, o si la muerte es el gran lavador de manos de los profesionales que institucionalizaron la mala praxis para su propia conveniencia. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales.
+        Supongo que me voy a preguntar siempre si el estado era y siempre fue terminal, o si la muerte es el gran lavador de manos de los profesionales que institucionalizaron la mala praxis para su propia conveniencia. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después.
         </P>
         
         <P>

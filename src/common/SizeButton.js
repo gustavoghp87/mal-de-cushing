@@ -1,9 +1,9 @@
 import styles from '../css/Home.module.css'
 import { PlusSquare, DashSquare } from 'react-bootstrap-icons'
+import { PropTypes } from 'prop-types'
 
-export const SizeButton = props => {
+export const SizeButton = ({ isDarkMode, isEnglish, isMobile }) => {
 
-    const { isDarkMode, isEnglish, isMobile } = props
     const textSize = window.localStorage.getItem('textSizeCushing')
     
     return (
@@ -56,4 +56,14 @@ export const SizeButton = props => {
         </div>
 
     )
+}
+
+SizeButton.propTypes = {
+    isEnglish: PropTypes.bool.isRequired,
+    isMobile: PropTypes.bool.isRequired,
+    isDarkMode: PropTypes.bool.isRequired
+}
+
+SizeButton.defaultProps = {
+    isDarkMode: true
 }

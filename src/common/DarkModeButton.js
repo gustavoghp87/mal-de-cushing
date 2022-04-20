@@ -1,8 +1,7 @@
 import styles from '../css/Home.module.css'
+import { PropTypes } from 'prop-types'
 
-export const DarkModeButton = props => {
-
-    const { isEnglish, isMobile, isDarkMode, setIsDarkModeHandler } = props
+export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeHandler }) => {
     
     return (
         <div
@@ -48,4 +47,15 @@ export const DarkModeButton = props => {
             
         </div>
     )
+}
+
+DarkModeButton.propTypes = {
+    isEnglish: PropTypes.bool.isRequired,
+    isMobile: PropTypes.bool.isRequired,
+    isDarkMode: PropTypes.bool.isRequired,
+    setIsDarkModeHandler: PropTypes.func.isRequired
+}
+
+DarkModeButton.defaultProps = {
+    isDarkMode: true
 }

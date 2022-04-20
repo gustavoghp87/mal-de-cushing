@@ -1,11 +1,8 @@
 import styles from '../css/Home.module.css'
-import { IndexComponent } from './IndexComponent'
-import { Modal, Button } from 'react-bootstrap'
+import { PropTypes } from 'prop-types'
 
-export const IndexButton = props => {
+export const IndexButton = ({ isEnglish, isMobile, isDarkMode, setShowIndexHandler }) => {
 
-    const { isEnglish, isMobile, isDarkMode, showIndex, setShowIndexHandler } = props
-    
     return (
     <>
         <div
@@ -26,31 +23,17 @@ export const IndexButton = props => {
             
         </div>
 
-
-        <Modal
-            show={showIndex}
-            onHide={() => setShowIndexHandler(false)}
-            
-        >
-
-            <Modal.Header closeButton className={isDarkMode ? 'bg-dark text-white' : ''}>
-                <Modal.Title> {isEnglish ? "Index" : "Índice"} </Modal.Title>
-            </Modal.Header>
-
-            <Modal.Body
-                className={isDarkMode ? 'bg-dark text-white' : ''}
-                onClick={() => setShowIndexHandler(false)}
-            >
-                <IndexComponent />
-            </Modal.Body>
-
-            <Modal.Footer className={isDarkMode ? 'bg-dark text-white' : ''}>
-                <Button variant={'danger'} onClick={() => setShowIndexHandler(false)}>
-                    {isEnglish ? "Close" : "Cerrar"}
-                </Button>
-            </Modal.Footer>
-        </Modal>
-
     </>
     )
+}
+
+IndexButton.propTypes = {
+    isEnglish: PropTypes.bool.isRequired,
+    isMobile: PropTypes.bool.isRequired,
+    isDarkMode: PropTypes.bool.isRequired,
+    setShowIndexHandler: PropTypes.func.isRequired
+}
+
+IndexButton.defaultProps = {
+    isDarkMode: true
 }

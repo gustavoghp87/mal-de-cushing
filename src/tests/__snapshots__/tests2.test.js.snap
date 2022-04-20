@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests 2 Title component should have not errors when is rendered 1`] = `
+<div
+  style={
+    Object {
+      "fontSize": "3.4rem",
+      "lineHeight": 1.15,
+      "margin": 0,
+      "textAlign": "center",
+    }
+  }
+>
+  Mal de Cushing en perros y tratamientos con trilostano y mitotano:
+  <br />
+  El caso de Ally
+</div>
+`;
