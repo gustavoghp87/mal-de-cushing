@@ -421,17 +421,10 @@ export default function Spanish() {
 
 
 
-
-
-
-
-
-
-
         <div style={subtitleStyles} id={'15'}> La fallida terapia de reemplazo de corticoides: viernes negro </div>
 
         <P>
-        Llegó entonces el que llamo viernes negro, el 18 de marzo de 2022. A media mañana, la noté dolorida al ponerse en 4 patas. Me pareció que no tenía fuerzas en las patas traseras o que le dolía el abdomen. Me preocupé por el hígado. Días después hubo otras 2 veces en que me pareció que le dolía el abdomen, teniendo mucho ruido de fluidos del lado derecho, y lo resolví de inmediato con 100 mg de paracetamol.
+        Llegó entonces el viernes 18 de marzo de 2022. A media mañana, la noté dolorida al ponerse en 4 patas. Me pareció que no tenía fuerzas en las patas traseras o que le dolía el abdomen. Me preocupé por el hígado. Días después hubo otras 2 veces en que me pareció que le dolía el abdomen, teniendo mucho ruido de fluidos del lado derecho, y lo resolví de inmediato con 100 mg de paracetamol.
         </P>
         
         <P>
@@ -439,11 +432,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        A la hora, me convencí de que me había equivocado al darle inhibidor de corticoides y usé por primera vez los corticoides sintéticos en dosis bajas: como 30 microgramos de fludrocortisona y 1 mg de prednisolona. No sé por qué pero mejoró de inmediato. Esto fue causa de gran confusión en los días siguientes porque ninguna de estas 2 drogas es de efecto inmediato. No asocié que el pobre texto que explicaba el tratamiento hablaba de inyecciones para casos de emergencia con una posible demora en el efecto de los productos.
+        A la hora, me convencí de que me había equivocado al darle inhibidor de corticoides y usé por primera vez los corticoides sintéticos en dosis bajas: como 30 microgramos de fludrocortisona y 1 mg de prednisolona; o sea, el 30% y el 50% respectivamente de la dosis diaria de reemplazo. No sé por qué pero mejoró de inmediato. Esta mejora fue causa de gran confusión en los días siguientes porque ninguna de estas 2 drogas es de efecto inmediato. El breve y pobre texto del endocrinólogo que explicaba el tratamiento hablaba de inyecciones para casos de emergencia, pero no lo asocié con una posible demora en el efecto de los productos de vía oral.
         </P>
         
         <P>
-        Creí que había llegado el momento de suplementar con corticoides cada 12 horas de por vida. O sea, que la inducción podía darse por terminada a efectos prácticos.
+        Creí que había llegado el momento de suplementar con corticoides cada 12 horas de por vida. O sea, que la inducción podía darse por terminada, a efectos prácticos.
         </P>
         
         <P>
@@ -839,15 +832,15 @@ export default function Spanish() {
         </P>
         
         <P>
-        Y no es que me fíe del todo. Le hice una larga introducción indicándole qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia. Y hasta juraría que me mostró el tumor adrenal como una mancha blanca, chata, del lado equivocado del cuerpo, el izquierdo, donde el corazón golpea el pecho, donde el riñón no está elevado por presión del hígado y donde sí están los tumores linfáticos. Y no me olvido de que el trilostano fue incapaz de apagar el último incendio. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Y me acuerdo que él no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
+        Y no es que me fíe del todo. Después de que le narrara lo que pasó en el centro del tomógrafo y cómo me impusieron la eutanasia apuntando a una gravedad extrema en las imágenes, le indiqué qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia: básicamente, mostrarme el tumor primario en las imágenes y decirme que la situación de los pulmones no le permitía seguir viviendo. No obstante, juraría que me mostró el tumor adrenal como una mancha blanca, chata, del lado equivocado del cuerpo, el izquierdo, donde el corazón golpea el pecho, donde el riñón no está elevado por presión del hígado y donde sí están los tumores linfáticos. Y no me olvido de que el trilostano fue incapaz de apagar el último incendio. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Y me acuerdo que no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
         </P>
         
         <P>
-        Supongo que me voy a preguntar siempre si el estado era y siempre fue terminal, o si la muerte es el gran lavador de manos de los profesionales que institucionalizaron la mala praxis para su propia conveniencia. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales. Supongo que si 17 mil mg de mitotano en 59 días no le hicieron ningún daño aparente a los tumores del hígado, no había manera de salvarla en definitiva. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después.
+        Seguramente que me voy a preguntar siempre si el estado era y siempre fue terminal, o si la muerte es el gran lavador de manos de los profesionales que institucionalizaron la mala praxis para su propia conveniencia. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales. Supongo que si 17 mil mg de mitotano en 59 días no le hicieron ningún daño aparente a los tumores del hígado, no había manera de salvarla en definitiva. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después.
         </P>
         
         <P>
-        Le estreché la mano y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no volver a verlo nunca.
+        Respecto al endocrinólogo, lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no volver a verlo nunca.
         </P>
 
 
