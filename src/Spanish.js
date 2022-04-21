@@ -148,11 +148,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        En esta etapa, estos eran los 2 desenlaces mortales que yo conocía; es decir, una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “una imagen focal hipoecoica de 4.1 mm en lóbulo lateral izquierdo”, junto con una inflamación general del órgano. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal (85,2 contra 65).
-        </P>
-        
-        <P>
-        Comentarios aparte, y tema que descubro ahora que reviso los resultados, también estaban altos el valor en sangre de VCM (83 contra 75), indicador de enfermedad del hígado, y el valor de CHCM (39 contra 36), indicador confuso para mí, que, a este nivel altísimo, podría significar que falló la medición, o algún tipo raro de anemia, o intoxicación con plomo, lo cual, para esto último, solo tendría sentido desde alguna negligencia superlativa durante la cirugía de esterilización. Este CHCM, coeficiente de concentración de hemoglobina en los glóbulos rojos, solo fue medido en mayo de 2021.
+        En esta etapa, estos eran los 2 desenlaces mortales que yo conocía; es decir, una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “una imagen focal hipoecoica de 4.1 mm en lóbulo lateral izquierdo”, junto con una inflamación general del órgano. Descubro ahora que reviso los resultados, también estaba alto el valor en sangre de VCM (83 contra 75), indicador de enfermedad del hígado. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal (85,2 contra 65).
         </P>
         
         <P>
@@ -164,7 +160,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Cuando llegaron tiempos difíciles, recordar que este profesional me recomendó esto a tiempo me sirvió para fiarme más de él que de los demás. No obstante, hacer esto parecía demasiado. Recuerdo haber buscado dónde hacer una tomografía para saber si realmente se trataba de una metástasis pero no encontré. Y la idea de anestesiarla para tomarle una biopsia del hígado con ecógrafo me espantó. Encima, las ecografías indicaban que el tumor primario se había reducido un poco y que la invasión de la vena cava inferior también se había reducido. Ella estaba en su mejor momento. Quise pensar que no pasaría nada. Luego vinieron meses muy intensos para mí, que los compartí a pleno con ella.
+        Cuando llegaron tiempos difíciles, recordar que este profesional me recomendó esto a tiempo me sirvió para fiarme más de él que de los demás. No obstante, hacer esto parecía demasiado. Recuerdo haber buscado dónde hacer una tomografía para saber si realmente se trataba de una metástasis pero no encontré. Y la idea de anestesiarla para tomarle una biopsia del hígado con ecógrafo me espantó. Encima, las ecografías indicaban que el tumor primario se había reducido un poco y que la invasión de la vena cava inferior también se había reducido. Todos los demás indicadores estaban bien, y ella estaba en su mejor momento. Quise pensar que no pasaría nada. Luego vinieron meses muy intensos para mí, que los compartí a pleno con ella.
         </P>
         
         <P>
@@ -175,12 +171,40 @@ export default function Spanish() {
         No creo haberme equivocado en esto pero hubo un error mortal desde este mayo de 2021 porque el análisis de orina dio una relación cortisol/creatinina más alta de lo normal. El cortisol es la hormona corticoide característica del estrés y debilita el sistema inmunológico. No le presté atención. Creí que esa medición surgía de la sangre y que daba alta porque tomábamos las muestras con 14 horas de ayunas y antes de tomar el trilostano de la mañana, por el horario en que atienden en la veterinaria, y con Ally temblando por el miedo a los veterinarios. En realidad solo recordé este asunto ahora mismo al revisar los papeles para escribir esto. Este es el peor error de todos.
         </P>
 
+        <P>
+        Con los parámetros estudiados en orden (que no lo estaban), la mancha de 4 milímetros en la ecografía del hígado tenía que ser otra cosa.
+        </P>
+
 
 
         <div style={subtitleStyles} id={'7'}> Cáncer tumoroso </div>
 
         <P>
-        Un tumor surge cuando muchas células sufren un daño en el ADN y fallan los mecanismos externos para su destrucción.
+        Sigue un paréntesis con resultados de investigaciones mías recientes, de poco más de un año.
+        </P>
+
+        <P>
+        Un tumor surge cuando muchas células sufren un daño en el ADN y fallan los mecanismos externos para su destrucción. La causa fundamental de que fallen los mecanismos externos para el aniquilamiento de las células cancerígenas es algún tipo de inmunodepresión, donde los 2 favoritos de la sociedad industrializada son los causados por la dieta de carbohidratos industriales desproporcionada y la destrucción de la biodiversidad bacteriana en el intestino por antibióticos, alcohol, conservantes, edulcorantes y emulsionantes. 
+        </P>
+
+        <P>
+        Estas mismas causas también provocan la acidificación de los órganos y la alcalinización de la sangre; o sea, bajan el PH dentro de los órganos y suben el de la sangre, generando el clima ideal para la incubación de los tumores.
+        </P>
+
+        <P>
+        Toda célula cancerígena tiene atrofiados los mecanismos para generar combustión usando glucosa, aminoácido o grasa, más agua y oxígeno. Lo que hace para sobrevivir es tomar solamente glucosa y fermentarla. Es lo que le permite sobrevivir con poco oxígeno, en un ambiente ácido. Pero el proceso de generación de energía por fermentación es muy ineficiente en comparación con la combustión con oxígeno y por eso la célula cancerígena consume grandes cantidades de glucosa. La dieta pobre en carbohidratos termina siendo, así, imprescindible para una lucha contra el cáncer.
+        </P>
+
+        <P>
+        No obstante, la elevación de las concentraciones en sangre de las hormonas del estrés hace que el hígado se ponga a generar glucosa a partir de aminoácidos, sea de los comidos si alcanzan, o tomados de la propia masa muscular. Así, un cuerpo estresado alimenta a los tumores hasta la saciedad.
+        </P>
+
+        <P>
+        Las células cancerígenas son atacadas y destruidas por los macrófagos, células semejantes a los glóbulos blancos pero bastante más grandes. La buena presencia de macrófagos en la sangre depende, en sentido práctico, de la abundancia de vitamina D, que es la del sol y el pescado.
+        </P>
+
+        <P>
+        La diferencia entre un tumor "benigno" y otro "maligno" no depende del tumor en sí sino de lo que el sistema inmunológico le permita hacer. Un tumor pasa a "maligno" y ataca a los demás órganos y sistemas solamente cuando las defensas del cuerpo se lo permiten. El principal medio para el contagio de los demás órganos es el sistema linfático, donde no hay macrófagos defensivos. Las cañerías del sistema linfático se inflaman lo suficiente como para dejar pasar células del cáncer solamente cuando hay niveles importantes de hormonas de estrés en la sangre.
         </P>
 
 
@@ -188,7 +212,7 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'8'}> La metástasis y el único tratamiento posible </div>
 
         <P>
-        En agosto me mudé solo y ella quedó con mi madre y hermana menor. Me demoré 7 meses en volver a hacer sus estudios. Este es el segundo mayor de los errores propios.
+        En agosto me mudé solo y ella quedó con mi madre y hermana menor. La veía siempre pero me demoré 7 meses en volver a hacer sus estudios. Este es el segundo mayor de los errores propios.
         </P>
         
         <P>
@@ -196,11 +220,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        En enero de 2022, la ecografía reveló “múltiples lesiones focales, algunas hipoecoicas, otras heterogéneas, con diámetros desiguales de 1,5 a 2 cm diseminadas en todos los lóbulos hepáticos”. No hice estudios de cortisol en orina. El análisis de sangre dio alto en enfermedad hepática. Tarde pero era hora de suspenderlo todo y ocuparse solamente de ella para intentar salvarla.
+        En enero de 2022, la ecografía reveló “múltiples lesiones focales, algunas hipoecoicas, otras heterogéneas, con diámetros desiguales de 1,5 a 2 cm diseminadas en todos los lóbulos hepáticos”. No hice estudios de cortisol en orina. Y el análisis de sangre dio alto en enfermedad hepática (GPT-ALT y GOT-AST). Tarde pero era hora de suspenderlo todo y ocuparse solamente de ella para intentar salvarla.
         </P>
         
         <P>
-        Nunca supe por qué esta ecografía doppler no me reveló la naturaleza de la bolita que se sentía del lado izquierdo. Lo supe cuando tuve la tomografía de abril 2022 con Ally ya muerta. Antes de hacerle la ecografía, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. Pero se trataba de tumores metastásicos del sistema linfático y había 5 o 6. Un problema secundario en comparación. Lo raro es que la ecografía diga: “Linfonódulos: no se observan”.
+        Nunca supe por qué esta ecografía doppler no me reveló la naturaleza de la bolita que se sentía del lado izquierdo. Lo supe cuando tuve la tomografía de abril 2022 con Ally ya muerta. Antes de hacerle la ecografía, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. Pero se trataba de tumores metastásicos del sistema linfático y había 5 o 6, de como medio centímetro de diámetro. Un problema secundario en comparación. Lo raro es que la ecografía diga: “Linfonódulos: no se observan”.
         </P>
         
         <P>
@@ -208,7 +232,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Siempre tuve presente el conflicto de intereses que había cuando el profesional que hacía el tratamiento era el mismo que me vendía las drogas. Pero no parecía tener opción, y él tenía a su favor lo que me recomendó en mayo y yo desoí.
+        Siempre tuve presente el conflicto de intereses que había cuando el profesional que hacía el tratamiento era el mismo que me vendía las drogas. Pero no parecía tener opción, y él tenía a su favor que me recomendó esto en mayo y yo no quise.
         </P>
         
         <P>
@@ -216,11 +240,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Como esto es para el aprendizaje del lector, que lo lea bien: El profesional recomendó una tomografía. Yo me rehusé porque es con sedación total y no creí que me aportaría nada relevante para esa etapa. Y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que si no le hacía la tomografía al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar.
-        </P>
-        
-        <P>
-        No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores en forma de globos.
+        Como esto es para el aprendizaje del lector, que lo lea bien: El profesional recomendó una tomografía de abodómen y tórax. Yo me rehusé porque son con sedación total y no creí que me aportaría nada relevante para esa etapa. Y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que si no le hacía la tomografía al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar. No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores en forma de globos.
         </P>
 
 
@@ -268,15 +288,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Me decidí a darle trilostano diario, aunque fuera poco, atento de que llegara el momento de quitarlo y luego de completar la inducción. El endocrinólogo me dio la derecha y se dedicó desde entonces a observar más que a dirigir.
-        </P>
-        
-        <P>
-        Yo no le pasé factura por este desastre. Decidí tomar de él lo que de él me sirviese, y buscar las otras respuestas en otros lugares. Lo traté casi como a un par, alguien que escuchaba mis razonamientos y mis preocupaciones y cada tanto hacía algún comentario. Tenía en esos días, como tengo ahora, la sensación de que él el tratamiento lo conocía solo a nivel teórico, sin práctica clínica, y que lo que sabía era por meros apuntes universitarios.
-        </P>
-        
-        <P>
-        Notará el lector que no comparto la reverencia popular por los egresados de la sacrosanta Universidad de Buenos Aires. Pero no por eso trato mal a la gente.
+        Me decidí a darle trilostano diario, aunque fuera poco, atento de que llegara el momento de quitarlo y luego de completar la inducción. El endocrinólogo me dio la derecha y se dedicó desde entonces a observar, más que a dirigir. No le pasé factura por este desastre. Decidí tomar de él lo que de él me sirviese, y buscar las otras respuestas en otros lugares. Lo traté casi como a un par, alguien que escuchaba mis razonamientos y mis preocupaciones y que cada tanto hacía algún comentario. Tenía en esos días, como tengo ahora, la sensación de que él el tratamiento lo conocía solo a nivel teórico, sin práctica clínica, y que lo que sabía era por meros apuntes universitarios.
         </P>
 
 
@@ -396,7 +408,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        También comencé a aumentar un poco la dosis de trilostano para reducir la deshidratación y combatir la infección urinaria. Me instalaba allí para asumir personalmente la problemática de reducirle el apetito y aun así darle 450 mg de mitotano al día. Pasé gradualmente de 7,5 mg a 20 mg diarios en 5 días. Recordar que pesaba 3,5 kg con grasa visceral y pérdida de musculatura. Se puso muy bien de los signos del Cushing y la infección pero, acto seguido, comencé a reducir rápidamente la dosis porque, con el apetito normalizado, cada vez me costaba más que comiera con el mitotano dentro de la comida.
+        También comencé a aumentar un poco la dosis de trilostano para reducir la deshidratación y combatir la infección urinaria. Me instalaba allí para asumir personalmente la problemática de reducirle el apetito y aun así darle 450 mg de mitotano al día en 3 comidas. Pasé gradualmente de 7,5 mg a 20 mg diarios en 5 días. Recordar que pesaba 3,5 kg con grasa visceral y pérdida de musculatura. Se puso muy bien de los signos del Cushing y la infección pero, acto seguido, comencé a reducir rápidamente la dosis porque, con el apetito normalizado, cada vez me costaba más que comiera con el mitotano dentro de la comida.
         </P>
         
         <P>
@@ -404,7 +416,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        El día 35 se desató una crisis de emisión de fluidos infecciosos como no se había visto antes; la noche anterior la había llevado a una reunión familiar. Volví a introducir trilostano, ahora de forma racionada porque ya casi no me quedaba y tenía que esperar unos días para volver a conseguir; usé como 4 mg al día. Se deterioró rápido. Mucho Cushing: hambre, sed, fluidos infecciosos. Cuando compré de nuevo, el día 38, introduje 15 mg las primeras 24 hs, 12 las siguientes y 10 las siguientes.
+        El día 35 se desató una crisis de emisión de fluidos infecciosos como no se había visto antes. La noche anterior la había llevado a una reunión familiar. Volví a introducir trilostano, ahora de forma racionada porque ya casi no me quedaba y tenía que esperar unos días para volver a conseguir; usé como 4 mg al día. Se deterioró rápido. Mucho Cushing: hambre, sed, fluidos infecciosos. Cuando compré de nuevo, el día 38, introduje 15 mg las primeras 24 hs, 12 las siguientes y 10 las siguientes.
         </P>
 
 
@@ -823,15 +835,15 @@ export default function Spanish() {
         </P>
         
         <P>
-        Lo de él no era novedad. Siempre creyó que era terminal, solo que nunca quiso detenerme. Como es investigador, le pareció interesante seguirme la corriente para ver qué lograba. Me di cuenta de esto en todo momento, aunque nunca me importó. Tan investigador es que el día de la muerte me pidió autorización para hacer una biopsia al cadáver, pocos minutos después de la muerte.
+        Lo de él no era novedad. Siempre creyó que era terminal, solo que nunca quiso detenerme. Como es investigador, le pareció interesante seguirme la corriente para ver qué lograba yo. Me di cuenta de esto en todo momento, aunque nunca me importó. Por cierto, tan investigador es que el día de la muerte me pidió autorización para hacer una biopsia al cadáver, pocos minutos después de la muerte.
         </P>
         
         <P>
-        Y no es que me fíe del todo. Le hice una larga introducción indicándole qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia. Y hasta juraría que me mostró el tumor adrenal como una mancha blanca del lado equivocado del cuerpo, el izquierdo, donde el corazón golpea el pecho, donde el riñón no está elevado por efecto del hígado y donde están los tumores linfáticos. Y no me olvido de que el trilostano fue incapaz de apagar el último incendio. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Y me acuerdo que él no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
+        Y no es que me fíe del todo. Le hice una larga introducción indicándole qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia. Y hasta juraría que me mostró el tumor adrenal como una mancha blanca, chata, del lado equivocado del cuerpo, el izquierdo, donde el corazón golpea el pecho, donde el riñón no está elevado por presión del hígado y donde sí están los tumores linfáticos. Y no me olvido de que el trilostano fue incapaz de apagar el último incendio. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Y me acuerdo que él no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
         </P>
         
         <P>
-        Supongo que me voy a preguntar siempre si el estado era y siempre fue terminal, o si la muerte es el gran lavador de manos de los profesionales que institucionalizaron la mala praxis para su propia conveniencia. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después.
+        Supongo que me voy a preguntar siempre si el estado era y siempre fue terminal, o si la muerte es el gran lavador de manos de los profesionales que institucionalizaron la mala praxis para su propia conveniencia. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales. Supongo que si 17 mil mg de mitotano en 59 días no le hicieron ningún daño aparente a los tumores del hígado, no había manera de salvarla en definitiva. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después.
         </P>
         
         <P>
@@ -863,7 +875,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Las 3 metas se logran con un sistema de defensas fuerte, que incluye evitar los carbohidratos, los antibióticos y el estrés y mantener bajos los niveles de cortisol. Puede ser bueno alcalinizar el cuerpo con dosis de bicarbonato de sodio, potasio y magnesio y fortalecer el sistema inmunológico con vitamina d3.
+        Las 3 metas se logran con un sistema de defensas fuerte, que incluye evitar los carbohidratos, los antibióticos y el estrés y mantener bajos los niveles de cortisol. Puede ser bueno alcalinizar el cuerpo con dosis de bicarbonato de sodio, potasio y magnesio y fortalecer el sistema inmunológico con vitamina D3.
         </P>
         
         <P>
@@ -871,7 +883,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        En caso de metástasis, se ataca inmediatamente con mitotano. Si hay metástasis importantes, mantener una dosis de trilostano mientras se avanza. Pero en todos los casos hay que tener inyecciones de hidrocortisona a mano para usar si viene una crisis.
+        En caso de metástasis, se ataca inmediatamente con mitotano. Si hay metástasis importantes, mantener una dosis de trilostano mientras se avanza. Pero en todos los casos hay que tener inyecciones de hidrocortisona/dexametasona a mano para usar si viene una crisis.
         </P>
         
         <P>
@@ -891,7 +903,8 @@ export default function Spanish() {
         </P>
 
         <P>
-        La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la narré.
+        La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré.
         </P>
+
     </div>)
 }
