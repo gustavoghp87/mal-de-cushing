@@ -1,7 +1,7 @@
 import { Modal, Button } from 'react-bootstrap'
 import { PropTypes } from 'prop-types'
 
-export const IndexModal = ({ isEnglish, isMobile, isDarkMode, showIndex, setShowIndexHandler }) => {
+export const IndexModal = ({ isEnglish, isDarkMode, showIndex, setShowIndexHandler }) => {
     
     const IndexComponent = () => {
 
@@ -49,7 +49,6 @@ export const IndexModal = ({ isEnglish, isMobile, isDarkMode, showIndex, setShow
 
 IndexModal.propTypes = {
     isEnglish: PropTypes.bool.isRequired,
-    isMobile: PropTypes.bool.isRequired,
     isDarkMode: PropTypes.bool.isRequired,
     showIndex: PropTypes.bool.isRequired,
     setShowIndexHandler: PropTypes.func.isRequired

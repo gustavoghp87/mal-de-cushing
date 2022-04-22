@@ -1,5 +1,4 @@
-import styles from './css/Home.module.css'
-import { P, subtitleStyles } from './css/styles'
+import { P, subtitleStyles, pItems } from './css/styles'
 
 export default function Spanish() {
 
@@ -443,18 +442,18 @@ export default function Spanish() {
         Con ella en bienestar, los corticoides sintéticos consumidos al mediodía y la falsa idea de que ya no dependería de la glándula tumorosa, esa noche quise darle 150 mg de mitotano. No tenía demasiado apetito y solo iba a comer si no encontraba drogas dentro de la comida. Quise triturar el mitotano y meterlo en la carne. Comió la mitad pero le hizo muy mal. Fue la primera de 5 crisis, todas en marzo (18, 19, 20, 24, 30), que tuvieron estas características:
         </P>
         
-        <div className={styles.pItems}>
-            <p>
+        <div style={ pItems }>
+            <P>
             -caminaba lento con la cabeza totalmente hacia abajo;
-            </p>
+            </P>
             
-            <p>
+            <P>
             -al querer beber agua temblaba frente al plato, como no pudiendo con impotencia, para luego beber sumergiendo la nariz en el agua, con las consecuentes molestias por el agua ingresada en las vías respiratorias;
-            </p>
+            </P>
             
-            <p>
+            <P>
             -si le ofrecíamos comida, comía.
-            </p>
+            </P>
         </div>
 
         <P>
@@ -667,26 +666,26 @@ export default function Spanish() {
         Por eso las 5 cosas que yo le pedía a la tomografía eran estas:
         </P>
         
-        <div className={styles.pItems}>
-            <p>
+        <div style={ pItems }>
+            <P>
                 -tumor primario destruido
-            </p>
+            </P>
             
-            <p>
+            <P>
                 -ausencia de tumores en el cráneo
-            </p>
+            </P>
             
-            <p>
+            <P>
                 -ausencia de tumores linfáticos en la zona de la garganta
-            </p>
+            </P>
             
-            <p>
+            <P>
                 -explicación optimista a las masas que asomaban del lado izquierdo
-            </p>
+            </P>
             
-            <p>
+            <P>
                 -alguna reducción de los secundarios, o al menos que no hubiesen avanzado
-            </p>
+            </P>
         </div>
         
         <P>
@@ -710,11 +709,7 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'23'}> El estudio y la eutanasia </div>
 
         <P>
-        25 minutos después me la devolvieron, mientras se despertaba. La levantamos. Me dieron un CD con las imágenes y parecía que nos íbamos.
-        </P>
-        
-        <P>
-        Había algo raro en su mueca, la manera de poner la boca y la mirada perdida. La apoyamos en la mesa y la vimos hacer fuerza para respirar. Pedí ayuda y mencioné que tal vez necesitase corticoides por su condición. No me prestaron atención; creyeron que exageraba.
+        25 minutos después me la devolvieron, mientras se despertaba. La levantamos. Me dieron un CD con las imágenes y parecía que nos íbamos.Pero había algo raro en su mueca, la manera de poner la boca y la mirada perdida. La apoyamos en la mesa y la vimos hacer fuerza para respirar. Pedí ayuda y mencioné que tal vez necesitase corticoides por su condición. No me prestaron atención; creyeron que exageraba.
         </P>
         
         <P>
@@ -722,55 +717,39 @@ export default function Spanish() {
         </P>
         
         <P>
-        Volví a explicar la condición pero nadie quería darle corticoides. Yo tenía una ampolla de glucocorticoides en la mochila y una jeringa. No tenía mineralocorticoides inyectables. Ni tampoco el valor para usar el otro por mi cuenta.
+        Volví a explicar la condición pero nadie quería darle corticoides. Yo tenía una ampolla de glucocorticoides en la mochila y una jeringa. No tenía mineralocorticoides inyectables; ni tampoco el valor para usar la ampolla por mi cuenta.
         </P>
         
         <P>
-        Como boxeador, recibí un gran golpe que me preparó para el KO por parte del encargado de la sala de shock, que creo que era cirujano. Cuando le dije que ella no producía corticoides y después agregué que en lo que iba del día no le había dado corticoides porque había tenido signos de Cushing, preguntó si tenía Cushing o si no producía corticoides. La respuesta era muy sencilla: tenía Cushing por el suministro externo de una dosis incorrectamente alta. Pero me costó unos segundos poder decirle eso. La verdad que apartó la mirada al decirlo. No me creía. Es más, me estaba descalificando. Quería imponerse sobre mí y hacer prevalecer su voluntad eutanasiadora.
+        Recibí ahí un gran golpe que me preparó para el KO por parte del encargado de la sala de shock, que creo que era cirujano. Cuando le dije que ella no producía corticoides y después agregué que en lo que iba del día no le había dado corticoides porque había tenido signos de Cushing alto, preguntó si tenía Cushing o si no producía corticoides, como si hubiese una contradicción muy evidente en mi relato. La respuesta era muy sencilla: tenía Cushing por el suministro externo de una dosis incorrectamente alta. Pero me costó unos segundos poder decirle eso. La verdad que apartó la mirada al decirlo. No me creía. Es más, me estaba descalificando. Quería imponerse sobre mí y hacer prevalecer su voluntad eutanasiadora. Por supuesto que él no conocía el mitotano pero preguntó si le había hecho cirugía de remoción de adrenales. Expliqué que no porque ya era inoperable cuando estuvo el diagnóstico y le mencioné el asunto de la vena cava inferior.
         </P>
         
         <P>
-        El encargado de la sala se fue un momento. Cuando volvió dijo haber visto la tomografía, que el estado de los pulmones era extremadamente malo y de que era el momento de dejarla ir con una inyección letal. Intenté explicarle que el estado de los pulmones era extremadamente malo desde diciembre y que, no obstante, respiraba todos los días. Y que, de hecho, había entrado a la clínica caminando. Que los sedantes y la situación la habían metido en una crisis y necesitaba llevármela. Pero la mojó a los costados y le puso un ecógrafo para mostrarme que había tumores muy grandes. (El más grande tenía 18 milímetros, supe al día siguiente.)
+        Se fue un momento. Cuando volvió dijo haber visto la tomografía, que el estado de los pulmones era extremadamente malo y de que era el momento de dejarla ir con una inyección letal. Intenté explicarle que el estado de los pulmones era extremadamente malo hacía meses y que, no obstante, respiraba todos los días. Y que, de hecho, había entrado a la clínica caminando. Que los sedantes y la situación la habían metido en una crisis y necesitaba llevármela. Pero la mojó a los costados y le puso un ecógrafo para mostrarme que había tumores muy grandes. El más grande tenía 18 milímetros, supe al día siguiente.
         </P>
         
         <P>
-        Dijo que el pulmón derecho ya casi no tenía espacio propio y que el otro estaba en parte tomado también, y que así no podía vivir. Le pregunté si había visto el hígado y me dijo que sí, que el tumor suprarrenal estaba ahí invadiendo la vena cava inferior y que “todo el abdomen era un gran tumor”. Me retiró la mirada cuando lo decía. Me pregunté si solamente estaba repitiendo lo que recordaba de lo que le dije antes sobre por qué no le había hecho cirugía para remover el primario.
+        Redobló la apuesta diciendo que el pulmón derecho ya casi no tenía espacio propio y que el otro estaba en parte tomado también, y que así no podía vivir. Le pregunté si había visto el hígado y me dijo que sí, que el tumor suprarrenal estaba ahí invadiendo la vena cava inferior y que “todo el abdomen era un gran tumor”. Me retiró la mirada cuando lo decía. Me pregunté si solamente estaba repitiendo lo que recordaba de lo que le dije antes sobre por qué no le había hecho cirugía para remover el primario.
         </P>
         
         <P>
-        Quise insistir para que la sacaran de la crisis con corticoides porque era sin duda lo que necesitaba para respirar bien, pero para ellos yo tenía que aprovechar la oportunidad de quitarle la vida de manera ordenada y sin dolor en vez de llevármela para que después tuviese una crisis peor en mi casa, algunos días después. O sea que no había disentimiento en la causa de la crisis pero sí una imposición de ejecutar una eutanasia allí mismo.
+        Quise insistir para que la sacaran de la crisis con corticoides porque era sin duda lo que necesitaba para respirar bien, pero para ellos yo tenía que aprovechar la oportunidad de quitarle la vida de manera ordenada y sin dolor en vez de llevármela para que después tuviese una crisis peor en mi casa, algunos días después. O sea que, ahora, no había disentimiento en la causa de la crisis pero sí una imposición de ejecutar una eutanasia allí mismo.
         </P>
         
         <P>
-        No atiné a llamar al endocrinólogo, quien días después diría que “sedantes con corticoides y un diurético la hubieran sacado de la crisis”. Tampoco tuve la rebeldía de usar la ampolla por mi cuenta o de mirar la tomografía en la computadora de la otra sala.
+        No atiné a llamar al endocrinólogo, quien días después diría que “sedantes con corticoides y un diurético la hubieran sacado de la crisis”. Tampoco tuve la rebeldía de usar la ampolla por mi cuenta o de mirar la tomografía en la computadora de la otra sala. Lo que dijo el encargado de la sala de shock me hizo creer que el tratamiento nunca funcionó, y que quizás nos habíamos precipitado al aceptar sin más que los tumores eran metástasis adrenales; en fin, que había hecho todo mal y solamente estaba haciendo sufrir a mi perra.
         </P>
         
         <P>
-        Me siguieron atormentando para que aceptara una eutanasia con distintos argumentos, mencionando lo terrible de los resultados y las virtudes humanísticas de hacerlo. Se turnaban para taladrarme la cabeza. Ally esforzándose por respirar me desmoralizaba más a cada minuto.
+        Me siguieron atormentando para que aceptara una eutanasia con distintos argumentos, mencionando lo terrible de los resultados en las imágenes y las virtudes humanísticas de hacerlo. Se turnaban los distintos empleados para taladrarme la cabeza. Ally esforzándose por respirar me desmoralizaba más a cada minuto. Mi hermana se cansó de mí, me gritó, me insultó y salió para llamar a mi madre para que viniese. Fue el golpe final para mí. No volví a pensar en los corticoides. Pedí que le dieran más sedante hasta que llegara mi madre, mientras le sostenía la manguera de oxígeno frente a la boca. Cada vez la sedaban menos, seguramente para no matarla sin autorización.
         </P>
         
         <P>
-        Mi hermana se cansó de mí, me gritó, me insultó y salió para llamar a mi madre para que viniese. Fue el golpe final para mí. No volví a pensar en los corticoides hasta el día siguiente, cuando leí el informe y miré las imágenes de la tomografía.
+        En 30 minutos llegó mi madre y no dudó en aceptar. Para entonces yo estaba vencido y apuré a la gente para que lo hicieran cuanto antes. Firmé la eutanasia apoyando la cabeza sobre Ally porque no quería que me alejara de ella. Fue un alivio después de dos horas de verla esforzarse por respirar. Fueron 2 horas desde que me la devolvieron. Me fui con el aplastamiento de quien lleva a su mascota amada a un estudio, esperanzado, pero lo obligan a matarla, como si de una oportunidad única se tratase.
         </P>
         
         <P>
-        Pedí que le dieran más sedante, y le sostenía la manguera de oxígeno frente a la boca. Cada vez la sedaban menos, seguramente para no matarla sin autorización.
-        </P>
-        
-        <P>
-        En 30 minutos llegó mi madre y no dudó en aceptar. Para entonces yo estaba vencido y apuré a la gente para que lo hicieran cuanto antes. Firmé la eutanasia apoyando la cabeza sobre Ally porque no quería que me alejara de ella. Fue un alivio después de dos horas de verla esforzarse por respirar.
-        </P>
-        
-        <P>
-        Fueron 2 horas desde que me la devolvieron. Me fui con el aplastamiento de quien lleva a su mascota amada a un estudio, esperanzado, pero lo obligan a matarla, como si de una oportunidad única se tratase.
-        </P>
-        
-        <P>
-        Los veterinarios en la clínica del tomógrafo no sabían qué tipo de cáncer tenía, no sabían qué tratamiento estaba haciendo, no sabían cuál era el punto de partida sobre el cual comparar la situación y no sabían si yo soy un desquiciado que no sabía desprenderse de su perro terminal o si soy en realidad un desquiciado que sí sabía lo que estaba haciendo y no tenían que meterse al nivel de hacer prevalecer su voluntad por sobre la mía.
-        </P>
-        
-        <P>
-        Y, por cierto, la voluntad de Ally era irse de ahí, a su casa, lejos de esa gente, si vamos a hablar de voluntades.
+        Los veterinarios en la clínica del tomógrafo no sabían qué tipo de cáncer tenía, no sabían qué tratamiento estaba haciendo, no sabían cuál era el punto de partida sobre el cual comparar la situación y no sabían si yo soy un desquiciado que no sabía desprenderse de su perro terminal o si soy en realidad un desquiciado que sí sabía lo que estaba haciendo, y no tenían que meterse al nivel de hacer prevalecer su voluntad por sobre la mía. Y, por cierto, la voluntad de Ally era irse de ahí, a su casa, lejos de esa gente, si vamos a hablar de voluntades.
         </P>
 
 
@@ -786,34 +765,12 @@ export default function Spanish() {
         </P>
         
         <P>
-        Era hora de mirar las imágenes. Nunca había visto una tomografía computada. Miré mucho tratando de determinar si había empeorado o mejorado desde los estudios anteriores. Anduve 2 días envenenado por no poder encontrar en las imágenes el tumor primario (que es muy notorio en la radiografía de febrero) ni la invasión de la vena cava.
+        Era hora de mirar las imágenes. Nunca había visto una tomografía computada. Miré mucho tratando de determinar si había empeorado o mejorado desde los estudios anteriores. Anduve 2 días envenenado por no poder encontrar en las imágenes el tumor primario (que es muy notorio en la radiografía de febrero) ni la invasión de la vena cava inferior.
         </P>
         
         <P>
-        Respecto a las 5 cosas que yo necesitaba de la tomografía, las primeras 4 parecían cumplirse a mis ojos y quizás la última también:
+        Respecto a las 5 cosas que yo necesitaba de la tomografía, las primeras 4 parecían cumplirse a mis ojos y quizás la última también: tumor primario destruido, ausencia de tumores en el cráneo, ausencia de tumores linfáticos en la zona de la garganta, explicación optimista a las masas que asomaban del lado izquierdo, alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
         </P>
-
-        <div className={styles.pItems}>
-            <p>
-                -tumor primario destruido
-            </p>
-
-            <p>
-                -ausencia de tumores en el cráneo
-            </p>
-
-            <p>
-                -ausencia de tumores linfáticos en la zona de la garganta
-            </p>
-
-            <p>
-                -explicación optimista a las masas que asomaban del lado izquierdo
-            </p>
-
-            <p>
-                -alguna reducción de los secundarios, o al menos que no hubiesen avanzado
-            </p>
-        </div>
 
 
 
@@ -828,7 +785,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Lo de él no era novedad. Siempre creyó que era terminal, solo que nunca quiso detenerme. Como es investigador, le pareció interesante seguirme la corriente para ver qué lograba yo. Me di cuenta de esto en todo momento, aunque nunca me importó. Por cierto, tan investigador es que el día de la muerte me pidió autorización para hacer una biopsia al cadáver, pocos minutos después de la muerte.
+        Lo de él no era novedad. Siempre creyó que era terminal, solo que nunca quiso detenerme. Como es investigador, le pareció interesante seguirme la corriente para ver qué lograba yo. Me di cuenta de esto en todo momento, aunque nunca me importó. Por cierto, tan investigador es que pocos minutos después de la muerte me pidió autorización para hacer una biopsia al cadáver.
         </P>
         
         <P>
@@ -898,6 +855,14 @@ export default function Spanish() {
         <P>
         La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré.
         </P>
+
+        <P>
+        Esto es todo lo que puedo dar sobre el tema.
+        </P>
+
+        <br/>
+        
+        <br/>
 
     </div>)
 }

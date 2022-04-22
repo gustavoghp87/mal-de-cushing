@@ -1,4 +1,4 @@
-import styles from '../css/Home.module.css'
+import styles from '../css/styles.module.css'
 import { PlusSquare, DashSquare } from 'react-bootstrap-icons'
 import { PropTypes } from 'prop-types'
 

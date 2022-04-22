@@ -1,4 +1,4 @@
-import styles from '../css/Home.module.css'
+import styles from '../css/styles.module.css'
 import { PropTypes } from 'prop-types'
 
 export const IndexButton = ({ isEnglish, isMobile, isDarkMode, setShowIndexHandler }) => {

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import styles from './css/Home.module.css'
+import styles from './css/styles.module.css'
 import English from './English'
 import Spanish from './Spanish'
 import { Title } from './common/Title'
@@ -31,12 +31,7 @@ export const App = () => {
             <div className={''}
                 style={{
                     minHeight: '100vh',
-                    marginInline: isMobile ? '7%' : '20%',
-                    // padding: '1rem 0 4rem 0',
-                    // flex: 1,
-                    // display: 'flex',
-                    // flexDirection: 'column',
-                    // justifyContent: 'center'
+                    marginInline: isMobile ? '7%' : '20%'
                 }}
             >
 
@@ -94,7 +89,6 @@ export const App = () => {
 
                 <IndexModal
                     isEnglish={isEnglish}
-                    isMobile={isMobile}
                     isDarkMode={isDarkMode}
                     showIndex={showIndex}
                     setShowIndexHandler={setShowIndexHandler}

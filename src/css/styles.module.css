@@ -1,34 +1,8 @@
-.p {
-    text-align: justify;
-    text-justify: inter-word;
-    text-indent: 40px;
-    font-size: 1rem;
-}
-
-.pItems {
-    text-indent: 0 !important;
-    margin: 30px 10%;
-    font-weight: bold;
-    text-align: justify;
-    text-justify: inter-word;
-}
-
 .footer {
-    /* display: flex; */
-    /* flex: 1; */
     padding: 2rem 0;
     border-top: 1px solid #eaeaea;
-    /* justify-content: center; */
-    /* align-items: center; */
     text-align: center;
     margin-top: 80px;
-}
-
-.footer a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-grow: 1;
 }
 
 .card {
