@@ -6,7 +6,7 @@ export const P = styled.p`
     text-align: ${isMobile ? '' : 'justify'};
     text-justify: ${isMobile ? '' : 'inter-word'};
     text-indent: ${isMobile ? '20px' : '40px'};
-    line-height: ${isMobile ? '2rem' : '1.15'};
+    line-height: ${isMobile ? '2rem' : '200%'};
     font-size: ${window.localStorage.getItem('textSizeCushing') ?? '1rem'};
     margin-bottom: ${isMobile ? '50px' : ''};
 `
