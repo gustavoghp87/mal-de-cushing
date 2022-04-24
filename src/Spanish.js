@@ -223,11 +223,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        Nunca supe por qué esta ecografía doppler no me reveló la naturaleza de la bolita que se sentía del lado izquierdo. Lo supe cuando tuve la tomografía de abril 2022 con Ally ya muerta. Antes de hacerle la ecografía, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. Pero se trataba de tumores metastásicos del sistema linfático y había 5 o 6, de como medio centímetro de diámetro. Un problema secundario en comparación. Lo raro es que la ecografía diga: “Linfonódulos: no se observan”.
+        Nunca supe por qué esta ecografía doppler no me reveló la naturaleza de la bolita que se sentía del lado izquierdo. Antes de hacerle la ecografía, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. La tomografía de abril dirá que había 5 o 6 tumores metastásicos del sistema linfático, de como medio centímetro de diámetro, pero del lado derecho... si estoy entendiendo el sentido de las imágenes. Esta ecografía, por lo pronto, dijo: “Linfonódulos: no se observan”.
         </P>
         
         <P>
-        El endocrinólogo indicó que la única esperanza estaba en el tratamiento quimioterapéutico con mitotano que recomendó 8 meses antes. Esta vez quise empezarlo de inmediato.
+        Volviendo al hígado, el endocrinólogo indicó que la única esperanza estaba en el tratamiento quimioterapéutico con mitotano que recomendó 8 meses antes. Esta vez quise empezarlo de inmediato.
         </P>
         
         <P>
@@ -263,7 +263,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Ally voló de corticoides. Engordó a alta velocidad, se deshidrató, desarrolló apetito voraz y hasta se infectó con una infección urinaria por “Klebsiella pneumoniae” que la atormentó durante 50 días, hasta su muerte, a causa de la inmunodepresión que causan los corticoides altos. Todo en pocos días, mientras yo estaba con los corticoides sintéticos en la mano preocupado por que los corticoides no bajaran demasiado.
+        Ally voló de corticoides. Engordó a alta velocidad, se deshidrató, desarrolló apetito voraz y hasta se infectó con una infección urinaria por “Klebsiella pneumoniae” que la atormentó durante 50 días, hasta su muerte, a causa de la inmunodepresión que causan los corticoides altos. Todo en pocos días, mientras yo estaba con los corticoides sintéticos en la mano preocupado por que los corticoides en sangre no bajaran demasiado.
         </P>
         
         <P>
@@ -375,11 +375,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales y pude aplicar la crítica sociopolítica que corresponde, para finalmente descartarlo como un perfecto imbécil.
-        </P>
-        
-        <P>
-        Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. por eso los endocrinólogos no derivamos”.
+        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después con la tomografía.
         </P>
 
 
@@ -444,11 +440,11 @@ export default function Spanish() {
         
         <div style={ pItems }>
             <P>
-            -caminaba lento con la cabeza totalmente hacia abajo;
+            -caminaba poco y lento, con la cabeza totalmente hacia abajo;
             </P>
             
             <P>
-            -al querer beber agua temblaba frente al plato, como no pudiendo con impotencia, para luego beber sumergiendo la nariz en el agua, con las consecuentes molestias por el agua ingresada en las vías respiratorias;
+            -al querer beber agua temblaba frente al plato, como no pudiendo, con impotencia, para luego beber sumergiendo la nariz en el agua, con las consecuentes molestias por el agua ingresada en las vías respiratorias;
             </P>
             
             <P>
@@ -461,11 +457,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Fueron 3 noches seguidas de lo mismo, a pesar de las diferentes estrategias seguidas. Fueron 3 días de combinar trilostano con corticoides sintéticos.
-        </P>
-        
-        <P>
-        Me pareció buena idea suavizar la terapia de reemplazo dándole los sintéticos preventivamente y, a la vez, darle trilostano para invalidar una producción interna de corticoides que se encimara a los otros. El tercero de estos días fue sin mitotano, ya que llegué a creer que la trituración del mitotano podía explicar esta reacciones.
+        Fueron 3 noches seguidas de lo mismo, a pesar de las diferentes estrategias seguidas. Fueron 3 días de combinar trilostano con corticoides sintéticos porque me pareció buena idea suavizar la terapia de reemplazo dándole los sintéticos preventivamente y, a la vez, darle trilostano para invalidar una producción interna de corticoides que se encimara a los otros. El tercero de estos días fue sin mitotano, ya que llegué a creer que la trituración del mitotano podía explicar esta reacciones.
         </P>
         
         <P>
@@ -580,7 +572,7 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'19'}> Metástasis cerebral que no era </div>
 
         <P>
-        El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza gacha, redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides por sus funciones antiinflamatorias.
+        El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza gacha (la única diurna), redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides por sus funciones antiinflamatorias.
         </P>
         
         <P>
@@ -600,34 +592,27 @@ export default function Spanish() {
         </P>
         
         <P>
-        Cuento algo que es muy difícil de hallar en los ámbitos académicos porque son investigaciones más o menos recientes y los profesionales están metidos en un sistema creado por ellos mismos que castiga el actualizarse y premia la práctica de las teorías obsoletas.
+        En cada mucosa del cuerpo hay una relación de poder entre las bacterias y los hongos. La principal mucosa del cuerpo es la intestinal, de muchos metros cuadrados. Las bacterias están ahí y el sistema inmunológico no las ataca porque cumplen esta función esencial: se atrinchera cada bacteria en su parcela, donde tiene hábitat, comida, agua, calor y oxígeno gratis, a cambio de que no permita la expansión de los hongos.
         </P>
         
         <P>
-        En cada mucosa del cuerpo hay una relación de poder entre las bacterias y los hongos. La principal mucosa del cuerpo es la intestinal, de muchos metros cuadrados. Las bacterias están allí y el sistema inmunológico no las ataca porque cumplen esta función esencial: se atrinchera cada bacteria en su parcela, donde tiene hábitat, comida, agua, calor y oxígeno gratis, a cambio de que no permita la expansión de los hongos.
+        Los hongos tampoco son destructivos, por eso las defensas del cuerpo no los atacan; pero la basura metabólica que generan sí es dañina, tóxica. Todo lo contrario es respecto a la basura metabólica de las bacterias normales del cuerpo que es inofensiva, y parte de ella también funciona como neurotransmisores y ansiolíticos. Por eso es tan fuerte la correlación entre la salud intestinal y la socialización, el valor y el procesamiento del estrés, y es tan fuerte la correlación entre la mala salud intestinal y la cobardía, los trastornos de ansiedad social y el mal procesamiento del estrés.
         </P>
         
         <P>
-        Los hongos tampoco son destructivos, por eso las defensas del cuerpo no los atacan; pero la basura metabólica que generan sí es dañina, tóxica; mientras que la basura metabólica de las bacterias normales del cuerpo son inofensivas, y muchas de ellas también funcionan como neurotransmisores y ansiolíticos. Por eso es tan fuerte la correlación entre la salud intestinal y la socialización, el valor y el procesamiento del estrés, y es tan fuerte la correlación entre la mala salud intestinal y la cobardía, los trastornos de ansiedad social y el mal procesamiento del estrés.
+        Cuando se bombardea una mucosa intestinal con antibióticos, se desequilibra la relación de poder. Muchas bacterias mueren y muchos hongos avanzan, ocupando posición. La diversidad y las cantidades de las bacterias se reducen, como se reducen las funciones que desempeñan. Y queda, en su lugar, una mala manera de procesar el estrés y la ansiedad, con pocos ansiolíticos y mucha intoxicación cada vez que se pasa por malos momentos, desde una tormenta eléctrica o la explosión de petardos hasta un simple acercamiento social, causando un estado de alerta y nerviosismo permanentes.
         </P>
         
         <P>
-        Cuando se bombardea una mucosa intestinal con antibióticos, se desequilibra la relación de poder. Muchas bacterias mueren y muchos hongos avanzan, ocupando posición. La diversidad y las cantidades de las bacterias se reducen, como se reducen las funciones que desempeñan. Y queda, en su lugar, una mala manera de procesar el estrés y la ansiedad, con pocos ansiolíticos y mucha intoxicación cada vez que se pasa por malos momentos, desde una tormenta eléctrica o la explosión de petardos hasta un simple estado de alerta y nerviosismo permanente.
+        Chocando de frente contra todas las estadísticas y las investigaciones, esta generación no basila en culpar a la genética por estas cosas y correr a los médicos para conseguir más antibióticos, creyendo que la ciencia los avala.
         </P>
-        
-        <P>
-        Puede pasar cualquier cosa. Es como bombardear una ciudad y nunca llegar a saber qué hubiesen logrado en la vida los que murieron.
-        </P>
-        
-        <P>
-        Chocando de frente contra todas las estadísticas y las investigaciones, los ignorantes no basilan en culpar a la genética y corren a los médicos para que les den muchos antibióticos. Y llevan a sus mascotas recién nacidas para envenenarlas para salvarlas de presuntas bacterias peligrosas, creyendo que la ciencia los avala.
-        </P>
+
 
 
         <div style={subtitleStyles} id={'21'}> La llamada rinitis alérgica </div>
 
         <P>
-        No fue algo divertido para mí darle antibióticos a mi perra sabiendo lo malos que son pero supuse que no era tiempo de pensar en el largo plazo sino de salvarla. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico.
+        No fue algo divertido para mí darle antibióticos a mi perra sabiendo lo malos que son pero supuse que no era tiempo de pensar en el largo plazo sino de salvarla. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico. Entre ambos hay algunos días en que la creí curada.
         </P>
         
         <P>
@@ -635,19 +620,15 @@ export default function Spanish() {
         </P>
         
         <P>
-        Sería largo narrar mi larga investigación para dar con el origen de mi (como le llaman) “rinitis alérgica” que comparto con casi toda mi familia, mis visitas a los profesionales, mis lecturas, y demás. Pero para cuando Ally estaba en este tratamiento, ya estaba bastante claro para mí que se trata de un desequilibro en las relaciones de poder entre hongos y bacterias en la mucosa nasal.
+        Sería largo narrar mi larga investigación para dar con el origen de mi (como le llaman) “rinitis alérgica” que comparto con casi toda mi familia, mis visitas a los profesionales, mis lecturas, y demás. Pero para cuando Ally estaba en este tratamiento, ya estaba bastante claro para mí que se trata de un desequilibro en las relaciones de poder entre hongos y bacterias en la mucosa nasal. No es una alergia. Alergia es cuando el sistema inmunológico ataca algo que no debería atacar, y como tal la solución es “sedarlo” en algún grado con corticoides para que no moleste. En cambio, lo que ocurre acá es que el sistema inmunológico reacciona correctamente a la enorme cantidad de basura tóxica que producen los hongos.
         </P>
         
         <P>
-        No es una alergia. Alergia es cuando el sistema inmunológico ataca algo que no debería atacar, y como tal la solución es “sedarlo” en algún grado con corticoides para que no moleste. En cambio, lo que ocurre acá es que el sistema inmunológico reacciona correctamente a la enorme cantidad de basura tóxica que producen los hongos.
+        Por tanto, la fórmula para desarrollar una “rinitis alérgica” es tomar antibióticos para destruir a las bacterias de la mucosa nasal, junto con corticoides para anestesiar al sistema inmunológico en la zona. Se le libera así la zona a los hongos para que avancen y tomen posición. El resto, como la diferencia entre los buenos días y los malos días, depende de la humedad del ambiente, del consumo de carbohidratos industriales y alcohol y de la concentración de corticoides en sangre.
         </P>
         
         <P>
-        Por tanto, la fórmula para desarrollar una “rinitis alérgica” es tomar antibióticos para destruir a las bacterias de la mucosa nasal, junto con corticoides para anestesiar al sistema inmunológico en la zona. Se le libera así la zona a los hongos para que avancen y tomen posición. El resto, como la diferencia entre los buenos días y los malos días, depende de la humedad y del consumo de carbohidratos industriales.
-        </P>
-        
-        <P>
-        Por eso me tocó predecir con lastimoso éxito que si le daba antibióticos líquidos en la boca a Ally, y que si le diluía ahí los corticoides, iba a tener ataques de estornudos. Por si quedaba alguna duda. El resto es explicar, al menos como excusa, por qué cuesta tanto esconder drogas en la comida de una perra tan chica, de estómago cerrado y harta de tantas drogas.
+        Por eso me tocó predecir con lastimoso éxito que si le daba antibióticos líquidos en la boca a Ally, y que si le diluía ahí los corticoides, iba a tener ataques de estornudos. Por si quedaba alguna duda, pasó sus últimos días estornudando, salvo cuando tenía signos de Cushing. El resto es explicar, al menos como excusa, por qué cuesta tanto esconder drogas en la comida de una perra tan chica, de estómago cerrado y harta de tantas drogas.
         </P>
 
 
@@ -659,7 +640,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Por cierto, si la primera etapa consistió en destruir el tumor primario, hacerle todo el daño posible a los secundarios y conseguir un control externo y consciente de los niveles de corticoides en sangre, la segunda etapa era esta: Reducir todo lo posible los niveles de corticoides para encender al máximo el sistema inmunológico, volver a la comida única nocturna, eliminar los carbohidratos de nuevo, alcalinizar el cuerpo con bicarbonato de sodio y potasio y maximizar la producción de macrófagos con vitamina d3, que ya le estaba dando desde principios de marzo; pensaba sumar ácido ascórbico (tipo de vitamina C) y yodo para completar el kit anticáncer por excelencia; y, desde ya, seguir con el mitotano.
+        Por cierto, si la primera etapa consistió en destruir el tumor primario, hacerle todo el daño posible a los secundarios y conseguir un control externo y consciente de los niveles de corticoides en sangre, la segunda etapa era esta: reducir todo lo posible los niveles de corticoides para encender al máximo el sistema inmunológico, volver a la comida única nocturna, eliminar los carbohidratos de nuevo, alcalinizar el cuerpo con bicarbonato de sodio y potasio y maximizar la producción de macrófagos con vitamina d3, que ya le estaba dando desde principios de marzo; pensaba sumar ácido ascórbico (tipo de vitamina C) y yodo para completar el kit anticáncer por excelencia; y, desde ya, seguir con el mitotano.
         </P>
         
         <P>
@@ -689,7 +670,7 @@ export default function Spanish() {
         </div>
         
         <P>
-        El último es el punto más polémico. Yo decía que si a pesar de haber pasado 2 meses volando de corticoides y comiendo carbohidratos, los secundarios no habían logrado avanzar, entonces tendríamos una visión muy positiva para la segunda etapa. Lo menciono porque, al mismo tiempo, todo profesional de la medicina exigía inmediata eutanasia al ver las imágenes de la radiografía, y pasaría eso mismo con la tomografía.
+        El último es el punto más polémico. Yo decía que si a pesar de haber pasado 2 meses volando de corticoides y comiendo carbohidratos, los secundarios no habían logrado avanzar, entonces tendríamos una visión muy positiva para la segunda etapa. Lo menciono porque, al mismo tiempo, todo profesional de la medicina exigía inmediata eutanasia al ver las imágenes de la radiografía, como pasaría el día de la tomografía.
         </P>
         
         <P>
@@ -761,15 +742,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        “Múltiples imágenes nodulares distribuidas a modo de suelta de globos, que presentan diámetros entre 2 y 18 milímetros”, “profuso infiltrado del espacio aéreo que se extiende en el parénquima de ambos pulmones”,  “áreas de consolidación y presencia de broncograma aéreo y aumento del patrón intersticial”, “a nivel abdominal se aprecia múltiples imágenes nodulares en el hígado de entre 2 y 23 milímetros de diámetro”, “marcada hepatomegalia” (hinchazón del hígado), “el abdomen muestra linfadenopatías reactivas en el peritoneo”.
+        “Múltiples imágenes nodulares distribuidas a modo de suelta de globos, que presentan diámetros entre 2 y 18 milímetros”, “profuso infiltrado del espacio aéreo que se extiende en el parénquima de ambos pulmones”,  “áreas de consolidación y presencia de broncograma aéreo y aumento del patrón intersticial”, “a nivel abdominal se aprecia múltiples imágenes nodulares en el hígado de entre 2 y 23 milímetros de diámetro”, “marcada hepatomegalia” (hinchazón del hígado), “el abdomen muestra linfadenopatías reactivas en el peritoneo”. Y la conclusión: "Imágenes obtenidas compatibles con múltiples imágenes nodulares en ambos pulmones, y a nivel del hígado con presencia de linfonódulos reactivos a nivel del peritoneo que son compatibles con secundarismos (MTS)".
         </P>
         
         <P>
-        Era hora de mirar las imágenes. Nunca había visto una tomografía computada. Miré mucho tratando de determinar si había empeorado o mejorado desde los estudios anteriores. Anduve 2 días envenenado por no poder encontrar en las imágenes el tumor primario (que es muy notorio en la radiografía de febrero) ni la invasión de la vena cava inferior.
-        </P>
-        
-        <P>
-        Respecto a las 5 cosas que yo necesitaba de la tomografía, las primeras 4 parecían cumplirse a mis ojos y quizás la última también: tumor primario destruido, ausencia de tumores en el cráneo, ausencia de tumores linfáticos en la zona de la garganta, explicación optimista a las masas que asomaban del lado izquierdo, alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
+        Era hora de mirar las imágenes. Nunca había visto una tomografía computada. Miré mucho tratando de determinar si había empeorado o mejorado desde los estudios anteriores. Y anduve 2 días envenenado por no poder encontrar en las imágenes el tumor primario (que es muy notorio en la radiografía de febrero) ni la invasión de la vena cava inferior, que era lo que me había derrotado en la sala de shock. Respecto a las 5 cosas que yo necesitaba de la tomografía, las primeras 4 parecían cumplirse a mis ojos y quizás la última también: tumor primario destruido, ausencia de tumores en el cráneo, ausencia de tumores linfáticos en la zona de la garganta, explicación optimista a las masas que asomaban del lado izquierdo, alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
         </P>
 
 
@@ -789,75 +766,77 @@ export default function Spanish() {
         </P>
         
         <P>
-        Y no es que me fíe del todo. Después de que le narrara lo que pasó en el centro del tomógrafo y cómo me impusieron la eutanasia apuntando a una gravedad extrema en las imágenes, le indiqué qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia: básicamente, mostrarme el tumor primario en las imágenes y decirme que la situación de los pulmones no le permitía seguir viviendo. No obstante, juraría que me mostró el tumor adrenal como una mancha blanca, chata, del lado equivocado del cuerpo, el izquierdo, donde el corazón golpea el pecho, donde el riñón no está elevado por presión del hígado y donde sí están los tumores linfáticos. Y no me olvido de que el trilostano fue incapaz de apagar el último incendio. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Y me acuerdo que no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
+        Y no es que me fíe del todo. Después de que le narrara lo que pasó en el centro del tomógrafo y cómo me impusieron la eutanasia apuntando a una gravedad extrema en las imágenes, le indiqué qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia: básicamente, mostrarme el tumor primario en las imágenes y decirme que la situación de los pulmones no le permitía seguir viviendo. Me mostró el tumor adrenal y la ramificación en la vena como dos manchas blancas, chatas, del mismo lado que los tumores linfáticos. Le dije que sí pero hoy sigue siendo muy confuso. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Aparte me acuerdo que no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
         </P>
         
         <P>
-        Seguramente que me voy a preguntar siempre si el estado era y siempre fue terminal, o si la muerte es el gran lavador de manos de los profesionales que institucionalizaron la mala praxis para su propia conveniencia. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales. Supongo que si 17 mil mg de mitotano en 59 días no le hicieron ningún daño aparente a los tumores del hígado, no había manera de salvarla en definitiva. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después.
+        Seguramente me voy a preguntar siempre si el estado era y siempre fue terminal. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales, no sé si hice lo correcto. Supongo que si 17 mil mg de mitotano en 59 días no le hicieron ningún daño aparente a los tumores del hígado, no había manera de salvarla, en definitiva. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después.
         </P>
-        
+
         <P>
-        Respecto al endocrinólogo, lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no volver a verlo nunca.
+        Respecto al endocrinólogo, lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no volver a verlo.
         </P>
 
 
 
         <div style={subtitleStyles} id={'26'}> Conclusiones </div>
 
-        <P>
-        Cuando un perro empieza a comer de más, a beber y orinar de más, tuerce su apetito hacia los carbohidratos, sean dulces o salados, y con mucha más razón si le aparece una barriga dura cerca de las costillas, lejos de los genitales, es hora de mirar las glándulas suprarrenales y el hígado con ecógrafo, hacer una prueba en orina de la relación cortisol/creatinina y mirar los pulmones con radiografía. Cuanto antes mejor.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> Cuando un perro empieza a comer de más, a beber y orinar de más, tuerce su apetito hacia los carbohidratos, sean dulces o salados, y con mucha más razón si le aparece una barriga dura cerca de las costillas, lejos de los genitales, es hora de mirar las glándulas suprarrenales y el hígado con ecógrafo, hacer una prueba en orina de la relación cortisol/creatinina y mirar los pulmones con radiografía. Cuanto antes mejor. </li>
         </P>
         
-        <P>
-        El Cushing puede ser por tumor en esas glándulas o por tumor en la hipófisis, glándula que le da órdenes a ellas y que está en el centro del cráneo. Este es inoperable siempre.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> El Cushing puede ser por tumor en esas glándulas o por tumor en la hipófisis, glándula que le da órdenes a ellas y que está en el centro del cráneo. Este es inoperable siempre. </li>
         </P>
         
-        <P>
-        El trilostano y el mitotano sirven para ambos tumores. Pero solo reducen la liberación de corticoides.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> El trilostano y el mitotano sirven para ambos tumores. Pero solo reducen la liberación de corticoides. </li>
         </P>
         
-        <P>
-        Si el tumor está abajo, sobre los riñones, hay que removerlo cuanto antes y rehabilitar la glándula sana, salvo que ya se haya invadido la vena cava inferior. Sobre la posibilidad de atacar con dosis bajas de mitotano para liberar la vena y luego extirpar, considerar la posibilidad. Yo desconocía que esto se podía hacer hasta que fue demasiado tarde.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> Si el tumor está abajo, sobre los riñones, hay que removerlo cuanto antes y rehabilitar la glándula sana, salvo que ya se haya invadido la vena cava inferior. Sobre la posibilidad de atacar con dosis bajas de mitotano para liberar la vena y luego extirpar, considerar la posibilidad. Yo desconocía que esto se podía hacer hasta que fue demasiado tarde. </li>
         </P>
         
-        <P>
-        Para evitar la muerte hay que evitar estas 3 cosas: crecimiento del primario, avance del primario sobre la vena cava inferior si es suprarrenal, y metástasis.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> Para evitar la muerte hay que evitar estas 3 cosas: crecimiento del primario, avance del primario sobre la vena cava inferior si es suprarrenal, y metástasis. </li>
         </P>
         
-        <P>
-        Las 3 metas se logran con un sistema de defensas fuerte, que incluye evitar los carbohidratos, los antibióticos y el estrés y mantener bajos los niveles de cortisol. Puede ser bueno alcalinizar el cuerpo con dosis de bicarbonato de sodio, potasio y magnesio y fortalecer el sistema inmunológico con vitamina D3.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> Las 3 metas se logran con un sistema de defensas fuerte, que incluye evitar los carbohidratos, los antibióticos y el estrés y mantener bajos los niveles de cortisol. Puede ser bueno alcalinizar el cuerpo con dosis de bicarbonato de sodio, potasio y magnesio y fortalecer el sistema inmunológico con vitamina D3. </li>
         </P>
         
-        <P>
-        Se monitorea cada 2 meses por orina, sangre, ecografía y placa de tórax. Si el cortisol en orina está alto, aumentar la droga de inmediato porque baja las defensas y facilita las metástasis. Prestar atención a los parámetros que podrían indicar enfermedad del hígado.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> Se monitorea cada 2 meses por orina, sangre, ecografía y placa de tórax. Si el cortisol en orina está alto, aumentar la droga de inmediato porque baja las defensas y facilita las metástasis. Prestar especial atención a los parámetros que podrían indicar enfermedad del hígado. Tener en cuenta que aunque las concentraciones de cortisol den bien cuando se tomen las muestras en días normales, puede que se disparen en los días especiales o ante situaciones especiales hasta niveles dañinos. </li>
         </P>
         
-        <P>
-        En caso de metástasis, se ataca inmediatamente con mitotano. Si hay metástasis importantes, mantener una dosis de trilostano mientras se avanza. Pero en todos los casos hay que tener inyecciones de hidrocortisona/dexametasona a mano para usar si viene una crisis.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> En caso de metástasis, se ataca inmediatamente con mitotano. Si hay metástasis importantes, mantener una dosis de trilostano mientras se avanza. Pero en todos los casos hay que tener inyecciones de hidrocortisona/dexametasona a mano para usar si viene una crisis. </li>
         </P>
         
-        <P>
-        Aprender las dosis y los tiempos de cada una de las drogas. Si se dan complicaciones en la terapia de reemplazo, ir a lo seguro: suspender el mitotano, mantener la dosis básica de fludrocortisona, esperar dos días y volver a suministrar todo el mitotano que el animal resista sin efectos secundarios.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> La nueva vida consiste en introducir corticoides sintéticos cada 12 horas en la dosis mínima que necesita para un día normal. Aprender las dosis y los tiempos de cada una de las drogas. Tener listos los inyectables para emergencias. Necesitará un plus de glucocorticoides cada vez que esté asustado o estresado o ansioso o se dé un golpe o desarrolle una infección, etcétera. </li>
         </P>
         
-        <P>
-        La nueva vida consiste en introducir corticoides sintéticos cada 12 horas en la dosis mínima que necesita para un día normal, pero también en tener listos los inyectables para emergencias. Necesitará un plus de glucocorticoides cada vez que esté asustado o estresado o ansioso o se dé un golpe o desarrolle una infección, etcétera.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> Moverse dentro de un ámbito reducido con profesionales que conozcan el caso. Esconder al animal de los profesionales que no saben de qué se trata y se creen héroes por eutanasiar sin consideraciones. </li>
         </P>
         
-        <P>
-        Moverse dentro de un ámbito reducido con profesionales que conozcan el caso. Esconder al animal de los profesionales que no saben de qué se trata y se creen héroes por eutanasiar sin consideraciones.
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> Tener listo un sedante inyectable para caso de colapso y así poder llevarlo medio dormido a urgencias. </li>
         </P>
-        
-        <P>
-        Tener listo un sedante inyectable para caso de colapso y así poder llevarlo dormido a urgencias.
+
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li> La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir el cuadro sin mitotano. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré. </li>
         </P>
 
         <P>
-        La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré.
+        Esto es todo lo que puedo dar sobre el tema. Este es el link para consultar todos los estudios de Ally citados:
         </P>
 
-        <P>
-        Esto es todo lo que puedo dar sobre el tema.
+        <P className={'text-center mt-4'}>
+            <a href="https://www.dropbox.com/sh/33534lmwfim6mn6/AADsNVdoY_TwsBf5Q2B3_9dva?dl=0" target={'_blank'} rel={'noreferrer'}>
+                https://www.dropbox.com/sh/33534lmwfim6mn6/AADsNVdoY_TwsBf5Q2B3_9dva?dl=0
+            </a>
         </P>
 
         <br/>
