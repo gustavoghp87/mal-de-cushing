@@ -6,7 +6,9 @@ export const Title = ({ isEnglish, isMobile }) => (
             margin: 0,
             lineHeight: 1.15,
             fontSize: isMobile ? '2.5rem ' : '3.4rem',
-            textAlign: 'center'
+            textAlign: 'center',
+            marginTop: '80px',
+            marginBottom: '60px'
         }}
     >
         {isEnglish ?

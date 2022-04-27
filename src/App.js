@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import styles from './css/styles.module.css'
 import English from './English'
 import Spanish from './Spanish'
 import { Title } from './common/Title'
@@ -8,9 +7,12 @@ import { DarkModeButton } from './common/DarkModeButton'
 import { IndexButton } from './common/IndexButton'
 import { IndexModal } from './common/IndexModal'
 import { SizeButton } from './common/SizeButton'
-import { ArrowBarRight } from 'react-bootstrap-icons'
+import { LinkToDocuments } from './common/LinkToDocuments'
+import { VideoIFrame } from './common/VideoIFrame'
+import { LanguageBtn } from './common/LanguageBtn'
 import { useIsMobile } from './custom-hooks/useIsMobile'
 import { useShowWidgets } from './custom-hooks/useShowWidgets'
+import { ShareBtns } from './common/ShareBtns'
 
 export const App = () => {
     const [isEnglish, setIsEnglish] = useState(false)
@@ -28,63 +30,56 @@ export const App = () => {
     return (
         <div className={`p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}>
 
-            <div className={''}
+            <div
                 style={{
                     minHeight: '100vh',
-                    marginInline: isMobile ? '7%' : '20%'
+                    marginInline: isMobile ? '7%' : '20%',
+                    marginBottom: '120px'
                 }}
             >
 
-                <br/>
-                <br/>
-                <br/>
-                <br/>
-                <br/>
-
-                <div className={styles.card + ' d-block m-auto'} onClick={() => setIsEnglish(!isEnglish)}>
-                    <h2 className={'mb-0 text-center'} style={{ width: '250px' }}>
-                        {isEnglish ? "Versión en Español" : "English version"}
-                        &nbsp; <ArrowBarRight />
-                    </h2>
-                </div>
-
-                <br/>
-                <br/>
+                <LanguageBtn
+                    isEnglish={isEnglish}
+                    setIsEnglish={setIsEnglish}
+                />
 
                 <Title
                     isEnglish={isEnglish}
                     isMobile={isMobile}
                 />
 
-                <br/>
-
                 {!isEnglish && <Spanish />}
 
                 {isEnglish && <English />}
 
+                <LinkToDocuments />
+
+                <VideoIFrame isMobile={isMobile} />
+
+                <ShareBtns />
 
                 {showWidgets &&
-                <>
-                    <IndexButton
-                        isEnglish={isEnglish}
-                        isMobile={isMobile}
-                        isDarkMode={isDarkMode}
-                        setShowIndexHandler={setShowIndexHandler}
-                    />
+                    <>
+                        <IndexButton
+                            isEnglish={isEnglish}
+                            isMobile={isMobile}
+                            isDarkMode={isDarkMode}
+                            setShowIndexHandler={setShowIndexHandler}
+                        />
 
-                    <DarkModeButton
-                        isEnglish={isEnglish}
-                        isMobile={isMobile}
-                        isDarkMode={isDarkMode}
-                        setIsDarkModeHandler={setIsDarkModeHandler}
-                    />
+                        <DarkModeButton
+                            isEnglish={isEnglish}
+                            isMobile={isMobile}
+                            isDarkMode={isDarkMode}
+                            setIsDarkModeHandler={setIsDarkModeHandler}
+                        />
 
-                    <SizeButton
-                        isEnglish={isEnglish}
-                        isMobile={isMobile}
-                        isDarkMode={isDarkMode}
-                    />
-                </>
+                        <SizeButton
+                            isEnglish={isEnglish}
+                            isMobile={isMobile}
+                            isDarkMode={isDarkMode}
+                        />
+                    </>
                 }
 
                 <IndexModal

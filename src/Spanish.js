@@ -11,10 +11,6 @@ export default function Spanish() {
         </P>
         
         <P>
-        Creo que la navegación por internet dio de baja al monopolio institucional del conocimiento práctico pero solo en la medida en que alguien se tome el trabajo de escribirlo para que sea accesible. Y, en consecuencia, dio de baja a la denigrante esclavitud del hombre común al profesional de los servicios médicos, a sus virtudes, a sus imbecilidades, a su conocimiento, a su ignorancia, a sus aciertos, a sus desaciertos. Para bien y para mal.
-        </P>
-        
-        <P>
         Los signos de la enfermedad se pueden rastrear a poco después de la traumática castración, cuando tenía 5 años. El diagnóstico se demoró año y medio por pura impericia profesional, incapaz de asociar síntomas con enfermedad, pero curiosamente habilidosa para mandar a hacer estudios que no sirven para nada y evitar los estudios que sí pueden explicar el problema.
         </P>
         
@@ -23,7 +19,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Pero luego se notó que la dosis diaria que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
+        Pero año y medio después se notó que la dosis diaria que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
         </P>
         
         <P>
@@ -32,6 +28,14 @@ export default function Spanish() {
         
         <P>
         Hay varios errores importantes que, de no cometerse, se hubiese evitado la enfermedad, el sufrimiento y el desenlace, algunos certeros y otros de aproximación, algunos mi culpa y otros de los demás.
+        </P>
+        
+        <P>
+        Creo que la navegación por internet dio de baja al monopolio institucional del conocimiento práctico pero solo en la medida en que alguien se tome el trabajo de escribirlo para que sea accesible. Y, en consecuencia, dio de baja a la denigrante esclavitud del hombre común al profesional de los servicios médicos, a sus virtudes, a sus imbecilidades, a su conocimiento, a su ignorancia, a sus aciertos, a sus desaciertos. Para bien y para mal.
+        </P>
+        
+        <P>
+        Los que hacemos software estamos acostumbrados a que la gente del mundo publica sus resoluciones y sus explicaciones para que los lea quiensea que esté buscando. Nos potenciamos unos a otros, en vez de vernos como adversarios que tiene que adherir a un reglamento de “ética” para dividirse el mercado, de acuerdo a un árbitro paraestatal anticapitalista, de ideología 100% medieval.
         </P>
         
         <P>
@@ -79,11 +83,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        Cuando se estaba recuperando, llegó la cirugía. Salió del quirófano temblando como hoja al viento y se atrincheró en el sillón grande por 4 días. No dejaba que nadie se le acercase. Tomó muchos antibióticos, por supuesto, con analgésicos y antiácidos. Luego se recuperó completamente. Fueron 2 semanas muy estresantes
+        Cuando se estaba recuperando, llegó la cirugía. Salió del quirófano temblando como hoja al viento y se atrincheró en el sillón grande por 4 días. No dejaba que nadie se le acercase. Tomó muchos antibióticos, por supuesto, con analgésicos y antiácidos. Luego se recuperó completamente. Fueron, en total, 2 semanas muy estresantes.
         </P>
         
         <P>
-        Como curiosidad, los puntos demoraron como 2 años en irse del todo. Y quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de que hubiesen dejado todo bien o si dejaron ahí alguna fuente de conflicto, estresante, que explicase lo que vino después.
+        Como curiosidad, los puntos demoraron como 2 años en irse del todo. Y quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de si hicieron todo bien o si dejaron ahí alguna fuente de conflicto, estresante, que explicase lo que vino después. También llegué a pensar si se les agotó el efecto de la anestesia antes de tiempo y le hicieron la limpieza dental sugetándola, despierta.
         </P>
 
 
@@ -91,11 +95,11 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'4'}> Indicios de mal de Cushing y diagnóstico </div>
 
         <P>
-        A partir de esa fecha comenzó a engordar a un ritmo de algo así como 100 gramos por mes durante año y medio, pero acelerando sobre el final. O sea que duplicó su peso de 2.5 kg a 4.9 kg. Contando poco más de un año desde la esterilización, no había solo un gradual engordamiento sino que cada vez orinaba más y bebía más y hasta desarrolló un apetito hacia los carbohidratos que nunca había tenido. Tuve que sacar de su alcance la comida del gato, hecha con arroz marrón, menudencias y mucha grasa, que hasta entonces nunca había probado pero que ahora rogaba por tener.
+        A partir de esa fecha comenzó a engordar a un ritmo promedio de algo así como 100 gramos por mes durante año y medio, pero acelerando sobre el final. O sea que casi duplicó su peso de 2.7 kg a 4.9 kg. Contando poco más de un año desde la esterilización, no había solo un gradual engordamiento sino que cada vez orinaba más y bebía más y hasta desarrolló un apetito hacia los carbohidratos que nunca había tenido. Tuve que sacar de su alcance la comida del gato, hecha con arroz marrón, menudencias y mucha grasa, que hasta entonces nunca había probado pero que ahora rogaba por tener.
         </P>
         
         <P>
-        Luego de unos estudios ridículos de la tiroides, sangre, orina y hasta radiografía, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado light.
+        Luego de unos estudios ridículos de la tiroides, sangre, orina y hasta radiografía para mirarle la columna vertebral, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado light. Y esto a pesar de que varios parámetros en la sangre estaban mal.
         </P>
         
         <P>
@@ -123,11 +127,7 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'5'}> El cirujano </div>
 
         <P>
-        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano por la posibilidad de remover el tumor y rehabilitar la glándula sana y olvidarnos de la enfermedad. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable.
-        </P>
-        
-        <P>
-        Bueno hubiera sido un diagnóstico a tiempo, una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
+        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano por la posibilidad de remover el tumor y rehabilitar la glándula sana y olvidarnos de la enfermedad. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable. Bueno hubiera sido un diagnóstico a tiempo, una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
         </P>
         
         <P>
@@ -375,7 +375,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después con la tomografía.
+        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después, con la tomografía.
         </P>
 
 
@@ -419,7 +419,7 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'15'}> La fallida terapia de reemplazo de corticoides: viernes negro </div>
 
         <P>
-        Llegó entonces el viernes 18 de marzo de 2022. A media mañana, la noté dolorida al ponerse en 4 patas. Me pareció que no tenía fuerzas en las patas traseras o que le dolía el abdomen. Me preocupé por el hígado. Días después hubo otras 2 veces en que me pareció que le dolía el abdomen, teniendo mucho ruido de fluidos del lado derecho, y lo resolví de inmediato con 100 mg de paracetamol.
+        Llegó entonces el viernes 18 de marzo de 2022, el día 41 del tratamiento. A media mañana, la noté dolorida al ponerse en 4 patas. Me pareció que no tenía fuerzas en las patas traseras o que le dolía el abdomen. Me preocupé por el hígado. Días después hubo otras 2 veces en que me pareció que le dolía el abdomen, teniendo mucho ruido de fluidos del lado derecho, y lo resolví de inmediato con 100 mg de paracetamol.
         </P>
         
         <P>
@@ -437,31 +437,21 @@ export default function Spanish() {
         <P>
         Con ella en bienestar, los corticoides sintéticos consumidos al mediodía y la falsa idea de que ya no dependería de la glándula tumorosa, esa noche quise darle 150 mg de mitotano. No tenía demasiado apetito y solo iba a comer si no encontraba drogas dentro de la comida. Quise triturar el mitotano y meterlo en la carne. Comió la mitad pero le hizo muy mal. Fue la primera de 5 crisis, todas en marzo (18, 19, 20, 24, 30), que tuvieron estas características:
         </P>
-        
-        <div style={ pItems }>
-            <P>
+
+            <P style={ pItems }>
             -caminaba poco y lento, con la cabeza totalmente hacia abajo;
             </P>
             
-            <P>
+            <P style={ pItems }>
             -al querer beber agua temblaba frente al plato, como no pudiendo, con impotencia, para luego beber sumergiendo la nariz en el agua, con las consecuentes molestias por el agua ingresada en las vías respiratorias;
             </P>
             
-            <P>
+            <P style={ pItems }>
             -si le ofrecíamos comida, comía.
             </P>
-        </div>
 
         <P>
-        A diferencia de lo que se esperaba de la quimioterapia, estos signos ocurrían con hambre y sed, y el comportamiento frente al agua no estaba en los papeles. Fue muy confuso, y queriendo resolver esta confusión fue que acabamos en la tomografía que le costó la vida.
-        </P>
-        
-        <P>
-        Fueron 3 noches seguidas de lo mismo, a pesar de las diferentes estrategias seguidas. Fueron 3 días de combinar trilostano con corticoides sintéticos porque me pareció buena idea suavizar la terapia de reemplazo dándole los sintéticos preventivamente y, a la vez, darle trilostano para invalidar una producción interna de corticoides que se encimara a los otros. El tercero de estos días fue sin mitotano, ya que llegué a creer que la trituración del mitotano podía explicar esta reacciones.
-        </P>
-        
-        <P>
-        Me pregunto hoy por qué le di de fludrocortisona menos de la dosis (un tercio o la mitad de los 100 microgramos recetados), mientras le daba la dosis correcta de prednisolona. La primera es una droga que, evidentemente, subestimé porque no entendía lo que hacía.
+        A diferencia de lo que se esperaba de la quimioterapia, estos signos ocurrían con hambre y sed, y el comportamiento frente al agua no estaba en los papeles. Fue muy confuso, y queriendo resolver esta confusión fue que acabamos en la tomografía que le costó la vida. Fueron 3 noches seguidas de lo mismo, a pesar de las diferentes estrategias seguidas.
         </P>
 
 
@@ -469,15 +459,15 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'16'}> Los caóticos 20 días finales </div>
 
         <P>
-        Sufrí mucho estos días no tener instrumentos de medición para saber lo que estaba pasando y tomar decisiones de inmediato, como sí le pasa al insulinodependiente con el glucómetro. Estuve cerca de comprar un tensiómetro para animales caro y de dudosa calidad pero los compradores estaban decepcionados con el tamaño del brazalete. Ally era caniche toy. Y los análisis de sangre y orina demoraban al menos 2 días.
+        Sufrí mucho estos días no tener instrumentos de medición para saber lo que estaba pasando y tomar decisiones de inmediato, como sí le pasa al insulinodependiente con el glucómetro. Estuve cerca de comprar un tensiómetro para animales caro y de dudosa calidad pero los compradores estaban decepcionados con el tamaño del brazalete. Ally era caniche toy. Y los análisis de sangre y orina demoraban al menos 2 días, y casi siempre 5.
         </P>
         
         <P>
-        Además, no solo fue un viernes malo sino que también inauguró los 20 días finales, donde la terapia de reemplazo fue caótica, con días de evidente insuficiencia y días de evidente exceso de estas hormonas, y hasta de combinación a un mismo tiempo. Estos días me quitaron legitimidad frente a la familia y dieron la sensación de que Ally estaba a punto de morir por la enfermedad. No hubo manera para mí de explicar que todo lo malo que estaba pasando era por lo caótico del tratamiento, la falta de instrucción y la ausencia de instrumentos de medición. Es la situación que me llevó a la tomografía de la muerte y a mi estado final y derrota.
+        Además, no solo fue un viernes malo sino que también inauguró los 20 días finales, donde la terapia de reemplazo fue caótica, con días de evidente insuficiencia y días de evidente exceso de estas hormonas, y hasta de combinación a un mismo tiempo. Estos días me quitaron legitimidad frente a los demás y dieron la sensación de que Ally estaba a punto de morir por la enfermedad. No hubo manera para mí de explicar que todo lo malo que estaba pasando era por lo caótico del tratamiento, la falta de instrucción y la ausencia de instrumentos de medición. Es la situación que me llevó a la tomografía de la muerte y a mi estado final y derrota.
         </P>
         
         <P>
-        Desde estos días comencé a llevar registro detallado de todo lo que observaba y de todas las drogas y dosis que introducía, buscando entender lo que el endocrinólogo no me explicaba y lo que internet no me decía. Todos llegaron a creer después que la muerte fue para dejar de sufrir pero en realidad solo sufrió en estos 20 días y solo 5 fueron malos en crisis de 9 horas, algunos fueron regulares y otros buenos. Tengo videos de estos días de ella comiendo huesos, y visitó a la familia y caminó por la calle sin problemas.
+        Desde estos días comencé a llevar registro detallado de todo lo que observaba y de todas las drogas y dosis que introducía, buscando entender lo que el endocrinólogo no me explicaba y lo que internet no me decía. Todos llegaron a creer después que la muerte fue para dejar de sufrir pero en realidad solo sufrió en estos 20 días y solo 5 fueron malos en crisis de 9 horas, algunos fueron regulares y otros buenos.
         </P>
         
         <P>
@@ -486,30 +476,62 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'17'}> Glucocorticoides y mineralocorticoides </div>
+        <div style={subtitleStyles} id={'17'}> La fallida terapia de reemplazo de corticoides: las otras crisis </div>
 
         <P>
-        Tengo una posible explicación a los problemas que tuvimos estas semanas. Me siento ridículo formulando tesis de trabajo de la ciencia médica siendo informático. Pero no es mi culpa, es el estado de la ciencia donde se pretende delegar completamente la salud en manos de un profesional que, si no sabe, se te muere el perro.
+        El sábado 19 de marzo la vi caminando muy temprano por el pasillo con la cabeza medio gacha. Me levanté y le di corticoides en leche. Al rato se vino a acostar conmigo totalmente recuperada. Fue otro motivo para afianzar la confusión. Más verosímil para explicar la recuperación terminó siendo que se estaban cumpliendo 9 horas desde el último trilostano y 18 desde el último fludrocortisona.
+        </P>
+
+        <P>
+        Cerrando un día bueno, quise darle los 150 mg de mitotano que faltaban para completar los 400 mg del día. No tenía mucha hambre y no quería comer con drogas adentro de la carne y mi madre quiso triturar el mitotano como había hecho yo la noche anterior. Pocos minutos después de comer comenzó la segunda crisis. De hecho, juraría que empezó con los síntomas antes de terminar de comer, que no comió mucho. Eran cerca de las 21 hs y se recuperó como a las 6 de la mañana.
+        </P>
+
+        <P>
+        Como dije, creí que el mitotano triturado estaba causando una intoxicación en el cerebelo. Por eso, el domingo 20 fue día de descanso de mitotano pero no funcionó. Después de cenar, decayó. Fue más leve tal vez. No parecía deshidratada y ya había comido así que solo durmió.
+        </P>
+
+        <P>
+        El lunes 21 empecé el antibiótico nuevo (amoxicilina con ácido clavulánico) y hablé con el endocrinólogo, que me convenció de suspender los corticoides sintéticos pero mantener el mitotano. Acepté pero este día y el siguiente tuve que usar trilostano para sofocar el apetito exagerado con deshidratación. También un poco el miércoles. Total: 12 mg, 10 mg, 2 mg. No volví a usar trilostano excepto la madrugada del 1 de abril, cuando equivoqué la dosis de fludrocortisona y pasó la noche tomando agua (4 mg), y también 24 hs antes de la muerte por los signos de Cushing (7,5 mg).
+        </P>
+
+        <P>
+        El jueves 24, feriado, tuvo la cuarta crisis, con la particularidad de haber sido la única diurna, entre las 13:15 hs y las 22 hs. Había tomado 150 mg de mitotano a las 10 hs y nada más. A las 14 hs le di corticoides, sumando 70 microgramos de fludrocortisona y 3 mg de prednisolona.
+        </P>
+
+        <P>
+        Al día siguiente y hasta la crisis del miércoles 30 casi no hubo rastros de la infección urinaria. Tuvo emisiones altas el 30 y el 31, y de nuevo del 4 al 6 de abril. Por otro lado, desde este 25 de marzo me dediqué a mantenerle altas las dosis de corticoides, convencido de que las 4 crisis que había tenido eran de insuficiencia de corticoides. Y sin embargo tuvo una quinta crisis, la noche del miércoles 30.
+        </P>
+
+        <P>
+        
+        </P>
+
+
+
+        <div style={subtitleStyles} id={'18'}> Glucocorticoides y mineralocorticoides </div>
+
+        <P>
+        Fueron 3 días de combinar trilostano con corticoides sintéticos porque me pareció buena idea suavizar la terapia de reemplazo dándole los sintéticos preventivamente y, a la vez, darle trilostano para invalidar una producción interna de corticoides que se encimara a los otros. El tercero de estos días fue sin mitotano, ya que llegué a creer que la trituración del mitotano podía explicar estas reacciones.
         </P>
         
         <P>
-        Los que hacemos software estamos acostumbrados a que la gente del mundo publica sus resoluciones y sus explicaciones para que los lea quiensea que esté buscando. Nos potenciamos unos a otros, en vez de vernos como adversarios que tiene que adherir a un reglamento de “ética” para dividirse el mercado, de acuerdo a un árbitro paraestatal anticapitalista, de ideología 100% medieval.
+        Me pregunto hoy por qué le di de fludrocortisona menos de la dosis (un tercio o la mitad de los 100 microgramos recetados), mientras le daba la dosis correcta de prednisolona. La primera es una droga que, evidentemente, subestimé porque no entendía lo que hacía.
+        </P>
+
+        <P>
+        La explicación que parece más verosímil, aunque parezca ridículo que un informático formule tesis de trabajo de la ciencia médica, siendo, no obstante, que no es mi culpa, sino que es culpa del estado de la ciencia médica, donde se pretende delegar completamente la salud en manos de un profesional que, si no sabe, se te muere el perro; la explicación más verosímil parece ser que Ally tenía los mineralocorticoides demasiado bajos pero los glucocorticoides demasiado altos. Así se podría explicar el hambre y la sed combinados con presión arterial baja, náuseas y visión borrosa, en un contexto de deshidratación con inmunodepresión.
         </P>
         
         <P>
-        El tumor primario causaba exceso de cortisol en la sangre, y eso explicaba todos los síntomas. Y siempre estuvo claro que el cortisol causa aumento de glucosa en sangre, inmunodepresión y deshidratación. Sin embargo, en las cortezas suprarrenales se producen 3 tipos de hormonas en 3 capas sucesivas: en la más interna, hormonas sexuales; en la del medio, glucocorticoides; y en la más exterior, mineralocorticoides. El cortisol es el glucocorticoides más importante y mayoritario.
+        El tumor primario causaba exceso de cortisol en la sangre, y eso explicaba todos los síntomas. Y siempre estuvo claro que el cortisol causa aumento de glucosa en sangre, hambre por los carbohidratos, inmunodepresión y deshidratación. Sin embargo, en las cortezas suprarrenales se producen 3 tipos de hormonas en 3 capas sucesivas: en la más interna, hormonas sexuales; en la del medio, glucocorticoides; y en la más exterior, mineralocorticoides. El cortisol es el glucocorticoides más importante y mayoritario. Nunca hasta la terapia de reemplazo tuve que profundizar en este respecto. De hecho, ni siquiera conocía estos nombres.
         </P>
         
         <P>
-        Nunca hasta la terapia de reemplazo tuve que profundizar en este respecto. De hecho, ni siquiera conocía estos nombres. Las hormonas mineralocorticoides, con la aldosterona como principal y mayoritaria, regulan la relación proporcional entre sodio y potasio del cuerpo a través de la sed, la retención de líquido y la eliminación de minerales por la orina.
+        Las hormonas mineralocorticoides, con la aldosterona como principal y mayoritaria, regulan la relación proporcional entre sodio y potasio del cuerpo a través de la sed, la retención de líquido y la eliminación de minerales por la orina. La presión arterial es una consecuencia de este juego de proporciones entre los minerales. Si una enfermedad hace que los mineralocorticoides estén altos, se va a retener sodio de más, se va a eliminar potasio de más y se va a tener más líquido y más presión arterial de lo que es correcto. Esto es parte del Cushing. Por el contrario, si una enfermedad hace que los mineralocorticoides estén bajos, se va a retener menos sodio, se va a eliminar poco potasio y se va a tener poco líquido y menos presión arterial de lo que es correcto. Esto es parte del Adisson.
         </P>
         
         <P>
-        La presión arterial es una consecuencia de este juego de proporciones entre los minerales. Si una enfermedad hace que los mineralocorticoides estén altos, se va a retener sodio de más, se va a eliminar potasio de más y se va a tener más líquido y más presión arterial de lo correcto. Esto es el Cushing. Si una enfermedad hace que los mineralocorticoides estén bajos, se va a retener menos sodio, se va a eliminar poco potasio y se va a tener poco líquido y menos presión arterial de lo correcto. Esto es el Adisson.
-        </P>
-        
-        <P>
-        Yo sabía que en lo peor del 2020, Ally tenía la presión alta, y también justo antes de empezar la carga de trilostano que precedió al mitotano. No obstante, pensé que era una consecuencia de los triglicéridos altísimos que le causaba el cortisol. Desconocía el concepto de mineralocorticoides. Y ahora sé que los triglicéridos no aumentan la presión.
+        Yo sabía que en lo peor del 2020, Ally tenía la presión alta, y también justo antes de empezar la carga de trilostano que precedió al mitotano, en enero de 2022. No obstante, pensé que era una consecuencia de los triglicéridos altísimos que le causaba el cortisol. Desconocía el concepto de mineralocorticoides. Y ahora sé que los triglicéridos no aumentan la presión.
         </P>
         
         <P>
@@ -522,11 +544,6 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'18'}> La fallida terapia de reemplazo de corticoides: sábado negro </div>
-
-        <P>
-        El sábado 19 de marzo la vi caminando muy temprano por el pasillo con la cabeza medio gacha. Me levanté y le di corticoides en leche. Al rato se vino a acostar conmigo totalmente recuperada. Fue otro motivo para afianzar la confusión. Mas bien se estaban cumpliendo 9 horas desde el último trilostano y 18 desde el último fludrocortisona.
-        </P>
 
 
 
@@ -636,38 +653,40 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'22'}> El día final </div>
 
         <P>
+        La decisión de retirar completamente la prednisolona (glucocorticoide) y mantener los 100 microgramos de fludrocortisona (mineralocorticoide y glucocorticoide) pareció correcta en los días que van de la crisis del 30 de marzo a la muerte el 6 de abril. Sin embargo, esta dosis de 0,1 mg dio la apariencia de ser excesiva. Razoné que si el cálculo eran 30 microgramos por kilo de perro (3,5 kg por 30), tal vez había que calcular sobre un pesaje de 2,8 kg por la pérdida de musculatura que causa el Cushing 
+        </P>
+
+        <P>
         El 6 de abril de 2022 era el día que estaba esperando. Quiero decir, pasé de evitar la tomografía por querer evitarle el mal momento a mi perra a desearla con anhelo. Consideraba terminada la etapa de inducción y quería saber 5 cosas para avanzar con confianza a la segunda etapa del tratamiento.
         </P>
         
         <P>
-        Por cierto, si la primera etapa consistió en destruir el tumor primario, hacerle todo el daño posible a los secundarios y conseguir un control externo y consciente de los niveles de corticoides en sangre, la segunda etapa era esta: reducir todo lo posible los niveles de corticoides para encender al máximo el sistema inmunológico, volver a la comida única nocturna, eliminar los carbohidratos de nuevo, alcalinizar el cuerpo con bicarbonato de sodio y potasio y maximizar la producción de macrófagos con vitamina d3, que ya le estaba dando desde principios de marzo; pensaba sumar ácido ascórbico (tipo de vitamina C) y yodo para completar el kit anticáncer por excelencia; y, desde ya, seguir con el mitotano.
+        Por cierto, si la primera etapa consistió en destruir el tumor primario, hacerle todo el daño posible a los secundarios y conseguir un control externo y consciente de los niveles de corticoides en sangre, la segunda etapa era esta: reducir todo lo posible los niveles de corticoides para encender al máximo el sistema inmunológico, volver a la comida única nocturna, eliminar los carbohidratos de nuevo, alcalinizar el cuerpo con bicarbonato de sodio y potasio y maximizar la producción de macrófagos con vitamina d3 (que ya le estaba dando desde principios de marzo); pensaba sumar ácido ascórbico (tipo de vitamina C) y yodo para completar el kit anticáncer; y, desde ya, seguir con el mitotano.
         </P>
         
         <P>
         Por eso las 5 cosas que yo le pedía a la tomografía eran estas:
         </P>
         
-        <div style={ pItems }>
-            <P>
+            <P style={ pItems }>
                 -tumor primario destruido
             </P>
             
-            <P>
+            <P style={ pItems }>
                 -ausencia de tumores en el cráneo
             </P>
             
-            <P>
+            <P style={ pItems }>
                 -ausencia de tumores linfáticos en la zona de la garganta
             </P>
             
-            <P>
+            <P style={ pItems }>
                 -explicación optimista a las masas que asomaban del lado izquierdo
             </P>
             
-            <P>
+            <P style={ pItems }>
                 -alguna reducción de los secundarios, o al menos que no hubiesen avanzado
             </P>
-        </div>
         
         <P>
         El último es el punto más polémico. Yo decía que si a pesar de haber pasado 2 meses volando de corticoides y comiendo carbohidratos, los secundarios no habían logrado avanzar, entonces tendríamos una visión muy positiva para la segunda etapa. Lo menciono porque, al mismo tiempo, todo profesional de la medicina exigía inmediata eutanasia al ver las imágenes de la radiografía, como pasaría el día de la tomografía.
@@ -774,7 +793,7 @@ export default function Spanish() {
         </P>
 
         <P>
-        Respecto al endocrinólogo, lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no volver a verlo.
+        Respecto al endocrinólogo, lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
         </P>
 
 
@@ -782,66 +801,82 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'26'}> Conclusiones </div>
 
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> Cuando un perro empieza a comer de más, a beber y orinar de más, tuerce su apetito hacia los carbohidratos, sean dulces o salados, y con mucha más razón si le aparece una barriga dura cerca de las costillas, lejos de los genitales, es hora de mirar las glándulas suprarrenales y el hígado con ecógrafo, hacer una prueba en orina de la relación cortisol/creatinina y mirar los pulmones con radiografía. Cuanto antes mejor. </li>
+            <li>
+            Cuando un perro empieza a comer de más, a beber y orinar de más, tuerce su apetito hacia los carbohidratos, sean dulces o salados, y con mucha más razón si le aparece una barriga dura cerca de las costillas, lejos de los genitales, hay pérdida de musculatura y dan altos los valores en sangre de ALT-GPT, AST-GOT, triglicéridos, cortisol y sodio, es hora de mirar las glándulas suprarrenales y el hígado con ecógrafo, hacer una prueba en orina de la relación cortisol/creatinina y mirar los pulmones con radiografía. Cuanto antes mejor.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> El Cushing puede ser por tumor en esas glándulas o por tumor en la hipófisis, glándula que le da órdenes a ellas y que está en el centro del cráneo. Este es inoperable siempre. </li>
+            <li>
+            El Cushing puede ser por tumor en esas glándulas o por tumor en la hipófisis, glándula que le da órdenes a ellas y que está en el centro del cráneo. Este es inoperable siempre.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> El trilostano y el mitotano sirven para ambos tumores. Pero solo reducen la liberación de corticoides. </li>
+            <li>
+            El trilostano y el mitotano sirven para ambos tumores. Pero solo reducen la liberación de corticoides.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> Si el tumor está abajo, sobre los riñones, hay que removerlo cuanto antes y rehabilitar la glándula sana, salvo que ya se haya invadido la vena cava inferior. Sobre la posibilidad de atacar con dosis bajas de mitotano para liberar la vena y luego extirpar, considerar la posibilidad. Yo desconocía que esto se podía hacer hasta que fue demasiado tarde. </li>
+            <li>
+            Si el tumor está abajo, sobre los riñones, hay que removerlo cuanto antes y rehabilitar la glándula sana, salvo que ya se haya invadido la vena cava inferior. Sobre la posibilidad de atacar con dosis bajas de mitotano para liberar la vena y luego extirpar, considerar la posibilidad. Yo desconocía que esto se podía hacer hasta que fue demasiado tarde.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> Para evitar la muerte hay que evitar estas 3 cosas: crecimiento del primario, avance del primario sobre la vena cava inferior si es suprarrenal, y metástasis. </li>
+            <li>
+            Para evitar la muerte hay que evitar estas 3 cosas: crecimiento del primario, avance del primario sobre la vena cava inferior si es suprarrenal, y metástasis.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> Las 3 metas se logran con un sistema de defensas fuerte, que incluye evitar los carbohidratos, los antibióticos y el estrés y mantener bajos los niveles de cortisol. Puede ser bueno alcalinizar el cuerpo con dosis de bicarbonato de sodio, potasio y magnesio y fortalecer el sistema inmunológico con vitamina D3. </li>
+            <li>
+            Las 3 metas se logran con un sistema de defensas fuerte, que incluye evitar los carbohidratos, los antibióticos y el estrés y mantener bajos los niveles de cortisol. Puede ser bueno alcalinizar el cuerpo con dosis de bicarbonato de sodio, potasio y magnesio y fortalecer el sistema inmunológico con vitamina D3.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> Se monitorea cada 2 meses por orina, sangre, ecografía y placa de tórax. Si el cortisol en orina está alto, aumentar la droga de inmediato porque baja las defensas y facilita las metástasis. Prestar especial atención a los parámetros que podrían indicar enfermedad del hígado. Tener en cuenta que aunque las concentraciones de cortisol den bien cuando se tomen las muestras en días normales, puede que se disparen en los días especiales o ante situaciones especiales hasta niveles dañinos. </li>
+            <li>
+            Se monitorea cada 2 meses por orina, sangre, ecografía y placa de tórax. Si el cortisol en orina está alto, aumentar la droga de inmediato porque baja las defensas y facilita las metástasis. Prestar especial atención a los parámetros que podrían indicar enfermedad del hígado. Tener en cuenta que aunque las concentraciones de cortisol den bien cuando se tomen las muestras en días normales, puede que se disparen en los días especiales o ante situaciones especiales hasta niveles dañinos.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> En caso de metástasis, se ataca inmediatamente con mitotano. Si hay metástasis importantes, mantener una dosis de trilostano mientras se avanza. Pero en todos los casos hay que tener inyecciones de hidrocortisona/dexametasona a mano para usar si viene una crisis. </li>
+            <li>
+            En caso de metástasis, primeramente se debería determinar si se trata de metástasis suprarrenal o si hay otro tipo de cáncer en el cuerpo. De confirmarse el suprarrenal, atacar inmediatamente con mitotano. Si hay metástasis importantes, mantener una dosis de trilostano mientras se avanza. Pero en todos los casos hay que tener inyecciones de hidrocortisona/dexametasona a mano para usar si viene una crisis.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> La nueva vida consiste en introducir corticoides sintéticos cada 12 horas en la dosis mínima que necesita para un día normal. Aprender las dosis y los tiempos de cada una de las drogas. Tener listos los inyectables para emergencias. Necesitará un plus de glucocorticoides cada vez que esté asustado o estresado o ansioso o se dé un golpe o desarrolle una infección, etcétera. </li>
+            <li>
+            La nueva vida consiste en introducir corticoides sintéticos cada 12 horas en la dosis mínima que necesita para un día normal. Aprender las dosis y los tiempos de cada una de las drogas. Tener listos los inyectables para emergencias. Necesitará un plus de glucocorticoides cada vez que esté asustado o estresado o ansioso o se dé un golpe o desarrolle una infección, etcétera.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> Moverse dentro de un ámbito reducido con profesionales que conozcan el caso. Esconder al animal de los profesionales que no saben de qué se trata y se creen héroes por eutanasiar sin consideraciones. </li>
+            <li>
+            Moverse dentro de un ámbito reducido con profesionales que conozcan el caso. Esconder al animal de los profesionales que no saben de qué se trata y se creen héroes por eutanasiar sin consideraciones.
+            </li>
         </P>
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> Tener listo un sedante inyectable para caso de colapso y así poder llevarlo medio dormido a urgencias. </li>
+            <li>
+            Tener listo un sedante inyectable para caso de colapso y así poder llevarlo medio dormido a urgencias.
+            </li>
         </P>
 
         <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li> La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir el cuadro sin mitotano. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré. </li>
+            <li>
+            La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir el cuadro sin mitotano. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré.
+            </li>
         </P>
+
+        <br />
 
         <P>
-        Esto es todo lo que puedo dar sobre el tema. Este es el link para consultar todos los estudios de Ally citados:
+        Esto es todo lo que puedo dar sobre el tema. Y este es el link para consultar todos los estudios de Ally:
         </P>
-
-        <P className={'text-center mt-4'}>
-            <a href="https://www.dropbox.com/sh/33534lmwfim6mn6/AADsNVdoY_TwsBf5Q2B3_9dva?dl=0" target={'_blank'} rel={'noreferrer'}>
-                https://www.dropbox.com/sh/33534lmwfim6mn6/AADsNVdoY_TwsBf5Q2B3_9dva?dl=0
-            </a>
-        </P>
-
-        <br/>
-        
-        <br/>
 
     </div>)
 }

@@ -8,19 +8,15 @@ export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeH
             className={`${styles.card} custom-control custom-switch ${isDarkMode ? 'bg-dark' : 'bg-light'} `}
             style={{
                 position: 'fixed',
-                bottom: isMobile ? '' : 0,
-                top: isMobile ? 0 : '',
-                left: isMobile ? '40%' : 0,
+                bottom: !isMobile && 0,
+                top: isMobile && 0,
+                left: isMobile ? '140px' : 0,
                 marginLeft: '3%',
                 cursor: 'pointer',
                 padding: '10px'
             }}
         >
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             
             <input className={'custom-control-input'}
                 type={'checkbox'}
@@ -35,9 +31,7 @@ export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeH
             <label
                 className={`custom-control-label ${isDarkMode ? 'text-white' : ''}`}
                 htmlFor={'customSwitches'}
-                style={{
-                    cursor: 'pointer'
-                }}
+                style={{ cursor: 'pointer' }}
             >
                 <b> {isEnglish && isDarkMode && (isMobile ? 'Mode' : 'Light Mode')} </b>
                 <b> {isEnglish && !isDarkMode && (isMobile ? 'Mode' : 'Dark Mode')} </b>
