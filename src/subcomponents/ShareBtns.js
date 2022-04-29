@@ -29,6 +29,8 @@ export const ShareBtns = () => {
     const title = 'Mal de Cushing en perros: El caso de Ally'
     const [copiedToClipboard, setCopiedToClipboard] = useState(false)
 
+    const cardWidth = '100%'
+
     return (
         <div style={{ marginTop: '60px' }}>
 
@@ -36,9 +38,9 @@ export const ShareBtns = () => {
 
             <div className={'row d-flex'}>
 
-                <div className={'col-lg-4 offset-lg-2 p-0 align-items-center justify-content-center'}>
+                <div className={'col-xl-4 offset-xl-2 p-0 align-items-center justify-content-center'}>
                     
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto' }}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto' }}>
                         <FacebookShareButton
                             url={shareUrl}
                             quote={title}
@@ -48,7 +50,7 @@ export const ShareBtns = () => {
                         </FacebookShareButton>
                     </div>
 
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto'  }}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
                         <TwitterShareButton
                             url={shareUrl}
                             title={title}
@@ -58,7 +60,7 @@ export const ShareBtns = () => {
                         </TwitterShareButton>
                     </div>
 
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto'  }}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
                         <TelegramShareButton
                             url={shareUrl}
                             title={title}
@@ -68,7 +70,7 @@ export const ShareBtns = () => {
                         </TelegramShareButton>
                     </div>
 
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto'  }}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
                         <WhatsappShareButton
                             url={shareUrl}
                             title={title}
@@ -80,8 +82,8 @@ export const ShareBtns = () => {
 
                 </div>
 
-                <div className={'col-lg-4 offset-lg-0 p-0'}>
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto'  }}>
+                <div className={'col-xl-4 offset-xl-0 p-0'}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
                         <LinkedinShareButton
                             url={shareUrl}
                             title={shareUrl}
@@ -91,7 +93,7 @@ export const ShareBtns = () => {
                         </LinkedinShareButton>
                     </div>
 
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto'  }}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
                         <RedditShareButton
                             url={shareUrl}
                             title={title}
@@ -103,7 +105,7 @@ export const ShareBtns = () => {
                         </RedditShareButton>
                     </div>
 
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto'  }}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
                         <TumblrShareButton
                             url={shareUrl}
                             title={title}
@@ -113,7 +115,7 @@ export const ShareBtns = () => {
                         </TumblrShareButton>
                     </div>
 
-                    <div className={styles.card} style={{ width: '100%', marginInline: 'auto'  }}>
+                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
                         <EmailShareButton
                             url={shareUrl}
                             subject={title}

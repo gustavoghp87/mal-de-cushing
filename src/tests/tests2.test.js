@@ -1,5 +1,5 @@
 import '@testing-library/jest-dom'
-import { Title } from '../common/Title'
+import { Title } from '../subcomponents/Title'
 import { shallow } from 'enzyme'
 import { useIsMobile } from '../custom-hooks/useIsMobile'
 import { renderHook } from '@testing-library/react'

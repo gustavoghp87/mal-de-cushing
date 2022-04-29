@@ -5,7 +5,7 @@ export const VideoIFrame = ({ isMobile }) => {
     return (
         <div className={'text-center'} style={{ marginTop: '100px' }}>
             <hr className={'bg-white'} style={{ marginBottom: '80px' }} />
-            <iframe src={"https://www.youtube.com/embed/bQ4F3Bvchf4"}
+            <iframe src={"https://www.youtube.com/embed/DFGSAtTu7rU"}
                 width={isMobile ? "98%" : "560"}
                 height={"315"} 
                 title={"Ally"}

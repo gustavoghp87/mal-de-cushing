@@ -1,18 +1,18 @@
 import { useEffect, useState } from 'react'
 import English from './English'
 import Spanish from './Spanish'
-import { Title } from './common/Title'
-import { Footer } from './common/Footer'
-import { DarkModeButton } from './common/DarkModeButton'
-import { IndexButton } from './common/IndexButton'
-import { IndexModal } from './common/IndexModal'
-import { SizeButton } from './common/SizeButton'
-import { LinkToDocuments } from './common/LinkToDocuments'
-import { VideoIFrame } from './common/VideoIFrame'
-import { LanguageBtn } from './common/LanguageBtn'
+import { Title } from './subcomponents/Title'
+import { Footer } from './subcomponents/Footer'
+import { DarkModeButton } from './subcomponents/DarkModeButton'
+import { IndexButton } from './subcomponents/IndexButton'
+import { IndexModal } from './subcomponents/IndexModal'
+import { SizeButton } from './subcomponents/SizeButton'
+import { LinkToDocuments } from './subcomponents/LinkToDocuments'
+import { VideoIFrame } from './subcomponents/VideoIFrame'
+import { LanguageBtn } from './subcomponents/LanguageBtn'
 import { useIsMobile } from './custom-hooks/useIsMobile'
 import { useShowWidgets } from './custom-hooks/useShowWidgets'
-import { ShareBtns } from './common/ShareBtns'
+import { ShareBtns } from './subcomponents/ShareBtns'
 
 export const App = () => {
     const [isEnglish, setIsEnglish] = useState(false)
@@ -24,7 +24,8 @@ export const App = () => {
     const setShowIndexHandler = newState => setShowIndex(newState)
     
     useEffect(() => {
-        if (window.localStorage.getItem('darkModeCushing') === "false") setIsDarkMode(false)
+        if (window.localStorage.getItem('darkModeCushing') === "false")
+            setIsDarkMode(false)
     }, [])
 
     return (
