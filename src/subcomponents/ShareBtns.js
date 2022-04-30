@@ -29,105 +29,76 @@ export const ShareBtns = () => {
     const title = 'Mal de Cushing en perros: El caso de Ally'
     const [copiedToClipboard, setCopiedToClipboard] = useState(false)
 
-    const cardWidth = '100%'
+    const socialNetworks = [
+        {
+            button: FacebookShareButton,
+            icon: FacebookIcon,
+            text: "Compartir en Facebook"
+        },
+        {
+            button: TwitterShareButton,
+            icon: TwitterIcon,
+            text: "Compartir en Twitter"
+        },
+        {
+            button: TelegramShareButton,
+            icon: TelegramIcon,
+            text: "Compartir por Telegram"
+        },
+        {
+            button: WhatsappShareButton,
+            icon: WhatsappIcon,
+            text: "Compartir por WhatsApp"
+        },
+        {
+            button: LinkedinShareButton,
+            icon: LinkedinIcon,
+            text: "Compartir en LinkedIn"
+        },
+        {
+            button: RedditShareButton,
+            icon: RedditIcon,
+            text: "Compartir en Reddit"
+        },
+        {
+            button: TumblrShareButton,
+            icon: TumblrIcon,
+            text: "Compartir en Tumblr"
+        },
+        {
+            button: EmailShareButton,
+            icon: EmailIcon,
+            text: "Compartir por e-mail"
+        }
+    ] // fb: quote, no title; reddit: windowWidth, windowHeight; email: subject, body, no title;
 
     return (
         <div style={{ marginTop: '60px' }}>
 
             <hr className={'bg-white'} style={{ marginBottom: '80px' }} />
 
-            <div className={'row d-flex'}>
-
-                <div className={'col-xl-4 offset-xl-2 p-0 align-items-center justify-content-center'}>
-                    
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto' }}>
-                        <FacebookShareButton
+            <div className={'row d-flex align-items-center justify-content-center'}>
+                {socialNetworks.map((socialNet, index) => (
+                    <div key={index} className={styles.card} style={{
+                        width: '300px',
+                        height: '80px',
+                        marginInline: '10px'
+                    }}>
+                        <socialNet.button
                             url={shareUrl}
+                            title={title}
                             quote={title}
-                            className={'my-2'}
-                        >
-                            <FacebookIcon size={32} round /> &nbsp; Compartir en Facebook
-                        </FacebookShareButton>
-                    </div>
-
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
-                        <TwitterShareButton
-                            url={shareUrl}
-                            title={title}
-                            className={'my-2'}
-                        >
-                            <TwitterIcon size={32} round /> &nbsp; Compartir en Twitter
-                        </TwitterShareButton>
-                    </div>
-
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
-                        <TelegramShareButton
-                            url={shareUrl}
-                            title={title}
-                            className={'my-2'}
-                        >
-                            <TelegramIcon size={32} round /> &nbsp; Compartir por Telegram
-                        </TelegramShareButton>
-                    </div>
-
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
-                        <WhatsappShareButton
-                            url={shareUrl}
-                            title={title}
-                            className={'my-2'}
-                        >
-                            <WhatsappIcon size={32} round /> &nbsp; Compartir por WhatsApp
-                        </WhatsappShareButton>
-                    </div>
-
-                </div>
-
-                <div className={'col-xl-4 offset-xl-0 p-0'}>
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
-                        <LinkedinShareButton
-                            url={shareUrl}
-                            title={shareUrl}
-                            className={'my-2'}
-                        >
-                            <LinkedinIcon size={32} round /> &nbsp; Compartir en LinkedIn
-                        </LinkedinShareButton>
-                    </div>
-
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
-                        <RedditShareButton
-                            url={shareUrl}
-                            title={title}
+                            className={'mt-2'}
                             windowWidth={660}
                             windowHeight={460}
-                            className={'my-2'}
-                        >
-                            <RedditIcon size={32} round /> &nbsp; Compartir en Reddit
-                        </RedditShareButton>
-                    </div>
-
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
-                        <TumblrShareButton
-                            url={shareUrl}
-                            title={title}
-                            className={'my-2'}
-                        >
-                            <TumblrIcon size={32} round /> &nbsp; Compartir en Tumblr
-                        </TumblrShareButton>
-                    </div>
-
-                    <div className={styles.card} style={{ width: cardWidth, marginInline: 'auto'  }}>
-                        <EmailShareButton
-                            url={shareUrl}
                             subject={title}
                             body={"Comparto este sitio web acerca del mal de Cushing en perros: "}
-                            className={'my-2'}
                         >
-                            <EmailIcon size={32} round /> &nbsp; Compartir por e-mail
-                        </EmailShareButton>
+                            <socialNet.icon size={32} round /> &nbsp; {socialNet.text}
+                        </socialNet.button>
                     </div>
-                </div>
+                ))}
             </div>
-
 
             <div className={'text-center inline'} style={{ marginTop: '40px' }}>
                 <CopyToClipboard text={shareUrl} onCopy={() => setCopiedToClipboard(true)}>

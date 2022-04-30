@@ -22,14 +22,24 @@ export const App = () => {
     const showWidgets = useShowWidgets()
     const setIsDarkModeHandler = newState => setIsDarkMode(newState)
     const setShowIndexHandler = newState => setShowIndex(newState)
+
+    const [innerWidthX, setInnerWidthX] = useState(window.innerWidth)
+    
+    const updateInnerWidthX = () => {
+        setTimeout(() => {
+            setInnerWidthX(window.innerWidth)
+            updateInnerWidthX()
+        }, 2000)
+    }
     
     useEffect(() => {
         if (window.localStorage.getItem('darkModeCushing') === "false")
-            setIsDarkMode(false)
+        setIsDarkMode(false)
+        updateInnerWidthX()
     }, [])
 
     return (
-        <div className={`p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}>
+        <div className={`p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`} style={{ width: innerWidthX }}>
 
             <div
                 style={{

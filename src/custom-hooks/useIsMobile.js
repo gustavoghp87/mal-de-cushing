@@ -13,7 +13,7 @@ export const useIsMobile = () => {
 
     useEffect(() => {
         adjustIsMobile()
-    }, [adjustIsMobile])
+    }, [])
 
 
     return isMobile
