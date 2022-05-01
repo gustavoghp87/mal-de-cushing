@@ -10,12 +10,10 @@ export const SizeButton = ({ isDarkMode, isEnglish, isMobile }) => {
         <div
             className={`${styles.card} ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}
             style={{
-                position: 'fixed',
-                bottom: !isMobile && 0,
-                top: isMobile && 0,
-                right: !isMobile && 0,
-                left: isMobile && '270px',
-                marginRight: !isMobile && '3%',
+                position: isMobile ? '' : 'fixed',
+                bottom: isMobile ? '' : 0,
+                right: isMobile ? '' : 0,
+                marginRight: isMobile ? '' : '3%',
                 padding: '5px'
             }}
         >
@@ -55,7 +53,6 @@ export const SizeButton = ({ isDarkMode, isEnglish, isMobile }) => {
             </div>
 
         </div>
-
     )
 }
 

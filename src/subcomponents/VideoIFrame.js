@@ -7,7 +7,7 @@ export const VideoIFrame = ({ isMobile }) => {
             <hr className={'bg-white'} style={{ marginBottom: '80px' }} />
             <iframe src={"https://www.youtube.com/embed/NKaxg-suW9A"}
                 width={isMobile ? "98%" : "560"}
-                height={"315"} 
+                height={isMobile ? "380": "315"} 
                 title={"Ally"}
                 frameBorder={"0"}
                 allow={"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;"}

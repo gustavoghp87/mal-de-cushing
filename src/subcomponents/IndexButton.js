@@ -8,10 +8,10 @@ export const IndexButton = ({ isEnglish, isMobile, isDarkMode, setShowIndexHandl
         <div
             className={`${styles.card} ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}
             style={{
-                position: 'fixed',
-                left: 0,
-                top: 0,
-                marginLeft: '3%',
+                position: isMobile ? '' : 'fixed',
+                left: isMobile ? '' : 0,
+                top: isMobile ? '' : 0,
+                marginLeft: isMobile ? '' : '3%',
                 cursor: 'pointer',
                 padding: isMobile ? '10px 37px' : ''
             }}

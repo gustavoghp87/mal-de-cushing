@@ -7,11 +7,10 @@ export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeH
         <div
             className={`${styles.card} custom-control custom-switch ${isDarkMode ? 'bg-dark' : 'bg-light'} `}
             style={{
-                position: 'fixed',
-                bottom: !isMobile && 0,
-                top: isMobile && 0,
-                left: isMobile ? '140px' : 0,
-                marginLeft: '3%',
+                position: isMobile ? '' : 'fixed',
+                bottom: isMobile ? '' : 0,
+                left: isMobile ? '' : 0,
+                marginLeft: isMobile ? '' : '3%',
                 cursor: 'pointer',
                 padding: '10px'
             }}

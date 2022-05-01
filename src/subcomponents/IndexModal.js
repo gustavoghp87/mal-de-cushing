@@ -23,7 +23,6 @@ export const IndexModal = ({ isEnglish, isDarkMode, showIndex, setShowIndexHandl
     return (
         <Modal
             show={showIndex}
-            style={{ maxWidth: '95%' }}
             onHide={() => setShowIndexHandler(false)}
         >
             <Modal.Header closeButton className={isDarkMode ? 'bg-dark text-white' : ''}>

@@ -20,26 +20,20 @@ export const App = () => {
     const [showIndex, setShowIndex] = useState(false)
     const isMobile = useIsMobile()
     const showWidgets = useShowWidgets()
+    const currentWidth = window.innerWidth
     const setIsDarkModeHandler = newState => setIsDarkMode(newState)
     const setShowIndexHandler = newState => setShowIndex(newState)
 
-    const [innerWidthX, setInnerWidthX] = useState(window.innerWidth)
-    
-    const updateInnerWidthX = () => {
-        setTimeout(() => {
-            setInnerWidthX(window.innerWidth)
-            updateInnerWidthX()
-        }, 2000)
-    }
-    
+    document.getElementsByTagName('body')[0].addEventListener('click', () => {
+        if (currentWidth !== window.innerWidth) setTimeout(() => window.location.reload(), 500)
+    })
+
     useEffect(() => {
-        if (window.localStorage.getItem('darkModeCushing') === "false")
-        setIsDarkMode(false)
-        updateInnerWidthX()
+        if (window.localStorage.getItem('darkModeCushing') === "false") setIsDarkMode(false)
     }, [])
 
     return (
-        <div className={`p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`} style={{ width: innerWidthX }}>
+        <div className={`p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}>
 
             <div
                 style={{
@@ -48,11 +42,12 @@ export const App = () => {
                     marginBottom: '120px'
                 }}
             >
-
-                <LanguageBtn
-                    isEnglish={isEnglish}
-                    setIsEnglish={setIsEnglish}
-                />
+                <div className={'d-none'}>
+                    <LanguageBtn
+                        isEnglish={isEnglish}
+                        setIsEnglish={setIsEnglish}
+                    />
+                </div>
 
                 <Title
                     isEnglish={isEnglish}
@@ -65,33 +60,12 @@ export const App = () => {
 
                 <LinkToDocuments />
 
-                <VideoIFrame isMobile={isMobile} />
-
                 <ShareBtns />
 
-                {showWidgets &&
-                    <>
-                        <IndexButton
-                            isEnglish={isEnglish}
-                            isMobile={isMobile}
-                            isDarkMode={isDarkMode}
-                            setShowIndexHandler={setShowIndexHandler}
-                        />
+                <VideoIFrame isMobile={isMobile} />
 
-                        <DarkModeButton
-                            isEnglish={isEnglish}
-                            isMobile={isMobile}
-                            isDarkMode={isDarkMode}
-                            setIsDarkModeHandler={setIsDarkModeHandler}
-                        />
-
-                        <SizeButton
-                            isEnglish={isEnglish}
-                            isMobile={isMobile}
-                            isDarkMode={isDarkMode}
-                        />
-                    </>
-                }
+                
+            </div>
 
                 <IndexModal
                     isEnglish={isEnglish}
@@ -99,10 +73,40 @@ export const App = () => {
                     showIndex={showIndex}
                     setShowIndexHandler={setShowIndexHandler}
                 />
-                
-            </div>
-
             <Footer />
+
+            {showWidgets    &&
+                <div
+                    className={`${isMobile ? 'w-100' : ''} ${isMobile && isDarkMode ? 'bg-dark' : 'bg-secondary'}`}
+                    style={{ position: isMobile ? 'fixed' : '', top: isMobile ? 0 : '' }}
+                >
+                    <div
+                        className={`${isMobile ? 'row d-flex align-items-center' : ''}`}
+                        style={{ justifyContent: isMobile ? 'space-evenly' : '' }}
+                    >
+
+                    <DarkModeButton
+                        isEnglish={isEnglish}
+                        isMobile={isMobile}
+                        isDarkMode={isDarkMode}
+                        setIsDarkModeHandler={setIsDarkModeHandler}
+                    />
+
+                    <IndexButton
+                        isEnglish={isEnglish}
+                        isMobile={isMobile}
+                        isDarkMode={isDarkMode}
+                        setShowIndexHandler={setShowIndexHandler}
+                    />
+
+                    <SizeButton
+                        isEnglish={isEnglish}
+                        isMobile={isMobile}
+                        isDarkMode={isDarkMode}
+                    />
+                </div>
+                </div>
+            }
 
         </div>
     )

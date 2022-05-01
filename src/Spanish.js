@@ -15,23 +15,31 @@ export default function Spanish() {
         </P>
         
         <P>
-        Luego fue perfectamente controlada con un inhibidor de corticoides llamado trilostano, de poca experiencia en el mercado (data de 2006). El tumor primario ya era inoperable para cuando se lo descubrió porque estaba invadiendo la luz de la vena cava inferior y toda cirugía en esa zona es garantía de desangrado. Tuvo, entonces, el mejor año y medio de su vida, en perfecta salud.
+        Luego fue perfectamente controlada con un inhibidor de corticoides llamado trilostano, de poca experiencia en el mercado (data de 2006). El tumor ya era inoperable para cuando fue descubierto porque estaba invadiendo la luz de la vena cava inferior y toda cirugía en esa zona es garantía de desangrado. Tuvo, entonces, el mejor año y medio de su vida, en completa salud.
         </P>
         
         <P>
-        Pero año y medio después se notó que la dosis diaria que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
+        Pero después de ese año y medio se notó que la dosis diaria que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
         </P>
         
         <P>
-        Finalmente, el día 60 del tratamiento la llevé a hacer una tomografía computada para saber cómo marchaba pero ya la dejé allí para cremación. Ella ya no tenía capacidad de producir sus propios corticoides para esa fecha por causa de la naturaleza del tratamiento que estaba haciendo y probablemente necesitaba recibir corticoides de efecto inmediato para salir de la crisis respiratoria en la que la metió el estudio con sedantes. Pero los veterinarios del centro no me escucharon, me combatieron, pusieron a mi familia en mi contra y prevalecieron. Fue eutanasiada mientras reposaba su cabeza en mi mano y yo le decía que la llevaría a casa cuando despertase.
+        Finalmente, el día 60 del tratamiento la llevé a hacer una tomografía computada para saber cómo marchaba pero ya la dejé allí para cremación. Ella ya no tenía capacidad de producir sus propios corticoides para esa fecha por causa de la naturaleza del tratamiento que estaba haciendo y probablemente necesitaba recibir corticoides de efecto inmediato para salir de la crisis respiratoria en la que la metió el estudio con sedantes. Pero los veterinarios del centro no me escucharon, me combatieron y prevalecieron. Fue eutanasiada mientras reposaba su cabeza en mi mano.
         </P>
         
         <P>
-        Hay varios errores importantes que, de no cometerse, se hubiese evitado la enfermedad, el sufrimiento y el desenlace, algunos certeros y otros de aproximación, algunos mi culpa y otros de los demás.
+        Hay varios errores importantes que, de no haberse cometido, se hubiese evitado la enfermedad, el sufrimiento y el desenlace; algunos certeros y otros de aproximación; algunos mi culpa y otros de los demás.
         </P>
         
         <P>
-        Creo que la navegación por internet dio de baja al monopolio institucional del conocimiento práctico pero solo en la medida en que alguien se tome el trabajo de escribirlo para que sea accesible. Y, en consecuencia, dio de baja a la denigrante esclavitud del hombre común al profesional de los servicios médicos, a sus virtudes, a sus imbecilidades, a su conocimiento, a su ignorancia, a sus aciertos, a sus desaciertos. Para bien y para mal.
+        Estoy seguro de que la información que yo necesité estaba en las bibliotecas de las universidades. En paralelo, creo también que la navegación por internet dio de baja al monopolio institucional del conocimiento práctico pero solo en la medida en que alguien se tome el trabajo de escribirlo para que sea accesible; y, en consecuencia, dio de baja a la denigrante esclavitud del hombre común al profesional de los servicios médicos, a sus virtudes, a sus imbecilidades, a su conocimiento, a su ignorancia, a sus aciertos, a sus desaciertos; para bien y para mal.
+        </P>
+        
+        <P>
+        Plasmo conocimiento práctico que necesita el hombre práctico, y el entendimiento crítico que necesita el que quiere huir de la mentira y del engaño. No publico conocimiento teórico que pueda servirle al pobre diablo para destacarse en el juego institucional del poder, del consenso entre poderosos, para dar falsa validación a sus pretensiones de alzarse sobre la masa como supremacista intelectual ni como supremacista moral, ni para aprobar exámenes en la universidad con el fin de alcanzar una matrícula para-estatal que da permiso para vender, ni para recibir una medalla o el aplauso de los demás.
+        </P>
+        
+        <P>
+        Soy fabricante de software, no le digo a los demás lo que tienen que hacer. No creo en la ingeniería social ni en los intelectuales. No tengo un título habilitante. El Estado no me da permiso para vender servicios en un mercado secuestrado. No estoy expuesto a juicios de ética por colegas que puedan considerar que la competencia es una falta de ética. No tengo sobre mi cabeza un órgano corporativo colectivista para-estatal que me obligue a ejercer la mala praxis, que es el consejo profesional, árbitro para la supremacía de los intereses creados y el pisoteo del bien común. Hago alpargatas, sí; libros no.
         </P>
         
         <P>
@@ -39,15 +47,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Plasmo conocimiento práctico que necesita el humano práctico, y el entendimiento crítico que necesita el que quiere huir de la mentira y del engaño. No publico conocimiento teórico que pueda servirle al pobre diablo para destacarse en el juego institucional del poder, del consenso entre poderosos, para dar falsa validación a sus pretensiones de alzarse sobre la masa como supremacista intelectual ni como supremacista moral, ni para aprobar exámenes en la universidad ni para recibir una medalla o el aplauso de los pecadores.
-        </P>
-        
-        <P>
-        Soy fabricante de software, no le digo a los demás lo que tienen que hacer. No creo en la ingeniería social ni en los intelectuales. No tengo un título habilitante. El Estado no me da permiso para vender servicios en un mercado secuestrado. No estoy expuesto a juicios de ética por colegas que puedan considerar que la competencia es una falta de ética. No tengo sobre mi cabeza un órgano corporativo colectivista que me obligue a ejercer la mala praxis, que es el consejo profesional, árbitro para-estatal para la supremacía de los intereses creados y el pisoteo del bien común. Hago alpargatas, sí; libros no.
-        </P>
-        
-        <P>
-        Busco respuestas en internet. Si no encuentro, cuando encuentro las publico yo mismo, con errores propios, la autocrítica que corresponda y la exposición de la corrupción del sistema y de la imbecilidad del hombre común, en tanto sea relevante. Recibo críticas y enriquezco. Aunque, por esta vez y la sensibilidad del caso, hago también de editor con línea editorial.
+        Busco respuestas en internet. Si no encuentro, cuando encuentro las publico yo mismo, con errores propios, la autocrítica que corresponda y la exposición de la corrupción del sistema y de la imbecilidad del hombre común, en tanto sea relevante, porque la corrupción del sistema es la imbecilidad del hombre común. Recibo críticas y enriquezco.
         </P>
         
         <P>
@@ -59,7 +59,7 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'2'}> Ella </div>
 
         <P>
-        Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal de una familia conocida de la mía.
+        Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal.
         </P>
 
         <P>
@@ -67,11 +67,7 @@ export default function Spanish() {
         </P>
 
         <P>
-        Ally siempre fue de carácter tranquilo. Rara vez jugó con un perro, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros.
-        </P>
-
-        <P>
-        Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad. Un problema que pocos dudarían en asociar con su tamaño, pero no deja de ser una interpretación esta que pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
+        Ally siempre fue de carácter tranquilo. Rara vez jugó con un perro y nunca los olfateó, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros. Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad. Un problema que pocos dudarían en asociar con su tamaño, pero no deja de ser una interpretación esta que pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
         </P>
 
 
@@ -99,11 +95,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        Luego de unos estudios ridículos de la tiroides, sangre, orina y hasta radiografía para mirarle la columna vertebral, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado light. Y esto a pesar de que varios parámetros en la sangre estaban mal.
+        Luego de unos estudios ridículos de la tiroides, sangre, orina y hasta radiografía para mirarle la columna vertebral, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado light; y esto a pesar de que varios parámetros en la sangre estaban mal.
         </P>
         
         <P>
-        Para abril de 2020, 19 meses después de la castración, no podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Luego de comer, bebía grandes cantidades y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar. Tenía hambre todo el tiempo y una gran panza abalonada alrededor del hígado, la de la grasa visceral que causa el hígado graso por estrés metabólico.
+        Para abril de 2020, 19 meses después de la castración y junto con el confinamiento obligatorio, no podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Luego de comer, bebía grandes cantidades y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar. Tenía hambre todo el tiempo y una gran panza abalonada alrededor del hígado, la de la grasa visceral que causa el hígado graso por estrés metabólico.
         </P>
         
         <P>
@@ -844,7 +840,13 @@ export default function Spanish() {
         
         <P style={{ textIndent: '0', marginInline: '3%' }}>
             <li>
-            En caso de metástasis, primeramente se debería determinar si se trata de metástasis suprarrenal o si hay otro tipo de cáncer en el cuerpo. De confirmarse el suprarrenal, atacar inmediatamente con mitotano. Si hay metástasis importantes, mantener una dosis de trilostano mientras se avanza. Pero en todos los casos hay que tener inyecciones de hidrocortisona/dexametasona a mano para usar si viene una crisis.
+            En caso de metástasis, primeramente se debería determinar si se trata de metástasis suprarrenal o si hay otro tipo de cáncer en el cuerpo que aprovechó la debilidad inmunológica que causa el cortisol alto.
+            </li>
+        </P>
+        
+        <P style={{ textIndent: '0', marginInline: '3%' }}>
+            <li>
+            De confirmarse el tipo suprarrenal, se puede atacar inmediatamente con mitotano. Si hay metástasis importantes, hay que mantener una dosis de trilostano mientras se avanza. Tener inyecciones de hidrocortisona y dexametasona a mano para usar si viene una crisis.
             </li>
         </P>
         
