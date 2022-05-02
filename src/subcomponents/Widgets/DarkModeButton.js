@@ -1,4 +1,4 @@
-import styles from '../css/styles.module.css'
+import styles from '../../css/styles.module.css'
 import { PropTypes } from 'prop-types'
 
 export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeHandler }) => {
@@ -12,7 +12,7 @@ export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeH
                 left: isMobile ? '' : 0,
                 marginLeft: isMobile ? '' : '3%',
                 cursor: 'pointer',
-                padding: '10px'
+                padding: '11px 10px'
             }}
         >
             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;

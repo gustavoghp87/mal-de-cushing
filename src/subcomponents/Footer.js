@@ -4,14 +4,12 @@ export const Footer = () => (
 
     <footer className={`${styles.footer} d-flex flex-column align-items-center mt-4`}>
 
-        <div style={{ maxWidth: '80%' }}>
+        <div className={'my-2'} style={{ maxWidth: '80%' }}>
             <p> Se aceptan donaciones en Bitcoin para el pago del dominio: </p>
             <p> 1AtHe23t5zHWPS5wSYtDXz2fFjZqB9FgHN </p>
         </div>
 
-        <br />
-
-        <div className={'bg-danger'}>
+        <div className={'bg-danger mt-4'}>
             <a
                 className={'d-inline'}
                 href={"https://www.maldecushing.com"}

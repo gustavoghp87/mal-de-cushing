@@ -7,21 +7,25 @@ export const Title = ({ isEnglish, isMobile }) => (
             lineHeight: 1.15,
             fontSize: isMobile ? '2.5rem ' : '3.4rem',
             textAlign: 'center',
-            marginTop: '140px',
+            paddingTop: '140px',
             marginBottom: '60px'
         }}
     >
-        {isEnglish ?
-            "Cushing's Desease in dogs and trilostane & mitotane treatments:"
-            :
-            "Mal de Cushing en perros y tratamientos con trilostano y mitotano:"
-        }
-        <br/>
-        {isEnglish ?
-            "Ally's case"
-            :
-            "El caso de Ally"
-        }
+        <p>
+            {isEnglish ?
+                "Cushing's Desease in dogs and trilostane & mitotane treatments:"
+                :
+                "Mal de Cushing en perros y tratamientos con trilostano y mitotano:"
+            }
+        </p>
+
+        <p>
+            {isEnglish ?
+                "Ally's case"
+                :
+                "El caso de Ally"
+            }
+        </p>
     </div>
 )
 

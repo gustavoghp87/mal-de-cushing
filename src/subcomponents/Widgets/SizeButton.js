@@ -1,6 +1,6 @@
 import { PlusSquare, DashSquare } from 'react-bootstrap-icons'
 import { PropTypes } from 'prop-types'
-import styles from '../css/styles.module.css'
+import styles from '../../css/styles.module.css'
 
 export const SizeButton = ({ isDarkMode, isEnglish, isMobile }) => {
 

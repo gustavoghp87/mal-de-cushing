@@ -3,16 +3,15 @@ import English from './English'
 import Spanish from './Spanish'
 import { Title } from './subcomponents/Title'
 import { Footer } from './subcomponents/Footer'
-import { DarkModeButton } from './subcomponents/DarkModeButton'
-import { IndexButton } from './subcomponents/IndexButton'
 import { IndexModal } from './subcomponents/IndexModal'
-import { SizeButton } from './subcomponents/SizeButton'
 import { LinkToDocuments } from './subcomponents/LinkToDocuments'
 import { VideoIFrame } from './subcomponents/VideoIFrame'
 import { LanguageBtn } from './subcomponents/LanguageBtn'
 import { useIsMobile } from './custom-hooks/useIsMobile'
 import { useShowWidgets } from './custom-hooks/useShowWidgets'
 import { ShareBtns } from './subcomponents/ShareBtns'
+import { Widgets } from './subcomponents/Widgets'
+import { Hr } from './subcomponents/Hr'
 
 export const App = () => {
     const [isEnglish, setIsEnglish] = useState(false)
@@ -58,54 +57,35 @@ export const App = () => {
 
                 {isEnglish && <English />}
 
+                <Hr />
+
                 <LinkToDocuments />
 
-                <ShareBtns />
-
+                <Hr />
+                
                 <VideoIFrame isMobile={isMobile} />
 
+                <ShareBtns />
                 
             </div>
 
-                <IndexModal
-                    isEnglish={isEnglish}
-                    isDarkMode={isDarkMode}
-                    showIndex={showIndex}
-                    setShowIndexHandler={setShowIndexHandler}
-                />
             <Footer />
 
-            {showWidgets    &&
-                <div
-                    className={`${isMobile ? 'w-100' : ''} ${isMobile && isDarkMode ? 'bg-dark' : 'bg-secondary'}`}
-                    style={{ position: isMobile ? 'fixed' : '', top: isMobile ? 0 : '' }}
-                >
-                    <div
-                        className={`${isMobile ? 'row d-flex align-items-center' : ''}`}
-                        style={{ justifyContent: isMobile ? 'space-evenly' : '' }}
-                    >
+            <IndexModal
+                isEnglish={isEnglish}
+                isDarkMode={isDarkMode}
+                showIndex={showIndex}
+                setShowIndexHandler={setShowIndexHandler}
+            />
 
-                    <DarkModeButton
-                        isEnglish={isEnglish}
-                        isMobile={isMobile}
-                        isDarkMode={isDarkMode}
-                        setIsDarkModeHandler={setIsDarkModeHandler}
-                    />
-
-                    <IndexButton
-                        isEnglish={isEnglish}
-                        isMobile={isMobile}
-                        isDarkMode={isDarkMode}
-                        setShowIndexHandler={setShowIndexHandler}
-                    />
-
-                    <SizeButton
-                        isEnglish={isEnglish}
-                        isMobile={isMobile}
-                        isDarkMode={isDarkMode}
-                    />
-                </div>
-                </div>
+            {showWidgets &&
+                <Widgets
+                    isDarkMode={isDarkMode}
+                    isEnglish={isEnglish}
+                    isMobile={isMobile}
+                    setIsDarkModeHandler={setIsDarkModeHandler}
+                    setShowIndexHandler={setShowIndexHandler}
+                />
             }
 
         </div>

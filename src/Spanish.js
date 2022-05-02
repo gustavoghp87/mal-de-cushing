@@ -51,7 +51,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Para todo el que quiera salvar a su mascota de esta enfermedad, de los profesionales de los servicios médicos veterinarios y del sistema todo.
+        Para todo el que quiera salvar a su mascota de esta enfermedad y de sus desafíos institucionales.
         </P>
 
 
@@ -59,15 +59,11 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'2'}> Ella </div>
 
         <P>
-        Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal.
+        Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal. Siempre fue de carácter tranquilo, de estómago usualmente cerrado. Rara vez jugó con un perro y nunca los olfateó, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros. Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad; un problema que pocos dudarían en asociar con su tamaño, pero no deja de ser una interpretación esta que pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
         </P>
 
         <P>
-        Cuando cumplía 8 meses tenía turno para esterilización. Yo creí que era el consenso de la familia pero cuando me dispuse a llevarla porque era la hora me encontré con que algunas miembros de la familia esperaban que tuviera cachorros más adelante y llamaron a la veterinaria para cancelar la cirugía.
-        </P>
-
-        <P>
-        Ally siempre fue de carácter tranquilo. Rara vez jugó con un perro y nunca los olfateó, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros. Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad. Un problema que pocos dudarían en asociar con su tamaño, pero no deja de ser una interpretación esta que pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
+        Cuando cumplía 8 meses tenía turno para esterilización pero se canceló por una interna familiar y no se hizo.
         </P>
 
 
@@ -83,7 +79,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Como curiosidad, los puntos demoraron como 2 años en irse del todo. Y quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de si hicieron todo bien o si dejaron ahí alguna fuente de conflicto, estresante, que explicase lo que vino después. También llegué a pensar si se les agotó el efecto de la anestesia antes de tiempo y le hicieron la limpieza dental sugetándola, despierta.
+        Como curiosidad, los puntos "ecológicos" demoraron como 2 años en irse del todo. Y quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de si hicieron todo bien o si dejaron ahí alguna fuente de conflicto, estresante, que explicase lo que vino después, o si algo pasó durante la limpieza dental.
         </P>
 
 
@@ -91,23 +87,19 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'4'}> Indicios de mal de Cushing y diagnóstico </div>
 
         <P>
-        A partir de esa fecha comenzó a engordar a un ritmo promedio de algo así como 100 gramos por mes durante año y medio, pero acelerando sobre el final. O sea que casi duplicó su peso de 2.7 kg a 4.9 kg. Contando poco más de un año desde la esterilización, no había solo un gradual engordamiento sino que cada vez orinaba más y bebía más y hasta desarrolló un apetito hacia los carbohidratos que nunca había tenido. Tuve que sacar de su alcance la comida del gato, hecha con arroz marrón, menudencias y mucha grasa, que hasta entonces nunca había probado pero que ahora rogaba por tener.
+        Contando 13 meses desde la esterilización, hicimos una tanda de estudios porque algo no estaba bien. Había engordado un poco, tenía bastante más hambre de lo normal y orinaba mucho. Y hasta desarrolló un apetito por los carbohidratos que nunca había tenido. Después de unos estudios de la sangre y una ridícula radiografía para mirarle la columna vertebral, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado dietético; y esto a pesar de que varios parámetros en la sangre estaban mal, incluyendo alanina aminotransferasa (ALT-GPT) alta, que casi siempre significa enfermedad del hígado o hígado grado... por corticoides altos (mal de Cushing).
         </P>
         
         <P>
-        Luego de unos estudios ridículos de la tiroides, sangre, orina y hasta radiografía para mirarle la columna vertebral, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado light; y esto a pesar de que varios parámetros en la sangre estaban mal.
+        Se fue deteriorando gradualmente durante los meses siguientes pero empeoró de golpe en abril de 2020, 19 meses después de la castración y junto con el confinamiento obligatorio decretado. No podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Luego de comer, tomar grandes cantidades y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar. Tenía hambre todo el tiempo y una gran panza abalonada alrededor del hígado, la de la grasa visceral que causa el hígado graso por estrés metabólico. Llegó a los 4,9 kg, que casi duplicaba el valor previo a la cirugía (2,7 kg).
         </P>
         
         <P>
-        Para abril de 2020, 19 meses después de la castración y junto con el confinamiento obligatorio, no podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Luego de comer, bebía grandes cantidades y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar. Tenía hambre todo el tiempo y una gran panza abalonada alrededor del hígado, la de la grasa visceral que causa el hígado graso por estrés metabólico.
+        Mientras esperábamos otra tanda de estudios, incluyendo uno interminable de tiroides, una de las veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un cáncer de tejidos superficiales, aunque por estos días nadie le llamaba cáncer ni carcinoma, sino tumor.
         </P>
         
         <P>
-        Mientras esperábamos otra tanda de estudios ridículos, una de las veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un cáncer de tejidos superficiales, aunque por estos días nadie le llamaba cáncer ni carcinoma.
-        </P>
-        
-        <P>
-        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista de la historia, aparte de Ally y yo; egresado de la UBA pero de acento centroamericano, especialista en razas pequeñas. Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos de la marca nueva y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
+        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista de la historia, aparte de Ally y yo; egresado de la UBA pero de acento extranjero, "especialista en razas pequeñas". Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos de la marca nueva y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
         </P>
         
         <P>
@@ -115,7 +107,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Como lo mencionado, la recuperación fue rapidísima y total. No obstante, todos los sitios coincidían en darle una esperanza de vida de 2 o 3 años. Parecía que el tumor iba a seguir creciendo, obligando a llevar la dosis a una cantidad inaceptable para el hígado. Y en la dosis máxima tolerable habría un deterioro de la salud que llevaría a la muerte. Con el tiempo llegué a creer que nada de eso iba a pasar y que ella iba a cumplir con su expectativa normal de vida para su raza.
+        Como lo mencionado, la recuperación fue rapidísima y total. No obstante, todos los sitios web coincidían en darle una esperanza de vida de 2 o 3 años. Parecía que el tumor iba a seguir creciendo, obligando a llevar la dosis de trilostano a una cantidad inaceptable para el hígado. Y en la dosis máxima tolerable habría un deterioro de la salud que llevaría a la muerte. Con el tiempo llegué a creer que nada de eso iba a pasar y que ella iba a cumplir con su expectativa normal de vida para su raza.
         </P>
 
 
@@ -123,15 +115,22 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'5'}> El cirujano </div>
 
         <P>
-        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano por la posibilidad de remover el tumor y rehabilitar la glándula sana y olvidarnos de la enfermedad. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable. Bueno hubiera sido un diagnóstico a tiempo, una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
+        Se necesitaban 3 meses de recuperación con trilostano antes de poder evaluar una cirugía que extirpara la glándula tumorosa. Y la consulta la iba a hacer igual aunque la ecografía ya había revelado que el tumor se había ramificado y estaba invadiendo una de las principales venas del cuerpo, la vena cava inferior, encargada de recoger toda la sangre usada de la parte inferior del cuerpo y llevarla directamente al corazón; una ocupación de casi un centímetro cuadrado, según ecografías posteriores.
+        </P>
+
+        <P>
+        Una particularidad de esta cirugía es que el animal tiene que quedar internado, consumiendo corticoides sintéticos de mayor a menor hasta lograr la completa rehabilitación de la glándula sana, que se atrofia por la dinámica del Cushing: el tumor causa exceso de corticoides, entonces la hipófisis en el cerebro deja de mandar órdenes de producir más, entonces la glándula sana deja de producir y, con el tiempo, se atrofia. Sumar el efecto inhibidor del trilostano.
+        </P>
+
+        <P>
+        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano por la posibilidad de hacer la remoción del tumor y rehabilitar la glándula sana y olvidarnos de la enfermedad. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable. Bueno hubiera sido un diagnóstico a tiempo, una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
         </P>
         
         <P>
-        También me hubiese gustado en este tiempo haber conocido la otra droga del Cushing: el mitotano, pensando en envenenar el tumor lo suficiente para que abandonace su posición en la vena, para luego sí poder hacer una cirugía de bajo riesgo. Pero la existencia de esta droga me fue velada hasta mayo de 2021.
+        Me hubiese gustado en este tiempo haber conocido la otra droga del Cushing: el mitotano, pensando en envenenar el tumor lo suficiente para que abandonace su posición en la vena, para luego sí poder hacer una cirugía de bajo riesgo. Pero la existencia de esta droga me fue velada hasta mayo de 2021.
         </P>
         
-        <P>
-        Como punto destacado en retrospectiva, mencionó este cirujano que este tipo de tumor a veces se vuelve maligno y ataca al hígado con tumores secundarios, metastásicos. Me pareció una posibilidad muy remota para una perra de tan buena salud y con un tumor domado con inhibidor, pero lo recordé. La posibilidad de una metástasis pulmonar, en cambio, no se mencionó jamás hasta la crisis del sábado 26 de febrero de 2022.
+        <P> Fue bastante claro este cirujano en que el tumor suele crecer dentro de la vena; que hay casos raros en que la tapona causando enfermedad cardíaca, pero usualmente crece lateralemente, haciendo reaparecer los signos del Cushing hasta llevar al trilostano a una dosis necesaria inaceptable para el hígado; ahí se da el deterioro que lleva a la muerte. Otro punto destacado en retrospectiva fue que también mencionó que este tipo de tumor a veces se vuelve maligno y ataca al hígado con tumores secundarios, metastásicos. Me pareció una posibilidad muy remota para una perra de tan buena salud y con un tumor domado con inhibidor, pero lo recordé. La posibilidad de una metástasis pulmonar, en cambio, no se mencionó jamás hasta febrero de 2022.
         </P>
 
 
@@ -139,11 +138,11 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'6'}> El año y medio posterior y el indicio de metástasis </div>
 
         <P>
-        Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; me esforcé de que viviese especialmente bien porque estaba presente la posibilidad de que el tumor creciese y taponase la vena cava inferior o forzase una producción de corticoides inmanejable con trilostano... hasta le corté el pelo y las uñas yo, para bien y para mal, aunque a veces temblaba. Y los malos ratos eran solamente los de la extracción de muestras de sangre y, sobre todo, las ecografías, que duraban 30 o 40 minutos cada una.
+        Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; me esforcé de que viviese especialmente bien porque estaba presente la posibilidad de que el tumor creciese y taponase la vena cava inferior o forzase una producción de corticoides inmanejable con trilostano; hasta le corté el pelo y las uñas yo, para bien y para mal, aunque a veces temblaba. Y los malos ratos eran solamente los de la extracción de muestras de sangre y, sobre todo, las ecografías, que duraban 30 o 40 minutos cada una.
         </P>
         
         <P>
-        En esta etapa, estos eran los 2 desenlaces mortales que yo conocía; es decir, una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “una imagen focal hipoecoica de 4.1 mm en lóbulo lateral izquierdo”, junto con una inflamación general del órgano. Descubro ahora que reviso los resultados, también estaba alto el valor en sangre de VCM (83 contra 75), indicador de enfermedad del hígado. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal (85,2 contra 65).
+        En esta etapa, estos eran los 2 desenlaces mortales que yo conocía; es decir, una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “una imagen focal hipoecoica de 4,1 mm en lóbulo lateral izquierdo”, junto con una inflamación general del órgano. Descubro ahora que reviso los resultados, también estaba alto el valor en sangre de VCM (83 contra 75), indicador de enfermedad del hígado. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal (85,2 contra 65).
         </P>
         
         <P>
@@ -151,11 +150,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        El tratamiento consistía en darle dosis altas de esta droga durante 5 días seguidos, para luego completar los 42 días dándole día por medio, para luego pasar a una etapa de mantenimiento con un único consumo semanal para evitar la reaparición del tumor primario.
+        El tratamiento consistía en darle dosis altas de esta droga durante 5 días seguidos, para luego completar los 42 días dándole día por medio, y para luego pasar a una etapa de mantenimiento con un único consumo semanal que evitara la reaparición del tumor primario.
         </P>
         
         <P>
-        Cuando llegaron tiempos difíciles, recordar que este profesional me recomendó esto a tiempo me sirvió para fiarme más de él que de los demás. No obstante, hacer esto parecía demasiado. Recuerdo haber buscado dónde hacer una tomografía para saber si realmente se trataba de una metástasis pero no encontré. Y la idea de anestesiarla para tomarle una biopsia del hígado con ecógrafo me espantó. Encima, las ecografías indicaban que el tumor primario se había reducido un poco y que la invasión de la vena cava inferior también se había reducido. Todos los demás indicadores estaban bien, y ella estaba en su mejor momento. Quise pensar que no pasaría nada. Luego vinieron meses muy intensos para mí, que los compartí a pleno con ella.
+        Cuando llegaron tiempos difíciles, recordar que este profesional me recomendó esto a tiempo me sirvió para fiarme más de él que de los demás. No obstante, hacer esto parecía demasiado. Recuerdo haber buscado dónde hacer una tomografía para saber si realmente se trataba de una metástasis pero no encontré. Y la idea de anestesiarla para tomarle una biopsia del hígado con ecógrafo me espantó. Encima, las ecografías indicaban que el tumor primario y la ocupación de la vena cava inferior se habían reducido un poco. Todos los demás indicadores estaban bien, y ella estaba en su mejor momento. Quise pensar que no pasaría nada.
         </P>
         
         <P>
@@ -167,7 +166,7 @@ export default function Spanish() {
         </P>
 
         <P>
-        Con los parámetros estudiados en orden (que no lo estaban), la mancha de 4 milímetros en la ecografía del hígado tenía que ser otra cosa.
+        Con los parámetros estudiados en valores normales (que no lo estaban), la mancha de 4 milímetros en la ecografía del hígado tenía que ser otra cosa.
         </P>
 
 
@@ -872,12 +871,6 @@ export default function Spanish() {
             <li>
             La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir el cuadro sin mitotano. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré.
             </li>
-        </P>
-
-        <br />
-
-        <P>
-        Esto es todo lo que puedo dar sobre el tema. Y este es el link para consultar todos los estudios de Ally:
         </P>
 
     </div>)

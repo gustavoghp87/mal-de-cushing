@@ -1,5 +1,5 @@
-import styles from '../css/styles.module.css'
 import { PropTypes } from 'prop-types'
+import styles from '../../css/styles.module.css'
 
 export const IndexButton = ({ isEnglish, isMobile, isDarkMode, setShowIndexHandler }) => {
 
@@ -13,7 +13,7 @@ export const IndexButton = ({ isEnglish, isMobile, isDarkMode, setShowIndexHandl
                 top: isMobile ? '' : 0,
                 marginLeft: isMobile ? '' : '3%',
                 cursor: 'pointer',
-                padding: isMobile ? '10px 37px' : ''
+                padding: isMobile ? '11px 37px' : ''
             }}
             onClick={() => setShowIndexHandler(true)}
         >

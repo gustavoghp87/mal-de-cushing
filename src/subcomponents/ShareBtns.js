@@ -21,6 +21,7 @@ import {
     TwitterIcon,
     WhatsappIcon
 } from 'react-share'
+import { Hr } from './Hr'
 import styles from '../css/styles.module.css'
 
 export const ShareBtns = () => {
@@ -75,7 +76,7 @@ export const ShareBtns = () => {
     return (
         <div style={{ marginTop: '60px' }}>
 
-            <hr className={'bg-white'} style={{ marginBottom: '80px' }} />
+            <Hr />
 
             <div className={'row d-flex align-items-center justify-content-center'}>
                 {socialNetworks.map((socialNet, index) => (

@@ -4,7 +4,7 @@ export const VideoIFrame = ({ isMobile }) => {
 
     return (
         <div className={'text-center'} style={{ marginTop: '100px' }}>
-            <hr className={'bg-white'} style={{ marginBottom: '80px' }} />
+            
             <iframe src={"https://www.youtube.com/embed/NKaxg-suW9A"}
                 width={isMobile ? "98%" : "560"}
                 height={isMobile ? "380": "315"} 
@@ -13,6 +13,7 @@ export const VideoIFrame = ({ isMobile }) => {
                 allow={"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen;"}
                 allowsfullscreen={'true'}>
             </iframe>
+            
         </div>
     )
 }
