@@ -1,14 +1,20 @@
+import { useDispatch, useSelector } from 'react-redux'
 import { Modal, Button } from 'react-bootstrap'
-import { PropTypes } from 'prop-types'
+import { changeShowIndexReducer } from '../reducers/showIndexSlice'
 
-export const IndexModal = ({ isEnglish, isDarkMode, isMobile, showIndex, setShowIndexHandler }) => {
+export const IndexModal = () => {
     
     const sections = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25', '26']
+    const { isDarkMode } = useSelector(state => state.isDarkMode)
+    const { isEnglish } = useSelector(state => state.isEnglish)
+    const { isMobile } = useSelector(state => state.isMobile)
+    const { showIndex } = useSelector(state => state.showIndex)
+    const dispatch = useDispatch()
     
     return (
         <Modal
             show={showIndex}
-            onHide={() => setShowIndexHandler(false)}
+            onHide={() => dispatch(changeShowIndexReducer(false))}
         >
             <Modal.Header closeButton className={isDarkMode ? 'bg-dark text-white' : ''}>
                 <Modal.Title> {isEnglish ? "Index" : "Índice"} </Modal.Title>
@@ -16,7 +22,7 @@ export const IndexModal = ({ isEnglish, isDarkMode, isMobile, showIndex, setShow
 
             <Modal.Body
                 className={isDarkMode ? 'bg-dark text-white' : ''}
-                onClick={() => setShowIndexHandler(false)}
+                onClick={() => dispatch(changeShowIndexReducer(false))}
             >
                 {sections.map((section, index) => (
                     <div key={index} style={{ cursor: 'pointer' }} onClick={() => {
@@ -42,22 +48,10 @@ export const IndexModal = ({ isEnglish, isDarkMode, isMobile, showIndex, setShow
             </Modal.Body>
 
             <Modal.Footer className={isDarkMode ? 'bg-dark text-white' : ''}>
-                <Button variant={'danger'} onClick={() => setShowIndexHandler(false)}>
+                <Button variant={'danger'} onClick={() => dispatch(changeShowIndexReducer(false))}>
                     {isEnglish ? "Close" : "Cerrar"}
                 </Button>
             </Modal.Footer>
         </Modal>
     )
-}
-
-IndexModal.propTypes = {
-    isEnglish: PropTypes.bool.isRequired,
-    isDarkMode: PropTypes.bool.isRequired,
-    isMobile: PropTypes.bool.isRequired,
-    showIndex: PropTypes.bool.isRequired,
-    setShowIndexHandler: PropTypes.func.isRequired
-}
-
-IndexModal.defaultProps = {
-    isDarkMode: true
 }

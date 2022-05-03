@@ -1,11 +1,12 @@
 import { useState } from 'react'
+import { useSelector } from 'react-redux'
 import { Button, Image } from 'react-bootstrap'
-import { PropTypes } from 'prop-types'
 import styles from '../css/styles.module.css'
 
-export const Footer = ({ isEnglish }) => {
+export const Footer = () => {
     
     const [showQR, setShowQR] = useState(false)
+    const { isEnglish } = useSelector(state => state.isEnglish)
     
     return (
         <footer className={`${styles.footer} d-flex flex-column align-items-center mt-4`}>
@@ -40,8 +41,4 @@ export const Footer = ({ isEnglish }) => {
             </div>
         </footer>
     )
-}
-
-Footer.propTypes = {
-    isEnglish: PropTypes.bool.isRequired,
 }

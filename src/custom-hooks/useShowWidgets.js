@@ -6,8 +6,7 @@ export const useShowWidgets = () => {
 
     document.addEventListener('scroll', () => {
         const windowScroll = window.scrollY
-        if (scroll < windowScroll) setShowWidgets(false)
-        else setShowWidgets(true)
+        setShowWidgets(windowScroll <= scroll)
         setScroll(windowScroll)
     })
 

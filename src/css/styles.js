@@ -1,14 +1,14 @@
 import styled from 'styled-components'
 
-let isMobile = window.innerWidth < 1000
+const isMobile = window.innerWidth < 1000
 
 export const P = styled.p`
-    text-align: ${isMobile ? '' : 'justify'};
-    text-justify: ${isMobile ? '' : 'inter-word'};
-    text-indent: ${isMobile ? '20px' : '40px'};
-    line-height: ${isMobile ? '2rem' : '200%'};
     font-size: ${window.localStorage.getItem('textSizeCushing') ?? '1rem'};
+    line-height: ${isMobile ? '2rem' : '200%'};
     margin-bottom: ${isMobile ? '50px' : ''};
+    text-align: ${isMobile ? '' : 'justify'};
+    text-indent: ${isMobile ? '20px' : '40px'};
+    text-justify: ${isMobile ? '' : 'inter-word'};
 `
 
 export const subtitleStyles = {

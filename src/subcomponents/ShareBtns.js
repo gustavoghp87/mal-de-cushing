@@ -1,35 +1,18 @@
 import { useState } from 'react'
+import { useSelector } from 'react-redux'
 import { Button } from 'react-bootstrap'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
-import {
-    EmailShareButton,
-    FacebookShareButton,
-    LinkedinShareButton,
-    RedditShareButton,
-    TelegramShareButton,
-    TumblrShareButton,
-    TwitterShareButton,
-    WhatsappShareButton
-} from 'react-share'
-import {
-    EmailIcon,
-    FacebookIcon,
-    LinkedinIcon,
-    RedditIcon,
-    TelegramIcon,
-    TumblrIcon,
-    TwitterIcon,
-    WhatsappIcon
-} from 'react-share'
-import { PropTypes } from 'prop-types'
+import { EmailShareButton, FacebookShareButton, LinkedinShareButton, RedditShareButton, TelegramShareButton, TumblrShareButton, TwitterShareButton, WhatsappShareButton } from 'react-share'
+import { EmailIcon, FacebookIcon, LinkedinIcon, RedditIcon, TelegramIcon, TumblrIcon, TwitterIcon, WhatsappIcon } from 'react-share'
 import { Hr } from './Hr'
 import styles from '../css/styles.module.css'
 
-export const ShareBtns = ({ isEnglish }) => {
+export const ShareBtns = () => {
 
     const shareUrl = "https://gustavoghp87.github.io/mal-de-cushing"
     const title = 'Mal de Cushing en perros: El caso de Ally'
     const [copiedToClipboard, setCopiedToClipboard] = useState(false)
+    const { isEnglish } = useSelector(state => state.isEnglish)
 
     const socialNetworks = [
         {
@@ -72,7 +55,8 @@ export const ShareBtns = ({ isEnglish }) => {
             icon: EmailIcon,
             text: "Compartir por e-mail"
         }
-    ] // fb: quote, no title; reddit: windowWidth, windowHeight; email: subject, body, no title;
+    ]
+    // fb: quote, no title; reddit: windowWidth, windowHeight; email: subject, body, no title;
 
     return (
         <div style={{ marginTop: '60px' }}>
@@ -116,8 +100,4 @@ export const ShareBtns = ({ isEnglish }) => {
             
         </div>
     )
-}
-
-ShareBtns.propTypes = {
-    isEnglish: PropTypes.bool.isRequired,
 }

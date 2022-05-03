@@ -1,9 +1,10 @@
-import { PropTypes } from 'prop-types'
+import { useSelector } from 'react-redux'
 import styles from '../css/styles.module.css'
 
-export const LinkToDocuments = ({ isEnglish }) => {
+export const LinkToDocuments = () => {
 
     const url = "https://www.dropbox.com/sh/33534lmwfim6mn6/AADsNVdoY_TwsBf5Q2B3_9dva?dl=0"
+    const { isEnglish } = useSelector(state => state.isEnglish)
 
     return (
         <>
@@ -26,8 +27,4 @@ export const LinkToDocuments = ({ isEnglish }) => {
             </div>
         </>
     )
-}
-
-LinkToDocuments.propTypes = {
-    isEnglish: PropTypes.bool.isRequired,
 }

@@ -1,7 +1,13 @@
-import { PropTypes } from 'prop-types'
+import { useDispatch, useSelector } from 'react-redux'
+import { changeShowIndexReducer } from '../../reducers/showIndexSlice'
 import styles from '../../css/styles.module.css'
 
-export const IndexButton = ({ isEnglish, isMobile, isDarkMode, setShowIndexHandler }) => {
+export const IndexButton = () => {
+
+    const { isDarkMode } = useSelector(state => state.isDarkMode)
+    const { isEnglish } = useSelector(state => state.isEnglish)
+    const { isMobile } = useSelector(state => state.isMobile)
+    const dispatch = useDispatch()
 
     return (
     <>
@@ -15,25 +21,13 @@ export const IndexButton = ({ isEnglish, isMobile, isDarkMode, setShowIndexHandl
                 cursor: 'pointer',
                 padding: isMobile ? '11px 37px' : ''
             }}
-            onClick={() => setShowIndexHandler(true)}
+            onClick={() => dispatch(changeShowIndexReducer(true))}
         >
 
             <b className={isMobile ? 'd-none' : ''}> {isEnglish ? "Open Index" : "Ver Índice"} </b>
             <b className={isMobile ? '' : 'd-none'}> {isEnglish ? "Index" : "Índice"} </b>
             
         </div>
-
     </>
     )
-}
-
-IndexButton.propTypes = {
-    isEnglish: PropTypes.bool.isRequired,
-    isMobile: PropTypes.bool.isRequired,
-    isDarkMode: PropTypes.bool.isRequired,
-    setShowIndexHandler: PropTypes.func.isRequired
-}
-
-IndexButton.defaultProps = {
-    isDarkMode: true
 }

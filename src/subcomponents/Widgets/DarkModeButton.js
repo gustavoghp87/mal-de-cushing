@@ -1,7 +1,13 @@
-import { PropTypes } from 'prop-types'
+import { useDispatch, useSelector } from 'react-redux'
+import { changeisDarkModeReducer } from '../../reducers/isDarkModeSlice'
 import styles from '../../css/styles.module.css'
 
-export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeHandler }) => {
+export const DarkModeButton = () => {
+
+    const { isDarkMode } = useSelector(state => state.isDarkMode)
+    const { isEnglish } = useSelector(state => state.isEnglish)
+    const { isMobile } = useSelector(state => state.isMobile)
+    const dispatch = useDispatch()
     
     return (
         <div
@@ -23,7 +29,7 @@ export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeH
                 checked={isDarkMode}
                 onChange={() => {
                     window.localStorage.setItem('darkModeCushing', (!isDarkMode).toString())
-                    setIsDarkModeHandler(!isDarkMode)
+                    dispatch(changeisDarkModeReducer())
                 }}
             />
             
@@ -40,15 +46,4 @@ export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeH
             
         </div>
     )
-}
-
-DarkModeButton.propTypes = {
-    isEnglish: PropTypes.bool.isRequired,
-    isMobile: PropTypes.bool.isRequired,
-    isDarkMode: PropTypes.bool.isRequired,
-    setIsDarkModeHandler: PropTypes.func.isRequired
-}
-
-DarkModeButton.defaultProps = {
-    isDarkMode: true
 }

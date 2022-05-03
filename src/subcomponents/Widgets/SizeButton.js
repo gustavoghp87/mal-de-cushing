@@ -1,10 +1,13 @@
 import { PlusSquare, DashSquare } from 'react-bootstrap-icons'
-import { PropTypes } from 'prop-types'
+import { useSelector } from 'react-redux'
 import styles from '../../css/styles.module.css'
 
-export const SizeButton = ({ isDarkMode, isEnglish, isMobile }) => {
+export const SizeButton = () => {
 
     const textSize = window.localStorage.getItem('textSizeCushing')
+    const { isDarkMode } = useSelector(state => state.isDarkMode)
+    const { isEnglish } = useSelector(state => state.isEnglish)
+    const { isMobile } = useSelector(state => state.isMobile)
     
     return (
         <div
@@ -54,14 +57,4 @@ export const SizeButton = ({ isDarkMode, isEnglish, isMobile }) => {
 
         </div>
     )
-}
-
-SizeButton.propTypes = {
-    isEnglish: PropTypes.bool.isRequired,
-    isMobile: PropTypes.bool.isRequired,
-    isDarkMode: PropTypes.bool.isRequired
-}
-
-SizeButton.defaultProps = {
-    isDarkMode: true
 }
