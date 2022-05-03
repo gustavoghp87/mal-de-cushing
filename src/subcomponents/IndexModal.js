@@ -22,14 +22,14 @@ export const IndexModal = ({ isEnglish, isDarkMode, isMobile, showIndex, setShow
                     <div key={index} style={{ cursor: 'pointer' }} onClick={() => {
                         if (isMobile) {
                             setTimeout(() => {
-                                window.location.href = `/#${section}`
+                                window.location.href = `${window.location.pathname}#${section}`
                                 window.scrollTo(window.scrollX, window.scrollY - 100)
                                     setTimeout(() => {
                                     window.scrollTo(window.scrollX, window.scrollY + 1)
                                 }, 200);
                             }, 200)
                         } else {
-                            window.location.href = `/#${section}`
+                            window.location.href = `${window.location.pathname}#${section}`
                             window.scrollTo(window.scrollX, window.scrollY - 50)
                             setTimeout(() => {
                                 window.scrollTo(window.scrollX, window.scrollY + 1)
