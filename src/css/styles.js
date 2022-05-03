@@ -15,16 +15,15 @@ export const subtitleStyles = {
     fontSize: isMobile ? '2.2rem' : '2.8rem',
     lineHeight: 1.15,
     textAlign: 'center',
-    marginTop: isMobile ? '100px' : '50px',
-    marginBottom: '30px',
+    marginTop: isMobile ? '100px' : '70px',
+    marginBottom: '40px',
     marginInline: isMobile ? '7%' : '15%'
 }
 
-export const pItems = {
-    textIndent: '0 !important',
-    margin: '30px 5%',
-    fontWeight: 'bold',
-    textAlign: 'justify',
-    textJustify: 'inter-word',
-    //fontSize: window.localStorage.getItem('textSizeCushing') ?? '1rem'
-}
+// export const pItems = {
+//     textIndent: '0 !important',
+//     margin: '30px 5%',
+//     fontWeight: 'bold',
+//     textAlign: 'justify',
+//     textJustify: 'inter-word',
+// }

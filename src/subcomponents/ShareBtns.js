@@ -21,10 +21,11 @@ import {
     TwitterIcon,
     WhatsappIcon
 } from 'react-share'
+import { PropTypes } from 'prop-types'
 import { Hr } from './Hr'
 import styles from '../css/styles.module.css'
 
-export const ShareBtns = () => {
+export const ShareBtns = ({ isEnglish }) => {
 
     const shareUrl = "https://gustavoghp87.github.io/mal-de-cushing"
     const title = 'Mal de Cushing en perros: El caso de Ally'
@@ -34,7 +35,7 @@ export const ShareBtns = () => {
         {
             button: FacebookShareButton,
             icon: FacebookIcon,
-            text: "Compartir en Facebook"
+            text: isEnglish ? "Share in Facebook" : "Compartir en Facebook"
         },
         {
             button: TwitterShareButton,
@@ -115,4 +116,8 @@ export const ShareBtns = () => {
             
         </div>
     )
+}
+
+ShareBtns.propTypes = {
+    isEnglish: PropTypes.bool.isRequired,
 }

@@ -1,5 +1,5 @@
-import styles from '../../css/styles.module.css'
 import { PropTypes } from 'prop-types'
+import styles from '../../css/styles.module.css'
 
 export const DarkModeButton = ({ isEnglish, isMobile, isDarkMode, setIsDarkModeHandler }) => {
     

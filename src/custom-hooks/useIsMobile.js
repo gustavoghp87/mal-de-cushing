@@ -8,7 +8,7 @@ export const useIsMobile = () => {
             setTimeout(() => {
                 setIsMobile(window.innerWidth < 1000)
                 update()
-            }, 2000)
+            }, 500)
         }
         update()
     }, [])

@@ -12,6 +12,8 @@ import { useShowWidgets } from './custom-hooks/useShowWidgets'
 import { ShareBtns } from './subcomponents/ShareBtns'
 import { Widgets } from './subcomponents/Widgets'
 import { Hr } from './subcomponents/Hr'
+import { SpanishIntro } from './SpanishIntro'
+import { EnglishIntro } from './EnglishIntro'
 
 export const App = () => {
     const [isEnglish, setIsEnglish] = useState(false)
@@ -24,7 +26,7 @@ export const App = () => {
     const setShowIndexHandler = newState => setShowIndex(newState)
 
     document.getElementsByTagName('body')[0].addEventListener('click', () => {
-        if (currentWidth !== window.innerWidth) setTimeout(() => window.location.reload(), 500)
+        if (currentWidth !== window.innerWidth) setTimeout(() => window.location.reload(), 200)
     })
 
     useEffect(() => {
@@ -53,27 +55,30 @@ export const App = () => {
                     isMobile={isMobile}
                 />
 
-                {!isEnglish && <Spanish />}
+                {isEnglish ? <EnglishIntro /> : <SpanishIntro />}
 
-                {isEnglish && <English />}
+                <Hr isDarkMode={isDarkMode} />
 
-                <Hr />
+                {isEnglish ? <English /> : <Spanish />}
 
-                <LinkToDocuments />
+                <Hr isDarkMode={isDarkMode} />
 
-                <Hr />
+                <LinkToDocuments isEnglish={isEnglish} />
+
+                <Hr isDarkMode={isDarkMode} />
                 
                 <VideoIFrame isMobile={isMobile} />
 
-                <ShareBtns />
+                <ShareBtns isEnglish={isEnglish} />
                 
             </div>
 
-            <Footer />
+            <Footer isEnglish={isEnglish} />
 
             <IndexModal
                 isEnglish={isEnglish}
                 isDarkMode={isDarkMode}
+                isMobile={isMobile}
                 showIndex={showIndex}
                 setShowIndexHandler={setShowIndexHandler}
             />
