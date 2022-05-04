@@ -3,8 +3,8 @@ import styles from '../css/styles.module.css'
 
 export const LinkToDocuments = () => {
 
+    const { isEnglish } = useSelector(state => state)
     const url = "https://www.dropbox.com/sh/33534lmwfim6mn6/AADsNVdoY_TwsBf5Q2B3_9dva?dl=0"
-    const { isEnglish } = useSelector(state => state.isEnglish)
 
     return (
         <>

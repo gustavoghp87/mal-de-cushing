@@ -2,8 +2,7 @@ import { useSelector } from 'react-redux'
 
 export const Title = () => {
 
-    const { isEnglish } = useSelector(state => state.isEnglish)
-    const { isMobile } = useSelector(state => state.isMobile)
+    const { isEnglish, isMobile } = useSelector(state => state)
     
     return (
         <div
@@ -12,7 +11,7 @@ export const Title = () => {
                 lineHeight: 1.15,
                 fontSize: isMobile ? '2.5rem ' : '3.4rem',
                 textAlign: 'center',
-                paddingTop: isMobile ? '80px' : '140px',
+                paddingTop: isMobile ? '80px' : '110px',
                 marginBottom: '60px'
             }}
         >

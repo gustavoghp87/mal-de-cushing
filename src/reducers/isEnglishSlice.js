@@ -1,14 +1,14 @@
 import { createSlice } from '@reduxjs/toolkit'
 
-const initialState = window.localStorage.getItem('isEnglishCushing') === 'true' || false
+const initialState = window.localStorage.getItem('isEnglishCushing') === 'true'
 
 export const isEnglishSlice = createSlice({
     name: 'isEnglish',
-    initialState: { isEnglish: initialState },
+    initialState: initialState,
     reducers: {
-        changeIsEnglishReducer: (state, action) => {
-            window.localStorage.setItem('isEnglishCushing', (!state.isEnglish).toString())
-            state = { isEnglish: !state.isEnglish }
+        changeIsEnglishReducer: (state) => {
+            window.localStorage.setItem('isEnglishCushing', (!state).toString())
+            state = !state
             return state
         }
     }

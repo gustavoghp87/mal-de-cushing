@@ -4,64 +4,61 @@ import { Button } from 'react-bootstrap'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 import { EmailShareButton, FacebookShareButton, LinkedinShareButton, RedditShareButton, TelegramShareButton, TumblrShareButton, TwitterShareButton, WhatsappShareButton } from 'react-share'
 import { EmailIcon, FacebookIcon, LinkedinIcon, RedditIcon, TelegramIcon, TumblrIcon, TwitterIcon, WhatsappIcon } from 'react-share'
-import { Hr } from './Hr'
 import styles from '../css/styles.module.css'
 
 export const ShareBtns = () => {
 
-    const shareUrl = "https://gustavoghp87.github.io/mal-de-cushing"
-    const title = 'Mal de Cushing en perros: El caso de Ally'
+    const { isEnglish } = useSelector(state => state)
     const [copiedToClipboard, setCopiedToClipboard] = useState(false)
-    const { isEnglish } = useSelector(state => state.isEnglish)
+    const shareUrl = "https://gustavoghp87.github.io/mal-de-cushing"
+    const title = isEnglish ? "Cushing's Desease in dogs: Ally's case" : "Mal de Cushing en perros: El caso de Ally"
 
     const socialNetworks = [
         {
             button: FacebookShareButton,
             icon: FacebookIcon,
-            text: isEnglish ? "Share in Facebook" : "Compartir en Facebook"
+            text: isEnglish ? "Share on Facebook" : "Compartir en Facebook"
         },
         {
             button: TwitterShareButton,
             icon: TwitterIcon,
-            text: "Compartir en Twitter"
+            text: isEnglish ? "Share on Twitter" : "Compartir en Twitter"
         },
         {
             button: TelegramShareButton,
             icon: TelegramIcon,
-            text: "Compartir por Telegram"
+            text: isEnglish ? "Share via Telegram" : "Compartir por Telegram"
         },
         {
             button: WhatsappShareButton,
             icon: WhatsappIcon,
-            text: "Compartir por WhatsApp"
+            text: isEnglish ? "Share via WhatsApp " : "Compartir por WhatsApp"
         },
         {
             button: LinkedinShareButton,
             icon: LinkedinIcon,
-            text: "Compartir en LinkedIn"
+            text: isEnglish ? "Share on LinkedIn " : "Compartir en LinkedIn"
         },
         {
             button: RedditShareButton,
             icon: RedditIcon,
-            text: "Compartir en Reddit"
+            text: isEnglish ? "Share on Reddit" : "Compartir en Reddit"
         },
         {
             button: TumblrShareButton,
             icon: TumblrIcon,
-            text: "Compartir en Tumblr"
+            text: isEnglish ? "Share on Tumblr" : "Compartir en Tumblr"
         },
         {
             button: EmailShareButton,
             icon: EmailIcon,
-            text: "Compartir por e-mail"
+            text: isEnglish ? "Share via e-mail" : "Compartir por e-mail"
         }
     ]
     // fb: quote, no title; reddit: windowWidth, windowHeight; email: subject, body, no title;
 
     return (
         <div style={{ marginTop: '60px' }}>
-
-            <Hr />
 
             <div className={'row d-flex align-items-center justify-content-center'}>
                 {socialNetworks.map((socialNet, index) => (
@@ -78,7 +75,7 @@ export const ShareBtns = () => {
                             windowWidth={660}
                             windowHeight={460}
                             subject={title}
-                            body={"Comparto este sitio web acerca del mal de Cushing en perros: "}
+                            body={isEnglish ? "I share this website about Cushing's Desease in dogs: " : "Comparto este sitio web acerca del mal de Cushing en perros: "}
                         >
                             <socialNet.icon size={32} round /> &nbsp; {socialNet.text}
                         </socialNet.button>
@@ -90,9 +87,9 @@ export const ShareBtns = () => {
                 <CopyToClipboard text={shareUrl} onCopy={() => setCopiedToClipboard(true)}>
                     <Button variant={copiedToClipboard ? 'danger' : 'secondary'} size={undefined} style={{ width: '300px' }}>
                         {copiedToClipboard ? 
-                            "Copiado"
+                            isEnglish ? "Copied" : "Copiado"
                             :
-                            "Copiar Link para compartir"
+                            isEnglish ? "Copy share link" : "Copiar Link para compartir"
                         }
                     </Button>
                 </CopyToClipboard>

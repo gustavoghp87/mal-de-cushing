@@ -6,8 +6,8 @@ export const P = styled.p`
     font-size: ${window.localStorage.getItem('textSizeCushing') ?? '1rem'};
     line-height: ${isMobile ? '2rem' : '200%'};
     margin-bottom: ${isMobile ? '50px' : ''};
-    text-align: ${isMobile ? '' : 'justify'};
-    text-indent: ${isMobile ? '20px' : '40px'};
+    text-align: ${isMobile ? window.localStorage.getItem('textSizeCushing') === '1.8rem' ? '' : 'justify' : 'justify'};
+    text-indent: ${isMobile ? '10px' : '40px'};
     text-justify: ${isMobile ? '' : 'inter-word'};
 `
 

@@ -5,8 +5,8 @@ import styles from '../css/styles.module.css'
 
 export const Footer = () => {
     
+    const { isEnglish } = useSelector(state => state)
     const [showQR, setShowQR] = useState(false)
-    const { isEnglish } = useSelector(state => state.isEnglish)
     
     return (
         <footer className={`${styles.footer} d-flex flex-column align-items-center mt-4`}>

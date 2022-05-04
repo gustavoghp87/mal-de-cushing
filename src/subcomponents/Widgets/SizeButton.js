@@ -4,10 +4,8 @@ import styles from '../../css/styles.module.css'
 
 export const SizeButton = () => {
 
+    const { isDarkMode, isEnglish, isMobile } = useSelector(state => state)
     const textSize = window.localStorage.getItem('textSizeCushing')
-    const { isDarkMode } = useSelector(state => state.isDarkMode)
-    const { isEnglish } = useSelector(state => state.isEnglish)
-    const { isMobile } = useSelector(state => state.isMobile)
     
     return (
         <div

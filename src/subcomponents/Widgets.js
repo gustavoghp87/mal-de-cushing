@@ -6,8 +6,7 @@ import { SizeButton } from './Widgets/SizeButton'
 
 export const Widgets = () => {
 
-    const { isDarkMode } = useSelector(state => state.isDarkMode)
-    const { isMobile } = useSelector(state => state.isMobile)
+    const { isDarkMode, isMobile } = useSelector(state => state)
     const showWidgets = useShowWidgets()
 
     return (

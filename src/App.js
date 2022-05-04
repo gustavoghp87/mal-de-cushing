@@ -14,10 +14,9 @@ import { Widgets } from './subcomponents/Widgets'
 import { Hr } from './subcomponents/Hr'
 
 export const App = () => {
+
+    const { isDarkMode, isEnglish, isMobile } = useSelector(state => state)
     const currentWidth = window.innerWidth
-    const { isEnglish } = useSelector(state => state.isEnglish)
-    const { isDarkMode } = useSelector(state => state.isDarkMode)
-    const { isMobile } = useSelector(state => state.isMobile)
 
     window.addEventListener('resize', () => {
         if (currentWidth !== window.innerWidth) setTimeout(() => window.location.reload(), 200)
@@ -29,7 +28,7 @@ export const App = () => {
             <div
                 style={{
                     minHeight: '100vh',
-                    marginInline: isMobile ? '7%' : '20%',
+                    marginInline: isMobile ? '4%' : '20%',
                     marginBottom: '120px'
                 }}
             >
@@ -51,6 +50,8 @@ export const App = () => {
                 <Hr />
                 
                 <VideoIFrame />
+                
+                <Hr />
 
                 <ShareBtns />
                 

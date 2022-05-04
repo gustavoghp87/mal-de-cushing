@@ -4,11 +4,10 @@ const initialState = false
 
 export const showIndexSlice = createSlice({
     name: 'showIndex',
-    initialState: { showIndex: initialState },
+    initialState: initialState,
     reducers: {
         changeShowIndexReducer: (state, action) => {
-            console.log(action.payload);
-            state = { showIndex: action.payload }
+            state = action?.payload
             return state
         }
     }

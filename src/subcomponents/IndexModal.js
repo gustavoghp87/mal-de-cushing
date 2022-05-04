@@ -4,12 +4,9 @@ import { changeShowIndexReducer } from '../reducers/showIndexSlice'
 
 export const IndexModal = () => {
     
-    const sections = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25', '26']
-    const { isDarkMode } = useSelector(state => state.isDarkMode)
-    const { isEnglish } = useSelector(state => state.isEnglish)
-    const { isMobile } = useSelector(state => state.isMobile)
-    const { showIndex } = useSelector(state => state.showIndex)
+    const { isDarkMode, isEnglish, isMobile, showIndex } = useSelector(state => state)
     const dispatch = useDispatch()
+    const sections = ['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25', '26']
     
     return (
         <Modal

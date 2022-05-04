@@ -5,11 +5,11 @@ import styles from '../css/styles.module.css'
 
 export const LanguageBtn = () => {
 
-    const { isEnglish } = useSelector(state => state.isEnglish)
+    const { isEnglish, isMobile } = useSelector(state => state)
     const dispatch = useDispatch()
 
     return (
-        <div style={{ paddingTop: '90px' }}>
+        <div style={{ paddingTop: isMobile ? '120px' : '90px' }}>
             <div className={styles.card + ' d-block m-auto'} onClick={() => dispatch(changeIsEnglishReducer())}>
                 <h2 className={'mb-0 text-center'} style={{ width: '250px' }}>
                     {isEnglish ? "Versión en Español" : "English version"}
