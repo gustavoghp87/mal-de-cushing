@@ -1,11 +1,12 @@
+import { useDispatch, useSelector } from 'react-redux'
 import { PlusSquare, DashSquare } from 'react-bootstrap-icons'
-import { useSelector } from 'react-redux'
+import { changeFontSizeReducer, size0, size2 } from '../../reducers/fontSizeSlice'
 import styles from '../../css/styles.module.css'
 
 export const SizeButton = () => {
 
-    const { isDarkMode, isEnglish, isMobile } = useSelector(state => state)
-    const textSize = window.localStorage.getItem('textSizeCushing')
+    const { fontSize, isDarkMode, isEnglish, isMobile } = useSelector(state => state)
+    const dispatch = useDispatch()
     
     return (
         <div
@@ -22,12 +23,8 @@ export const SizeButton = () => {
             <div className={isDarkMode ? 'text-white' : undefined}>
                 
                 <div
-                    className={`p-1 pl-2 ${textSize === '1.8rem' && 'd-none'}`}
-                    onClick={() => {
-                        if (textSize === '1.5rem') window.localStorage.setItem('textSizeCushing', "1.8rem")
-                        else window.localStorage.setItem('textSizeCushing', "1.5rem")
-                        window.location.reload()
-                    }}
+                    className={`p-1 pl-2 ${fontSize === size2 ? 'd-none' : ''}`}
+                    onClick={() => dispatch(changeFontSizeReducer("increase"))}
                     style={{ cursor: 'pointer' }}
                 >
                     <PlusSquare size={26} />
@@ -38,12 +35,8 @@ export const SizeButton = () => {
                 </div>
 
                 <div
-                    className={`p-1 pl-2 ${textSize === '1rem' ? 'd-none' : undefined}`}
-                    onClick={() => {
-                        if (textSize === '1.8rem') window.localStorage.setItem('textSizeCushing', "1.5rem")
-                        else window.localStorage.setItem('textSizeCushing', "1rem")
-                        window.location.reload()
-                    }}
+                    className={`p-1 pl-2 ${fontSize === size0 ? 'd-none' : ''}`}
+                    onClick={() => dispatch(changeFontSizeReducer("decrease"))}
                     style={{ cursor: 'pointer' }}
                 >
                     <DashSquare size={26} />

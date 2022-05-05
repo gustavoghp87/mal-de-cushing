@@ -5,11 +5,11 @@ import styles from '../css/styles.module.css'
 
 export const Footer = () => {
     
-    const { isEnglish } = useSelector(state => state)
+    const { isDarkMode, isEnglish } = useSelector(state => state)
     const [showQR, setShowQR] = useState(false)
     
     return (
-        <footer className={`${styles.footer} d-flex flex-column align-items-center mt-4`}>
+        <footer className={`${styles.footer} ${isDarkMode ? '' : 'bg-secondary'} d-flex flex-column align-items-center mt-4`}>
 
             <div className={'my-2'} style={{ maxWidth: '80%' }}>
                 <p> {isEnglish ? "Donations are accepted in Bitcoin for the payment of the domain" : "Se aceptan donaciones en Bitcoin para pagar el dominio:"} </p>

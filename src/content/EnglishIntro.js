@@ -1,8 +1,6 @@
-import { P, subtitleStyles } from './css/styles'
+import { P, subtitleStyles } from '../css/styles'
 
-export const EnglishIntro = () => {
-
-    return (
+export const EnglishIntro = () => (
     <>
         <div style={subtitleStyles} id={'1'}> Intro </div>
 
@@ -38,5 +36,4 @@ export const EnglishIntro = () => {
         For everyone who wants to save their pet from this disease and its institutional challenges.
         </P>
     </>
-    )
-}
+)

@@ -1,4 +1,4 @@
-import { P, subtitleStyles } from './css/styles'
+import { P, toggleULStyles, subtitleStyles } from '../css/styles'
 
 export default function Spanish() {
 
@@ -35,7 +35,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Se fue deteriorando gradualmente durante los meses siguientes pero empeoró de golpe en abril de 2020, 19 meses después de la castración y junto con el confinamiento obligatorio decretado. No podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Luego de comer, tomaba grandes cantidades y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar. Tenía hambre todo el tiempo y una gran panza abalonada alrededor del hígado, la de la grasa visceral que causa el hígado graso por estrés metabólico. Llegó a los 4,9 kg, que casi duplicaba el valor previo a la cirugía (2,7 kg).
+        No diría que se haya deteriorado más durante los meses siguientes pero sí empeoró de golpe en abril de 2020, 19 meses después de la castración y junto con el confinamiento obligatorio decretado. No podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Luego de comer, tomaba grandes cantidades y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar. Tenía hambre todo el tiempo y una gran panza abalonada alrededor del hígado, la de la grasa visceral que causa el hígado graso por estrés metabólico. Llegó a los 4,9 kg, que casi duplicaba el valor previo a la cirugía (2,7 kg).
         </P>
         
         <P>
@@ -190,7 +190,7 @@ export default function Spanish() {
         </P>
         
         <P>
-        Ally voló de corticoides. Engordó a alta velocidad, se deshidrató, desarrolló apetito voraz y hasta se infectó con una infección urinaria por “Klebsiella pneumoniae” que la molestó durante 30 días y la atormentó durante los 20 días finales, a causa de la inmunodepresión que causan los corticoides altos. Todo en pocos días, mientras yo estaba con los corticoides sintéticos en la mano preocupado por que los corticoides en sangre no bajaran demasiado.
+        Ally voló de corticoides. Engordó a alta velocidad, se deshidrató, desarrolló apetito voraz y hasta se infectó con una infección urinaria por “Klebsiella pneumoniae” que la molestó durante 30 días y la atormentó durante los 20 días finales, a causa de la inmunodepresión que causan los corticoides altos. Todo en pocos días, mientras yo estaba con los corticoides sintéticos en la mano preocupado por que los corticoides en sangre no bajaran demasiado, más allá de lo llamativo de que los dos momentos de rápida degradación por Cushing hayan sido cuando dejó de pasar algunas horas al día sola, o sea, cuando durmió poco: abril 2020 y febrero 2022
         </P>
         
         <P>
@@ -274,19 +274,15 @@ export default function Spanish() {
         </P>
         
         <P>
-        Traté de decirle que eso es lo que hace en dosis bajas pero que en dosis altas realmente destruye, como yo mismo había investigado. No quiso escucharme. A mis ojos, su único interés era negar el diagnóstico del colega (o no-colega) que le había hecho una “falta de ética” al “invadirle” el mercado. Y, quizás, venderme una quimioterapia que no funciona y causa sufrimiento.
+        Traté de decirle que eso es lo que hace en dosis bajas pero que en dosis altas realmente destruye, como yo mismo había investigado. No quiso escucharme. A mis ojos, su único interés era negar el diagnóstico del colega (o no-colega) que le había hecho una “falta de ética” al “invadirle” el mercado. Y, quizás, venderme una quimioterapia que no funciona y causa sufrimiento. Me fui muy golpeado. Dudé de todo, del tipo de cáncer, del mitotano y del endocrinólogo, y creí que Ally estaba a punto de colapsar.
         </P>
         
         <P>
-        Me fui muy golpeado. Dudé de todo, del tipo de cáncer, del mitotano y del endocrinólogo, y creí que Ally estaba a punto de colapsar, aunque ella contenta de viajar en taxi.
+        Cuando me repuse un poco me puse a investigar. Que el mitotano hace quimioterapia vi que lo dicen todos los sitios que hablan del tema. También conseguí un informe que resumía más de una década de tratamientos con mitotano en perros de una universidad que, si bien los números de supervivencia no son demasiado optimistas, me quedó claro que el mitotano sí puede destruir tumores adrenales y metástasis pulmonares, al menos. Y respecto al diagnóstico alternativo del oncólogo, leí que los tumores que se originan en el hígado son mucho menos frecuentes que los que llegan como metástasis, y que, en caso de ocurrir, uno esperaría ver un tumor grande en vez de muchos pequeños.
         </P>
         
         <P>
-        Cuando me repuse un poco me puse a investigar. Que el mitotano hace quimioterapia lo dicen todos los sitios que hablan del tema. Conseguí un informe que resumía más de una década de tratamientos con mitotano en perros de una universidad. Los números de supervivencia no son demasiado optimistas pero me quedó claro que el mitotano sí puede destruir tumores adrenales y metástasis pulmonares, al menos. Y respecto al diagnóstico alternativo del oncólogo, leí que los tumores que se originan en el hígado son mucho menos frecuentes que los que llegan como metástasis, y que, en caso de ocurrir, uno esperaría ver un tumor grande en vez de muchos pequeños.
-        </P>
-        
-        <P>
-        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después, con la tomografía y el aparente resultado nulo de 60 días de mitotano a dosis aumentada.
+        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después, con la tomografía y el aparente resultado ambiguo de 60 días de mitotano a dosis aumentada.
         </P>
 
 
@@ -302,7 +298,7 @@ export default function Spanish() {
         </P>
 
         <P>
-        No leí de ningún perro que tuviera la vena cava inferior ocupada por un tumor suprarrenal pero supongo que se sobreentiende que todos los tratados con mitotano tienen esta ramificación, y por eso se los llama inoperables. Pero es más llamativo que no se mencione el tema tampoco después de iniciado el tratamiento, como si no hubiese nada para decir. No es un desafío para el intento de salvarlos y no se llega a una situación en la que el tumor se vuelva extirpable. Solamente no se lo menciona nunca.
+        No leí de ningún perro que tuviera la vena cava inferior ocupada por un tumor suprarrenal pero supongo que se sobreentiende que todos los tratados con mitotano tienen esta ramificación, y por eso se los llama inoperables. Pero es más llamativo que no se mencione el tema tampoco después de iniciado el tratamiento, como si no hubiese nada para decir. No aparece como un desafío para el intento de salvarlos y tampoco se llega a una situación en la que el tumor se vuelva extirpable como gracia de la quimioterapia. Solamente no se lo menciona nunca.
         </P>
 
 
@@ -349,19 +345,19 @@ export default function Spanish() {
         Con ella en bienestar, los corticoides sintéticos consumidos al mediodía y la falsa idea de que ya no dependería de la glándula tumorosa, esa noche quise darle 150 mg de mitotano. No tenía demasiado apetito y solo iba a comer si no encontraba drogas dentro de la comida. Quise triturar el mitotano y meterlo en la carne. Comió la mitad pero le hizo muy mal. Fue la primera de 5 crisis, todas en marzo (18, 19, 20, 24, 30), que tuvieron estas características:
         </P>
 
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 caminaba poco y lento, con la cabeza totalmente hacia abajo;
             </li>
         </P>
             
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 al querer beber agua temblaba frente al plato, como no pudiendo, con impotencia, para luego beber sumergiendo la nariz en el agua, con las consecuentes molestias por el agua ingresada en las vías respiratorias;
             </li>
         </P>
             
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 si le ofrecíamos comida, comía.
             </li>
@@ -578,31 +574,31 @@ export default function Spanish() {
         Por eso las 5 cosas que yo le pedía a la tomografía eran estas:
         </P>
         
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 tumor primario destruido
             </li>
         </P>
         
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 ausencia de tumores en el cráneo
             </li>
         </P>
         
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 ausencia de tumores linfáticos en la zona de la garganta
             </li>
         </P>
         
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 explicación optimista a las masas que asomaban del lado izquierdo
             </li>
         </P>
         
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
+        <P style={toggleULStyles}>
             <li>
                 alguna reducción de los secundarios, o al menos que no hubiesen avanzado
             </li>
@@ -713,90 +709,7 @@ export default function Spanish() {
         </P>
 
         <P>
-        Respecto al endocrinólogo, podría hacer un balance de pros y contras pero sería repetir. Lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano con la mano abierta porque siempre percibí que no era correligionario de la nueva izquierda del coronavirus; y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
+        Respecto al endocrinólogo, podría hacer un balance de pros y contras pero sería repetir. Lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano con la mano abierta porque siempre percibí que no era correligionario de la doctrina del coronavirus; y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
         </P>
-
-
-
-        <div style={subtitleStyles} id={'26'}> Conclusiones </div>
-
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            Cuando un perro empieza a comer de más, a beber y orinar de más, tuerce su apetito hacia los carbohidratos, sean dulces o salados, y con mucha más razón si le aparece una barriga dura cerca de las costillas, lejos de los genitales, hay pérdida de musculatura y dan altos los valores en sangre de ALT-GPT, AST-GOT, triglicéridos, cortisol y sodio, es hora de hacer una prueba en orina de la relación cortisol/creatinina y de mirar las glándulas suprarrenales y el hígado con ecógrafo y los pulmones con radiografía.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            El Cushing puede ser por tumor en esas glándulas o por tumor en la hipófisis, glándula que está en el centro del cráneo y le da órdenes a las suprarrenales. Este es inoperable siempre.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            El trilostano y el mitotano sirven para reducir la liberación de corticoides en ambos tipos de Cushing.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            Si el tumor está abajo, sobre los riñones, hay que removerlo cuanto antes y rehabilitar la glándula sana, salvo que ya haya invadido la vena cava inferior. Sobre la posibilidad de atacar con mitotano o radioterapia para liberar la vena y luego extirpar, considerar las posibilidades.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            Para evitar la muerte hay que evitar estas 3 cosas: crecimiento del primario, avance del primario sobre la vena cava inferior si es suprarrenal, y metástasis.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            Las 3 metas se logran con un sistema de defensas fuerte, que incluye evitar los carbohidratos, los antibióticos y el estrés y mantener bajos los niveles de cortisol. Puede ser bueno alcalinizar el cuerpo con dosis de bicarbonato de sodio, potasio y magnesio y fortalecer el sistema inmunológico con vitamina D3.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            Se monitorea cada 2 meses por orina, sangre, ecografía y placa de tórax. Si el cortisol en orina está alto, aumentar la droga de inmediato porque baja las defensas y facilita las metástasis. Prestar especial atención a los parámetros que podrían indicar enfermedad del hígado. Tener en cuenta que aunque las concentraciones de cortisol den bien cuando se tomen las muestras en días normales, puede que se disparen en los días especiales o ante situaciones especiales hasta niveles dañinos.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            En caso de metástasis, primeramente se debería determinar si se trata de metástasis suprarrenal o si hay otro tipo de cáncer en el cuerpo que aprovechó la debilidad inmunológica que causa el cortisol alto.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            De confirmarse el tipo suprarrenal, se puede atacar inmediatamente con mitotano. Si hay metástasis importantes, hay que mantener una dosis de trilostano mientras se avanza. Tener inyecciones de hidrocortisona y dexametasona a mano para usar si viene una crisis.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            La nueva vida consiste en introducir corticoides sintéticos cada 12 horas en la dosis mínima que necesita para un día normal. Aprender las dosis y los tiempos de cada una de las drogas. Tener listos los inyectables para emergencias. Necesitará un plus de glucocorticoides cada vez que esté asustado o estresado o ansioso o se dé un golpe o desarrolle una infección, etcétera.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            Moverse dentro de un ámbito reducido con profesionales que conozcan el caso. Esconder al animal de los profesionales que no saben de qué se trata y se creen héroes por eutanasiar sin consideraciones.
-            </li>
-        </P>
-        
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            Tener listo un sedante inyectable para caso de colapso y así poder llevarlo medio dormido a urgencias.
-            </li>
-        </P>
-
-        <P style={{ textIndent: '0', marginInline: '3%' }}>
-            <li>
-            La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir el cuadro sin mitotano. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré.
-            </li>
-        </P>
-
     </>)
 }

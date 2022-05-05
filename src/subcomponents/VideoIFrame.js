@@ -1,19 +1,29 @@
 import { useSelector } from 'react-redux'
+import styles from '../css/styles.module.css'
 
 export const VideoIFrame = () => {
 
-    const { isMobile } = useSelector(state => state)
+    const { isEnglish, isMobile } = useSelector(state => state)
 
     return (
-        <div className={'text-center'} style={{ marginTop: '100px' }}>
+    <>
+        <div className={'text-center mb-4'} style={{ marginTop: '100px' }}>
             <iframe src={"https://www.youtube.com/embed/5sj8dSXmPn4"}
                 width={isMobile ? "98%" : "560"}
                 height={isMobile ? "380": "315"} 
                 title={"Ally"}
                 frameBorder={"0"}
-                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;${isMobile ? '' : ' fullscreen;'}`}
+                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;${isMobile ? '' : ''}`}    // ' fullscreen;'
                 allowsfullscreen={isMobile ? 'false' : 'true'}>
             </iframe>
+
         </div>
+
+        <div className={`${styles.card} d-block m-auto text-center`}>
+            <a href="https://www.youtube.com/watch?v=5sj8dSXmPn4" target={'_blank'} rel={'noreferrer'}>
+                {isEnglish ? "Watch on YouTube" : "Ver en YouTube"}
+            </a>
+        </div>
+    </>
     )
 }

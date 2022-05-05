@@ -1,8 +1,11 @@
+import { useEffect } from 'react'
 import { useSelector } from 'react-redux'
-import English from './English'
-import Spanish from './Spanish'
-import { SpanishIntro } from './SpanishIntro'
-import { EnglishIntro } from './EnglishIntro'
+import English from './content/English'
+import Spanish from './content/Spanish'
+import { SpanishIntro } from './content/SpanishIntro'
+import { EnglishIntro } from './content/EnglishIntro'
+import { EnglishConclusions } from './content/EnglishConclusions'
+import { SpanishConclusions } from './content/SpanishConclusions'
 import { Title } from './subcomponents/Title'
 import { Footer } from './subcomponents/Footer'
 import { IndexModal } from './subcomponents/IndexModal'
@@ -12,26 +15,20 @@ import { LanguageBtn } from './subcomponents/LanguageBtn'
 import { ShareBtns } from './subcomponents/ShareBtns'
 import { Widgets } from './subcomponents/Widgets'
 import { Hr } from './subcomponents/Hr'
+import { DIV } from './css/styles'
 
 export const App = () => {
 
-    const { isDarkMode, isEnglish, isMobile } = useSelector(state => state)
-    const currentWidth = window.innerWidth
+    const { isDarkMode, isEnglish } = useSelector(state => state)
 
-    window.addEventListener('resize', () => {
-        if (currentWidth !== window.innerWidth) setTimeout(() => window.location.reload(), 200)
-    })
+    useEffect(() => {
+        window.addEventListener('resize', () => setTimeout(() => window.location.reload(), 200))
+    }, [])
 
     return (
         <div className={`p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}>
 
-            <div
-                style={{
-                    minHeight: '100vh',
-                    marginInline: isMobile ? '4%' : '20%',
-                    marginBottom: '120px'
-                }}
-            >
+            <DIV>
 
                 <LanguageBtn />
 
@@ -45,6 +42,10 @@ export const App = () => {
 
                 <Hr />
 
+                {isEnglish ? <EnglishConclusions /> : <SpanishConclusions />}
+
+                <Hr />
+
                 <LinkToDocuments />
 
                 <Hr />
@@ -55,7 +56,7 @@ export const App = () => {
 
                 <ShareBtns />
                 
-            </div>
+            </DIV>
 
             <Footer />
 

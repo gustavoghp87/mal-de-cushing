@@ -1,7 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = window.localStorage.getItem('isDarkModeCushing') === 'true'
-console.log(initialState);
 
 export const isDarkModeSlice = createSlice({
     name: 'isDarkMode',

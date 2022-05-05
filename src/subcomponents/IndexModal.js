@@ -14,7 +14,7 @@ export const IndexModal = () => {
             onHide={() => dispatch(changeShowIndexReducer(false))}
         >
             <Modal.Header closeButton className={isDarkMode ? 'bg-dark text-white' : ''}>
-                <Modal.Title> {isEnglish ? "Index" : "Índice"} </Modal.Title>
+                <Modal.Title> <span className={'ml-2'}>{isEnglish ? "Index" : "Índice"}</span> </Modal.Title>
             </Modal.Header>
 
             <Modal.Body
@@ -22,11 +22,11 @@ export const IndexModal = () => {
                 onClick={() => dispatch(changeShowIndexReducer(false))}
             >
                 {sections.map((section, index) => (
-                    <div key={index} style={{ cursor: 'pointer' }} onClick={() => {
+                    <div key={index} className={`ml-2 ${isMobile ? 'my-2' : ''}`} style={{ cursor: 'pointer' }} onClick={() => {
                         if (isMobile) {
                             setTimeout(() => {
                                 window.location.href = `${window.location.pathname}#${section}`
-                                window.scrollTo(window.scrollX, window.scrollY - 100)
+                                window.scrollTo(window.scrollX, window.scrollY - 60)
                                     setTimeout(() => {
                                     window.scrollTo(window.scrollX, window.scrollY + 1)
                                 }, 200);
@@ -36,7 +36,7 @@ export const IndexModal = () => {
                             window.scrollTo(window.scrollX, window.scrollY - 50)
                             setTimeout(() => {
                                 window.scrollTo(window.scrollX, window.scrollY + 1)
-                            }, 300)
+                            }, 200)
                         }
                     }}>
                         <h6> {document?.getElementById(section)?.innerText} </h6>

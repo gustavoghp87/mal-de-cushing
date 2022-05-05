@@ -7,12 +7,12 @@ export const Title = () => {
     return (
         <div
             style={{
-                margin: 0,
-                lineHeight: 1.15,
                 fontSize: isMobile ? '2.5rem ' : '3.4rem',
-                textAlign: 'center',
+                lineHeight: 1.15,
+                margin: 0,
+                marginBottom: '60px',
                 paddingTop: isMobile ? '80px' : '110px',
-                marginBottom: '60px'
+                textAlign: 'center'
             }}
         >
             <p>
