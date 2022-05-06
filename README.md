@@ -1,2 +1,2 @@
 # mal-de-cushing
-Sitio sobre el mal de Cushing en perros / Cushing desease in dogs website
+Sitio sobre el mal de Cushing en perros / Cushing's desease in dogs website

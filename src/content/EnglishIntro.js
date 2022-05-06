@@ -25,7 +25,7 @@ export const EnglishIntro = () => (
         </P>
         
         <P>
-        There are several important errors that, had they not been made, the illness, suffering and outcome would have been avoided; some accurate and others close; some my fault and others of the others.
+        There are several important errors that, if they had not been made, the disease, suffering and outcome would have been avoided; some accurate and others close; some my fault and others of the others.
         </P>
         
         <P>
@@ -33,7 +33,7 @@ export const EnglishIntro = () => (
         </P>
         
         <P>
-        For everyone who wants to save their pet from this disease and its institutional challenges.
+        For everyone who wants to save their dog from this disease and its institutional challenges.
         </P>
     </>
 )

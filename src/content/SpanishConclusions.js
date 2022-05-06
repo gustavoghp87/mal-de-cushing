@@ -5,11 +5,7 @@ export const SpanishConclusions = () => (
         <div style={subtitleStyles} id={'26'}> Conclusiones </div>
 
         <P>
-        Los que hacemos software estamos acostumbrados a que la gente del mundo publica sus resoluciones y sus explicaciones para que los lea quiensea que esté buscando. Escribo porque no estoy expuesto a juicios de ética por colegas que puedan considerar que la competencia es una falta de ética o que los estoy difamando. No tengo sobre mi cabeza un órgano corporativo colectivista para-estatal que me obligue a ejercer la mala praxis, el consejo profesional, de hechura e ideología 100% medieval, que es el árbitro para la supremacía de los intereses creados y el pisoteo del bien común. No le digo a los demás lo que tienen que hacer. No creo en la ingeniería social ni en los intelectuales. No tengo un título habilitante para que el Estado me dé permiso para vender servicios en un mercado secuestrado. Lo que digo es que la utilización del poder público para secuestrar el mercado de los servicios de salud y medicina por parte de los profesionales y la prohibición del ejercicio privado y la libertad de ejercicio de la profesión nos ha dejado este nivel de atraso, 100 años de atraso.
-        </P>
-
-        <P>
-        Quedaron claros en esta página los errores propios, la autocrítica que corresponde y la exposición de la corrupción del sistema y de la imbecilidad del hombre común, en lo que resultó relevante, porque la corrupción del sistema es la imbecilidad del hombre común. Por eso, considerar:
+        Los que hacemos software estamos acostumbrados a que la gente del mundo publique sus resoluciones y sus explicaciones para que los lea quiensea que esté buscando. Por esa línea escribí, y dejé lo más claro que pude en este sitio los errores propios, la autocrítica que corresponde y lo que considero es el superlativo grado de atraso y subdesarrollo que tiene el ejercicio de las profesiones veterinarias. Por eso, considerar:
         </P>
 
         <P style={toggleULStyles}>
@@ -74,13 +70,7 @@ export const SpanishConclusions = () => (
         
         <P style={toggleULStyles}>
             <li>
-            Moverse dentro de un ámbito reducido con profesionales que conozcan el caso. Esconder al animal de los profesionales que no saben de qué se trata y se creen héroes por eutanasiar sin consideraciones.
-            </li>
-        </P>
-        
-        <P style={toggleULStyles}>
-            <li>
-            Tener listo un sedante inyectable para caso de colapso y así poder llevarlo medio dormido a urgencias.
+            Moverse dentro de un ámbito reducido con profesionales que conozcan el caso. Esconder al animal de los profesionales que no saben de qué se trata y se creen héroes por eutanasiar sin consideraciones. Tener listo un sedante inyectable para caso de colapso y así poder llevarlo medio dormido a urgencias.
             </li>
         </P>
 

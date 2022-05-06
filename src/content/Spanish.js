@@ -709,7 +709,7 @@ export default function Spanish() {
         </P>
 
         <P>
-        Respecto al endocrinólogo, podría hacer un balance de pros y contras pero sería repetir. Lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano con la mano abierta porque siempre percibí que no era correligionario de la doctrina del coronavirus; y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
+        Respecto al endocrinólogo, podría hacer un balance de pros y contras pero sería repetir. Lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano con la mano abierta porque siempre percibí que no era un correligionario de la doctrina del coronavirus; y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
         </P>
     </>)
 }

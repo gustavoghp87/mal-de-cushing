@@ -5,11 +5,7 @@ export const EnglishConclusions = () => (
         <div style={subtitleStyles} id={'26'}> Conclusions </div>
 
         <P>
-        Those of us who make software are used to people around the world posting their resolutions and explanations for whoever is looking to read them. I write because I am not exposed to ethical judgments by colleagues who may consider that the competition is unethical or that I am defaming them. I do not have on my head a para-state collectivist corporate body that forces me to exercise malpractice, professional advice, of 100% medieval make-up and ideology, which is the arbiter for the supremacy of vested interests and the trampling of the common good . I don't tell others what to do. I don't believe in social engineering or intellectuals. I do not have a qualifying title for the State to give me permission to sell services in a hijacked market. What I am saying is that the use of public power to hijack the market for health and medical services by professionals and the prohibition of private practice and the freedom to exercise the profession has left us this level of backwardness, 100 years of delay.
-        </P>
-
-        <P>
-        The errors themselves, the corresponding self-criticism and the exposure of the corruption of the system and the imbecility of the common man were made clear on this page, in what was relevant, because the corruption of the system is the imbecility of the common man. Therefore, consider:
+        Those of us who make software are used to people around the world posting their resolutions and explanations for whoever is looking to read them. For that line I wrote, and I left as clear as I could on this site my own mistakes, the corresponding self-criticism and what I consider to be the superlative degree of backwardness that the exercise of the veterinary professions has. Therefore, consider:
         </P>
 
         <P style={toggleULStyles}>

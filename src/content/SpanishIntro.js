@@ -27,7 +27,7 @@ export const SpanishIntro = () => {
         </P>
         
         <P>
-        Hay varios errores importantes que, de no haberse cometido, se hubiese evitado la enfermedad, el sufrimiento y el desenlace; algunos certeros y otros de aproximación; algunos mi culpa y otros de los demás.
+        Hay varios errores importantes que, de no haberse cometido, se hubiesen evitado la enfermedad, el sufrimiento y el desenlace; algunos certeros y otros de aproximación; algunos mi culpa y otros de los demás.
         </P>
         
         <P>
