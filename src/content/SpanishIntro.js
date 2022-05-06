@@ -7,19 +7,15 @@ export const SpanishIntro = () => {
         <div style={subtitleStyles} id={'1'}> Introducción </div>
 
         <P>
-        Ally tenía 9 años y 3 meses cuando murió por complicaciones metastásicas del mal de Cushing. O por una mala ejecución de la terapia de reemplazo de corticoides. O por la pasión eutanasiadora de los veterinarios. No lo sé. Publico hoy aprendizajes importantes que me hubiese gustado haber conocido a tiempo pero no encontré por ningún lado.
+        Ally tenía 9 años y 3 meses cuando murió por complicaciones metastásicas del mal de Cushing. O por una mala ejecución de la terapia de reemplazo de corticoides. O por la pasión eutanasiadora de los veterinarios. No lo sé. Publico hoy aprendizajes importantes que me hubiese gustado haber conocido a tiempo pero que no encontré por ningún lado.
         </P>
         
         <P>
-        Los signos de la enfermedad se pueden rastrear a poco después de la traumática castración, cuando tenía 5 años. El diagnóstico se demoró año y medio por pura impericia profesional, incapaz de asociar síntomas con enfermedad, pero curiosamente habilidosa para mandar a hacer estudios que no sirven para nada y evitar los estudios que sí pueden explicar el problema.
+        Los signos de la enfermedad se pueden rastrear a poco después de la traumática castración, cuando tenía 5 años y 9 meses. El diagnóstico se demoró año y medio por pura impericia profesional, que se mostró incapaz de asociar síntomas con enfermedad y de hacer los estudios que sí podían explicar el problema. Luego fue perfectamente controlada con un inhibidor de corticoides llamado trilostano, de poca experiencia en el mercado (data de 2006). El tumor ya era inoperable para cuando fue descubierto porque estaba invadiendo la luz de la vena cava inferior y toda cirugía en esa zona es garantía de desangrado. Tuvo, entonces, el mejor año y medio de su vida, en completa salud.
         </P>
         
         <P>
-        Luego fue perfectamente controlada con un inhibidor de corticoides llamado trilostano, de poca experiencia en el mercado (data de 2006). El tumor ya era inoperable para cuando fue descubierto porque estaba invadiendo la luz de la vena cava inferior y toda cirugía en esa zona es garantía de desangrado. Tuvo, entonces, el mejor año y medio de su vida, en completa salud.
-        </P>
-        
-        <P>
-        Pero después de ese año y medio se notó que la dosis diaria que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
+        Pero después de ese año y medio se notó que la dosis diaria de trilostano que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
         </P>
         
         <P>

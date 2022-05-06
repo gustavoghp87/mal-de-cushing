@@ -57,17 +57,28 @@ export const ShareBtns = () => {
     ]
     // fb: quote, no title; reddit: windowWidth, windowHeight; email: subject, body, no title;
 
+    let lastClickTime = +new Date();
+
+    const share = index => {
+        const newLastClickTime = +new Date()
+        if (newLastClickTime - lastClickTime > 500) document.getElementById("share-" + index).click()
+        lastClickTime = newLastClickTime
+    }
+
     return (
         <div style={{ marginTop: '60px' }}>
 
             <div className={'row d-flex align-items-center justify-content-center'}>
                 {socialNetworks.map((socialNet, index) => (
-                    <div key={index} className={styles.card} style={{
-                        width: '300px',
+                    <div key={index} className={styles.card} onClick={() => share(index)} style={{
+                        cursor: 'pointer',
                         height: '80px',
-                        marginInline: '10px'
+                        marginInline: '10px',
+                        width: '300px'
                     }}>
                         <socialNet.button
+                            id={"share-" + index}
+                            onClick={() => lastClickTime = +new Date()}
                             url={shareUrl}
                             title={title}
                             quote={title}

@@ -1,8 +1,6 @@
 import { P, toggleULStyles, subtitleStyles } from '../css/styles'
 
-export default function Spanish() {
-
-    return (
+export const Spanish = () => (
     <>
         <div style={subtitleStyles} id={'2'}> Ella </div>
 
@@ -28,22 +26,22 @@ export default function Spanish() {
 
 
 
-        <div style={subtitleStyles} id={'4'}> Indicios de mal de Cushing y diagnóstico </div>
+        <div style={subtitleStyles} id={'4'}> Indicios de mal de Cushing, diagnóstico y tratamiento </div>
 
         <P>
         Contando 13 meses desde la esterilización, hicimos una tanda de estudios porque algo no estaba bien. Había engordado un poco, tenía bastante más hambre de lo normal y orinaba mucho; y hasta desarrolló un apetito por los carbohidratos que nunca había tenido. Después de unos estudios de la sangre y una ridícula radiografía para mirarle la columna vertebral, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado dietético; y esto a pesar de que varios parámetros en la sangre estaban mal, incluyendo alanina aminotransferasa (ALT-GPT) alta, que casi siempre significa enfermedad del hígado o hígado grado... por corticoides altos (mal de Cushing).
         </P>
         
         <P>
-        No diría que se haya deteriorado más durante los meses siguientes pero sí empeoró de golpe en abril de 2020, 19 meses después de la castración y junto con el confinamiento obligatorio decretado. No podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Luego de comer, tomaba grandes cantidades y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar. Tenía hambre todo el tiempo y una gran panza abalonada alrededor del hígado, la de la grasa visceral que causa el hígado graso por estrés metabólico. Llegó a los 4,9 kg, que casi duplicaba el valor previo a la cirugía (2,7 kg).
+        No diría que se haya deteriorado más durante los meses siguientes pero sí empeoró de golpe en abril de 2020, 19 meses después de la castración y junto con el confinamiento obligatorio decretado. Tenía hambre todo el tiempo y le salió una panza abalonada dura alrededor del hígado (la de la grasa visceral que causa el hígado graso por estrés metabólico). Llegó a los 4,9 kg, que casi duplicaba el valor previo a la cirugía (2,7 kg). No podía dejar de beber agua y, sin embargo, la nariz estaba completamente seca. Después de comer, tomaba grandes cantidades de agua y no le quedaba espacio suficiente para abrir bien los pulmones y hacía ruidos al respirar.
         </P>
         
         <P>
-        Mientras esperábamos otra tanda de estudios, incluyendo uno interminable de tiroides, una de las veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un cáncer de tejidos superficiales, aunque por estos días nadie le llamaba cáncer ni carcinoma, sino tumor.
+        Mientras esperábamos otra tanda de estudios, incluyendo uno interminable de tiroides, una de las médicas veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un cáncer de tejidos superficiales, aunque por estos días nadie le llamaba cáncer ni carcinoma, sino tumor.
         </P>
         
         <P>
-        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista de la historia, aparte de Ally y yo; egresado de la UBA pero de acento extranjero, "especialista en razas pequeñas". Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos de la marca nueva y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
+        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista externo de la historia; egresado de la UBA pero de acento extranjero, "especialista en razas pequeñas". Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos de la marca nueva y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
         </P>
         
         <P>
@@ -372,21 +370,17 @@ export default function Spanish() {
         <div style={subtitleStyles} id={'16'}> Los caóticos 20 días finales </div>
 
         <P>
-        Sufrí mucho estos días no tener instrumentos de medición para saber lo que estaba pasando y tomar decisiones de inmediato, como sí le pasa, por ejemplo, al insulinodependiente con el glucómetro. Estuve cerca de comprar un tensiómetro para animales caro y de dudosa calidad pero los compradores estaban decepcionados. Y los análisis de sangre y orina demoraban al menos 2 días, y casi siempre 5.
+        Sufrí estos días no tener instrumentos de medición para saber lo que estaba pasando y tomar decisiones de inmediato, como sí le pasa, por ejemplo, al insulinodependiente con el glucómetro. Estuve cerca de comprar un tensiómetro para animales caro y de dudosa calidad pero leí a los compradores decepcionados. Y los análisis de sangre y orina demoraban al menos 2 días, y casi siempre 5. Ante la adversidad, comencé a llevar registro detallado de todo lo que observaba y de todas las drogas y dosis que introducía, buscando entender lo que el endocrinólogo no me explicaba y lo que internet no me decía.
         </P>
         
         <P>
-        El 18 no solo fue un viernes malo sino que también inauguró los 20 días finales, donde la terapia de reemplazo fue caótica, con días de evidente insuficiencia y días de evidente exceso de estas hormonas, y hasta de combinación a un mismo tiempo. Estos días me quitaron legitimidad frente a los demás y un poco ante mí mismo, y dieron la sensación de que Ally estaba a punto de morir por la enfermedad. No hubo manera de explicar que todo lo malo que estaba pasando era por lo caótico del tratamiento, la falta de instrucción y la ausencia de instrumentos de medición. Es la situación que me llevó a la tomografía de la muerte y a mi estado final y derrota.
-        </P>
-        
-        <P>
-        Comencé a llevar registro detallado de todo lo que observaba y de todas las drogas y dosis que introducía, buscando entender lo que el endocrinólogo no me explicaba y lo que internet no me decía. Todos llegaron a creer después que la muerte fue para dejar de sufrir pero en realidad solo sufrió en estos 20 días y solo 5 fueron malos en crisis de 9 horas, algunos fueron regulares y otros, buenos.
-        </P>
-        
-        <P>
-        Pero era doloroso verla beber agua como desesperada, con ruidos raros, y atragantarse y escupir o vomitar parte de lo bebido al caminar pocos pasos. También que pidiera comida a cada rato y que se lamiese y bebiese los fluidos infecciosos todo el tiempo. Había veces que se manchaba la nariz, que estaba completamente seca, y le quedaba amarilla por días, imposible de lavar. Y los pegotes duros que le quedaban en los pelos de la parte trasera y las patas se los arrancaba, dejando partes peladas.
+        El 18 no solo fue un viernes malo sino que también inauguró los 20 días finales, donde la terapia de reemplazo fue caótica, con días de evidente insuficiencia y días de evidente exceso de hormonas corticoides, y hasta de combinación a un mismo tiempo. Todos llegaron a creer después que la muerte fue para dejar de sufrir pero en realidad solo sufrió en estos 20 días y solo 5 fueron malos en crisis de 9 horas, algunos fueron regulares y otros buenos, y, como voy a argumentar, fue sufrimiento por lo caótico del tratamiento, la falta de instrucción y la ausencia de instrumentos de medición, y no por la enfermedad en sí. 
         </P>
 
+        <P>
+        Pero sí era doloroso verla tomar agua como desesperada, con ruidos raros, y atragantarse y escupir o vomitar parte de lo bebido al caminar pocos pasos. También que pidiera comida a cada rato y que se lamiese y bebiese los fluidos infecciosos todo el tiempo. Había veces que se manchaba la nariz, que estaba completamente seca, y le quedaba amarilla por días, imposible de lavar. Y los pegotes duros que le quedaban en los pelos de la parte trasera y las patas se los arrancaba, dejando partes peladas.
+        </P>
+        
 
 
         <div style={subtitleStyles} id={'17'}> La fallida terapia de reemplazo de corticoides: las otras crisis </div>
@@ -404,7 +398,7 @@ export default function Spanish() {
         </P>
 
         <P>
-        El lunes 21 empecé el antibiótico nuevo (amoxicilina con ácido clavulánico) y hablé con el endocrinólogo, que me convenció de suspender los corticoides sintéticos pero mantener el mitotano. Acepté pero este día y el siguiente tuve que usar trilostano para sofocar el apetito exagerado con deshidratación. También un poco el miércoles. Total: 12 mg, 10 mg, 2 mg. No volví a usar trilostano, excepto dos excepciones más adelante.
+        El lunes 21 empecé el antibiótico nuevo (amoxicilina con ácido clavulánico) y hablé con el endocrinólogo, que me convenció de suspender los corticoides sintéticos pero mantener el mitotano. Acepté pero este día y el siguiente tuve que usar trilostano para sofocar un apetito exagerado, que venía acompañado con deshidratación. También un poco el miércoles. Total: 12 mg, 10 mg, 2 mg. No volví a usar trilostano, excepto dos excepciones más adelante.
         </P>
 
         <P>
@@ -448,7 +442,11 @@ export default function Spanish() {
         </P>
         
         <P>
-        Cuando el viernes negro le di prednisolona y fludrocortisona a mediodía, la prednisolona hizo efecto 9 horas después, al llegar la noche, pero la fludrocortisona demoró 12, 18 o 24 horas en impactar. Por eso, cuando le di mitotano por la noche, las concentraciones de glucocorticoides estaban más altas de lo normal pero las de mineralocorticoides estaban por debajo de lo normal. Por eso vimos una combinación de síntomas entre la debilidad, las náuseas, la visión borrosa propias de mineralocorticoides bajos, junto con sed, hambre y depresión inmunológica propios de glucocorticoides altos. La crisis de la cabeza gacha era un engendro mío por no conocer las suplementaciones.
+        Cuando el viernes 18 de marzo (primera crisis) le di prednisolona y fludrocortisona a mediodía, la prednisolona hizo efecto 9 horas después, al llegar la noche, pero la fludrocortisona demoró 12, 18 o 24 horas en impactar. Por eso, cuando le di mitotano por la noche, las concentraciones de glucocorticoides estaban más altas de lo normal pero las de mineralocorticoides estaban por debajo de lo normal. Por eso vimos una combinación de síntomas entre la debilidad, las náuseas, la visión borrosa propias de mineralocorticoides bajos, junto con sed, hambre y depresión inmunológica propios de glucocorticoides altos. La crisis de la cabeza gacha era un engendro mío por no conocer las suplementaciones.
+        </P>
+
+        <P>
+        La presión sanguínea y los mineralo.
         </P>
         
         <P>
@@ -711,5 +709,5 @@ export default function Spanish() {
         <P>
         Respecto al endocrinólogo, podría hacer un balance de pros y contras pero sería repetir. Lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano con la mano abierta porque siempre percibí que no era un correligionario de la doctrina del coronavirus; y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
         </P>
-    </>)
-}
+    </>
+)

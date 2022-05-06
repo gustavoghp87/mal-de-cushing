@@ -12,12 +12,12 @@ export const IndexButton = () => {
         <div
             className={`${styles.card} ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}
             style={{
-                position: isMobile ? '' : 'fixed',
-                left: isMobile ? '' : 0,
-                top: isMobile ? '' : 0,
-                marginLeft: isMobile ? '' : '3%',
                 cursor: 'pointer',
-                padding: isMobile ? '11px 37px' : ''
+                left: isMobile ? '' : 0,
+                marginLeft: isMobile ? '' : '3%',
+                padding: isMobile ? '11px 30px' : '',
+                position: isMobile ? '' : 'fixed',
+                top: isMobile ? '' : 0
             }}
             onClick={() => dispatch(changeShowIndexReducer(true))}
         >

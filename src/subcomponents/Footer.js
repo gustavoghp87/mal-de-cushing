@@ -13,7 +13,7 @@ export const Footer = () => {
 
             <div className={'my-2'} style={{ maxWidth: '80%' }}>
                 <p> {isEnglish ? "Donations are accepted in Bitcoin for the payment of the domain" : "Se aceptan donaciones en Bitcoin para pagar el dominio:"} </p>
-                <p> 1AtHe23t5zHWPS5wSYtDXz2fFjZqB9FgHN </p>
+                <p className={window.innerWidth < 330 ? 'd-none' : ''}> 1AtHe23t5zHWPS5wSYtDXz2fFjZqB9FgHN </p>
                 <Button variant={'danger'} size={'sm'} onClick={() => setShowQR(s => !s)}>
                     {showQR ?
                         isEnglish ? "Hide QR" : "Ocultar QR"
