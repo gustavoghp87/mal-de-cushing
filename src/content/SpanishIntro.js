@@ -15,11 +15,11 @@ export const SpanishIntro = () => {
         </P>
         
         <P>
-        Pero después de ese año y medio se notó que la dosis diaria de trilostano que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
+        Pero después de ese año y medio se notó que la dosis diaria de trilostano que recibía era insuficiente. La expectativa de un crecimiento del tumor fue traicionada por una ecografía que reveló, mas bien, un riego de tumores secundarios en el hígado, de entre uno y dos centímetros de diámetro. Cuarenta días después y en pleno tratamiento agresivo con la droga quimioterapéutica mitotano, una radiografía de tórax dio a conocer múltiples metástasis en ambos pulmones.
         </P>
         
         <P>
-        Finalmente, el día 60 del tratamiento la llevé a hacer una tomografía computada para saber cómo marchaba pero ya la dejé allí para cremación. Ella ya no tenía capacidad de producir sus propios corticoides para esa fecha por causa de la naturaleza del tratamiento que estaba haciendo y probablemente necesitaba recibir corticoides de efecto inmediato para salir de la crisis respiratoria en la que la metió el estudio con sedantes. Pero los veterinarios del centro no me escucharon, me combatieron y prevalecieron. Fue eutanasiada mientras reposaba su cabeza en mi mano.
+        Finalmente, el día 60 del tratamiento la llevé a hacer una tomografía computada para saber cómo marchaba pero murió ahí. Ella ya no tenía capacidad de producir sus propios corticoides para esa fecha por causa de la naturaleza del tratamiento que estaba haciendo y probablemente necesitaba recibir corticoides inyectables de efecto inmediato para salir de la crisis respiratoria en la que la metió el estudio con sedantes y el temor. Pero los veterinarios del centro no me escucharon, me combatieron y prevalecieron. Fue eutanasiada mientras reposaba su cabeza en mi mano.
         </P>
         
         <P>

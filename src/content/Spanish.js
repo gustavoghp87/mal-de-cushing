@@ -1,4 +1,4 @@
-import { Intervale } from './Intervale'
+import { Interval } from './Interval'
 import { P, toggleULStyles, subtitleStyles } from '../css/styles'
 
 export const Spanish = () => (
@@ -387,10 +387,10 @@ export const Spanish = () => (
         </P>
 
         
-        <Intervale />
+        <Interval />
 
 
-        <div style={ subtitleStyles } id={'19'}> Metástasis cerebral que no era </div>
+        <div style={ subtitleStyles } id={'20'}> Metástasis cerebral que no era </div>
 
         <P>
         El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza gacha (la única diurna), redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides por sus funciones antiinflamatorias. Creí, entonces, que había llegado el momento de una tomografía completa, bastante cara. No podía avanzar a la segunda etapa, caracterizada por corticoides bajos de por vida, sin saber si ella necesitaba tenerlos altos por la presencia de tumores en el cráneo y sin saber si el mitotano estaba funcionando sobre los secundarios del hígado y los pulmones.
@@ -402,7 +402,7 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'20'}> Los antibióticos </div>
+        <div style={ subtitleStyles } id={'21'}> Los antibióticos </div>
 
         <P>
         De las cosas que nos quedó de la época sanguinaria de la Segunda Guerra Mundial es el uso indiscriminado de antibióticos. Envenenar un cuerpo entero con venenos para bacterias producidos por los hongos es bastante parecido a bombardear una metrópolis entera porque se metió una banda de narcotraficantes.
@@ -430,7 +430,7 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'21'}> La llamada rinitis alérgica </div>
+        <div style={ subtitleStyles } id={'22'}> La llamada rinitis alérgica </div>
 
         <P>
         No fue algo divertido para mí darle antibióticos a mi perra sabiendo lo malos que son, pero supuse que no era tiempo de pensar en el largo plazo. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico. Entre ambos hay algunos días en que la creí curada.
@@ -454,7 +454,7 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'22'}> El día final </div>
+        <div style={ subtitleStyles } id={'23'}> El día final </div>
 
         <P>
         La decisión de retirar completamente la prednisolona (glucocorticoide) y mantener los 100 microgramos de fludrocortisona (mineralocorticoide y glucocorticoide) pareció correcta en los días que van de la crisis del 30 de marzo a la muerte el 6 de abril. Bien o mal, hubo 7 días sin crisis. Sin embargo, esta dosis de 0,1 mg dio la apariencia de ser excesiva en las 72 hs finales. Razoné que si el cálculo eran 30 microgramos por kilo de perro (3,5 kg por 30), tal vez había que calcular sobre un pesaje de 2,8 kg por la pérdida de musculatura que causó el Cushing.
@@ -524,7 +524,7 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'23'}> El estudio y la eutanasia </div>
+        <div style={ subtitleStyles } id={'24'}> El estudio y la eutanasia </div>
 
         <P>
         25 minutos después me la devolvieron, mientras se despertaba. La levantamos. Me dieron un CD con las imágenes y parecía que nos íbamos. Pero había algo raro en su mueca, la manera de poner la boca y la mirada perdida. La apoyamos en la mesa y la vimos hacer fuerza para respirar. Pedí ayuda y mencioné que tal vez necesitase corticoides por su condición. No me prestaron atención; creyeron que exageraba.
@@ -572,7 +572,7 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'24'}> La tomografía </div>
+        <div style={ subtitleStyles } id={'25'}> La tomografía </div>
 
         <P>
         No quise mirar las imágenes. 27 horas después de la muerte me llegó el informe, bastante breve. Al leerlo, primero me di cuenta que el cráneo estaba limpio, y la garganta también. Y después me llamó la atención que decía, palabras más, palabras menos, lo mismo que habían dicho la ecografía de enero y la radiografía de febrero, pero sumando un problema linfático de importancia secundaria.
@@ -588,7 +588,7 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'25'}> La conversación final </div>
+        <div style={ subtitleStyles } id={'26'}> La conversación final </div>
 
         <P>
         Mi incapacidad para ver el tumor primario en las imágenes de la tomografía me obligó a pedir una cita al endocrinólogo. Le dije que quería regalarle las drogas que me sobraron, una cantidad en dinero equivalente a todas las consultas que me cobró desde que lo conocí... que de todos modos no era mucho en comparación a las drogas y la tomografía; y que quería, también, conversar un poco para cerrar la historia.
