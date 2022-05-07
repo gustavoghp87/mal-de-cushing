@@ -12,11 +12,11 @@ export const SizeButton = () => {
         <div
             className={`${styles.card} ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}
             style={{
-                position: isMobile ? '' : 'fixed',
                 bottom: isMobile ? '' : 0,
-                right: isMobile ? '' : 0,
                 marginRight: isMobile ? '' : '3%',
-                padding: '5px'
+                padding: '5px',
+                position: isMobile ? '' : 'fixed',
+                right: isMobile ? '' : 0
             }}
         >
 
@@ -27,11 +27,13 @@ export const SizeButton = () => {
                     onClick={() => dispatch(changeFontSizeReducer("increase"))}
                     style={{ cursor: 'pointer' }}
                 >
-                    <PlusSquare size={26} />
+                    <PlusSquare size={26} /> {/* color={'royalblue'} */}
                     &nbsp;
-                    <b className={isMobile ? 'd-none' : undefined}> {isEnglish ? 'Increase Text Size' : 'Agrandar Texto'} &nbsp; </b>
-                    <b className={!isMobile ? 'd-none' : undefined}> A &nbsp; </b>
-                    {/* color={'royalblue'} */}
+                    {isMobile ?
+                        <b> A &nbsp; </b>
+                    :
+                        <b> {isEnglish ? 'Increase Text Size' : 'Agrandar Texto'} &nbsp; </b>
+                    }
                 </div>
 
                 <div
@@ -41,8 +43,11 @@ export const SizeButton = () => {
                 >
                     <DashSquare size={26} />
                     &nbsp;
-                    <b className={isMobile ? 'd-none' : undefined}> {isEnglish ? 'Decrease Text Size' : 'Achicar Texto'} </b>
-                    <b className={!isMobile ? 'd-none' : undefined}> A </b>
+                    {isMobile ?
+                        <b> A </b>
+                    :
+                        <b> {isEnglish ? 'Decrease Text Size' : 'Achicar Texto'} </b>
+                    }
                 </div>
             </div>
 

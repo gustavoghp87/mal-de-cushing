@@ -20,15 +20,21 @@ import { DIV } from './css/styles'
 export const App = () => {
 
     const { isDarkMode, isEnglish } = useSelector(state => state)
+    const windowWidthSize = window.innerWidth
 
     useEffect(() => {
-        window.addEventListener('resize', () => {
-            console.log("resize", window.innerWidth)
-            // setTimeout(() => window.location.reload(), 200) })
+        window.addEventListener('resize', (e) => {
+            e.preventDefault()
+            if (window.innerWidth !== windowWidthSize) {
+                const date = new Date()
+                console.log(date.getMinutes() + ":" + date.getSeconds());
+                console.log("resize", window.innerWidth)
+                setTimeout(() => window.location.reload(), 200)
+            } else {
+                console.log("Avoided reload")
+            }
         })
-        const date = new Date()
-        console.log(date.getMinutes() + ":" + date.getSeconds());
-    }, [])
+    }, [windowWidthSize])
 
     return (
         <div className={`w-100 p-0 ${isDarkMode ? 'bg-dark text-white' : 'bg-light'}`}>

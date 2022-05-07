@@ -10,14 +10,29 @@ export const Widgets = () => {
     const showWidgets = useShowWidgets()
 
     return (
-        <div
-            className={`${isMobile ? 'w-100' : ''} ${isMobile && isDarkMode ? 'bg-dark' : 'bg-secondary'} ${showWidgets ? '' : 'd-none'}`}
-            style={{ position: isMobile ? 'fixed' : '', top: isMobile ? 0 : '' }}
-        >
+        <>
+        
+        {isMobile && showWidgets
+        ?
             <div
-                className={`${isMobile ? 'row d-flex align-items-center' : ''}`}
-                style={{ justifyContent: isMobile ? 'space-evenly' : '' }}
+                className={`w-100' ${isDarkMode ? 'bg-dark' : 'bg-secondary'}`}
+                style={{ position: 'fixed', top: 0 }}
             >
+                <div
+                    className={'row d-flex align-items-center'}
+                    style={{ justifyContent: 'space-evenly' }}
+                >
+
+                    <DarkModeButton />
+
+                    <IndexButton />
+
+                    <SizeButton />
+
+                </div>
+            </div>
+        :
+            <div className={`${isDarkMode ? 'bg-dark' : 'bg-secondary'}`}>
 
                 <DarkModeButton />
 
@@ -26,6 +41,7 @@ export const Widgets = () => {
                 <SizeButton />
 
             </div>
-        </div>
+        }
+        </>
     )
 }
