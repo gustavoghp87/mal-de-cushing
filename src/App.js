@@ -25,14 +25,7 @@ export const App = () => {
     useEffect(() => {
         window.addEventListener('resize', (e) => {
             e.preventDefault()
-            if (window.innerWidth !== windowWidthSize) {
-                const date = new Date()
-                console.log(date.getMinutes() + ":" + date.getSeconds());
-                console.log("resize", window.innerWidth)
-                setTimeout(() => window.location.reload(), 200)
-            } else {
-                console.log("Avoided reload")
-            }
+            if (window.innerWidth !== windowWidthSize) setTimeout(() => window.location.reload(), 200)
         })
     }, [windowWidthSize])
 

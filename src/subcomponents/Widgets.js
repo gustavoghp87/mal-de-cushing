@@ -15,7 +15,7 @@ export const Widgets = () => {
         {isMobile && showWidgets
         ?
             <div
-                className={`w-100' ${isDarkMode ? 'bg-dark' : 'bg-secondary'}`}
+                className={`w-100 ${isDarkMode ? 'bg-dark' : 'bg-secondary'}`}
                 style={{ position: 'fixed', top: 0 }}
             >
                 <div
