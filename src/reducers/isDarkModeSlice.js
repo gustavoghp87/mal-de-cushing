@@ -1,12 +1,12 @@
 import { createSlice } from '@reduxjs/toolkit'
 
-const initialState = window.localStorage.getItem('isDarkModeCushing') === 'true'
+const initialState = window.localStorage.getItem('isDarkModeCushing') !== 'false'
 
 export const isDarkModeSlice = createSlice({
     name: 'isDarkMode',
     initialState: initialState,
     reducers: {
-        changeisDarkModeReducer: (state) => {
+        changeIsDarkModeReducer: (state) => {
             window.localStorage.setItem('isDarkModeCushing', (!state).toString())
             state = !state
             return state
@@ -14,4 +14,4 @@ export const isDarkModeSlice = createSlice({
     }
 })
 
-export const { changeisDarkModeReducer } = isDarkModeSlice.actions
+export const { changeIsDarkModeReducer } = isDarkModeSlice.actions

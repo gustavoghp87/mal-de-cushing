@@ -1,12 +1,12 @@
 import styled from 'styled-components'
-import { fontSizeCushing, size2 } from '../reducers/fontSizeSlice'
+import { fontSizeCushing, size0, size2 } from '../reducers/fontSizeSlice'
 
 const isMobile = window.innerWidth < 1000
 
 const fontSize = window.localStorage.getItem(fontSizeCushing)
 
 export const P = styled.p`
-    font-size: ${fontSize ?? '1rem'};
+    font-size: ${fontSize ?? size0};
     line-height: ${isMobile ? fontSize === size2 ? '2.5rem' : '2rem' : '2.2rem'};
     margin-bottom: ${isMobile ? '50px' : '30px'};
     text-align: ${isMobile ? fontSize === size2 ? 'justify' : 'justify' : 'justify'};

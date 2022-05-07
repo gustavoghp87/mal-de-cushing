@@ -25,10 +25,7 @@ export const DarkModeButton = () => {
                 type={'checkbox'}
                 id={"customSwitches"}
                 checked={isDarkMode}
-                onChange={() => {
-                    window.localStorage.setItem('darkModeCushing', (!isDarkMode).toString())
-                    dispatch(changeisDarkModeReducer())
-                }}
+                onChange={() => dispatch(changeisDarkModeReducer())}
             />
             
             <label

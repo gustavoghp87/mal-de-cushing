@@ -2,7 +2,7 @@ import { P, toggleULStyles, subtitleStyles } from '../css/styles'
 
 export const Interval = () => (
     <>
-        <div style={ subtitleStyles } id={'17'}> La fallida terapia de reemplazo de corticoides: las otras crisis </div>
+        <div style={ subtitleStyles } id={'17'}> Las otras crisis </div>
 
         <P>
         Me pareció bueno en estos 3 días (18, 19, 20 de marzo) dar los corticoides sintéticos pero combinarlos con 5 mg de trilostano para invalidar la producción de lo que quedaba de glándula tumorosa, y así suavizar la transición. No sé si fue mala idea o si solo la implementé mal por haberle dado menos de la fludrocortisona de la indicada: entre 30 y 50 microgramos en vez de 100, y por no conocer los tiempos de acción de las diferentes drogas. Y considerar que, en líneas generales, estos últimos 20 días también fueron de mitotano alto, aunque más bajo: si el promedio diario fue 360 mg los primeros 40 días, en los 20 siguientes fue de 200. Pero primero los hechos:
@@ -85,7 +85,7 @@ export const Interval = () => (
         </P>
 
         <P>
-        Por esto es que creo que las crisis en las que no podía levantar la cabeza eran, ante todo, crisis de mineralocorticoides insuficientes, causando presión arterial baja, mareos, náuseas y visión borrosa, pero con glucocorticoides excesivos a la vez, provocando sed, deshidratación y hambre. Pero tengo en contra que para la última crisis, el 30 de marzo, llevaba 6 días a más de 100 microgramos, sin trilostano. Lo que puedo hacer es esbozar una explicación <span className={'font-italic'}>ad hoc</span> basada en el cuadro de deshidratación que causaba el exceso de glucocorticoides, como si yo le hubiese provocado una crisis de presión arterial aun con la cantidad correcta de aldosterona en sangre. Es lo mejor que puedo formular.
+        Por esto es que creo que las crisis en las que no podía levantar la cabeza eran, ante todo, crisis de mineralocorticoides insuficientes, causando presión arterial baja, mareos, náuseas y visión borrosa, pero con glucocorticoides excesivos a la vez, provocando sed, deshidratación y hambre. Pero tengo en contra que para la última crisis, el 30 de marzo, llevaba 6 días a más de 100 microgramos, sin trilostano. Lo que puedo hacer es esbozar una explicación <span className={'font-italic'}>ad hoc</span> basada en el cuadro de deshidratación que causaba el exceso de glucocorticoides, como si yo le hubiese provocado una crisis de presión arterial baja aun con la cantidad correcta de aldosterona en sangre. Es lo mejor que puedo formular.
         </P>
 
 
