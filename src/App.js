@@ -22,8 +22,10 @@ export const App = () => {
     const { isDarkMode, isEnglish } = useSelector(state => state)
 
     useEffect(() => {
-        window.addEventListener('resize', () => { alert("resize"); setTimeout(() => window.location.reload(), 200) })
-
+        window.addEventListener('resize', () => {
+            console.log("resize", window.innerWidth)
+            // setTimeout(() => window.location.reload(), 200) })
+        })
         const date = new Date()
         console.log(date.getMinutes() + ":" + date.getSeconds());
     }, [])
