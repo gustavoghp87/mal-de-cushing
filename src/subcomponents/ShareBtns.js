@@ -10,7 +10,7 @@ export const ShareBtns = () => {
 
     const { isEnglish } = useSelector(state => state)
     const [copiedToClipboard, setCopiedToClipboard] = useState(false)
-    const shareUrl = "https://gustavoghp87.github.io/mal-de-cushing"
+    const shareUrl = "https://www.maldecushing.com"
     const title = isEnglish ? "Cushing's Desease in dogs: Ally's case" : "Mal de Cushing en perros: El caso de Ally"
 
     const socialNetworks = [

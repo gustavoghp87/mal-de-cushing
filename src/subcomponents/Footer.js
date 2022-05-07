@@ -12,8 +12,17 @@ export const Footer = () => {
         <footer className={`${styles.footer} ${isDarkMode ? '' : 'bg-secondary'} d-flex flex-column align-items-center mt-4`}>
 
             <div className={'my-2'} style={{ maxWidth: '80%' }}>
-                <p> {isEnglish ? "Donations are accepted in Bitcoin for the payment of the domain" : "Se aceptan donaciones en Bitcoin para pagar el dominio:"} </p>
+
+                <p>
+                    {isEnglish ?
+                        "Donations are accepted in Bitcoin for the payment of the domain:"
+                    :
+                        "Se aceptan donaciones en Bitcoin para el pago del dominio:"
+                    }
+                </p>
+
                 <p className={window.innerWidth < 330 ? 'd-none' : ''}> 1AtHe23t5zHWPS5wSYtDXz2fFjZqB9FgHN </p>
+
                 <Button variant={'danger'} size={'sm'} onClick={() => setShowQR(s => !s)}>
                     {showQR ?
                         isEnglish ? "Hide QR" : "Ocultar QR"
@@ -21,9 +30,11 @@ export const Footer = () => {
                         isEnglish ? "View QR code" : "Ver código QR"
                     }
                 </Button>
+
                 <div className={showQR ? 'mt-4' : 'd-none'}>
                     <Image src={"qr-code.png"} />
                 </div>
+                
             </div>
 
             <div className={'bg-danger mt-4'}>

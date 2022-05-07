@@ -3,7 +3,6 @@ import { useShowWidgets } from '../custom-hooks/useShowWidgets'
 import { DarkModeButton } from './Widgets/DarkModeButton'
 import { IndexButton } from './Widgets/IndexButton'
 import { SizeButton } from './Widgets/SizeButton'
-import { Hr } from './Hr'
 
 export const Widgets = () => {
 
