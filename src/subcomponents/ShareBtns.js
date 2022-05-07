@@ -82,13 +82,14 @@ export const ShareBtns = () => {
                             url={shareUrl}
                             title={title}
                             quote={title}
-                            className={'mt-2'}
+                            className={'ml-1'}
+                            style={{ marginTop: '7px' }}
                             windowWidth={660}
                             windowHeight={460}
                             subject={title}
                             body={isEnglish ? "I share this website about Cushing's Desease in dogs: " : "Comparto este sitio web acerca del mal de Cushing en perros: "}
                         >
-                            <socialNet.icon size={32} round /> &nbsp; {socialNet.text}
+                            <socialNet.icon size={32} round className='' /> &nbsp; {socialNet.text}
                         </socialNet.button>
                     </div>
                 ))}

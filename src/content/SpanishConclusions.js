@@ -79,9 +79,5 @@ export const SpanishConclusions = () => (
             La otra opción, por supuesto, es considerar que un perro no debería vivir sin cortezas suprarrenales; darle más trilostano, fortalecer las defensas y ver si puede revertir el cuadro sin mitotano. Desconozco lo que una quimioterapia convencional pudiera prometer; mi experiencia con un oncólogo veterinario fue la que narré.
             </li>
         </P>
-
-        <P>
-        Dejo abajo un enlace a los estudios y un medio de contacto.
-        </P>
     </>
 )

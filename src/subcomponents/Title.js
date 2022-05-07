@@ -17,7 +17,7 @@ export const Title = () => {
         >
             <p>
                 {isEnglish ?
-                    "Cushing's Desease in dogs and trilostane & mitotane treatments:"
+                    "Cushing's Desease in dogs, trilostane and mitotane treatments:"
                     :
                     "Mal de Cushing en perros y tratamientos con trilostano y mitotano:"
                 }

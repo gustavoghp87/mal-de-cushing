@@ -1,8 +1,9 @@
+import { Intervale } from './Intervale'
 import { P, toggleULStyles, subtitleStyles } from '../css/styles'
 
 export const Spanish = () => (
     <>
-        <div style={subtitleStyles} id={'2'}> Ella </div>
+        <div style={ subtitleStyles } id={'2'}> Ella </div>
 
         <P>
         Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal. Siempre fue de carácter tranquilo, de estómago usualmente cerrado. Rara vez jugó con un perro y nunca los olfateó, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros. Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad; un problema que pocos dudarían en asociar con su tamaño, pero no deja de ser una interpretación esta que pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
@@ -10,14 +11,14 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'3'}> Las 2 semanas y la castración </div>
+        <div style={ subtitleStyles } id={'3'}> Las 2 semanas y la castración </div>
 
         <P>
         Para septiembre de 2018, con 5 años, había tenido dos falsas preñeces y cada vez volvía más alterada de los cortes de pelo. Un viernes tenía problemas para masticar y pude verle una muela floja. Acordé un turno para castración, remoción de la muela y limpieza de sarro. Para prepararla quise cortarle el pelo. Le cortaron el pelo demasiado corto, rapado, y volvió de la veterinaria temblando como una hoja y con falsa preñez, la tercera. Le di el antiprolactínico que me había sobrado de la vez anterior; una droga que bloquea la producción de leche. No noté que estaba vencido y le provocó diarrea y no recuerdo si vómitos.
         </P>
         
         <P>
-        Cuando se estaba recuperando, llegó la cirugía. Salió del quirófano temblando como hoja al viento y se atrincheró en el sillón grande por 4 días. No dejaba que nadie se le acercase. Tomó muchos antibióticos, por supuesto, con analgésicos y antiácidos. Luego se recuperó completamente. Fueron, en total, 2 semanas muy estresantes.
+        Cuando se estaba recuperando, llegó la cirugía. Salió del quirófano temblando como hoja al viento y se atrincheró en el sillón grande por 4 días. No dejaba que nadie se le acercase. Tomó muchos antibióticos, por supuesto, con analgésicos y antiácidos (tramadol, firocoxib, amlodipina). Luego se recuperó completamente. Fueron, en total, 2 semanas muy estresantes.
         </P>
         
         <P>
@@ -26,7 +27,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'4'}> Indicios de mal de Cushing, diagnóstico y tratamiento </div>
+        <div style={ subtitleStyles } id={'4'}> Indicios de mal de Cushing, diagnóstico y tratamiento </div>
 
         <P>
         Contando 13 meses desde la esterilización, hicimos una tanda de estudios porque algo no estaba bien. Había engordado un poco, tenía bastante más hambre de lo normal y orinaba mucho; y hasta desarrolló un apetito por los carbohidratos que nunca había tenido. Después de unos estudios de la sangre y una ridícula radiografía para mirarle la columna vertebral, el diagnóstico de los profesionales fue que estaba comiendo muchas calorías para los cambios hormonales que trae la esterilización y necesitaba alimento balanceado dietético; y esto a pesar de que varios parámetros en la sangre estaban mal, incluyendo alanina aminotransferasa (ALT-GPT) alta, que casi siempre significa enfermedad del hígado o hígado grado... por corticoides altos (mal de Cushing).
@@ -45,16 +46,16 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Este profesional confirmó el diagnóstico con una prueba de orina que se llama relación cortisol/creatinina, que también es barata y demora pocos días, cerca de 4. Y esta misma prueba usó para el ajuste de la dosis después. El trilostano, por su parte, cuesta cerca de un dólar cada 15 mg y se consume algo así como 5 mg por kilo de animal por día, dependiendo de la fuerza y tamaño del tumor. El consumo de Ally era 30 dólares al mes, pesando 5 kg al principio pero estabilizada en 3,3 kg poco después.
+        Este profesional confirmó el diagnóstico con una prueba de orina que se llama relación cortisol/creatinina, que también es barata y demora pocos días, cerca de 4. Y esta misma prueba usó para el ajuste de la dosis después. El trilostano, por su parte, cuesta cerca de un dólar cada 15 mg y se consume algo así como 5 mg por kilo de animal por día, dependiendo de la fuerza y tamaño del tumor. El consumo de Ally era 30 dólares al mes, pesando 5 kg al principio pero estabilizada en 3,3 kg poco después. Por último, el endocrinólogo indicó también 8 mg diarios de clopidogrel de por vida, o sea un anticoagulante, barato, para evitar que un coágulo de la ramificación del tumor se desprendiese y causase un ACV o un infarto. 
         </P>
         
         <P>
-        Como lo mencionado, la recuperación fue rapidísima y total. No obstante, todos los sitios web coincidían en darle una esperanza de vida de 2 o 3 años. Parecía que el tumor iba a seguir creciendo, obligando a llevar la dosis de trilostano a una cantidad inaceptable para el hígado. Y en la dosis máxima tolerable habría un deterioro de la salud que llevaría a la muerte. Con el tiempo llegué a creer que nada de eso iba a pasar y que ella iba a cumplir con su expectativa normal de vida para su raza.
+        Como lo mencionado, la recuperación fue rapidísima y total. No obstante, todos los sitios web coincidían en darle una esperanza de vida de 2 o 3 años. Parecía que el tumor iba a seguir creciendo, obligando a llevar la dosis de trilostano a una cantidad inaceptable para el hígado. Y en la dosis máxima tolerable habría un deterioro de la salud que llevaría a la muerte.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'5'}> El cirujano </div>
+        <div style={ subtitleStyles } id={'5'}> El cirujano </div>
 
         <P>
         Se necesitaban 3 meses de recuperación con trilostano antes de poder evaluar una cirugía que extirpara la glándula tumorosa. Y la consulta la iba a hacer igual aunque la ecografía ya había revelado que el tumor se había ramificado y estaba invadiendo una de las principales venas del cuerpo, la vena cava inferior, encargada de recoger toda la sangre usada de la parte inferior del cuerpo y llevarla directamente al corazón; una ocupación de casi un centímetro cuadrado, según ecografías posteriores.
@@ -77,7 +78,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'6'}> El año y medio posterior y el indicio de metástasis </div>
+        <div style={ subtitleStyles } id={'6'}> El año y medio posterior y el indicio de metástasis </div>
 
         <P>
         Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; me esforcé de que viviese especialmente bien porque estaba presente la posibilidad de que el tumor creciese y taponase la vena cava inferior o forzase una producción de corticoides inmanejable con trilostano; hasta le corté el pelo y las uñas yo, para bien y para mal, aunque a veces temblaba. Y los malos ratos eran solamente los de la extracción de muestras de sangre y, sobre todo, las ecografías, que duraban 30 o 40 minutos cada una.
@@ -88,11 +89,11 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Para el endocrinólogo esto era un indicio de metástasis y era el momento de pasar a la acción con un tratamiento agresivo del que hasta entonces no había hablado: una quimioterapia limpia y selectiva capaz de destruir las cortezas suprarrenales y la incipiente metástasis pero que volvería al animal dependiente de por vida del suministro externo de corticoides por vía oral, y de inyecciones en caso de emergencia; es decir, la estrategia opuesta a la que seguía, de inhibir. La droga, el mitotano.
+        Para el endocrinólogo esto era un indicio de metástasis y era el momento de pasar a la acción con un tratamiento agresivo del que hasta entonces no había hablado: una quimioterapia limpia y selectiva capaz de destruir las cortezas suprarrenales y la incipiente metástasis pero que volvería al animal dependiente de por vida del suministro externo de corticoides por vía oral, y de inyecciones en caso de emergencia; es decir, la estrategia opuesta a la que seguía hasta entonces, de inhibir. La droga, el mitotano.
         </P>
         
         <P>
-        El tratamiento consistía en darle dosis altas de esta droga durante 5 días seguidos, para luego completar los 42 días dándole día por medio, y para luego pasar a una etapa de mantenimiento con un único consumo semanal que evitara la reaparición del tumor primario.
+        El tratamiento consistía en darle dosis altas de esta droga durante 5 días seguidos (85 mg por kilo en 3 tomas), para luego completar los 42 días dándole día por medio, y para luego pasar a una etapa de mantenimiento con un único consumo semanal que evitara la reaparición del tumor primario.
         </P>
         
         <P>
@@ -104,7 +105,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        No creo haberme equivocado en esto pero hubo un error mortal desde este mayo de 2021 porque el análisis de orina dio una relación cortisol/creatinina más alta de lo normal. El cortisol es la hormona corticoide característica del estrés y debilita el sistema inmunológico. No le presté atención. Creí que esa medición surgía de la sangre y que daba alta porque tomábamos las muestras con 14 horas de ayunas y antes de tomar el trilostano de la mañana, por el horario en que atienden en la veterinaria, y con Ally temblando por el miedo a los veterinarios. En realidad solo recordé este asunto ahora mismo al revisar los papeles para escribir esto. Este es el peor error de todos.
+        No creo haberme equivocado en esto pero hubo un error mortal desde este mayo de 2021 porque el análisis de orina dio una relación cortisol/creatinina más alta de lo normal. El cortisol es la hormona corticoide característica del estrés y debilita el sistema inmunológico. No le presté atención. Creí que esa medición surgía de la sangre y que daba alta porque tomábamos las muestras con 14 horas de ayunas y antes de tomar el trilostano de la mañana, a causa del horario en que atienden en la veterinaria, y con Ally temblando por el miedo a los veterinarios. En realidad solo recordé este asunto ahora mismo al revisar los papeles para escribir esto. Este es, pienso, el peor error de todos.
         </P>
 
         <P>
@@ -113,11 +114,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'7'}> Cáncer tumoroso </div>
-
-        <P>
-        Sigue un paréntesis con resultados de investigaciones mías recientes.
-        </P>
+        <div style={ subtitleStyles } id={'7'}> Cáncer tumoroso </div>
 
         <P>
         Un tumor surge cuando muchas células sufren un daño en el ADN y fallan los mecanismos externos para su destrucción. La causa fundamental de que fallen los mecanismos externos para el aniquilamiento de las células cancerígenas es algún tipo de inmunodepresión, porque son las células inmunológicas las que tienen que destruirlas, donde los 2 favoritos de la sociedad industrializada son los causados por la dieta de carbohidratos industriales desproporcionada y la destrucción de la biodiversidad bacteriana en el intestino por antibióticos, alcohol, conservantes, edulcorantes y emulsionantes. 
@@ -145,7 +142,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'8'}> La metástasis y el único tratamiento posible </div>
+        <div style={ subtitleStyles } id={'8'}> La metástasis y el mitotano como único tratamiento posible </div>
 
         <P>
         Para diciembre de 2021, tenía signos evidentes de Cushing y pedí otra ecografía doppler, mientras le subía un poco la dosis de trilostano. Aparte, había una bolita palpable del lado izquierdo del abdomen, chica pero firme. Empecé a pensar que le estaba llegando la hora. Llevaba 7 meses desde la última tanda de estudios.
@@ -156,7 +153,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Esta ecografía no me dijo la naturaleza de la bolita que se sentía del lado izquierdo. Justo antes de hacerla, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. La tomografía de abril 2022 parece darles la razón en esto. Por lo pronto, esta ecografía dijo: “Linfonódulos: no se observan”.
+        Esta ecografía no me dijo la naturaleza de la bolita que se sentía del lado izquierdo. Justo antes de hacerla, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. La tomografía de abril 2022 parece darles la razón en esto aunque fue un motivo de preocupación por 4 meses. Por lo pronto, esta ecografía dijo: “Linfonódulos: no se observan”.
         </P>
         
         <P>
@@ -164,16 +161,24 @@ export const Spanish = () => (
         </P>
         
         <P>
-        El mitotano cuesta cerca de 1,6 dólares los 100 mg. Un perro sin metástasis necesitaría algo así como 2 mil miligramos en la etapa de inducción por cada kilo de animal, o sea 33 dólares por kilo, en un tratamiento que dura un mes y medio. Luego queda un consumo semanal de mantenimiento de 100 mg por kilo, más el costo de los corticoides, que calculo en 5 dólares por mes por kilo.
+        El mitotano solía ser un insecticida. Tuvieron que darse cuenta que los animales y humanos intoxicados con mitotano desarrollaban mal de Addison, que es lo opuesto al mal de Cushing: puñado de síntomas causados por hormonas corticoides insuficientes. La capacidad de esta droga para causar una destrucción completamente selectiva es la esperanza para este tipo de cuadros de Cushing metastásicos porque solamente elimina las células de corteza suprarrenal. Como los tumores de metástasis en otros órganos también son células de corteza suprarrenal, pueden ser envenenados con mitotano sin destruir ningún otro órgano o sistema, que es lo que sí hacen las quimioterapias convencionales.
         </P>
         
         <P>
-        Como esto es para el aprendizaje del lector, que lo lea bien: el profesional recomendó una tomografía de abodómen y tórax. Yo me rehusé porque son con sedación total y no creí que me aportaría nada relevante para esa etapa. Y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que si no le hacía la tomografía al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar. No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores también.
+        Se desprende que cualquiera que quiera hacer este tratamiento tiene que prepararse para enfrentar a los profesionales que no conocen esta droga. No hay en los otros tipos de cáncer drogas que ejecuten una destrucción tan específica para hacer una quimioterapia tan limpia.
+        </P>
+        
+        <P>
+        Respecto a los costos, cuesta cerca de 1,6 dólares los 100 mg. Un perro sin metástasis necesitaría algo así como 2 mil miligramos en la etapa de inducción por cada kilo de animal, o sea 33 dólares por kilo, en un tratamiento que dura un mes y medio. Luego queda un consumo semanal de mantenimiento de 100 mg por kilo, más el costo de los corticoides, que calculo en 5 dólares por mes por kilo.
+        </P>
+        
+        <P>
+        Como esto es para el aprendizaje del lector, que lo lea bien: el profesional recomendó una tomografía de abodómen y tórax para conocer bien el punto de partida, para tener luego con qué comparar el avance del tratamiento. Yo me rehusé porque son con sedación total y no creí que me aportaría nada relevante para esa etapa. Y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que, si no le hacía la tomografía, al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar. No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores también. Pero que quede claro que las metástasis pulmonares son mucho más frecuentes que las hepáticas en el mal de Cushing, y que si el hígado está tomado, los pulmones probablemente ya estén tomados desde antes.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'9'}> Mitotano sin trilostano </div>
+        <div style={ subtitleStyles } id={'9'}> Mitotano sin trilostano </div>
 
         <P>
         El tratamiento empezó el domingo 6 de febrero de 2022. Y que sepa bien el lector: fue un desastre retirarle el trilostano el día anterior al comienzo del tratamiento con mitotano. Se suponía que ambas drogas no se debían usar juntas porque ambas reducen la producción de corticoides y si la cantidad de corticoides baja mucho hay riesgo de muerte. La idea era ir bajando los corticoides en sangre gradualmente por efecto exclusivo del mitotano, que demoraría entre 3 y 5 días en causar una deficiencia notoria, ante la cual comenzaría la suplementación con corticoides sintéticos de vía oral: prednisolona en gotas (glucocorticoide) y acetato de fludrocortisona (mineralocorticoide y glucocorticoide a la vez). Y, en caso de emergencia, se usarían corticoides inyectables de acción inmediata: dexametasona (glucocorticoide) e hidrocortisona (mineralocorticoide y glucocorticoide a la vez).
@@ -205,7 +210,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'10'}> Mitotano con trilostano </div>
+        <div style={ subtitleStyles } id={'10'}> Mitotano con trilostano </div>
 
         <P>
         Cuando íbamos 4 o 5 días de mitotano probé darle alguna dosis baja de trilostano porque el Cushing la estaba atormentando. Se ponía mejor de inmediato, en algo así como media hora, pero luego tenía problemas nocturnos de agitación y deambular de acá para allá, y lo suspendí.
@@ -221,7 +226,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'11'}> La crisis respiratoria y la radiografía </div>
+        <div style={ subtitleStyles } id={'11'}> La crisis respiratoria y la radiografía </div>
 
         <P>
         El sábado 26 de febrero lo pasó conmigo. Al cerrar el día la dejé con mi madre para que tomara la última dosis del día de trilostano y mitotano. Trilostano consumía 7,5 mg por día en dos tomas y mitotano tomaba 400 mg en 3 tomas. No quiso comer mucho y poco después de cenar comenzó a agitarse. Había una tormenta eléctrica muy fuerte. Tuve un primer indicio de ansiedad por las tormentas uno o dos meses antes pero cerré todo y no pasó a mayores. Esta vez hiperventilaba cada vez con más ruido, como si el aire raspara contra algo seco. Como no mejoraba fui a verla. Me preocupé mucho y la llevé a una guardia 24 horas.
@@ -245,7 +250,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'12'}> El oncólogo </div>
+        <div style={ subtitleStyles } id={'12'}> El oncólogo </div>
 
         <P>
         Quise saber si un oncólogo podía arrojarme algo de luz sobre el nuevo cuadro y sobre el tratamiento; preguntarle qué opinaba del mitotano y si se podía combinar con otro tratamiento. Siempre noté una resistencia del endocrinólogo a derivarme con un oncólogo pero esta vez, siendo tan directo, me dio un contacto. Como me demoraba 8 o 9 días, busqué por mi zona y conseguí uno para el día siguiente.
@@ -285,7 +290,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'13'}> Mitotano y trilostano </div>
+        <div style={ subtitleStyles } id={'13'}> Mitotano y trilostano </div>
 
         <P>
         Para estos días entendí algo que también puede servirle al lector. Absolutamente todo lo que pude leer acerca del mitotano es anterior a la existencia del trilostano, y esto es bastante importante. El mitotano se usa para tratar el mal de Cushing en animales desde los años 60. Lo común nunca fue hacer una quimioterapia que cause insuficiencia de corticoides para después suplementar con corticoides sintéticos (terapia de reemplazo) sino que lo normal siempre fue dar una dosis periódica moderada para causar una destrucción parcial diaria sobre la corteza tumorosa, forzándola a producir menos corticoides, y nada más. El trilostano hace el mismo servicio pero a través de una inhibición de las glándulas, sin causar destrucción parcial.
@@ -301,7 +306,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'14'}> Mudanza y aumentos de dosis </div>
+        <div style={ subtitleStyles } id={'14'}> Mudanza y aumentos de dosis </div>
 
         <P>
         Cuando me mudé con ella el día 25 del tratamiento (2 de marzo), lo primero que quise hacer fue saber cuál era la tolerancia máxima de Ally al mitotano. Venía consumiendo 400 mg y este día lo subí a 500. Sobre el final del día, la noté con problemas de coordinación, como si estuviese ligeramente ebria. Aparte dejó una buena diarrea en la madrugada. También fue el primer día de antibióticos pero con el tiempo se vio que los antibióticos no le causaban diarrea. Me di cuenta así que 450 mg diarios era el límite y que la droga no estaba adulterada o diluida (estos son los efectos secundarios característicos del mitotano).
@@ -316,12 +321,12 @@ export const Spanish = () => (
         </P>
         
         <P>
-        El día 35 se desató una crisis de emisión de fluidos infecciosos como no se había visto antes. La noche anterior la había llevado a una reunión familiar. Volví a introducir trilostano, ahora de forma racionada porque ya casi no me quedaba y tenía que esperar unos días para volver a conseguir; usé como 4 mg al día. Se deterioró rápido. Mucho Cushing: hambre, sed, fluidos infecciosos. Cuando compré de nuevo, el día 38, introduje 15 mg las primeras 24 hs, 12 las siguientes y 10 las siguientes.
+        El día 35 se desató una crisis de emisión de fluidos infecciosos como no se había visto antes. La noche anterior la había llevado a una reunión familiar. Volví a introducir trilostano, ahora de forma racionada porque ya casi no me quedaba y tenía que esperar unos días para volver a conseguir; usé como 4 mg al día. Se deterioró rápido. Mucho Cushing: hambre, sed, fluidos infecciosos. Cuando compré de nuevo, el día 38, se recuperó muy rápido. Introduje 15 mg las primeras 24 hs, 12 las siguientes y 10 las siguientes.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'15'}> La fallida terapia de reemplazo de corticoides: primera crisis </div>
+        <div style={ subtitleStyles } id={'15'}> La fallida terapia de reemplazo de corticoides: primera crisis </div>
 
         <P>
         Llegó entonces el viernes 18 de marzo de 2022, el día 41 del tratamiento. A media mañana, la noté dolorida al ponerse en 4 patas. Me pareció que no tenía fuerzas en las patas traseras o que le dolía el abdomen. Me preocupé por el hígado. Días después hubo otras 2 veces en que me pareció que le dolía el abdomen, teniendo mucho ruido de fluidos del lado derecho, y lo resolví de inmediato con 100 mg de paracetamol.
@@ -343,31 +348,31 @@ export const Spanish = () => (
         Con ella en bienestar, los corticoides sintéticos consumidos al mediodía y la falsa idea de que ya no dependería de la glándula tumorosa, esa noche quise darle 150 mg de mitotano. No tenía demasiado apetito y solo iba a comer si no encontraba drogas dentro de la comida. Quise triturar el mitotano y meterlo en la carne. Comió la mitad pero le hizo muy mal. Fue la primera de 5 crisis, todas en marzo (18, 19, 20, 24, 30), que tuvieron estas características:
         </P>
 
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 caminaba poco y lento, con la cabeza totalmente hacia abajo;
             </li>
         </P>
             
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 al querer beber agua temblaba frente al plato, como no pudiendo, con impotencia, para luego beber sumergiendo la nariz en el agua, con las consecuentes molestias por el agua ingresada en las vías respiratorias;
             </li>
         </P>
             
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 si le ofrecíamos comida, comía.
             </li>
         </P>
 
         <P>
-        A diferencia de lo que se esperaba de la quimioterapia, estos signos ocurrían con hambre y sed, y el comportamiento frente al agua no estaba en los papeles. Fue muy confuso, y queriendo resolver esta confusión fue que acabamos en la tomografía que le costó la vida, el día 60. Fueron 3 noches seguidas de lo mismo, a pesar de las diferentes estrategias seguidas.
+        A diferencia de lo que se esperaba de la quimioterapia, estos signos ocurrían con hambre y sed, y el comportamiento frente al agua no estaba en los papeles. Fue muy confuso, y queriendo resolver esta confusión fue que acabamos en la tomografía que le costó la vida, el día 60.
         </P>
 
 
 
-        <div style={subtitleStyles} id={'16'}> Los caóticos 20 días finales </div>
+        <div style={ subtitleStyles } id={'16'}> Los caóticos 20 días finales </div>
 
         <P>
         Sufrí estos días no tener instrumentos de medición para saber lo que estaba pasando y tomar decisiones de inmediato, como sí le pasa, por ejemplo, al insulinodependiente con el glucómetro. Estuve cerca de comprar un tensiómetro para animales caro y de dudosa calidad pero leí a los compradores decepcionados. Y los análisis de sangre y orina demoraban al menos 2 días, y casi siempre 5. Ante la adversidad, comencé a llevar registro detallado de todo lo que observaba y de todas las drogas y dosis que introducía, buscando entender lo que el endocrinólogo no me explicaba y lo que internet no me decía.
@@ -380,117 +385,12 @@ export const Spanish = () => (
         <P>
         Pero sí era doloroso verla tomar agua como desesperada, con ruidos raros, y atragantarse y escupir o vomitar parte de lo bebido al caminar pocos pasos. También que pidiera comida a cada rato y que se lamiese y bebiese los fluidos infecciosos todo el tiempo. Había veces que se manchaba la nariz, que estaba completamente seca, y le quedaba amarilla por días, imposible de lavar. Y los pegotes duros que le quedaban en los pelos de la parte trasera y las patas se los arrancaba, dejando partes peladas.
         </P>
+
         
+        <Intervale />
 
 
-        <div style={subtitleStyles} id={'17'}> La fallida terapia de reemplazo de corticoides: las otras crisis </div>
-
-        <P>
-        El sábado 19 de marzo la vi caminando muy temprano por el pasillo con la cabeza medio gacha. Me levanté y le di corticoides en leche. Al rato se vino a acostar conmigo totalmente recuperada. Fue otro motivo para afianzar la confusión. Más verosímil para explicar la recuperación terminó siendo que se estaban cumpliendo 9 horas desde el último trilostano y 18 desde la última fludrocortisona, como se esboza más abajo.
-        </P>
-
-        <P>
-        Cerrando un día bueno, quise darle los 150 mg de mitotano que faltaban para completar los 400 mg del día. No tenía mucha hambre y no quería comer con drogas adentro de la carne y mi madre quiso triturar el mitotano como había hecho yo la noche anterior. Pocos minutos después de comer comenzó la segunda crisis. De hecho, juraría que empezó con los síntomas antes de terminar de comer, que no comió mucho. Eran cerca de las 21 hs, y se recuperó como a las 6 de la mañana, como el día anterior pero con una hora corrida hacia atrás.
-        </P>
-
-        <P>
-        Como dije, creí que el mitotano triturado estaba causando una intoxicación en el cerebelo. Por eso, el domingo 20 fue día de descanso de mitotano, pero no funcionó. Después de cenar, decayó. Fue más leve tal vez; no parecía deshidratada y ya había comido, así que solo durmió.
-        </P>
-
-        <P>
-        El lunes 21 empecé el antibiótico nuevo (amoxicilina con ácido clavulánico) y hablé con el endocrinólogo, que me convenció de suspender los corticoides sintéticos pero mantener el mitotano. Acepté pero este día y el siguiente tuve que usar trilostano para sofocar un apetito exagerado, que venía acompañado con deshidratación. También un poco el miércoles. Total: 12 mg, 10 mg, 2 mg. No volví a usar trilostano, excepto dos excepciones más adelante.
-        </P>
-
-        <P>
-        El jueves 24, feriado, tuvo la cuarta crisis, con la particularidad de haber sido la única diurna, entre las 13:15 hs y las 22 hs. Había tomado 150 mg de mitotano a las 10 hs y nada más. A las 14 hs le di corticoides, sumando 70 microgramos de fludrocortisona y 3 mg de prednisolona.
-        </P>
-
-        <P>
-        Al día siguiente y hasta la crisis del miércoles 30 casi no hubo rastros de la infección urinaria. Tuvo emisiones altas el 30 y el 31, y de nuevo del 4 al 6 de abril. 
-        </P>
-
-        <P>
-        Por otro lado, desde este 25 de marzo me dediqué a mantenerle altas las dosis de corticoides, convencido de que las 4 crisis que había tenido eran de insuficiencia de corticoides. Y sin embargo tuvo una quinta crisis, la noche del miércoles 30.
-        </P>
-
-
-
-        <div style={subtitleStyles} id={'18'}> Glucocorticoides y mineralocorticoides </div>
-
-        <P>
-        Fueron 3 días de combinar trilostano con corticoides sintéticos porque me pareció buena idea suavizar la terapia de reemplazo dándole los sintéticos preventivamente y, a la vez, darle trilostano para invalidar una producción interna de corticoides que se encimara a los otros. El tercero de estos días fue sin mitotano, ya que llegué a creer que la trituración del mitotano podía explicar estas reacciones.
-        </P>
-        
-        <P>
-        Me pregunto hoy por qué le di de fludrocortisona menos de la dosis (un tercio o la mitad de los 100 microgramos recetados), mientras le daba la dosis correcta de prednisolona. La primera es una droga que, evidentemente, subestimé porque no entendía lo que hacía.
-        </P>
-
-        <P>
-        La explicación que parece más verosímil, aunque parezca ridículo que un informático formule tesis de trabajo de la ciencia médica, siendo, no obstante, que no es mi culpa, sino que es culpa del estado de la ciencia médica, donde se pretende delegar completamente la salud en manos de un profesional que, si no sabe, se te muere el perro; la explicación más verosímil parece ser que Ally tenía los mineralocorticoides demasiado bajos pero los glucocorticoides demasiado altos. Así se podría explicar el hambre y la sed combinados con presión arterial baja, náuseas y visión borrosa, en un contexto de deshidratación con inmunodepresión.
-        </P>
-        
-        <P>
-        El tumor primario causaba exceso de cortisol en la sangre, y eso explicaba todos los síntomas. Y siempre estuvo claro que el cortisol causa aumento de glucosa en sangre, hambre por los carbohidratos, inmunodepresión y deshidratación. Sin embargo, en las cortezas suprarrenales se producen 3 tipos de hormonas en 3 capas sucesivas: en la más interna, hormonas sexuales; en la del medio, glucocorticoides; y en la más exterior, mineralocorticoides. El cortisol es el glucocorticoides más importante y mayoritario. Nunca hasta la terapia de reemplazo tuve que profundizar en este respecto. De hecho, ni siquiera conocía estos nombres.
-        </P>
-        
-        <P>
-        Las hormonas mineralocorticoides, con la aldosterona como principal y mayoritaria, regulan la relación proporcional entre sodio y potasio del cuerpo a través de la sed, la retención de líquido y la eliminación de minerales por la orina. La presión arterial es una consecuencia de este juego de proporciones entre los minerales. Si una enfermedad hace que los mineralocorticoides estén altos, se va a retener sodio de más, se va a eliminar potasio de más y se va a tener más líquido y más presión arterial de lo que es correcto. Esto es parte del Cushing. Por el contrario, si una enfermedad hace que los mineralocorticoides estén bajos, se va a retener menos sodio, se va a eliminar poco potasio y se va a tener poco líquido y menos presión arterial de lo que es correcto. Esto es parte del Adisson.
-        </P>
-        
-        <P>
-        Yo sabía que en lo peor del 2020, Ally tenía la presión alta, y también justo antes de empezar la carga de trilostano que precedió al mitotano, en enero de 2022. No obstante, pensé que era una consecuencia de los triglicéridos altísimos que le causaba el cortisol. Desconocía el concepto de mineralocorticoides. Y ahora sé que los triglicéridos no aumentan la presión.
-        </P>
-        
-        <P>
-        Cuando el viernes 18 de marzo (primera crisis) le di prednisolona y fludrocortisona a mediodía, la prednisolona hizo efecto 9 horas después, al llegar la noche, pero la fludrocortisona demoró 12, 18 o 24 horas en impactar. Por eso, cuando le di mitotano por la noche, las concentraciones de glucocorticoides estaban más altas de lo normal pero las de mineralocorticoides estaban por debajo de lo normal. Por eso vimos una combinación de síntomas entre la debilidad, las náuseas, la visión borrosa propias de mineralocorticoides bajos, junto con sed, hambre y depresión inmunológica propios de glucocorticoides altos. La crisis de la cabeza gacha era un engendro mío por no conocer las suplementaciones.
-        </P>
-
-        <P>
-        La presión sanguínea y los mineralo.
-        </P>
-        
-        <P>
-        Además, supe solamente 5 días antes de la muerte que la fludrocortisona es mineralocorticoides y glucocorticoides a la vez, y no solamente lo primero. Por eso, en estos días le daba menos fludrocortisona de la necesaria y más prednisolona de la necesaria. Parece obvio ahora, no obstante recuerdo bien lo difícil que fue encontrar respuestas.
-        </P>
-
-        <P>
-        El miércoles 30 de marzo ya estaba madura la decisión de aumentar la fludrocortisona a 133 microgramos y quitar la prednisolona. Separé 133 microgramos para las 24 horas siguientes pero me equivoqué y le di toda esa cantidad esa noche. Llevaba yo muchos días durmiendo mal. Tuvo la quinta y última crisis esa noche. Cerca de 27 hs después pasó la noche tomando agua, haciendo mucho ruido al beber. Probé darle trilostano a ver si calmaba pero no hubo resultado apreciable, o tal vez algo.
-        </P>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <div style={subtitleStyles} id={'19'}> Metástasis cerebral que no era </div>
+        <div style={ subtitleStyles } id={'19'}> Metástasis cerebral que no era </div>
 
         <P>
         El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza gacha (la única diurna), redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides por sus funciones antiinflamatorias. Creí, entonces, que había llegado el momento de una tomografía completa, bastante cara. No podía avanzar a la segunda etapa, caracterizada por corticoides bajos de por vida, sin saber si ella necesitaba tenerlos altos por la presencia de tumores en el cráneo y sin saber si el mitotano estaba funcionando sobre los secundarios del hígado y los pulmones.
@@ -502,7 +402,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'20'}> Los antibióticos </div>
+        <div style={ subtitleStyles } id={'20'}> Los antibióticos </div>
 
         <P>
         De las cosas que nos quedó de la época sanguinaria de la Segunda Guerra Mundial es el uso indiscriminado de antibióticos. Envenenar un cuerpo entero con venenos para bacterias producidos por los hongos es bastante parecido a bombardear una metrópolis entera porque se metió una banda de narcotraficantes.
@@ -524,9 +424,13 @@ export const Spanish = () => (
         Para el caso de los perros y como las bacterias se pasan de madre a hijos, todo criadero que usa antibióticos produce perros cada año de peor salud hasta que tiene que cerrar. Por lo demás, sabido que vivimos en la era del ADN, donde se culpa a causas genéticas cualquier mal que no se puede o no se quiere explicar.
         </P>
 
+        <P>
+        Ally tomó amlodipina con la castración y enrofloxacina y ácido clavulánico con la infección urinaria. También tomó enrofloxacina a mediados de 2020 porque los análisis de orina dieron presencia de bacterias, pero solo 150 miligramos porque se negaba a comer con este antibiótico adentro de la comida y el consumo de trilostano era prioritario.
+        </P>
 
 
-        <div style={subtitleStyles} id={'21'}> La llamada rinitis alérgica </div>
+
+        <div style={ subtitleStyles } id={'21'}> La llamada rinitis alérgica </div>
 
         <P>
         No fue algo divertido para mí darle antibióticos a mi perra sabiendo lo malos que son, pero supuse que no era tiempo de pensar en el largo plazo. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico. Entre ambos hay algunos días en que la creí curada.
@@ -550,7 +454,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'22'}> El día final </div>
+        <div style={ subtitleStyles } id={'22'}> El día final </div>
 
         <P>
         La decisión de retirar completamente la prednisolona (glucocorticoide) y mantener los 100 microgramos de fludrocortisona (mineralocorticoide y glucocorticoide) pareció correcta en los días que van de la crisis del 30 de marzo a la muerte el 6 de abril. Bien o mal, hubo 7 días sin crisis. Sin embargo, esta dosis de 0,1 mg dio la apariencia de ser excesiva en las 72 hs finales. Razoné que si el cálculo eran 30 microgramos por kilo de perro (3,5 kg por 30), tal vez había que calcular sobre un pesaje de 2,8 kg por la pérdida de musculatura que causó el Cushing.
@@ -572,31 +476,31 @@ export const Spanish = () => (
         Por eso las 5 cosas que yo le pedía a la tomografía eran estas:
         </P>
         
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 tumor primario destruido
             </li>
         </P>
         
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 ausencia de tumores en el cráneo
             </li>
         </P>
         
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 ausencia de tumores linfáticos en la zona de la garganta
             </li>
         </P>
         
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 explicación optimista a las masas que asomaban del lado izquierdo
             </li>
         </P>
         
-        <P style={toggleULStyles}>
+        <P style={ toggleULStyles }>
             <li>
                 alguna reducción de los secundarios, o al menos que no hubiesen avanzado
             </li>
@@ -620,7 +524,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'23'}> El estudio y la eutanasia </div>
+        <div style={ subtitleStyles } id={'23'}> El estudio y la eutanasia </div>
 
         <P>
         25 minutos después me la devolvieron, mientras se despertaba. La levantamos. Me dieron un CD con las imágenes y parecía que nos íbamos. Pero había algo raro en su mueca, la manera de poner la boca y la mirada perdida. La apoyamos en la mesa y la vimos hacer fuerza para respirar. Pedí ayuda y mencioné que tal vez necesitase corticoides por su condición. No me prestaron atención; creyeron que exageraba.
@@ -668,7 +572,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'24'}> La tomografía </div>
+        <div style={ subtitleStyles } id={'24'}> La tomografía </div>
 
         <P>
         No quise mirar las imágenes. 27 horas después de la muerte me llegó el informe, bastante breve. Al leerlo, primero me di cuenta que el cráneo estaba limpio, y la garganta también. Y después me llamó la atención que decía, palabras más, palabras menos, lo mismo que habían dicho la ecografía de enero y la radiografía de febrero, pero sumando un problema linfático de importancia secundaria.
@@ -684,7 +588,7 @@ export const Spanish = () => (
 
 
 
-        <div style={subtitleStyles} id={'25'}> La conversación final </div>
+        <div style={ subtitleStyles } id={'25'}> La conversación final </div>
 
         <P>
         Mi incapacidad para ver el tumor primario en las imágenes de la tomografía me obligó a pedir una cita al endocrinólogo. Le dije que quería regalarle las drogas que me sobraron, una cantidad en dinero equivalente a todas las consultas que me cobró desde que lo conocí... que de todos modos no era mucho en comparación a las drogas y la tomografía; y que quería, también, conversar un poco para cerrar la historia.
