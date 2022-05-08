@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux'
-import { changeisDarkModeReducer } from '../../reducers/isDarkModeSlice'
+import { changeIsDarkModeReducer } from '../../reducers/isDarkModeSlice'
 import styles from '../../css/styles.module.css'
 
 export const DarkModeButton = () => {
@@ -25,7 +25,7 @@ export const DarkModeButton = () => {
                 type={'checkbox'}
                 id={"customSwitches"}
                 checked={isDarkMode}
-                onChange={() => dispatch(changeisDarkModeReducer())}
+                onChange={() => dispatch(changeIsDarkModeReducer())}
             />
             
             <label

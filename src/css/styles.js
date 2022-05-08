@@ -17,9 +17,9 @@ export const P = styled.p`
 export const subtitleStyles = {
     fontSize: isMobile ? '2.2rem' : '2.8rem',
     lineHeight: 1.15,
-    marginBottom: '40px',
+    marginBottom: '50px',
     marginInline: isMobile ? '7%' : '15%',
-    marginTop: isMobile ? '100px' : '70px',
+    marginTop: isMobile ? '100px' : '100px',
     textAlign: 'center'
 }
 
@@ -32,4 +32,7 @@ export const DIV = styled.div`
     min-height: 100vh;
     margin-inline: ${isMobile ? '4%' : '20%'};
     margin-bottom: 120px;
+`
+export const I = styled.span`
+    font-style: italic;
 `

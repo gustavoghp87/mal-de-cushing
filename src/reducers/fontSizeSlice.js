@@ -1,11 +1,11 @@
 import { createSlice } from '@reduxjs/toolkit'
 
-const initialState = window.localStorage.getItem('fontSizeCushing')
-
 export const size0 = "1.1rem"
 const size1 = "1.4rem"
 export const size2 = "1.7rem"
 export const fontSizeCushing = 'fontSizeCushing'
+
+const initialState = window.localStorage.getItem('fontSizeCushing') ?? size0
 
 export const fontSizeSlice = createSlice({
     name: 'fontSize',
