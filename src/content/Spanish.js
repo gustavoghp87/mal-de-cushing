@@ -536,7 +536,11 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'20'}> Metástasis cerebral que no era </div>
 
         <P>
-        El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza gacha (la única diurna), redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides por sus funciones antiinflamatorias. Creí, entonces, que había llegado el momento de una tomografía completa, bastante cara. No podía avanzar a la segunda etapa, caracterizada por corticoides bajos de por vida, sin saber si ella necesitaba tenerlos altos por la presencia de tumores en el cráneo y sin saber si el mitotano estaba funcionando sobre los secundarios del hígado y los pulmones.
+        El feriado jueves 24 de marzo, durante la anteúltima crisis de cabeza hacia abajo (la única diurna), redacté bien los comportamientos visibles en mensajes al endocrinólogo, quien sugirió que se trataban de tumores metastásicos en el cerebro, los que estarían causando problemas motrices al bajar las concentraciones de corticoides, por sus funciones antiinflamatorias.
+        </P>
+        
+        <P>
+        Por estos días yo estaba pensando en hacer una radiografía de tórax y abdomen, un estudio poco demandante y poco invasivo. Pero después de esto, creí que había llegado el momento de una tomografía completa, bastante cara y bastante invasiva. No podía avanzar a la segunda etapa, caracterizada por corticoides bajos de por vida, sin saber si ella necesitaba tenerlos altos por la presencia de tumores en el cráneo y sin saber si el mitotano estaba funcionando sobre los secundarios del hígado y los pulmones.
         </P>
         
         <P>
@@ -576,11 +580,7 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'22'}> La llamada rinitis alérgica </div>
 
         <P>
-        No fue algo divertido para mí darle antibióticos a mi perra sabiendo lo malos que son, pero supuse que no era tiempo de pensar en el largo plazo. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico. Entre ambos hay algunos días en que la creí curada.
-        </P>
-        
-        <P>
-        Fue demasiado evidente como para cuestionarlo que la cantidad de fluidos con pus que perdía por las vías urinarias iba de nada a muchísimo dependiendo enteramente de los glucocorticoides y absolutamente nada de los antibióticos. Es decir, cuando los glucocorticoides estaban en buen nivel, se apreciaba un consumo normal de agua y comida y se iban las emisiones, pero cuando estaban altos, bebía mucho, tenía hambre a cada rato por carbohidratos y perdía fluidos por todas partes.
+        No fue algo divertido para mí darle antibióticos sabiendo lo malos que son, pero supuse que no era tiempo de pensar en el largo plazo. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico. Entre ambos hay algunos días en que la creí curada. Fue demasiado evidente como para cuestionarlo que la cantidad de fluidos con pus que perdía por las vías urinarias iba de nada a muchísimo dependiendo enteramente de los glucocorticoides y absolutamente nada de los antibióticos. Es decir, cuando el cortisol estaba en buen nivel, se apreciaba un consumo normal de agua y comida y se iban las emisiones, pero cuando estaban altos, bebía mucho, tenía hambre a cada rato por carbohidratos y perdía fluidos por todas partes.
         </P>
         
         <P>
@@ -588,11 +588,11 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Por tanto, la fórmula para desarrollar una “rinitis alérgica” es tomar antibióticos para destruir a las bacterias de la mucosa nasal, junto con corticoides para anestesiar al sistema inmunológico en la zona. Se le libera así la zona a los hongos para que avancen y tomen posición. El resto, como la diferencia entre los buenos días y los malos días, depende de la humedad del ambiente, del consumo de carbohidratos industriales y alcohol y de la concentración de corticoides en sangre.
+        Por tanto, la fórmula para desarrollar una “rinitis alérgica” es tomar antibióticos para destruir a las bacterias de la mucosa nasal, junto con corticoides para anestesiar al sistema inmunológico en la zona. Se le libera así la zona a los hongos para que avancen y tomen posición. Después vienen los estornudos y los mocos, según la humedad del ambiente, el consumo de carbohidratos industriales y alcohol y la concentración de corticoides en sangre.
         </P>
         
         <P>
-        Por eso me tocó predecir con lastimoso éxito que si le daba antibióticos líquidos en la boca a Ally, y que si le diluía ahí los corticoides, iba a tener ataques de estornudos, por si quedaba alguna duda. Pasó sus últimas semanas estornudando a cada rato, salvo cuando tenía Cushing muy alto. El resto es explicar, al menos como excusa, por qué cuesta tanto esconder drogas en la comida de una perra tan chica, de estómago cerrado y harta de tantas drogas.
+        Por eso me tocó predecir con éxito lastimoso que si le daba antibióticos líquidos en la boca, y que si le diluía ahí los corticoides, iba a tener ataques de estornudos, por si quedaba alguna duda. Pasó sus últimas semanas estornudando a cada rato, salvo cuando tenía Cushing muy alto. El resto es explicar, al menos como excusa, por qué cuesta tanto esconder drogas en la comida de una perra tan chica, de estómago cerrado y harta de tantas drogas.
         </P>
 
 
@@ -621,31 +621,31 @@ export const Spanish = () => (
         
         <P style={ toggleULStyles }>
             <li>
-                tumor primario destruido
+                tumor primario destruido;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                ausencia de tumores en el cráneo
+                ausencia de tumores en el cráneo;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                ausencia de tumores linfáticos en la zona de la garganta
+                ausencia de tumores linfáticos en la zona de la garganta;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                explicación optimista a las masas que asomaban del lado izquierdo
+                explicación optimista a las masas que asomaban del lado izquierdo;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                alguna reducción de los secundarios, o al menos que no hubiesen avanzado
+                alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
             </li>
         </P>
         
