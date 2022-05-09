@@ -549,46 +549,14 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'21'}> Los antibióticos </div>
+        <div style={ subtitleStyles } id={'21'}> La rinitis </div>
 
         <P>
-        De las cosas que nos quedó de la época sanguinaria de la Segunda Guerra Mundial es el uso indiscriminado de antibióticos. Envenenar un cuerpo entero con venenos para bacterias producidos por los hongos es bastante parecido a bombardear una metrópolis entera porque se metió una banda de narcotraficantes.
+        Adhiero a las investigaciones científicas que presentan al uso de antibióticos como si se tratase de bombardear una metrópolis entera para derrotar a una banda de delincuentes. Por eso no fue algo divertido para mí darle antibióticos a Ally sabiendo lo malos que son, pero supuse que no era tiempo de pensar en el largo plazo. Finalmente, fue demasiado evidente como para cuestionarlo que la cantidad de fluidos con pus que perdía por las vías urinarias iba de nada a muchísimo dependiendo enteramente de los glucocorticoides y absolutamente nada de los antibióticos. Es decir, cuando el cortisol estaba en buen nivel, se apreciaba un consumo normal de agua y comida y se iban las emisiones, pero cuando estaban altos, bebía mucho, tenía hambre a cada rato por carbohidratos y perdía fluidos por todas partes.
         </P>
         
         <P>
-        En cada mucosa del cuerpo hay una relación de poder entre las bacterias y los hongos. La principal mucosa del cuerpo es la intestinal, de muchos metros cuadrados. Las bacterias están ahí y el sistema inmunológico no las ataca porque cumplen esta función esencial: se atrinchera cada bacteria en su parcela, donde tiene hábitat, comida, agua, calor y oxígeno gratis, a cambio de que no permita la expansión de los hongos.
-        </P>
-        
-        <P>
-        Los hongos tampoco son destructivos, por eso las defensas del cuerpo no los atacan; pero la basura metabólica que generan sí es dañina, tóxica. Todo lo contrario es respecto a la basura metabólica de las bacterias normales del cuerpo que es inofensiva, y parte de ella también funciona como neurotransmisores y ansiolíticos. Por eso es tan fuerte la correlación entre la salud intestinal y la socialización, el valor y el procesamiento del estrés, y es tan fuerte la correlación entre la mala salud intestinal y la cobardía, los trastornos de ansiedad social y el mal procesamiento del estrés.
-        </P>
-        
-        <P>
-        Cuando se bombardea una mucosa intestinal con antibióticos, se desequilibra la relación de poder. Muchas bacterias mueren y muchos hongos avanzan, ocupando posición. La diversidad y las cantidades de las bacterias se reducen, como se reducen las funciones que desempeñan. Y queda, en su lugar, una mala manera de procesar el estrés y la ansiedad, con pocos ansiolíticos y mucha intoxicación cada vez que se pasa por malos momentos o simplemente se socializa.
-        </P>
-        
-        <P>
-        Para el caso de los perros y como las bacterias se pasan de madre a hijos, todo criadero que usa antibióticos produce perros cada año de peor salud hasta que tiene que cerrar. Por lo demás, sabido que vivimos en la era del ADN, donde se culpa a causas genéticas cualquier mal que no se puede o no se quiere explicar.
-        </P>
-
-        <P>
-        Ally tomó amlodipina con la castración y enrofloxacina y ácido clavulánico con la infección urinaria. También tomó enrofloxacina a mediados de 2020 porque los análisis de orina dieron presencia de bacterias, pero solo 150 miligramos porque se negaba a comer con este antibiótico adentro de la comida, y el consumo de trilostano era prioritario.
-        </P>
-
-
-
-        <div style={ subtitleStyles } id={'22'}> La llamada rinitis alérgica </div>
-
-        <P>
-        No fue algo divertido para mí darle antibióticos sabiendo lo malos que son, pero supuse que no era tiempo de pensar en el largo plazo. Le di 10 días de enrofloxacina y 15 días de amoxicilina con ácido clavulánico. Entre ambos hay algunos días en que la creí curada. Fue demasiado evidente como para cuestionarlo que la cantidad de fluidos con pus que perdía por las vías urinarias iba de nada a muchísimo dependiendo enteramente de los glucocorticoides y absolutamente nada de los antibióticos. Es decir, cuando el cortisol estaba en buen nivel, se apreciaba un consumo normal de agua y comida y se iban las emisiones, pero cuando estaban altos, bebía mucho, tenía hambre a cada rato por carbohidratos y perdía fluidos por todas partes.
-        </P>
-        
-        <P>
-        Para cuando Ally estaba en tratamiento, ya estaba bastante claro para mí que lo que la gente y los alergistas llaman "rinitis alérgica" se trata de un desequilibro en las relaciones de poder entre hongos y bacterias en la mucosa nasal. No es una alergia. Alergia es cuando el sistema inmunológico ataca algo que no debería atacar, y como tal la solución es “sedarlo” en algún grado con corticoides u otra droga para que no moleste. En cambio, lo que ocurre acá es que el sistema inmunológico reacciona correctamente a la enorme cantidad de basura tóxica que producen los hongos.
-        </P>
-        
-        <P>
-        Por tanto, la fórmula para desarrollar una “rinitis alérgica” es tomar antibióticos para destruir a las bacterias de la mucosa nasal, junto con corticoides para anestesiar al sistema inmunológico en la zona. Se le libera así la zona a los hongos para que avancen y tomen posición. Después vienen los estornudos y los mocos, según la humedad del ambiente, el consumo de carbohidratos industriales y alcohol y la concentración de corticoides en sangre.
+        Para cuando Ally estaba en tratamiento, ya estaba bastante claro para mí que lo que la gente y los alergistas llaman "rinitis alérgica" se trata de un desequilibro en las relaciones de poder entre hongos y bacterias en la mucosa nasal. No es una alergia. Alergia es cuando el sistema inmunológico ataca algo que no debería atacar. En cambio, lo que ocurre acá es que el sistema inmunológico reacciona correctamente a la enorme cantidad de basura tóxica que producen los hongos. Por tanto, la fórmula para desarrollar una “rinitis alérgica” es tomar antibióticos para destruir a las bacterias de la mucosa nasal, junto con corticoides para anestesiar al sistema inmunológico en la zona. Se le libera así la zona a los hongos para que avancen y tomen posición. Después vienen los estornudos y los mocos, según la humedad del ambiente, el consumo de carbohidratos industriales y alcohol y la concentración de corticoides en sangre.
         </P>
         
         <P>
@@ -597,10 +565,10 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'23'}> El día final </div>
+        <div style={ subtitleStyles } id={'22'}> El día final </div>
 
         <P>
-        La decisión de retirar completamente la prednisolona (glucocorticoide) y mantener los 100 microgramos de fludrocortisona (mineralocorticoide y glucocorticoide) pareció correcta en los días que van de la crisis del 30 de marzo a la muerte el 6 de abril. Bien o mal, hubo 7 días sin crisis. Sin embargo, esta dosis de 0,1 mg dio la apariencia de ser excesiva en las 72 hs finales. Razoné que si el cálculo eran 30 microgramos por kilo de perro (3,5 kg por 30), tal vez había que calcular sobre un pesaje de 2,8 kg por la pérdida de musculatura que causó el Cushing.
+        La decisión de retirar completamente la prednisolona (glucocorticoide) y mantener alrededor de 100 microgramos de fludrocortisona (mineralocorticoide y glucocorticoide) pareció correcta en los días que van de la crisis del 30 de marzo a la muerte el 6 de abril. Bien o mal, hubo 7 días sin crisis. Sin embargo, esta dosis de 0,1 mg dio la apariencia de ser excesiva en las 72 hs finales. Razoné que si el cálculo eran 30 microgramos por kilo de perro (3,5 kg por 30), tal vez había que calcular sobre un pesaje de 2,8 kg por la pérdida de musculatura que causó el Cushing.
         </P>
 
         <P>
@@ -612,7 +580,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Por cierto, si la primera etapa consistió en destruir el tumor primario, hacerle todo el daño posible a los secundarios y conseguir un control externo y consciente de los niveles de corticoides en sangre, la segunda etapa era esta: reducir todo lo posible los niveles de corticoides para encender al máximo el sistema inmunológico, volver a la comida única nocturna, eliminar los carbohidratos de nuevo, maximizar la producción de macrófagos con vitamina D3 (que ya le estaba dando desde principios de marzo), y, de ser posible, alcalinizar el cuerpo con bicarbonato de sodio y potasio; y, desde ya, seguir con el mitotano.
+        Por cierto, si la primera etapa consistió en destruir el tumor primario, hacerle todo el daño posible a los secundarios y conseguir un control externo y consciente de los niveles de corticoides en sangre, la segunda etapa era esta: reducir todo lo posible los niveles de corticoides para encender al máximo el sistema inmunológico, volver a la comida única nocturna, eliminar los carbohidratos de nuevo, maximizar la producción de macrófagos con vitamina D3 (que ya le estaba dando desde principios de marzo), y, de ser posible, alcalinizar el cuerpo con bicarbonato de sodio y potasio; y, desde ya, seguir con el mitotano. (Lo de quitar los carbohidratos se revisa cuando hay metástasis avanzadas porque comen tanta glucosa que matan de hambre a las células sanas y se puede causar hipoglucemia).
         </P>
         
         <P>
@@ -621,31 +589,31 @@ export const Spanish = () => (
         
         <P style={ toggleULStyles }>
             <li>
-                tumor primario destruido;
+            tumor primario destruido;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                ausencia de tumores en el cráneo;
+            ausencia de tumores en el cráneo;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                ausencia de tumores linfáticos en la zona de la garganta;
+            ausencia de tumores linfáticos en la zona de la garganta;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                explicación optimista a las masas que asomaban del lado izquierdo;
+            explicación optimista a las masas que asomaban del lado izquierdo;
             </li>
         </P>
         
         <P style={ toggleULStyles }>
             <li>
-                alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
+            alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
             </li>
         </P>
         
@@ -662,12 +630,12 @@ export const Spanish = () => (
         </P>
         
         <P>
-        En la clínica quisieron ver la radiografía. Se lamentaron pero no cancelaron la tomografía ni mencionaron riesgos. Sí me dijeron que no usaban anestesia sino sedante.
+        En la clínica quisieron ver la radiografía de febrero. Se lamentaron pero no cancelaron la tomografía ni mencionaron riesgos. Sí me dijeron que no usaban anestesia sino sedantes.
         </P>
 
 
 
-        <div style={ subtitleStyles } id={'24'}> El estudio y la eutanasia </div>
+        <div style={ subtitleStyles } id={'23'}> El estudio y la eutanasia </div>
 
         <P>
         25 minutos después me la devolvieron, mientras se despertaba. La levantamos. Me dieron un CD con las imágenes y parecía que nos íbamos. Pero había algo raro en su mueca, la manera de poner la boca y la mirada perdida. La apoyamos en la mesa y la vimos hacer fuerza para respirar. Pedí ayuda y mencioné que tal vez necesitase corticoides por su condición. No me prestaron atención; creyeron que exageraba.
@@ -702,20 +670,20 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Me siguieron atormentando para que aceptara una eutanasia con distintos argumentos, mencionando lo terrible de los resultados en las imágenes y las virtudes humanísticas de hacerlo. Se turnaban los distintos empleados para taladrarme la cabeza. Ally esforzándose por respirar me desmoralizaba más a cada minuto. Mi hermana salió para llamar a mi madre para que viniese y no volví a pensar en los corticoides. Pedí que le dieran más sedante hasta que llegara mi madre, mientras le sostenía la manguera de oxígeno frente a la boca. Cada vez la sedaban menos, seguramente para no matarla sin autorización.
+        Me siguieron atormentando para que aceptara una eutanasia con distintos argumentos, mencionando lo terrible de los resultados en las imágenes y las virtudes humanísticas de hacerlo. Se turnaban los distintos empleados para taladrarme la cabeza. Ally esforzándose por respirar me desmoralizaba más a cada minuto. Mi hermana salió para llamar a mi madre para que viniese y no volví a pensar en los corticoides. Pedí que le dieran más sedante hasta que llegara ella, mientras le sostenía la manguera de oxígeno frente a la boca. Cada vez la sedaban menos, seguramente para no matarla sin autorización.
         </P>
         
         <P>
-        En 30 minutos llegó mi madre y no dudó en aceptar. Para entonces yo estaba vencido y apuré a la gente para que lo hicieran cuanto antes. Firmé la eutanasia apoyando la cabeza sobre Ally porque no quería que me alejara de ella. Fue un alivio después de dos horas de verla esforzarse por respirar. Fueron 2 horas desde que me la devolvieron. Me fui con el aplastamiento de quien lleva a su perra amada a un estudio, esperanzado, pero lo obligan a matarla, como si de una oportunidad única se tratase.
+        En 30 minutos llegó mi madre. Para entonces yo estaba vencido y apuré a la gente para que lo hicieran cuanto antes. Firmé la eutanasia apoyando la cabeza sobre Ally porque no quería que me alejara de ella. Fue un alivio después de dos horas de verla esforzarse por respirar. Fueron 2 horas desde que me la devolvieron. Me fui con el aplastamiento de quien lleva a su perra amada a un estudio, esperanzado, pero lo obligan a matarla, como si de una oportunidad única se tratase.
         </P>
         
         <P>
-        Los veterinarios en la clínica del tomógrafo no sabían qué tipo de cáncer tenía, no sabían qué tratamiento estaba haciendo, no sabían cuál era el punto de partida sobre el cual comparar la situación y no sabían si yo soy un desquiciado que no sabía desprenderse de su perro terminal o si soy en realidad un desquiciado que sí sabía lo que estaba haciendo, y no tenían que meterse al nivel de hacer prevalecer su voluntad por sobre la mía.
+        Los veterinarios en la clínica del tomógrafo no sabían qué tipo de cáncer tenía, no sabían qué tratamiento estaba haciendo, no sabían cuál era el punto de partida sobre el cual comparar la situación y no sabían si yo soy un desquiciado que no sabía desprenderse de su perro terminal o si en realidad sí sabía lo que estaba haciendo. Llegué al lugar con muchas dudas sobre el tratamiento, no estaba bien instruido sobre el uso de corticoides inyectables en urgencias y no me esperaba nada de lo que pasó.
         </P>
 
 
 
-        <div style={ subtitleStyles } id={'25'}> La tomografía </div>
+        <div style={ subtitleStyles } id={'24'}> La tomografía </div>
 
         <P>
         No quise mirar las imágenes. 27 horas después de la muerte me llegó el informe, bastante breve. Al leerlo, primero me di cuenta que el cráneo estaba limpio, y la garganta también. Y después me llamó la atención que decía, palabras más, palabras menos, lo mismo que habían dicho la ecografía de enero y la radiografía de febrero, pero sumando un problema linfático de importancia secundaria.
@@ -731,7 +699,7 @@ export const Spanish = () => (
 
 
 
-        <div style={ subtitleStyles } id={'26'}> La conversación final </div>
+        <div style={ subtitleStyles } id={'25'}> La conversación final </div>
 
         <P>
         Mi incapacidad para ver el tumor primario en las imágenes de la tomografía me obligó a pedir una cita al endocrinólogo. Le dije que quería regalarle las drogas que me sobraron, una cantidad en dinero equivalente a todas las consultas que me cobró desde que lo conocí... que de todos modos no era mucho en comparación a las drogas y la tomografía; y que quería, también, conversar un poco para cerrar la historia.
@@ -742,7 +710,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Lo de él no era novedad. Siempre creyó que era terminal, solo que nunca quiso detenerme. Como es investigador, le pareció interesante seguirme la corriente para ver qué lograba yo. Me di cuenta de esto en todo momento, aunque nunca me importó. Por cierto, tan investigador es que pocos minutos después de la muerte me pidió autorización para hacer una biopsia al cadáver. Tal vez dudó del diagnóstico, o solo quería hacer investigaciones más profundas, como dijo.
+        Lo de él no era novedad. Siempre creyó que era terminal, solo que nunca quiso detenerme. Como es investigador, le pareció interesante seguirme la corriente para ver qué lograba yo. Me di cuenta de esto en todo momento, aunque nunca me importó. Por cierto, tan investigador es que pocos minutos después de la muerte me pidió autorización para hacer una biopsia al cadáver. Tal vez dudó de su propio diagnóstico respecto a las metástasis o solo quería hacer investigaciones más profundas, como dijo.
         </P>
         
         <P>

@@ -2,7 +2,7 @@ import { P, subtitleStyles, toggleULStyles } from '../css/styles'
 
 export const EnglishConclusions = () => (
     <>
-        <div style={subtitleStyles} id={'27'}> Conclusions </div>
+        <div style={subtitleStyles} id={'26'}> Conclusions </div>
 
         <P>
         Those of us who make software are used to people around the world posting their resolutions and explanations for whoever is looking to read them. For that line I wrote, and I left as clear as I could on this site my own mistakes, the corresponding self-criticism and what I consider to be the superlative degree of backwardness that the exercise of the veterinary professions has. Therefore, consider:

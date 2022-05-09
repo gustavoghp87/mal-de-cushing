@@ -97,7 +97,7 @@ export const ShareBtns = () => {
 
             <div className={'text-center inline'} style={{ marginTop: '40px' }}>
                 <CopyToClipboard text={shareUrl} onCopy={() => setCopiedToClipboard(true)}>
-                    <Button variant={copiedToClipboard ? 'danger' : 'secondary'} size={undefined} style={{ width: '300px' }}>
+                    <Button variant={copiedToClipboard ? 'danger' : 'secondary'} size={undefined} style={{ width: '300px', maxWidth: '95%' }}>
                         {copiedToClipboard ? 
                             isEnglish ? "Copied" : "Copiado"
                             :
