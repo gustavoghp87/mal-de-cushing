@@ -172,7 +172,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Como esto es para el aprendizaje del lector, que lo lea bien: el profesional recomendó una tomografía de abodómen y tórax para conocer bien el punto de partida, para tener luego con qué comparar el avance del tratamiento. Yo me rehusé porque son con sedación total y no creí que me aportaría nada relevante para esa etapa. Y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que, si no le hacía la tomografía, al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar. No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores también. Pero que quede claro que las metástasis pulmonares son mucho más frecuentes que las hepáticas en el mal de Cushing, y que si el hígado está tomado, los pulmones probablemente ya estén tomados desde antes.
+        Por cierto, el profesional recomendó una tomografía de abodómen y tórax para conocer bien el punto de partida, para tener luego con qué comparar el avance del tratamiento. Yo me rehusé porque son con sedación total y no creí que me aportaría nada relevante para esa etapa, y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que, si no le hacía la tomografía, al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar. No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores también. Pero que quede claro que las metástasis pulmonares son mucho más frecuentes que las hepáticas en el mal de Cushing, y que si el hígado está tomado, los pulmones probablemente ya estén tomados desde antes.
         </P>
 
 
@@ -180,7 +180,7 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'9'}> Mitotano sin trilostano </div>
 
         <P>
-        El tratamiento empezó el domingo 6 de febrero de 2022. Y que sepa bien el lector: fue un desastre retirarle el trilostano el día anterior al comienzo del tratamiento con mitotano. Se suponía que ambas drogas no se debían usar juntas porque ambas reducen la producción de corticoides y si la cantidad de corticoides baja mucho hay riesgo de muerte. La idea era ir bajando los corticoides en sangre gradualmente por efecto exclusivo del mitotano, que demoraría entre 3 y 5 días en causar una deficiencia notoria, ante la cual comenzaría la suplementación con corticoides sintéticos de vía oral: prednisolona en gotas (glucocorticoide) y acetato de fludrocortisona (mineralocorticoide y glucocorticoide a la vez). Y, en caso de emergencia, se usarían corticoides inyectables de acción inmediata: dexametasona (glucocorticoide) e hidrocortisona (mineralocorticoide y glucocorticoide a la vez).
+        El tratamiento empezó el domingo 6 de febrero de 2022. Y que sepa bien el lector: fue un desastre retirarle el trilostano el día anterior al comienzo del tratamiento con mitotano. Se suponía que ambas drogas no se debían usar juntas porque ambas reducen la producción de corticoides y si la cantidad de corticoides baja mucho hay riesgo de muerte. La idea era ir bajando los corticoides en sangre gradualmente por efecto exclusivo del mitotano, que demoraría entre 3 y 5 días en causar una deficiencia notoria, ante la cual comenzaría la suplementación con corticoides sintéticos de vía oral: prednisolona en gotas (glucocorticoide, 1 mg al día) y acetato de fludrocortisona (mineralocorticoide y glucocorticoide a la vez, 100 microgramos al día), que siempre se introduce acompañada con comida con sal. Y, en caso de emergencia, se usarían corticoides inyectables de acción inmediata: dexametasona (glucocorticoide, 1,5 mg) e hidrocortisona (mineralocorticoide y glucocorticoide a la vez, 10 mg).
         </P>
         
         <P>
@@ -264,11 +264,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Como tal, la única esperanza estaba en una quimioterapia convencional, esas que destruyen a las células cancerígenas pero también la médula ósea, invalidando las defensas del cuerpo, preparándolo para la siguiente expansión del cáncer, esta vez sin resistencia, y causa la muerte casi siempre. Yo estaba bien advertido que la frecuencia de éxito de las quimioterapias convencionales no supera el 4% en humanos y que es algo que los profesionales mandan a hacer solamente para que parezca que están haciendo algo y que no se venga abajo la imagen que los simples mortales tienen de ellos. No le iba a hacer eso a mi perra.
-        </P>
-        
-        <P>
-        Mientras me decía que ella no iba a resistir una quimioterapia convencional por el estado del hígado, llenaba unas órdenes para estudios de sangre y corazón para comenzar cuanto antes. No volví a verlo.
+        Como tal, la única esperanza estaba en una quimioterapia convencional, esas que destruyen a las células cancerígenas pero también la médula ósea, invalidando las defensas del cuerpo, preparándolo para la siguiente expansión del cáncer, y causa la muerte casi siempre. Mientras me decía que ella no iba a resistir una quimioterapia convencional por el estado del hígado, llenaba unas órdenes para estudios de sangre y corazón para comenzar cuanto antes. No volví a verlo.
         </P>
         
         <P>
@@ -280,11 +276,11 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Cuando me repuse un poco me puse a investigar. Que el mitotano hace quimioterapia vi que lo dicen todos los sitios que hablan del tema. También conseguí un informe que resumía más de una década de tratamientos con mitotano en perros de una universidad que, si bien los números de supervivencia no son demasiado optimistas, me quedó claro que el mitotano sí puede destruir tumores adrenales y metástasis pulmonares, al menos. Y respecto al diagnóstico alternativo del oncólogo, leí que los tumores que se originan en el hígado son mucho menos frecuentes que los que llegan como metástasis, y que, en caso de ocurrir, uno esperaría ver un tumor grande en vez de muchos pequeños.
+        Pero después me puse a investigar. Que el mitotano hace quimioterapia vi que lo dicen todos los sitios que hablan del tema. También conseguí un informe que resumía más de una década de tratamientos con mitotano en perros de una universidad que, si bien los números de supervivencia no son demasiado optimistas, me dejó en claro que el mitotano sí puede destruir tumores adrenales y metástasis pulmonares, al menos. Y respecto al diagnóstico alternativo del oncólogo, leí que los tumores que se originan en el hígado son mucho menos frecuentes que los que llegan como metástasis, y que, en caso de ocurrir, uno esperaría ver un tumor grande en vez de muchos pequeños.
         </P>
         
         <P>
-        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después, con la tomografía y el aparente resultado ambiguo de 60 días de mitotano a dosis aumentada.
+        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. Por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después, con la tomografía y el aparente resultado ambiguo de 60 días de mitotano a dosis aumentada.
         </P>
 
 
@@ -292,11 +288,11 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'13'}> Mitotano y trilostano </div>
 
         <P>
-        Para estos días entendí algo que también puede servirle al lector. Absolutamente todo lo que pude leer acerca del mitotano es anterior a la existencia del trilostano, y esto es bastante importante. El mitotano se usa para tratar el mal de Cushing en animales desde los años 60. Lo común nunca fue hacer una quimioterapia que cause insuficiencia de corticoides para después suplementar con corticoides sintéticos (terapia de reemplazo) sino que lo normal siempre fue dar una dosis periódica moderada para causar una destrucción parcial diaria sobre la corteza tumorosa, forzándola a producir menos corticoides, y nada más. El trilostano hace el mismo servicio pero a través de una inhibición de las glándulas, sin causar destrucción parcial.
+        Para estos días entendí algo que también puede servir. Absolutamente todo lo que pude leer acerca del mitotano es anterior a la existencia del trilostano, y esto es bastante importante. El mitotano se usa para tratar el mal de Cushing en animales desde los años 60. Lo común nunca fue hacer una quimioterapia que cause la completa destrucción de las cortezas suprarrenales y una insuficiencia de corticoides para después suplementar con corticoides sintéticos (terapia de reemplazo) sino que lo normal siempre fue buscar una destrucción parcial de la corteza tumorosa para forzarla a producir menos corticoides, primero con un período de inducción de suministrodiario y después con una dosis semanal, y nada más. (En este otro tratamiento, la única suplementación es con prednisolona, sin fludrocortisona.)
         </P>
         
         <P>
-        Parece que en los ensayos clínicos que se hicieron, ambas terapias dieron resultados similares solo que el mitotano causa más efectos secundarios como vómitos, diarrea, náuseas e intolerancia a largo plazo. Por eso el trilostano salió victorioso y vivimos hoy en la era del trilostano. Pero esto no sale gratis: el mitotano tiene la capacidad de destruir metástasis incipientes. En cambio, como en el caso de Ally, tomar solo el inhibidor puede hacer que el cuerpo se llene de tumores en poco tiempo sin que se note, salvo que se respete una rutina bimensual de estudio de por vida; rutina que, a diferencia de la que me dieron a mí, sí tiene que incluir el estudio de los pulmones.
+        El trilostano hace el mismo servicio pero a través de una inhibición de las glándulas, sin causar destrucción parcial. Parece que en los ensayos clínicos que se hicieron, ambas terapias dieron resultados similares solo que el mitotano causa más efectos secundarios como vómitos, diarrea, náuseas e intolerancia a largo plazo. Por eso el trilostano salió victorioso y vivimos hoy en la era del trilostano. Pero esto no sale gratis: el mitotano tiene la capacidad de destruir metástasis incipientes. En cambio, como en el caso de Ally, tomar solo el inhibidor puede hacer que el cuerpo se llene de tumores en poco tiempo sin que se note. De ahí surge la necesidad de respetar una rutina bimensual de estudio de por vida; rutina que, a diferencia de la que me dieron a mí, sí tiene que incluir el estudio de los pulmones.
         </P>
 
         <P>
@@ -476,7 +472,7 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'18'}> Glucocorticoides y mineralocorticoides </div>
 
         <P>
-        Eso fue lo que pasó, resumidamente. La explicación que parece más verosímil, aunque parezca ridículo que un informático formule tesis de trabajo de la ciencia médica, siendo, no obstante, que no es mi culpa, sino que es culpa del estado de la ciencia médica, donde se pretende delegar completamente la salud en manos de un profesional que, si no sabe, se te muere el perro; la explicación más verosímil parece ser que Ally tenía los mineralocorticoides demasiado bajos pero los glucocorticoides demasiado altos. Así se podría explicar el hambre y la sed combinados con presión arterial baja, náuseas y visión borrosa, en un contexto de deshidratación con inmunodepresión.
+        Eso fue lo que pasó, resumidamente. La explicación que parece más verosímil, aunque parezca ridículo que un informático formule tesis de trabajo de la ciencia médica, siendo, no obstante, que no es mi culpa; la explicación más verosímil parece ser que Ally tenía los mineralocorticoides demasiado bajos pero los glucocorticoides demasiado altos. Así se podría explicar el hambre y la sed combinados con presión arterial baja, náuseas y visión borrosa, en un contexto de deshidratación con inmunodepresión.
         </P>
 
         <P>
@@ -492,11 +488,11 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Yo sabía que en lo peor del 2020, Ally tenía la presión alta, como también la tuvo alta justo antes de empezar el tratamiento con mitotano en enero de 2022, y el 2 de abril, justo después del accidente de la dosis errada de fludrocortisona. Son las 3 veces que le tomó la presión el endocrinólogo, único profesional con este aparato de los que yo conocí. Ignoré el concepto de mineralocorticoides hasta avanzado el tratamiento con mitotano, y hasta entonces siempre había creído que la presión alta era una consecuencia indirecta del cortisol (glucocorticoide), porque obliga al hígado a liberar sus reservas de glucosa, causando niveles altos de glucosa y triglicéridos en sangre. Estaba equivocado; la glucosa y los triglicéridos no aumentan la presión arterial. Y supe a tiempo que la fludrocortisona se administra siempre con sodio para que haga efecto.
+        Yo sabía que en lo peor del 2020, Ally tenía la presión alta, como también la tuvo alta justo antes de empezar el tratamiento con mitotano en enero de 2022, y el 2 de abril, justo después del accidente de la dosis errada de fludrocortisona. Son las 3 veces que le tomó la presión el endocrinólogo, único profesional con este aparato de los que yo conocí. Ignoré el concepto de mineralocorticoides hasta avanzado el tratamiento con mitotano, y hasta entonces siempre había creído que la presión alta era una consecuencia indirecta del cortisol (glucocorticoide), porque obliga al hígado a liberar sus reservas de glucosa, causando niveles altos de glucosa y triglicéridos en sangre. Estaba equivocado; la glucosa y los triglicéridos no aumentan la presión arterial.
         </P>
 
         <P>
-        Por esto es que creo que las crisis en las que no podía levantar la cabeza eran, ante todo, crisis de mineralocorticoides insuficientes, causando presión arterial baja, mareos, náuseas y visión borrosa, pero con glucocorticoides excesivos a la vez, provocando sed, deshidratación y hambre. Pero tengo en contra que para la última crisis, el 30 de marzo, llevaba 6 días a más de 100 microgramos, sin trilostano. Lo que puedo hacer es esbozar una explicación <I>ad hoc</I> basada en el cuadro de deshidratación que causaba el exceso de glucocorticoides, como si yo le hubiese provocado una crisis de presión arterial baja aun con la cantidad correcta de aldosterona en sangre. Es lo mejor que puedo formular.
+        Por esto es que creo que las crisis en las que no podía levantar la cabeza eran, ante todo, crisis de mineralocorticoides insuficientes, causando presión arterial baja, mareos, náuseas y visión borrosa, pero con glucocorticoides excesivos a la vez, provocando sed, deshidratación y hambre. Pero tengo en contra que para la última crisis, el 30 de marzo, llevaba 6 días a más de 100 microgramos, sin trilostano. Lo que puedo hacer es esbozar una explicación <I>ad hoc</I> basada en el cuadro de deshidratación que causaba el exceso de glucocorticoides, como si yo le hubiese provocado una crisis de presión arterial baja aun con la cantidad correcta de aldosterona en sangre. Con suficiente fludrocortisona y sin prednisolona solo tuvo Cushing, que, eventualmente, se corregía bajando la dosis de la primera. Es lo mejor que puedo formular.
         </P>
 
 
@@ -504,31 +500,35 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'19'}> Los tiempos de acción de las drogas </div>
         
         <P>
-        El otro gran problema que tuvimos fue el de los tiempos de acción de las drogas. Digo de nuevo lo que pienso pero sigue siendo especulativo. Suponiendo que la prednisolona demoraba 9 horas en hacer efecto pero la fludrocortisona 18 horas:
+        El otro gran problema que tuvimos fue el de los tiempos de acción de las drogas. Digo de nuevo lo que pienso pero sigue siendo especulativo. Suponiendo, de acuerdo a lo que observé en estas semanas, que la prednisolona demoraba 9 horas en hacer efecto pero la fludrocortisona 18 horas:
         </P>
 
         <P style={ toggleULStyles }>
             <li>
-            Cuando el viernes 18 de marzo (primera crisis) le di prednisolona y fludrocortisona a mediodía, la prednisolona hizo efecto 9 horas después, al llegar la noche, pero la fludrocortisona demoró 18 horas en impactar. Por eso, cuando le di mitotano por la noche, las concentraciones de glucocorticoides estaban más altas de lo normal pero las de mineralocorticoides estaban por debajo de lo normal, y bajaron incluso más, causando una crisis de 9 horas, las 9 horas que faltaban para que hiciera efecto la fludrocortisona y para que se recuperara la producción natural. Por eso vimos una combinación de síntomas entre la debilidad, las náuseas, la visión borrosa propias de mineralocorticoides bajos, junto con sed, hambre y depresión inmunológica propios de glucocorticoides altos. La crisis de la cabeza gacha era un engendro mío por no conocer las suplementaciones.
+            Cuando el viernes 18 de marzo (primera crisis) le di mitotano por la noche, las concentraciones de glucocorticoides estaban más altas de lo normal porque le había dado prednisolona 9 horas antes pero las de mineralocorticoides estaban por debajo de lo normal porque aun no había impactado la fludrocortisona, y bajaron incluso más, causando una crisis de 9 horas, las 9 horas que faltaban para que hiciera efecto la fludrocortisona y para que se recuperara la producción natural.
             </li>
         </P>
 
         <P style={ toggleULStyles }>
             <li>
-            El sábado 19 le di corticoides recién cuando apareció la crisis, y tuvo 9 horas hasta la recuperación completa y el efecto de la prednisolona.
+            Los problemas del sábado 19 y el domingo 20 se pueden explicar por la dosis baja que usé de fludrocortisona junto con trilostano y mitotano, al tiempo que los glucocorticoides estaban altos por la dosis excesiva de prednisolona, y duraron 9 horas esencialmente por la recuperación natural de la producción y por el final de la situación inflamatoria del metabolismo.
             </li>
         </P>
 
         <P style={ toggleULStyles }>
             <li>
-            La crisis del 24 de marzo fue la única sin intervención de corticoides sintéticos. El mitotano causó una deficiencia grave de mineralocorticoides
+            La crisis del 24 de marzo, que fue la única sin intervención de corticoides sintéticos, el mitotano causó una deficiencia grave de mineralocorticoides sin ayuda del mitotano, por simple efecto de la quimioterapia, y se recuperó simplemente por acción de la producción natural de la glándula y por cumplirse 12 horas desde la última fludrocortisona.
             </li>
         </P>
 
         <P style={ toggleULStyles }>
             <li>
-            La demora en el efecto de los corticoides explica también por qué salió de las crisis del 20, 24 y 30 con Cushing alto.
+            El 30 de marzo tenía sin duda niveles correctos de fludrocortisona pero llevaba algunos días abusando de la prednisolona.
             </li>
+        </P>
+
+        <P>
+        La demora en el efecto de los corticoides explicaría también por qué salió de las crisis del 20, 24 y 30 con Cushing alto. Si esto es correcto, las crisis de la cabeza hacia abajo eran engendro mío por no conocer las suplementaciones, en sus funciones y sus tiempos de acción.
         </P>
 
 
