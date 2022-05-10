@@ -23,7 +23,7 @@ export const subtitleStyles = {
     textAlign: 'center'
 }
 
-export const toggleULStyles = {
+export const toggleListStyles = {
     marginInline: '3%',
     textIndent: '0'
 }

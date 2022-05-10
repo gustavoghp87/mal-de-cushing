@@ -1,11 +1,11 @@
-import { I, P, subtitleStyles, toggleULStyles } from '../css/styles'
+import { I, P, subtitleStyles, toggleListStyles } from '../css/styles'
 
 export const Spanish = () => (
     <>
         <div style={ subtitleStyles } id={'2'}> Ella </div>
 
         <P>
-        Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal. Siempre fue de carácter tranquilo, de estómago usualmente cerrado. Rara vez jugó con un perro y nunca los olfateó, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros. Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad; un problema que pocos dudarían en asociar con su tamaño, pero no deja de ser una interpretación esta que pasa por alto la enorme cantidad de perros chicos que son totalmente valientes y sociables.
+        Ally nació en diciembre de 2012. Caniche toy negra, de un criadero familiar informal. Siempre fue de carácter tranquilo, de estómago usualmente cerrado. Rara vez jugó con un perro y nunca los olfateó, mas bien los evitaba. Quería estar siempre con la familia, especialmente arriba de alguno de nosotros. Tenía una salud excelente pero nunca fue buena para procesar el estrés y la ansiedad.
         </P>
 
 
@@ -13,7 +13,7 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'3'}> Las 2 semanas y la castración </div>
 
         <P>
-        Para septiembre de 2018, con 5 años, había tenido dos falsas preñeces y cada vez volvía más alterada de los cortes de pelo. Un viernes tenía problemas para masticar y pude verle una muela floja. Acordé un turno para castración, remoción de la muela y limpieza de sarro. Para prepararla quise cortarle el pelo. Le cortaron el pelo demasiado corto, rapado, y volvió de la veterinaria temblando como una hoja y con falsa preñez, la tercera. Le di el antiprolactínico que me había sobrado de la vez anterior; una droga que bloquea la producción de leche. No noté que estaba vencido y le provocó diarrea y no recuerdo si vómitos.
+        Para septiembre de 2018, con 5 años, había tenido dos falsas preñeces y cada vez volvía más alterada de los cortes de pelo. Un viernes tenía problemas para masticar y pude verle una muela floja. Acordé un turno para castración, remoción de la muela y limpieza de sarro. Para prepararla quise cortarle el pelo. Le cortaron el pelo demasiado corto, rapado, y volvió de la veterinaria temblando y con falsa preñez, la tercera. Le di el antiprolactínico que me había sobrado de la vez anterior; una droga que bloquea la producción de leche. No noté que estaba vencido y le provocó diarrea y no recuerdo si vómitos.
         </P>
         
         <P>
@@ -21,7 +21,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Como curiosidad, los puntos "ecológicos" demoraron como 2 años en irse del todo. Y quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de si hicieron todo bien o si dejaron ahí alguna fuente de conflicto, estresante, que explicase lo que vino después, o si algo pasó durante la limpieza dental.
+        Como curiosidad, los puntos "ecológicos" demoraron como 2 años en irse del todo. Y quedó una cicatriz interna muy llamativa al tacto. Siempre tuve la duda de si hicieron todo bien o si dejaron ahí alguna fuente de conflicto que explicase lo que vino después, o si algo pasó durante la limpieza dental.
         </P>
 
 
@@ -57,7 +57,7 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'5'}> El cirujano </div>
 
         <P>
-        Se necesitaban 3 meses de recuperación con trilostano antes de poder evaluar una cirugía que extirpara la glándula tumorosa. Y la consulta la iba a hacer igual aunque la ecografía ya había revelado que el tumor se había ramificado y estaba invadiendo una de las principales venas del cuerpo, la vena cava inferior, encargada de recoger toda la sangre usada de la parte inferior del cuerpo y llevarla directamente al corazón; una ocupación de casi un centímetro cuadrado, según ecografías posteriores.
+        Se necesitaban 3 meses de recuperación con trilostano antes de poder evaluar una cirugía que extirpara la glándula tumorosa para olvidarnos de la enfermedad. Y la consulta la iba a hacer igual aunque la ecografía ya había revelado que el tumor se había ramificado y estaba invadiendo una de las principales venas del cuerpo, la vena cava inferior, encargada de recoger toda la sangre usada de la parte inferior del cuerpo y llevarla directamente al corazón; una ocupación de casi un centímetro cuadrado, según ecografías posteriores.
         </P>
 
         <P>
@@ -65,11 +65,11 @@ export const Spanish = () => (
         </P>
 
         <P>
-        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano por la posibilidad de hacer la remoción del tumor y rehabilitar la glándula sana y olvidarnos de la enfermedad. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable. Bueno hubiera sido un diagnóstico a tiempo, una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
+        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable. Bueno hubiera sido un diagnóstico a tiempo, una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
         </P>
         
         <P>
-        Me hubiese gustado en este tiempo haber conocido la otra droga del Cushing: el mitotano, pensando en envenenar el tumor lo suficiente para que abandonace su posición en la vena, para luego sí poder hacer una cirugía de bajo riesgo. Pero la existencia de esta droga me fue velada hasta mayo de 2021.
+        Me hubiese gustado en este tiempo, también, haber conocido la otra droga del Cushing: el mitotano, pensando en envenenar el tumor lo suficiente para que abandonace su posición en la vena, para luego sí poder hacer una cirugía de bajo riesgo. Pero la existencia de esta droga me fue velada hasta mayo de 2021, según el endocrinólogo, porque él necesita tiempo para conocer y evaluar a la familia del perro antes de mencionar la posibilidad.
         </P>
         
         <P> Fue bastante claro este cirujano en que el tumor suele crecer dentro de la vena; que hay casos raros en que la tapona causando enfermedad cardíaca, pero usualmente crece lateralemente, haciendo reaparecer los signos del Cushing hasta llevar al trilostano a una dosis necesaria inaceptable para el hígado; ahí se da el deterioro que lleva a la muerte. Otro punto destacado en retrospectiva fue que también mencionó que este tipo de tumor a veces se vuelve maligno y ataca al hígado con tumores secundarios, metastásicos. Me pareció una posibilidad muy remota para una perra de tan buena salud y con un tumor domado con inhibidor, pero lo recordé. La posibilidad de una metástasis pulmonar, en cambio, no se mencionó jamás hasta febrero de 2022.
@@ -80,11 +80,11 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'6'}> El año y medio posterior y el indicio de metástasis </div>
 
         <P>
-        Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; me esforcé de que viviese especialmente bien porque estaba presente la posibilidad de que el tumor creciese y taponase la vena cava inferior o forzase una producción de corticoides inmanejable con trilostano; hasta le corté el pelo y las uñas yo, para bien y para mal, aunque a veces temblaba. Y los malos ratos eran solamente los de la extracción de muestras de sangre y, sobre todo, las ecografías, que duraban 30 o 40 minutos cada una.
+        Hice 5 estudios de sangre y orina y 4 ecografía doppler entre abril de 2020 y mayo de 2021. Nunca pasaba nada y ella se sentía solamente bien, con la condición de tomar sus 15 mg de trilostano en dos tomas cada 12 horas. Fue el mejor tiempo de su vida; hasta le corté el pelo y las uñas yo, para bien y para mal. Y los malos ratos eran solamente los de la extracción de muestras de sangre y, sobre todo, las ecografías, que duraban 30 o 40 minutos cada una.
         </P>
         
         <P>
-        En esta etapa, estos eran los 2 desenlaces mortales que yo conocía; es decir, una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “una imagen focal hipoecoica de 4,1 mm en lóbulo lateral izquierdo”, junto con una inflamación general del órgano. Descubro ahora que reviso los resultados, también estaba alto el valor en sangre de VCM (83 contra 75), indicador de enfermedad del hígado. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal (85,2 contra 65).
+        En este tiempo, para mí lo único importante era el tamaño del tumor y el tamaño de su ramificación, que no parecían crecer. Una metástasis parecía un escenario muy lejano. No obstante, en mayo de 2021 la ecografía reveló en el hígado “<I>una imagen focal hipoecoica de 4,1 mm en lóbulo lateral izquierdo</I>”, junto con una inflamación general del órgano. Descubro ahora que reviso los resultados, también estaba alto el valor en sangre de VCM (83 contra 75), indicador de enfermedad del hígado. Aparte, el análisis de orina dio una relación cortisol/creatinina un 31% más alta de lo normal (85,2 contra 65).
         </P>
         
         <P>
@@ -100,7 +100,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Yo no sabía mucho de tumores en este tiempo pero sí sabía que son grandes consumidores de glucosa, por lo que, sumando a la sospecha de que los famosos alimentos balanceados para mascotas están detrás de los horribles números del cáncer, la pasamos en mayo 2020 a una dieta de solo productos cárnicos; es decir, todo proteína y grasa y nada de carbohidratos, y a una única comida nocturna para reducir la inflamación de bajo grado a una porción breve del día. Creí que así el tumor no tendría manera de crecer, por la escasez de glucosa y por la maximización del tiempo en que el sistema inmunológico está en estado de alerta.
+        Yo no sabía mucho de tumores en este tiempo pero sí sabía que son grandes consumidores de glucosa, por lo que, sumado a la sospecha de que los alimentos balanceados para mascotas están detrás de los horribles números del cáncer, la pasamos en mayo 2020 a una dieta de solo productos cárnicos; es decir, todo proteína y grasa y nada de carbohidratos, y a una única comida nocturna para reducir la inflamación de bajo grado a una porción breve del día. Creí que así el tumor no tendría manera de crecer, por la escasez de glucosa y por la maximización del tiempo en que el sistema inmunológico está en estado de alerta.
         </P>
         
         <P>
@@ -116,27 +116,37 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'7'}> Cáncer tumoroso </div>
 
         <P>
-        Un tumor surge cuando muchas células sufren un daño en el ADN y fallan los mecanismos externos para su destrucción. La causa fundamental de que fallen los mecanismos externos para el aniquilamiento de las células cancerígenas es algún tipo de inmunodepresión, porque son las células inmunológicas las que tienen que destruirlas, donde los 2 favoritos de la sociedad industrializada son los causados por la dieta de carbohidratos industriales desproporcionada y la destrucción de la biodiversidad bacteriana en el intestino por antibióticos, alcohol, conservantes, edulcorantes y emulsionantes. 
+            Siguen 5 cosas relevantes sobre los tumores:
         </P>
 
-        <P>
-        Estas mismas causas también provocan la acidificación de los órganos y la alcalinización de la sangre; o sea, bajan el PH dentro de los órganos y suben el de la sangre, generando el clima ideal para la incubación de los tumores.
+        <P style={ toggleListStyles }>
+            <li>
+            Un tumor surge cuando muchas células sufren un daño interno y fallan los mecanismos externos para su destrucción. Para explicar el daño en las células, considerar la teoría de la acidificación de los órganos. Por la otra parte, la causa fundamental de que fallen los mecanismos externos para el aniquilamiento de las células cancerosas es algún tipo de inmunodepresión, porque son las células inmunológicas las que tienen que destruirlas.
+            </li>
         </P>
 
-        <P>
-        Toda célula cancerígena tiene atrofiados los mecanismos para generar combustión usando glucosa, aminoácido o grasa, más agua y oxígeno. Lo que hace para sobrevivir es tomar solamente glucosa y fermentarla; es lo que le permite sobrevivir con poco oxígeno, en un ambiente ácido. Pero el proceso de generación de energía por fermentación es muy ineficiente en comparación con la combustión con oxígeno y por eso la célula cancerígena consume grandes cantidades de glucosa. La dieta pobre en carbohidratos termina siendo, así, imprescindible para una lucha contra el cáncer.
+        <P style={ toggleListStyles }>
+            <li>
+            Toda célula cancerígena tiene atrofiados los mecanismos para generar combustión usando oxígeno, agua y alguno de estos 3 combustibles: glucosa, aminoácido y grasa. Lo que hace para sobrevivir es tomar solamente glucosa y fermentarla. Pero el proceso de generación de energía por fermentación es muy ineficiente en comparación con la combustión con oxígeno y por eso la célula cancerígena consume grandes cantidades de glucosa. La dieta pobre en carbohidratos termina siendo, así, imprescindible para una lucha contra el cáncer.
+            </li>
         </P>
 
-        <P>
-        No obstante, la elevación de las concentraciones en sangre de las hormonas del estrés hace que el hígado se ponga a generar glucosa a partir de aminoácidos, sea de los comidos, si alcanzan, o tomados de la propia masa muscular. Entonces, un cuerpo estresado alimenta a los tumores hasta la saciedad.
+        <P style={ toggleListStyles }>
+            <li>
+            No obstante, la elevación de las concentraciones en sangre de las hormonas del estrés hace que el hígado se ponga a generar glucosa a partir de aminoácidos, sea de los aminoácidos de las proteínas comidas, si alcanzan, o tomados de la propia masa muscular. Entonces, un cuerpo estresado alimenta a los tumores hasta la saciedad.
+            </li>
         </P>
 
-        <P>
-        Las células cancerígenas son atacadas y destruidas por los macrófagos, células semejantes a los glóbulos blancos pero bastante más grandes. La buena presencia de macrófagos en la sangre depende, en sentido práctico, de la abundancia de vitamina D, que es la del sol y el pescado.
+        <P style={ toggleListStyles }>
+            <li>
+            Las células cancerígenas son atacadas y destruidas por los macrófagos, células semejantes a los glóbulos blancos pero bastante más grandes. La buena presencia de macrófagos en la sangre depende, en sentido práctico, de la abundancia de vitamina D, que es la del sol y el pescado.
+            </li>
         </P>
 
-        <P>
-        La diferencia entre un tumor "benigno" y otro "maligno" no depende del tumor en sí sino de lo que el sistema inmunológico le permita hacer. Un tumor pasa a "maligno" y ataca a los demás órganos y sistemas solamente cuando las defensas del cuerpo se lo permiten. El principal medio para el contagio de los demás órganos es el sistema linfático, donde no hay macrófagos defensivos. Las cañerías del sistema linfático se inflaman lo suficiente como para dejar pasar células del cáncer solamente cuando hay niveles importantes de hormonas de estrés en la sangre. De ahí las metástasis.
+        <P style={ toggleListStyles }>
+            <li>
+            La diferencia entre un tumor "benigno" y otro "maligno" no depende del tumor en sí sino de lo que el sistema inmunológico le permita hacer. Un tumor pasa a "maligno" y ataca a los demás órganos y sistemas solamente cuando las defensas del cuerpo se lo permiten. El principal medio para el contagio de los demás órganos es el sistema linfático, donde no hay macrófagos defensivos. Las cañerías del sistema linfático se inflaman lo suficiente como para dejar pasar células del cáncer solamente cuando hay niveles importantes de hormonas de estrés en la sangre. De ahí las metástasis.
+            </li>
         </P>
 
 
@@ -144,15 +154,15 @@ export const Spanish = () => (
         <div style={ subtitleStyles } id={'8'}> La metástasis y el mitotano como único tratamiento posible </div>
 
         <P>
-        Para diciembre de 2021, tenía signos evidentes de Cushing y pedí otra ecografía doppler, mientras le subía un poco la dosis de trilostano. Aparte, había una bolita palpable del lado izquierdo del abdomen, chica pero firme. Empecé a pensar que le estaba llegando la hora. Llevaba 7 meses desde la última tanda de estudios.
+        Para diciembre de 2021, tenía signos evidentes de Cushing: había engordado un poco y comía, bebía y orinaba más. Pedí otra ecografía doppler, mientras le subía un poco la dosis de trilostano. Aparte, había una bolita palpable del lado izquierdo del abdomen, chica pero firme. Empecé a pensar que le estaba llegando la hora. Llevaba 7 meses desde la última tanda de estudios.
         </P>
         
         <P>
-        En enero de 2022, la ecografía reveló “múltiples lesiones focales, algunas hipoecoicas, otras heterogéneas, con diámetros desiguales de 1,5 a 2 cm diseminadas en todos los lóbulos hepáticos”. No hice estudios de cortisol en orina. Y el análisis de sangre dio alto en enfermedad hepática (GPT-ALT y GOT-AST). Tarde pero era hora de suspenderlo todo y ocuparse solamente de ella para intentar salvarla.
+        En enero de 2022, la ecografía reveló “<I>múltiples lesiones focales, algunas hipoecoicas, otras heterogéneas, con diámetros desiguales de 1,5 a 2 cm diseminadas en todos los lóbulos hepáticos</I>”. Tarde pero era hora de suspenderlo todo y ocuparse solamente de ella para intentar salvarla.
         </P>
         
         <P>
-        Esta ecografía no me dijo la naturaleza de la bolita que se sentía del lado izquierdo. Justo antes de hacerla, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. La tomografía de abril 2022 parece darles la razón en esto aunque fue un motivo de preocupación por 4 meses. Por lo pronto, esta ecografía dijo: “Linfonódulos: no se observan”.
+        Esta ecografía no me dijo la naturaleza de la bolita que se sentía del lado izquierdo. Justo antes de hacerla, la veterinaria sugirió que era el bazo oprimido por la expansión del hígado, y eso pensó también el endocrinólogo después. La tomografía de abril 2022 parece darles la razón en esto aunque fue un motivo de preocupación por 4 meses. Por lo pronto, esta ecografía dijo: “<I>Linfonódulos: no se observan</I>”.
         </P>
         
         <P>
@@ -164,7 +174,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Se desprende que cualquiera que quiera hacer este tratamiento tiene que prepararse para enfrentar a los profesionales que no conocen esta droga. No hay en los otros tipos de cáncer drogas que ejecuten una destrucción tan específica para hacer una quimioterapia tan limpia.
+        Se desprende que cualquiera que quiera hacer este tratamiento tiene que prepararse para enfrentar a los profesionales que no conocen esta droga. No hay en los otros tipos de cáncer drogas que ejecuten una destrucción tan específica para hacer una quimioterapia tan limpia, y si las hubiera no servirían. Por ejemplo, una droga capaz de destruir solamente células del páncreas no podría usarse porque eliminaría el páncreas. La diferencia con el Cushing es que sí se puede vivir sin cortezas suprarrenales.
         </P>
         
         <P>
@@ -172,7 +182,7 @@ export const Spanish = () => (
         </P>
         
         <P>
-        Por cierto, el profesional recomendó una tomografía de abodómen y tórax para conocer bien el punto de partida, para tener luego con qué comparar el avance del tratamiento. Yo me rehusé porque son con sedación total y no creí que me aportaría nada relevante para esa etapa, y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que, si no le hacía la tomografía, al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar. No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores también. Pero que quede claro que las metástasis pulmonares son mucho más frecuentes que las hepáticas en el mal de Cushing, y que si el hígado está tomado, los pulmones probablemente ya estén tomados desde antes.
+        Por cierto, el profesional recomendó una tomografía de abodómen y tórax para conocer bien el punto de partida, para tener luego con qué comparar el avance del tratamiento. Yo me rehusé porque son con sedación total y no creí que me aportaría nada relevante para esta etapa, y bastante difícil iba a ser el tratamiento para ella como para ponerla en ese estrés. Lo que no me dijo es que, si no le hacía la tomografía, al menos debía tomarle una placa de tórax para descartar una metástasis pulmonar. No sé qué hubiese pasado si hubiera sabido que los pulmones estaban fuertemente tomados por tumores también. Pero que quede claro que las metástasis pulmonares son mucho más frecuentes que las hepáticas en el mal de Cushing, y que si el hígado está tomado, los pulmones probablemente ya estén tomados desde antes.
         </P>
 
 
@@ -343,19 +353,19 @@ export const Spanish = () => (
         Con ella en bienestar, los corticoides sintéticos consumidos al mediodía y la falsa idea de que ya no dependería de la glándula tumorosa, esa noche quise darle 150 mg de mitotano. No tenía demasiado apetito y solo iba a comer si no encontraba drogas dentro de la comida. Quise triturar el mitotano y meterlo en la carne. Comió la mitad pero le hizo muy mal. Fue la primera de 5 crisis, todas en marzo (18, 19, 20, 24, 30), que tuvieron estas características:
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
                 caminaba poco y lento, con la cabeza totalmente hacia abajo;
             </li>
         </P>
             
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
                 al querer beber agua temblaba frente al plato, como no pudiendo, con impotencia, para luego beber sumergiendo la nariz en el agua, con las consecuentes molestias por el agua ingresada en las vías respiratorias;
             </li>
         </P>
             
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
                 si le ofrecíamos comida, comía.
             </li>
@@ -389,79 +399,79 @@ export const Spanish = () => (
         Me pareció bueno en estos 3 días (18, 19, 20 de marzo) dar los corticoides sintéticos pero combinarlos con 5 mg de trilostano para invalidar la producción de lo que quedaba de glándula tumorosa, y así suavizar la transición. No sé si fue mala idea o si solo la implementé mal por haberle dado menos de la fludrocortisona de la indicada: entre 30 y 50 microgramos en vez de 100, y por no conocer los tiempos de acción de las diferentes drogas. Y considerar que, en líneas generales, estos últimos 20 días también fueron de mitotano alto, aunque más bajo: si el promedio diario fue 360 mg los primeros 40 días, en los 20 siguientes fue de 200. Pero primero los hechos:
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El sábado 19 de marzo la vi caminando muy temprano por el pasillo con la cabeza medio gacha. Me levanté y le di corticoides en leche. Al rato se vino a acostar conmigo totalmente recuperada. Fue otro motivo para afianzar la confusión. Más verosímil para explicar la recuperación terminó siendo que se estaban cumpliendo 9 horas desde el último trilostano y 18 desde la última fludrocortisona, como se esboza más abajo.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             Cerrando un día bueno, quise darle los 150 mg de mitotano que faltaban para completar los 400 mg del día. No tenía mucha hambre y no quería comer con drogas adentro de la carne y quisimos triturarle el mitotano como la noche anterior. Pocos minutos después de comer comenzó la segunda crisis. De hecho, juraría que empezó con los síntomas antes de terminar de comer, que no comió mucho. Eran cerca de las 21 hs, y se recuperó como a las 6 de la mañana, como el día anterior pero con una hora corrida hacia atrás.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             Creí que el mitotano triturado estaba causando una intoxicación en el cerebelo. Por eso, el domingo 20 fue día de descanso de mitotano, pero no funcionó. Después de cenar, decayó. Fue más leve tal vez; no parecía deshidratada y ya había comido, así que solo durmió.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El lunes 21 empecé el antibiótico nuevo (amoxicilina con ácido clavulánico) y hablé con el endocrinólogo, que me convenció de suspender los corticoides sintéticos pero mantener el mitotano. Acepté pero este día y el siguiente tuve que usar trilostano para sofocar un apetito exagerado, que venía acompañado con deshidratación. También un poco el miércoles. Total: 12 mg, 10 mg, 2 mg. No volví a usar trilostano, excepto dos excepciones aisladas más adelante.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El jueves 24, feriado, tuvo la cuarta crisis, con la particularidad de haber sido la única diurna, entre las 13:15 hs y las 22 hs. Había tomado 150 mg de mitotano a las 10 hs y nada más. Esta vez, la crisis parecía por insuficiencia de corticoides sin ayuda del trilostano; es decir, que la glándula tumorosa ya no podía producir suficientes hormonas ante el ataque del mitotano. A mis ojos, este día 47 del tratamiento era equivalente al día 5 del tratamiento sin metástasis: el día de la introducción definitiva de los corticoides sintéticos, de por vida. A las 14 hs y a las 16 hs le di corticoides, sumando 70 microgramos de fludrocortisona y 3 mg de prednisolona. 
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El viernes 25 de marzo y hasta la crisis del miércoles 30 casi no hubo rastros de la infección urinaria. Por otro lado, desde este día me dediqué a mantenerle altas las dosis de corticoides, convencido de que las 4 crisis que había tenido eran de insuficiencia de corticoides, las primeras 3 ayudadas por el trilostano y la cuarta por avance del tratamiento. Y sin embargo tuvo una quinta crisis, más difícil de explicar, la noche del miércoles 30. Fueron entre 100 y 130 microgramos de fludrocortisona al día hasta la noche previa a la muerte y entre 3 y 1,5 mg de prednisolona al día hasta el 1 de abril, cuando la quité.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El 25 pacté un turno para tomografía y me dediqué desde entonces a buscar la estabilización, aunque me costase dosis de mitotano. Tenía 13 días para lograr el fin de las crisis, la estabilización hormonal, la hidratación y el fin de la infección urinaria.
             </li>
         </P>
         
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El 25 y el 26 tuvo Cushing alto. El 27 no pero por la noche le temblaban las patas traseras al caminar, luego de la cena, pero lo asocié a una caída del sillón. El 28 y el 29 fueron días tranquilos pero con algunos signos de Cushing. Sobre el final del 29, temblaba al comer hueso y después le dio una crisis muy breve y distinta a las otras: algo en las patas traseras no la dejaba caminar bien, el abdomen estaba completamente inflamado, temblaba y respiraba agitada. Le di paracetamol pero mejoró antes de que pudiera hacer efecto, y durmió bien. Pensé que tenía la presión muy baja o muy alta, con deshidratación y fiebre.
             </li>
         </P>
         
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El 30 tuvo las emisiones infecciosas descontroladas, seguramente por el exceso de prednisolona. Frente al cuadro de deshidratación, especialmente notorio en la nariz y en la manera de tomar agua, ruidosa y muy frecuente, no le di mitotano como excepción, a ver si mejoraba de esto. Esta noche pasaron dos cosas: tuvo la quinta y última crisis de la cabeza hacia abajo y le di por error, cuando ya había empezado, 130 microgramos de fludrocortisona en vez de los 65 que tenía pensados (cerró el día con 180). Llevaba yo muchos días durmiendo mal. Ella comió un poco de lo que había quedado de la cena y durmió. Tuvo emisiones altas este 30 y el 31, y de nuevo del 4 al 6 de abril.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El 31 fue un día tranquilo pero con Cushing: deshidratación, orina, hambre. Después de cenar y durante toda la madrugada tomó agua en cantidades desesperantes. Aparentemente, era el efecto retrasado del error en la fludrocortisona de 26-30 horas antes. Fue una noche eterna, tanto que a las 4 de la mañana le di trilostano a ver si apagaba el incendio, que no sé si hizo efecto porque después siguió con Cushing, aunque la crisis en sí terminó como a las 5. Unas horas antes había tomado una muestra de orina para análisis y unos horas después le sacaron sangre. Los resultados dieron números disparatados, como no podía ser de otra manera, y hasta fracasó el intento del laboratorio de medir las concentraciones de sodio. Quedé en repetir el estudio inmediatamente después de la tomografía.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El 1 de abril, sobre el final de un día bueno, descubrí en internet que el acetato de fludrocortisona es mineralocorticoide y glucocorticoide a la vez y el panoraba parecía empezar a aclararse, como digo a continuación. Parece obvio ahora, no obstante recuerdo bien lo difícil que fue encontrar respuestas. A la noche estornudaba.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El 2 de abril estaba muy bien, salvo por un poco de Cushing. Tuvo control presencial con el endocrinólogo a las 12 hs, primera vez que se la llevaba desde enero, que quedó sorprendido por lo bien que la vio. Hablamos principalmente de la infección y coincidimos en eliminar la prednisolona.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             Los 4 días finales están marcados por signos de Cushing alto a pesar del mitotano, del retiro de la prednisolona y de la reducción de dosis de la fludrocortisona a 90 microgramos. Junto con el Cushing, había fluidos de la infección y una manera voraz de beber, y a veces temblaba al comer hueso, como con alguna dificultad motriz o un pico de ansiedad o presión arterial alta o baja.
             </li>
@@ -503,25 +513,25 @@ export const Spanish = () => (
         El otro gran problema que tuvimos fue el de los tiempos de acción de las drogas. Digo de nuevo lo que pienso pero sigue siendo especulativo. Suponiendo, de acuerdo a lo que observé en estas semanas, que la prednisolona demoraba 9 horas en hacer efecto pero la fludrocortisona 18 horas:
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             Cuando el viernes 18 de marzo (primera crisis) le di mitotano por la noche, las concentraciones de glucocorticoides estaban más altas de lo normal porque le había dado prednisolona 9 horas antes pero las de mineralocorticoides estaban por debajo de lo normal porque aun no había impactado la fludrocortisona, y bajaron incluso más, causando una crisis de 9 horas, las 9 horas que faltaban para que hiciera efecto la fludrocortisona y para que se recuperara la producción natural.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             Los problemas del sábado 19 y el domingo 20 se pueden explicar por la dosis baja que usé de fludrocortisona junto con trilostano y mitotano, al tiempo que los glucocorticoides estaban altos por la dosis excesiva de prednisolona, y duraron 9 horas esencialmente por la recuperación natural de la producción y por el final de la situación inflamatoria del metabolismo.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             La crisis del 24 de marzo, que fue la única sin intervención de corticoides sintéticos, el mitotano causó una deficiencia grave de mineralocorticoides sin ayuda del mitotano, por simple efecto de la quimioterapia, y se recuperó simplemente por acción de la producción natural de la glándula y por cumplirse 12 horas desde la última fludrocortisona.
             </li>
         </P>
 
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             El 30 de marzo tenía sin duda niveles correctos de fludrocortisona pero llevaba algunos días abusando de la prednisolona.
             </li>
@@ -587,31 +597,31 @@ export const Spanish = () => (
         Por eso las 5 cosas que yo le pedía a la tomografía eran estas:
         </P>
         
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             tumor primario destruido;
             </li>
         </P>
         
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             ausencia de tumores en el cráneo;
             </li>
         </P>
         
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             ausencia de tumores linfáticos en la zona de la garganta;
             </li>
         </P>
         
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             explicación optimista a las masas que asomaban del lado izquierdo;
             </li>
         </P>
         
-        <P style={ toggleULStyles }>
+        <P style={ toggleListStyles }>
             <li>
             alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
             </li>
