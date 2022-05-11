@@ -1,25 +1,22 @@
 import { useEffect } from 'react'
 import { useSelector } from 'react-redux'
-import { English } from './content/English'
-import { Spanish } from './content/Spanish'
-import { SpanishIntro } from './content/SpanishIntro'
-import { EnglishIntro } from './content/EnglishIntro'
-import { EnglishConclusions } from './content/EnglishConclusions'
-import { SpanishConclusions } from './content/SpanishConclusions'
+import { LanguageBtn } from './subcomponents/LanguageBtn'
 import { Title } from './subcomponents/Title'
-import { Footer } from './subcomponents/Footer'
-import { IndexModal } from './subcomponents/IndexModal'
+import { Intro } from './content/Intro'
+import { Body } from './content/Body'
+import { Conclusions } from './content/Conclusions'
 import { LinkToDocuments } from './subcomponents/LinkToDocuments'
 import { VideoIFrame } from './subcomponents/VideoIFrame'
-import { LanguageBtn } from './subcomponents/LanguageBtn'
 import { ShareBtns } from './subcomponents/ShareBtns'
+import { Footer } from './subcomponents/Footer'
+import { IndexModal } from './subcomponents/IndexModal'
 import { Widgets } from './subcomponents/Widgets'
 import { Hr } from './subcomponents/Hr'
 import { DIV } from './css/styles'
 
 export const App = () => {
 
-    const { isDarkMode, isEnglish } = useSelector(state => state)
+    const { isDarkMode } = useSelector(state => state)
     const windowWidthSize = window.innerWidth
 
     useEffect(() => {
@@ -38,15 +35,15 @@ export const App = () => {
 
                 <Title />
 
-                {isEnglish ? <EnglishIntro /> : <SpanishIntro />}
+                <Intro />
 
                 <Hr />
 
-                {isEnglish ? <English /> : <Spanish />}
+                <Body />
 
                 <Hr />
 
-                {isEnglish ? <EnglishConclusions /> : <SpanishConclusions />}
+                <Conclusions />
 
                 <Hr />
 

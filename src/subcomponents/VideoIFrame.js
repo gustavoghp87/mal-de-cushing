@@ -15,7 +15,7 @@ export const VideoIFrame = () => {
                 height={isMobile ? "380": "315"} 
                 title={"Ally"}
                 frameBorder={"0"}
-                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;${isMobile ? '' : ''}`}    // ' fullscreen;'
+                allow={`accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;${isMobile ? ' fullscreen;' : ' fullscreen;'}`}    // ' fullscreen;'
                 allowsfullscreen={isMobile ? 'false' : 'true'}>
             </iframe>
 
