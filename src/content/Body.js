@@ -19,7 +19,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        Ally was born in December 2012. Black Toy Poodle, from an informal family farm. He was always of a calm character, with a usually closed stomach. He rarely played with a dog and never sniffed them, rather he avoided them. He wanted to always be with the family, especially above some of us. She was in excellent health but was never good at processing stress and anxiety.
+        Ally was born in December 2012. Black Toy Poodle, from an informal family farm. She was always of a calm character, with a usually closed stomach. She rarely played with a dog and never sniffed them, rather she avoided them. She wanted to always be with the family, especially above some of us. She was in excellent health but was never good at processing stress and anxiety.
         </P>
 
     </>}
@@ -46,11 +46,11 @@ export const Body = () => {
     </>:<>
 
         <P>
-        By September 2018, at the age of 5, she had had two false pregnancies and was coming back more and more upset about her haircuts. One Friday he was having trouble chewing and I could see a loose tooth. I agreed on a shift for castration, tooth removal and tartar cleaning. To prepare her I wanted to cut her hair. They cut her hair too short, shaved, and she came back from the vet trembling and with false pregnancy, the third time. I gave him the antiprolactin that I had left over from the previous time; a drug that blocks milk production. I did not notice that it was expired and it caused diarrhea and I do not remember if vomiting.
+        By September 2018, at the age of 5, she had had two false pregnancies and was coming back more and more upset about her haircuts. One Friday she was having trouble chewing and I could see a loose tooth. I agreed on a shift for castration, tooth removal and tartar cleaning. To prepare her I wanted to cut her hair. They cut her hair too short, shaved, and she came back from the vet trembling and with false pregnancy, the third time. I gave him the antiprolactin that I had left over from the previous time; a drug that blocks milk production. I did not notice that it was expired and it caused diarrhea and I do not remember if vomiting.
         </P>
         
         <P>
-        When he was recovering, the surgery came. He left the operating room shaking like a leaf in the wind and barricaded himself in the big chair for 4 days. He wouldn't let anyone get close to him. He took many antibiotics, of course, with painkillers and antacids (tramadol, firocoxib, amlodipine). He then fully recovered. It was, in total, 2 very stressful weeks.
+        When she was recovering, the surgery came. She left the operating room shaking like a leaf in the wind and barricaded himself in the big chair for 4 days. She wouldn't let anyone get close to her. She took many antibiotics, of course, with painkillers and antacids (tramadol, firocoxib, amlodipine). She then fully recovered. It was, in total, 2 very stressful weeks.
         </P>
         
         <P>
@@ -93,15 +93,15 @@ export const Body = () => {
     </>:<>
 
         <P>
-        Counting 13 months from the sterilization, we did a series of studies because something was not right. He had put on a little weight, was a lot hungrier than usual, and was urinating a lot; and even developed an appetite for carbohydrates that he never had before. After some blood tests and a ridiculous X-ray to look at her spine, the professionals' diagnosis was that she was eating too many calories due to the hormonal changes that sterilization brings and she needed balanced dietary food; and this despite the fact that several parameters in the blood were wrong, including high alanine aminotransferase (ALT-GPT), which almost always means liver disease or liver grade... due to high corticosteroids (Cushing's disease).
+        Counting 13 months from the sterilization, we did a series of studies because something was not right. She had put on a little weight, was a lot hungrier than usual, and was urinating a lot; and even developed an appetite for carbohydrates that she never had before. After some blood tests and a ridiculous X-ray to look at her spine, the professionals' diagnosis was that she was eating too many calories due to the hormonal changes that sterilization brings and she needed balanced dietary food; and this despite the fact that several parameters in the blood were wrong, including high alanine aminotransferase (ALT-GPT), which almost always means liver disease or liver grade... due to high corticosteroids (Cushing's disease).
         </P>
         
         <P>
-        I would not say that it deteriorated more during the following months, but it did suddenly worsen in April 2020, 19 months after the castration and along with the decreed mandatory confinement. He was hungry all the time and got a hard bulging belly around his liver (the one from visceral fat that causes fatty liver from metabolic stress). He reached 4.9 kg, which was almost double the value prior to surgery (2.7 kg). I couldn't stop drinking water, and yet my nose was completely dry. After eating, he drank large amounts of water and did not have enough space left to open his lungs well and made noises when breathing.
+        I would not say that it deteriorated more during the following months, but it did suddenly worsen in April 2020, 19 months after the castration and along with the decreed mandatory confinement. She was hungry all the time and got a hard bulging belly around his liver (the one from visceral fat that causes fatty liver from metabolic stress). She reached 4.9 kg, which was almost double the value prior to surgery (2.7 kg). I couldn't stop drinking water, and yet my nose was completely dry. After eating, she drank large amounts of water and did not have enough space left to open his lungs well and made noises when breathing.
         </P>
         
         <P>
-        While we waited for another round of tests, including an endless thyroid test, one of the veterinarians wanted to suggest an ultrasound to rule out Cushing's disease due to an adrenal gland tumor. He said it with fear, I don't know if for fear of competing with his colleagues from the same center or because of the seriousness of the disease. An ultrasound, so that it is understood, is a cheap study and an appointment is made for the same day. And so it was, and so I was immediately diagnosed with Cushing's disease due to adrenal carcinoma in the right gland. A carcinoma is a cancer of superficial tissues, although these days nobody called it cancer or carcinoma, but tumor.
+        While we waited for another round of tests, including an endless thyroid test, one of the veterinarians wanted to suggest an ultrasound to rule out Cushing's disease due to an adrenal gland tumor. She said it with fear, I don't know if for fear of competing with his colleagues from the same center or because of the seriousness of the disease. An ultrasound, so that it is understood, is a cheap study and an appointment is made for the same day. And so it was, and so I was immediately diagnosed with Cushing's disease due to adrenal carcinoma in the right gland. A carcinoma is a cancer of superficial tissues, although these days nobody called it cancer or carcinoma, but tumor.
         </P>
         
         <P>
@@ -367,7 +367,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        By December 2021, he had obvious signs of Cushing's: he had put on some weight and was eating, drinking and urinating more. I ordered another doppler scan, while upping her trilostane a bit. Besides, there was a palpable lump on the left side of the abdomen, small but firm. I began to think that his time was coming. It had been 7 months since the last round of studies.
+        By December 2021, she had obvious signs of Cushing's: she had put on some weight and was eating, drinking and urinating more. I ordered another doppler scan, while upping her trilostane a bit. Besides, there was a palpable lump on the left side of the abdomen, small but firm. I began to think that his time was coming. It had been 7 months since the last round of studies.
         </P>
         
         <P>
@@ -379,7 +379,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Returning to the liver, the endocrinologist indicated that the only hope lay in the chemotherapy treatment with mitotane that he had recommended 8 months earlier. This time I wanted to start it right away. I always had in mind the conflict of interest that existed when the professional who did the treatment was the same one who sold me the drugs. But he didn't seem to have a choice, and he had it in his favor that he recommended this to me in May and I didn't want to.
+        Returning to the liver, the endocrinologist indicated that the only hope lay in the chemotherapy treatment with mitotane that he had recommended 8 months earlier. This time I wanted to start it right away. I always had in mind the conflict of interest that existed when the professional who did the treatment was the same one who sold me the drugs. But I seemed to have no choice, and he had it in his favor that he recommended this to me in May and I didn't want to.
         </P>
         
         <P>
@@ -395,7 +395,7 @@ export const Body = () => {
         </P>
         
         <P>
-        By the way, the professional recommended a tomography of the abdomen and thorax to know the starting point well, to later have something to compare the progress of the treatment with. I refused because they are with total sedation and I didn't think it would give me anything relevant for this stage, and the treatment was going to be quite difficult for her to put her under that stress. What he didn't tell me is that, if he didn't do the tomography, I should at least take a chest x-ray to rule out lung metastasis. I don't know what would have happened if I had known that the lungs were heavily taken over by tumors as well. But let it be clear that lung metastases are much more frequent than liver metastases in Cushing's disease, and that if the liver is taken, the lungs are probably already taken beforehand.
+        By the way, the professional recommended a tomography of the abdomen and thorax to know the starting point well, to later have something to compare the progress of the treatment with. I refused because they are with total sedation and I didn't think it would give me anything relevant for this stage, and the treatment was going to be quite difficult for her to put her under that stress. What he didn't tell me is that, if I didn't do the tomography, I should at least take a chest x-ray to rule out lung metastasis. I don't know what would have happened if I had known that the lungs were heavily taken over by tumors as well. But let it be clear that lung metastases are much more frequent than liver metastases in Cushing's disease, and that if the liver is taken, the lungs are probably already taken beforehand.
         </P>
 
     </>}
@@ -452,7 +452,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Ally flew off corticosteroids. She gained weight at high speed, became dehydrated, developed a ravenous appetite and even became infected with a urinary tract infection caused by “Klebsiella pneumoniae” that bothered her for 30 days and tormented her for the final 20 days, due to the immunosuppression caused by high corticosteroids. All in a few days, while I was with the synthetic corticosteroids in hand worried that the corticosteroids in the blood would not drop too much, beyond the striking fact that the two moments of rapid degradation by Cushing were when he stopped spending a few hours at day alone, that is, when she slept little: April 2020 and February 2022.
+        Ally flew off corticosteroids. She gained weight at high speed, became dehydrated, developed a ravenous appetite and even became infected with a urinary tract infection caused by “Klebsiella pneumoniae” that bothered her for 30 days and tormented her for the final 20 days, due to the immunosuppression caused by high corticosteroids. All in a few days, while I was with the synthetic corticosteroids in hand worried that the corticosteroids in the blood would not drop too much, beyond the striking fact that the two moments of rapid degradation by Cushing were when she stopped spending a few hours at day alone, that is, when she slept little: April 2020 and February 2022.
         </P>
         
         <P>
@@ -460,7 +460,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Summarizing the history of trilostane up to here: Ally consumed 10 mg per day in the first weeks after Cushing's diagnosis, it rose to 15 later, a year later the study ignored by me said that this amount was no longer enough, a year and a half I increased it about 18 around the Cushing's turn, and we gave him 30 a day in the week before he started chemo, to cut him off completely. Consider that I weighed 5 kg at the beginning, quickly dropped to around 3 kg and went up to 3.5 kg already in 2022.
+        Summarizing the history of trilostane up to here: Ally consumed 10 mg per day in the first weeks after Cushing's diagnosis, it rose to 15 later, a year later the study ignored by me said that this amount was no longer enough, a year and a half I increased it about 18 around the Cushing's turn, and we gave him 30 a day in the week before she started chemo, to cut him off completely. Consider that I weighed 5 kg at the beginning, quickly dropped to around 3 kg and went up to 3.5 kg already in 2022.
         </P>
 
         <P>
@@ -493,7 +493,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        When we were on 4 or 5 days of mitotane I tried to give her some low dose of trilostane because Cushing's was tormenting her. He would get better right away, in about half an hour, but then he would have nightly problems with agitation and wandering around, and I stopped him.
+        When we were on 4 or 5 days of mitotane I tried to give her some low dose of trilostane because Cushing's was tormenting her. She used to get better right away, in about half an hour, but then she had nightly problems with agitation and wandering around, and I stopped him.
         </P>
         
         <P>
