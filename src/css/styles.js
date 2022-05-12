@@ -10,7 +10,7 @@ export const P = styled.p`
     line-height: ${isMobile ? fontSize === size2 ? '2.5rem' : '2rem' : '2.2rem'};
     margin-bottom: ${isMobile ? '50px' : '30px'};
     text-align: ${isMobile ? fontSize === size2 ? 'justify' : 'justify' : 'justify'};
-    text-indent: ${isMobile ? '10px' : '40px'};
+    text-indent: ${isMobile ? '10px' : '26px'};
     text-justify: ${isMobile ? '' : 'inter-word'};
 `
 
