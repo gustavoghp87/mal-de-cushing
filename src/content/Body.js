@@ -19,7 +19,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        Ally was born in December 2012. Black Toy Poodle, from an informal family farm. She was always of a calm character, with a usually closed stomach. She rarely played with a dog and never sniffed them, rather she avoided them. She wanted to always be with the family, especially above some of us. She was in excellent health but was never good at processing stress and anxiety.
+        Ally was born in December 2012. Black 'Toy' Poodle, from an informal family farm. She was always of a calm character, with a usually closed stomach. She rarely played with a dog and never sniffed them, rather she avoided them. She wanted to always be with the family, especially above some of us. She was in excellent health but was never good at processing stress and anxiety.
         </P>
 
     </>}
@@ -46,7 +46,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        By September 2018, at the age of 5, she had had two false pregnancies and was coming back more and more upset about her haircuts. One Friday she was having trouble chewing and I could see a loose tooth. I agreed on a shift for castration, tooth removal and tartar cleaning. To prepare her I wanted to cut her hair. They cut her hair too short, shaved, and she came back from the vet trembling and with false pregnancy, the third time. I gave him the antiprolactin that I had left over from the previous time; a drug that blocks milk production. I did not notice that it was expired and it caused diarrhea and I do not remember if vomiting.
+        By September 2018, at the age of 5, she had had two false pregnancies and was coming back more and more upset about her haircuts. One Friday she was having trouble chewing and I could see a loose tooth. I agreed on a shift for castration, tooth removal and tartar cleaning. To prepare her I wanted to cut her hair. They cut her hair too short, shaved, and she came back from the vet trembling and with false pregnancy, the third time. I gave her the antiprolactin that I had left over from the previous time; a drug that blocks milk production. I did not notice that it was expired and it caused diarrhea and I do not remember if vomiting.
         </P>
         
         <P>
@@ -54,7 +54,7 @@ export const Body = () => {
         </P>
         
         <P>
-        As a curiosity, the "ecological" points took about 2 years to go away completely. And there was a very striking internal scar to the touch. I always wondered if they did everything right or if they left behind some source of conflict that would explain what came next, or if something happened during the dental cleaning.
+        As a curiosity, the 'ecological' points took about 2 years to go away completely. And there was a very striking internal scar to the touch. I always wondered if they did everything right or if they left behind some source of conflict that would explain what came next, or if something happened during the dental cleaning.
         </P>
 
     </>}
@@ -75,11 +75,11 @@ export const Body = () => {
         </P>
         
         <P>
-        Mientras esperábamos otra tanda de estudios, incluyendo uno interminable de tiroides, una de las médicas veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un cáncer de tejidos superficiales, aunque por estos días nadie le llamaba cáncer ni carcinoma, sino tumor.
+        Mientras esperábamos otra tanda de estudios, incluyendo uno interminable de tiroides, una de las médicas veterinarias quiso sugerir una ecografía para descartar mal de Cushing por tumor en una glándula suprarrenal. Lo dijo con miedo, no sé si por temor a hacerle competencia a sus colegas del mismo centro o por la gravedad de la enfermedad. Una ecografía, para que se entienda, es un estudio barato y se consigue turno para el mismo día. Y así fue, y así tuve diagnóstico inmediatamente, mal de Cushing por carcinoma suprarrenal en glándula derecha. Un carcinoma es un tumor de tejidos superficiales.
         </P>
         
         <P>
-        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista externo de la historia; egresado de la UBA pero de acento extranjero, "especialista en razas pequeñas". Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos de la marca nueva y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
+        Luego conocí al endocrinólogo que le haría seguimiento durante 2 años y que sería el principal protagonista externo de la historia. Recetó trilostano 10 mg por día en 2 tomas. Algunos estudios después fue subido a 15 mg por día en 2 tomas, con la particularidad de una recaída breve por la extremada dureza de los comprimidos de la marca nueva y la consecuente pobre absorción. Se nos hizo rutinario desde entonces pulverizar la droga y esconderla dentro de los cárnicos.
         </P>
         
         <P>
@@ -93,31 +93,32 @@ export const Body = () => {
     </>:<>
 
         <P>
-        Counting 13 months from the sterilization, we did a series of studies because something was not right. She had put on a little weight, was a lot hungrier than usual, and was urinating a lot; and even developed an appetite for carbohydrates that she never had before. After some blood tests and a ridiculous X-ray to look at her spine, the professionals' diagnosis was that she was eating too many calories due to the hormonal changes that sterilization brings and she needed balanced dietary food; and this despite the fact that several parameters in the blood were wrong, including high alanine aminotransferase (ALT-GPT), which almost always means liver disease or liver grade... due to high corticosteroids (Cushing's disease).
+        Counting 13 months from the sterilization, we did a series of studies because something was not right. She had put on a little weight, was a lot hungrier than usual, and was urinating a lot; and even developed an appetite for carbohydrates that she never had before. After some blood tests and a ridiculous X-ray to look at her spine, the professionals' diagnosis was that she was eating too many calories due to the hormonal changes that sterilization brings and she needed balanced dietary food; and this despite the fact that several parameters in the blood were wrong, including high alanine aminotransferase (ALT-GPT), which almost always means liver disease or fatty liver disease... due to high corticosteroids (Cushing's disease).
         </P>
         
         <P>
-        I would not say that it deteriorated more during the following months, but it did suddenly worsen in April 2020, 19 months after the castration and along with the decreed mandatory confinement. She was hungry all the time and got a hard bulging belly around his liver (the one from visceral fat that causes fatty liver from metabolic stress). She reached 4.9 kg, which was almost double the value prior to surgery (2.7 kg). I couldn't stop drinking water, and yet my nose was completely dry. After eating, she drank large amounts of water and did not have enough space left to open his lungs well and made noises when breathing.
+        I would not say that she deteriorated more during the following months, but she did suddenly worsen in April 2020, 19 months after the castration and along with the decreed mandatory confinement. She was hungry all the time and got a hard bulging belly around his liver (the one from visceral fat that causes fatty liver disease from metabolic stress). She reached 4.9 kg, which was almost double the value prior to surgery (2.7 kg, that is, 6 pounds to 10.8 pounds). She couldn't stop drinking water, and yet her nose was completely dry. After eating, she drank large amounts of water and did not have enough space left to open her lungs well and made noises when breathing.
         </P>
         
         <P>
-        While we waited for another round of tests, including an endless thyroid test, one of the veterinarians wanted to suggest an ultrasound to rule out Cushing's disease due to an adrenal gland tumor. She said it with fear, I don't know if for fear of competing with his colleagues from the same center or because of the seriousness of the disease. An ultrasound, so that it is understood, is a cheap study and an appointment is made for the same day. And so it was, and so I was immediately diagnosed with Cushing's disease due to adrenal carcinoma in the right gland. A carcinoma is a cancer of superficial tissues, although these days nobody called it cancer or carcinoma, but tumor.
+        While we waited for another round of tests, including an endless thyroid test, one of the veterinarians wanted to suggest an ultrasound to rule out Cushing's disease due to an adrenal gland tumor. She said it with fear, I don't know if for fear of competing with her colleagues from the same center or because of the seriousness of the disease. An ultrasound, so that it is understood, is a cheap study and an appointment is made for the same day. And so it was, and so I had an immediate diagnosis of Cushing's disease due to adrenal carcinoma in the right gland. A carcinoma is a tumor of superficial tissues.
         </P>
         
         <P>
-        Then I met the endocrinologist who would follow him for 2 years and who would be the main external protagonist of the story; graduated from the UBA but with a foreign accent, "specialist in small breeds". He prescribed trilostane 10 mg per day in 2 doses. Some studies later it was increased to 15 mg per day in 2 doses, with the particularity of a brief relapse due to the extreme hardness of the new brand tablets and the consequent poor absorption. Since then it has become routine for us to pulverize the drug and hide it inside the meat products.
+        Then I met the endocrinologist who would follow her for 2 years and who would be the main external protagonist of the story. He prescribed trilostane 10 mg per day in 2 doses. Some studies later it was increased to 15 mg per day in 2 doses, with the particularity of a brief relapse due to the extreme hardness of the new brand tablets and the consequent poor absorption. Since then it has become routine for us to pulverize the drug and hide it inside the meat products.
         </P>
         
         <P>
-        This professional confirmed the diagnosis with a urine test called the cortisol/creatinine ratio, which is also cheap and takes a few days, about 4. And this same test was used to adjust the dose afterwards. Trilostane, on the other hand, costs about a dollar per 15 mg and something like 5 mg is consumed per kilo of animal per day, depending on the strength and size of the tumor. Ally's consumption was $30 a month, weighing 5kg initially but leveling off at 3.3kg soon after. Finally, the endocrinologist also prescribed 8 mg of clopidogrel daily for life, that is, a cheap anticoagulant, to prevent a clot from the tumor branch from breaking off and causing a stroke or heart attack.
+        This professional confirmed the diagnosis with a urine test called the cortisol/creatinine ratio, which is also cheap and takes a few days, about 4. And this same test was used to adjust the dose afterwards. Trilostane, on the other hand, costs about a dollar per 15 mg and something like 5 mg is consumed per kilo of animal per day, depending on the strength and size of the tumor (15 cents per pound). Ally's consumption was $30 a month, weighing 5kg initially but leveling off at 3.3kg soon after. Finally, the endocrinologist also prescribed 8 mg of clopidogrel daily for life, that is, a cheap anticoagulant, to prevent a clot from the tumor branch from breaking off and causing a stroke or heart attack.
         </P>
         
         <P>
-        As mentioned, the recovery was very fast and complete. However, all the websites agreed to give it a life expectancy of 2 or 3 years. It seemed that the tumor was going to continue to grow, forcing the dose of trilostane to be taken to an unacceptable amount for the liver. And at the maximum tolerable dose there would be a deterioration of health that would lead to death.
+        As mentioned, the recovery was very fast and complete. However, all the websites agreed to give her a life expectancy of 2 or 3 years. It seemed that the tumor was going to continue to grow, forcing the dose of trilostane to be taken to an unacceptable amount for the liver. And at the maximum tolerable dose there would be a deterioration of health that would lead to death.
         </P>
 
     </>}
 
+        {/* ######################### */}
 
 
 
