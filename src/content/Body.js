@@ -118,7 +118,6 @@ export const Body = () => {
 
     </>}
 
-        {/* ######################### */}
 
 
 
@@ -135,11 +134,11 @@ export const Body = () => {
         </P>
 
         <P>
-        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable. Bueno hubiera sido un diagnóstico a tiempo, una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
+        En agosto de 2020, con ella completamente recuperada, conocí a un cirujano. Hablamos bastante pero todo se reduce a su respuesta cuando le pedí que le pusiera un número a la probabilidad de morir en el quirófano: 80%. Inoperable. Bueno hubiera sido un diagnóstico a tiempo y una remoción de la glándula tumorosa antes de que creciese e invadiese la vena cava inferior, pero no pudo ser.
         </P>
         
         <P>
-        Me hubiese gustado en este tiempo, también, haber conocido la otra droga del Cushing: el mitotano, pensando en envenenar el tumor lo suficiente para que abandonace su posición en la vena, para luego sí poder hacer una cirugía de bajo riesgo. Pero la existencia de esta droga me fue velada hasta mayo de 2021, según el endocrinólogo, porque él necesita tiempo para conocer y evaluar a la familia del perro antes de mencionar la posibilidad.
+        Me hubiese gustado en este tiempo, también, haber conocido la otra droga del Cushing: el mitotano, pensando en envenenar el tumor lo suficiente para que abandonace su posición en la vena, para luego sí poder hacer una cirugía de bajo riesgo. Pero la existencia de esta droga me fue velada hasta mayo de 2021, según el endocrinólogo, porque él necesita tiempo para conocer y evaluar a la familia del perro antes de mencionarla.
         </P>
         
         <P>
@@ -149,7 +148,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        3 months of recovery with trilostane were needed before surgery to remove the tumorous gland could be evaluated to forget about the disease. And the consultation was going to be the same even though the ultrasound had already revealed that the tumor had branched out and was invading one of the main veins of the body, the inferior vena cava, responsible for collecting all the used blood from the lower part of the body and take it directly to the heart; an occupation of almost a square centimeter, according to later ultrasounds.
+        3 months of recovery with trilostane were needed before surgery to remove the tumorous gland could be evaluated to forget about the disease. And the consultation was going to be the same even though the ultrasound had already revealed that the tumor had branched out and was invading one of the main veins of the body, the inferior vena cava, responsible for collecting all the used blood from the lower part of the body and take it directly to the heart; an occupation of almost a square centimeter (0.15 square inches), according to later ultrasounds.
         </P>
 
         <P>
@@ -157,11 +156,11 @@ export const Body = () => {
         </P>
 
         <P>
-        In August 2020, with her fully recovered, I met a surgeon. We talked a lot but it all boils down to his response when I asked him to put a number on the probability of dying in the OR: 80%. Inoperable. Well, it would have been a timely diagnosis, a removal of the tumorous gland before it grew and invaded the inferior vena cava, but it could not be.
+        In August 2020, with her fully recovered, I met a surgeon. We talked a lot but it all boils down to his response when I asked him to put a number on the probability of dying in the OR: 80%. Inoperable. Well it would have been a timely diagnosis and a removal of the tumorous gland before it grew and invaded the inferior vena cava, but it could not be.
         </P>
         
         <P>
-        I would have liked at this time, too, to have known Cushing's other drug: mitotane, thinking of poisoning the tumor enough to make it leave its position in the vein, so that later I could do a low-risk surgery. But the existence of this drug was veiled from me until May 2021, according to the endocrinologist, because he needs time to get to know and evaluate the dog's family before mentioning the possibility.
+        I would have liked at this time, too, to have known Cushing's other drug: mitotane, thinking of poisoning the tumor enough to make it leave its position in the vein, so that later I could do a low-risk surgery. But the existence of this drug was veiled from me until May 2021, according to the endocrinologist, because he needs time to get to know and evaluate the dog's family before mentioning that drog.
         </P>
         
         <P>
@@ -171,7 +170,7 @@ export const Body = () => {
     </>}
 
 
-
+        {/* #################### */}
 
     <div style={ subtitleStyles } id={'6'}> {!isEnglish ? "El año y medio posterior y el indicio de metástasis" : "The year and a half later and the indication of metastasis"} </div>
 
@@ -212,11 +211,11 @@ export const Body = () => {
     </>:<>
 
         <P>
-        I did 5 blood and urine studies and 4 doppler ultrasounds between April 2020 and May 2021. Nothing ever happened and she felt just fine, as long as she took her 15 mg of trilostane in two doses every 12 hours. It was the best time of his life; I even cut her hair and nails myself, for better and for worse. And the bad times were only those of the extraction of blood samples and, above all, the ultrasounds, which lasted 30 or 40 minutes each.
+        I did 5 blood and urine studies and 4 doppler ultrasounds between April 2020 and May 2021. Nothing ever happened and she felt just fine, as long as she took her 15 mg of trilostane in two doses every 12 hours. It was the best time of her life; I even cut her hair and nails myself, for better and for worse. And the bad times were only those of the extraction of blood samples and, above all, the ultrasounds, which lasted 30 or 40 minutes each.
         </P>
         
         <P>
-        At this time, the only important thing for me was the size of the tumor and the size of its branch, which did not seem to grow. A metastasis seemed like a very distant scenario. However, in May 2021, the ultrasound revealed in the liver “<I>a focal hypoechoic image of 4.1 mm in the left lateral lobe</I>”, along with a general inflammation of the organ. I discover now that I review the results, the MCV blood value was also high (83 against 75), an indicator of liver disease. In addition, the urinalysis gave a cortisol/creatinine ratio 31% higher than normal (85.2 vs. 65).
+        At this time, the only important thing for me was the size of the tumor and the size of its branch, which did not seem to grow. A metastasis seemed like a very distant scenario. However, in May 2021, the ultrasound revealed in the liver “<I>a focal hypoechoic image of 4.1 mm in the left lateral lobe</I>” (0.16 inches), along with a general inflammation of the organ. I discover now that I review the results, the MCV blood value was also high (83 against 75), an indicator of liver disease. In addition, the urinalysis gave a cortisol/creatinine ratio 31% higher than normal (85.2 vs. 65).
         </P>
         
         <P>
@@ -224,23 +223,23 @@ export const Body = () => {
         </P>
         
         <P>
-        The treatment consisted of giving high doses of this drug for 5 days in a row (85 mg per kilo in 3 doses), to then complete the 42 days giving it every other day, and then move on to a maintenance stage with a single weekly consumption that prevent recurrence of the primary tumor.
+        The treatment consisted of giving high doses of this drug for 5 days in a row (85 mg per kilo, that is, 39 mg per pound, in 3 doses), to then complete the 42 days giving it every other day, and then move on to a maintenance stage with a single weekly consumption that prevent recurrence of the primary tumor.
         </P>
         
         <P>
-        When difficult times came, remembering that this professional recommended this to me in time (as he had also suggested a few months before to attack the branch in the vein with radiotherapy) helped me to trust him more than others. However, doing this seemed too much. I remember looking for where to do a tomography to find out if it really was a metastasis, but I couldn't find it. And the idea of ​​anesthetizing her to take an ultrasound liver biopsy scared me. On top of that, the ultrasounds indicated that the primary tumor and the occupation of the inferior vena cava had shrunk somewhat. All other indicators were fine, and she was at her best. I wanted to think that nothing would happen.
+        When difficult times came, remembering that this professional recommended this to me in time (as he had also suggested a few months before to attack the branch in the vein with radiotherapy) helped me to trust him more than others. However, doing this seemed too much. I remember looking for where to do a tomography to find out if it really was a metastasis, but I couldn't find it. And the idea of anesthetizing her to take an ultrasound liver biopsy scared me. On top of that, the ultrasounds indicated that the primary tumor and the occupation of the inferior vena cava had shrunk somewhat. All other indicators were fine, and she was at her best. I wanted to think that nothing would happen.
         </P>
         
         <P>
-        I did not know much about tumors at this time but I did know that they are great consumers of glucose, so, added to the suspicion that balanced pet food is behind the horrible cancer numbers, we passed it in May 2020 to a diet of only meat products; that is, all protein and fat and no carbohydrates, and a single evening meal to reduce low-grade inflammation to a short portion of the day. I thought that in this way the tumor would have no way of growing, due to the lack of glucose and the maximization of the time in which the immune system is in a state of alert.
+        I did not know much about tumors at this time but I did know that they are great consumers of glucose, so, added to the suspicion that balanced pet food is behind the horrible cancer numbers, we passed her in May 2020 to a diet of only meat products; that is, all protein and fat and no carbohydrates, and a single evening meal to reduce low-grade inflammation to a short portion of the day. I thought that in this way the tumor would have no way of growing, due to the lack of glucose and the maximization of the time in which the immune system is in a state of alert.
         </P>
         
         <P>
-        I don't think I was wrong about this but there was a deadly mistake since May 2021 because the urinalysis gave a higher than normal cortisol/creatinine ratio. Cortisol is the corticoid hormone characteristic of stress and weakens the immune system. Did not pay attention. I thought that this measurement came from the blood and that it was discharged because we took the samples with 14 hours of fasting and before taking the trilostane in the morning, because of the hours they attend the veterinarian, and with Ally trembling with fear of the veterinarians. Actually I only remembered this matter right now when going through the papers to write this. This is, I think, the worst mistake of all.
+        I do not think I was wrong about this but there was a deadly mistake since May 2021 because the urinalysis gave a higher than normal cortisol/creatinine ratio. Cortisol is the corticoid hormone characteristic of stress and weakens the immune system. I did not pay attention. I thought that this measurement came from the blood and that it was discharged because we took the samples with 14 hours of fasting and before taking the trilostane in the morning, because of the hours they attend the veterinarian, and with Ally trembling with fear of the veterinarians. Actually I only remembered this matter right now when going through the papers to write this. This is, I think, the worst mistake of all.
         </P>
 
         <P>
-        With the parameters studied at normal values ​​(which were not), the 4-millimeter spot on the ultrasound of the liver had to be something else.
+        With the parameters studied at normal values ​​(which were not), the 0.16-inches spot on the ultrasound of the liver had to be something else.
         </P>
 
     </>}
@@ -318,7 +317,7 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            The difference between a "benign" and a "malignant" tumor does not depend on the tumor itself, but on what the immune system allows it to do. A tumor becomes "malignant" and attacks other organs and systems only when the body's defenses allow it. The main means for infection of the other organs is the lymphatic system, where there are no defensive macrophages. The pipes of the lymphatic system become inflamed enough to let cancer cells through only when there are significant levels of stress hormones in the blood. Hence the metastases.
+            The difference between a 'benign' and a 'malignant' tumor does not depend on the tumor itself, but on what the immune system allows it to do. A tumor becomes 'malignant' and attacks other organs and systems only when the body's defenses allow it. The main means for infection of the other organs is the lymphatic system, where there are no defensive macrophages. The pipes of the lymphatic system become inflamed enough to let cancer cells through only when there are significant levels of stress hormones in the blood. Hence the metastases.
             </li>
         </P>
 
@@ -368,15 +367,15 @@ export const Body = () => {
     </>:<>
 
         <P>
-        By December 2021, she had obvious signs of Cushing's: she had put on some weight and was eating, drinking and urinating more. I ordered another doppler scan, while upping her trilostane a bit. Besides, there was a palpable lump on the left side of the abdomen, small but firm. I began to think that his time was coming. It had been 7 months since the last round of studies.
+        By December 2021, she had obvious signs of Cushing's: she had put on some weight and was eating, drinking and urinating more. I ordered another doppler scan, while upping her trilostane a bit. Besides, there was a palpable lump on the left side of the abdomen, small but firm. I began to think that her time was coming. It had been 7 months since the last round of studies.
         </P>
         
         <P>
-        In January 2022, the ultrasound revealed “<I>multiple focal lesions, some hypoechoic, others heterogeneous, with unequal diameters from 1.5 to 2 cm spread in all liver lobes</I>”. Late but it was time to suspend everything and deal only with her to try to save her.
+        In January 2022, the ultrasound revealed “<I>multiple focal lesions, some hypoechoic, others heterogeneous, with unequal diameters from 1.5 to 2 cm spread in all liver lobes</I>” (that is, 0.59 to 0.78 inches). Late but it was time to suspend everything and deal only with her to try to save her.
         </P>
         
         <P>
-        This ultrasound did not tell me the nature of the lump that was felt on the left side. Just before doing it, the veterinarian suggested that it was the spleen oppressed by the expansion of the liver, and that's what the endocrinologist later thought too. The tomography of April 2022 seems to prove them right on this, although it was a cause for concern for 4 months. For now, this ultrasound said: “<I>Lymph nodes: not observed</I>”.
+        This ultrasound did not tell me the nature of the lump that was felt on the left side. Just before doing it, the veterinarian suggested that it was the spleen oppressed by the expansion of the liver, and that is what the endocrinologist later thought too. The tomography of April 2022 seems to prove them right on this, although it was a cause for concern for 4 months. For now, this ultrasound said: “<I>Lymph nodes: not observed</I>”.
         </P>
         
         <P>
@@ -392,11 +391,11 @@ export const Body = () => {
         </P>
         
         <P>
-        Regarding costs, it costs about 1.6 dollars for 100 mg. A dog without metastasis would need something like 2 thousand milligrams in the induction stage for each kilo of animal, or 33 dollars per kilo, in a treatment that lasts a month and a half. Then there is a weekly maintenance consumption of 100 mg per kilo, plus the cost of corticosteroids, which I calculate at 5 dollars per month per kilo.
+        Regarding costs, it costs about 1.6 dollars for 100 mg. A dog without metastasis would need something like 2 thousand milligrams in the induction stage for each kilo of animal, or 33 dollars per kilo (15 dollars per pound), in a treatment that lasts a month and a half. Then there is a weekly maintenance consumption of 100 mg per kilo, plus the cost of corticosteroids, which I calculate at 5 dollars per month per kilo (2.27 dollars per pound).
         </P>
         
         <P>
-        By the way, the professional recommended a tomography of the abdomen and thorax to know the starting point well, to later have something to compare the progress of the treatment with. I refused because they are with total sedation and I didn't think it would give me anything relevant for this stage, and the treatment was going to be quite difficult for her to put her under that stress. What he didn't tell me is that, if I didn't do the tomography, I should at least take a chest x-ray to rule out lung metastasis. I don't know what would have happened if I had known that the lungs were heavily taken over by tumors as well. But let it be clear that lung metastases are much more frequent than liver metastases in Cushing's disease, and that if the liver is taken, the lungs are probably already taken beforehand.
+        By the way, the professional recommended a tomography of the abdomen and thorax to know the starting point well, to later have something to compare the progress of the treatment with. I refused because they are with total sedation and I did not think it would give me anything relevant for this stage, and the treatment was going to be quite difficult for her to put her under that stress. What he did not tell me is that, if I did not do the tomography, I should at least take a chest X-ray to rule out lung metastasis. I do not know what would have happened if I had known that the lungs were heavily taken over by tumors as well. But let it be clear that lung metastases are much more frequent than liver metastases in Cushing's disease, and that if the liver is taken, the lungs are probably already taken beforehand.
         </P>
 
     </>}
@@ -449,7 +448,7 @@ export const Body = () => {
         </P>
         
         <P>
-        The so-called “induction stage”, which culminates in the destruction of most of the adrenal carcinoma and external corticosteroid supplementation, takes about a week when there are no metastases, but it takes between 2 and 11 weeks when there are metastases. , according to the clinical trials I was able to read afterwards. Therefore, withdrawing the corticosteroid inhibitor one day before introducing mitotane is a guarantee of disaster.
+        The so-called “induction stage”, which culminates in the destruction of most of the adrenal carcinoma and external corticosteroid supplementation, takes about a week when there are no metastases, but it takes between 2 and 11 weeks when there are metastases, according to the clinical trials I was able to read afterwards. Therefore, withdrawing the corticosteroid inhibitor one day before introducing mitotane is a guarantee of disaster.
         </P>
         
         <P>
@@ -461,11 +460,11 @@ export const Body = () => {
         </P>
         
         <P>
-        Summarizing the history of trilostane up to here: Ally consumed 10 mg per day in the first weeks after Cushing's diagnosis, it rose to 15 later, a year later the study ignored by me said that this amount was no longer enough, a year and a half I increased it about 18 around the Cushing's turn, and we gave him 30 a day in the week before she started chemo, to cut him off completely. Consider that I weighed 5 kg at the beginning, quickly dropped to around 3 kg and went up to 3.5 kg already in 2022.
+        Summarizing the history of trilostane up to here: Ally consumed 10 mg per day in the first weeks after Cushing's diagnosis, it rose to 15 later, a year later the study ignored by me said that this amount was no longer enough, after a year and a half I increased it to about 18 due to the return of Cushing's, and we gave him 30 a day in the week before she started chemo, to cut him off completely. Consider that she weighed 5 kg at the beginning, quickly dropped to around 3 kg and went up to 3.5 kg already in 2022 (11, 6.6, 7.7 pounds).
         </P>
 
         <P>
-        Side comment, I read after dogs that were completely cured of Cushing's and lung metastases by treating with mitotane but I didn't read of any dogs with liver metastases that they were able to cure; in fact, I read of some who were euthanized in the middle of treatment as soon as it was known that they had liver metastases.
+        Side comment, I read after dogs that were completely cured of Cushing's and lung metastases by treating with mitotane but I did not read of any dogs with liver metastases that they were able to cure; in fact, I read of some who were euthanized in the middle of treatment as soon as it was known that they had liver metastases.
         </P>
 
     </>}
@@ -494,15 +493,15 @@ export const Body = () => {
     </>:<>
 
         <P>
-        When we were on 4 or 5 days of mitotane I tried to give her some low dose of trilostane because Cushing's was tormenting her. She used to get better right away, in about half an hour, but then she had nightly problems with agitation and wandering around, and I stopped him.
+        When we were on 4 or 5 days of mitotane I tried to give her some low dose of trilostane because Cushing's was tormenting her. She used to get better right away, in about half an hour, but then she had nightly problems with agitation and wandering around, and I stopped it.
         </P>
         
         <P>
-        But when, around the tenth day, I saw that he was losing a yellowish green fluid with pus from the urinary tract, I knew that it was a urinary tract infection and I had the guarantee that it was Cushing's and not secondary effects of mitotane, as the endocrinologist believed. I also understood that the nocturnal problems that I had when I was taking trilostane were not something bad per se, but it was a fever from fighting the infection that had not been noticed until then.
+        But when, around the tenth day, I saw that she was losing a yellowish green fluid with pus from the urinary tract, I knew that it was a urinary tract infection and I had the guarantee that it was Cushing's and not secondary effects of mitotane, as the endocrinologist believed. I also understood that the nocturnal problems that she had when she was taking trilostane were not something bad per se, but it was a fever from fighting the infection that had not been noticed until then.
         </P>
         
         <P>
-        I decided to give him daily trilostane, even if it was little, waiting for the time to come off it and after completing the induction. The endocrinologist gave me the right and since then he has dedicated himself to observing, rather than directing. I didn't bill him for this mess. I decided to take from him what was useful to me, and look for the other answers in other places. In those days, as I do now, I had the feeling that he only knew the treatment at a theoretical level, without clinical practice, and that what he knew was from mere university notes.
+        I decided to give her daily trilostane, even if it was little, waiting for the time to come off it and after completing the induction. The endocrinologist gave me the right and since then he has dedicated himself to observing, rather than directing. I did not bill him for this mess. I decided to take from him what was useful to me, and look for the other answers in other places. In those days, as I do now, I had the feeling that he only knew the treatment at a theoretical level, without clinical practice, and that what he knew was from mere university notes.
         </P>
 
     </>}
@@ -539,11 +538,11 @@ export const Body = () => {
     </>:<>
 
         <P>
-        On Saturday, February 26, he spent it with me. At the end of the day I left her with my mother to take her last dose of trilostane and mitotane for the day. Trilostane took 7.5 mg per day in two doses and mitotane took 400 mg in 3 doses. He didn't want to eat much and shortly after dinner he started to get agitated. There was a very strong electrical storm. I had a first hint of storm anxiety a month or two before but I closed everything and it didn't go any further. This time he was hyperventilating louder and louder, as if the air was scraping against something dry. Since she was not getting better, I went to see her. I was very worried and took her to a 24-hour guard.
+        On Saturday, February 26, she spent it with me. At the end of the day I left her with my mother to take her last dose of trilostane and mitotane for the day. Trilostane took 7.5 mg per day in two doses and mitotane took 400 mg in 3 doses. She did not want to eat much and shortly after dinner she started to get agitated. There was a very strong electrical storm. I had a first hint of storm anxiety a month or two before but I closed everything and it did not go any further. This time she was hyperventilating louder and louder, as if the air was scraping against something dry. Since she was not getting better, I went to see her. I was very worried and took her to a 24-hour guard.
         </P>
         
         <P>
-        There I summarized the picture and the treatment, and they listened to his lungs with a stethoscope. He had 39.4°C (102.9°F), that is, a slight fever (normal maximum is 39°C, 102.2°F). Something was heard in the lungs that was not liquid. So it was most likely solid, metastasis. They gave me an oxygen tube, I covered her with my jacket and I stayed holding the oxygen cable pointing to her mouth while I hyperventilated with a dry noise and gave her a sort of mechanical ventilation with one hand, hoping that she wouldn't exhaust herself from breathing and go into unemployment.
+        There I summarized the picture and the treatment, and they listened to her lungs with a stethoscope. She had 39.4°C (102.9°F), that is, a slight fever (normal maximum is 39°C, 102.2°F). Something was heard in the lungs that was not liquid. So it was most likely solid, metastasis. They gave me an oxygen tube, I covered her with my jacket and I stayed holding the oxygen cable pointing to her mouth while I hyperventilated with a dry noise and gave her a sort of mechanical ventilation with one hand, hoping that she would not exhaust herself from breathing and go into cardiorespiratory arrest.
         </P>
         
         <P>
@@ -551,11 +550,11 @@ export const Body = () => {
         </P>
         
         <P>
-        The plate was taken on Monday the 28th, a holiday, and showed a profuse cloud of tumors in both lungs. It was really hard but I decided to move in with her so I could up her mitotane dose and monitor her signs all the time. Also to be able to carry myself with the possibility of a collapse, the need to transfer her urgently and a possible euthanasia. On March 2 I moved.
+        The X-ray was done on Monday the 28th, a holiday, and showed a profuse cloud of tumors in both lungs. It was really hard but I decided to move in with her so I could up her mitotane dose and monitor her signs all the time. Also to be able to carry myself with the possibility of a collapse, the need to transfer her urgently and a possible euthanasia. On March 2 I moved.
         </P>
         
         <P>
-        After death, I came to believe that this crisis was not about tumors but about simple anxiety due to the storm in a context of the impossibility of naturally raising glucocorticoids to cope with stress, adding a little fever due to the urinary infection that also demanded corticosteroids. I have in my favor that I was taking 20 days of mitotane at 400 mg per day and 10 days of trilostane at 7.5 mg per day. So he just needed a hormone injection. Like on the day of death.
+        After death, I came to believe that this crisis was not about tumors but about simple anxiety due to the storm in a context of the impossibility of naturally raising glucocorticoids to cope with stress, adding a little fever due to the urinary infection that also demanded corticosteroids. I have in my favor that she was taking 20 days of mitotane at 400 mg per day and 10 days of trilostane at 7.5 mg per day. So she just needed a hormone injection. Like on the day of death.
         </P>
 
     </>}
@@ -570,7 +569,7 @@ export const Body = () => {
     {!isEnglish ? <>
 
         <P>
-        Quise saber si un oncólogo podía arrojarme algo de luz sobre el nuevo cuadro y sobre el tratamiento; preguntarle qué opinaba del mitotano y si se podía combinar con otro tratamiento. Siempre noté una resistencia del endocrinólogo a derivarme con un oncólogo pero esta vez, siendo tan directo, me dio un contacto. Como me demoraba 8 o 9 días, busqué por mi zona y conseguí uno para el día siguiente.
+        Quise saber si un oncólogo podía arrojarme algo de luz sobre el nuevo cuadro y sobre el tratamiento; preguntarle qué opinaba del mitotano y si se podía combinar con otro tratamiento. Siempre noté una resistencia del endocrinólogo a derivarme con un oncólogo pero esta vez, siendo tan directo, me dio un contacto. No obstante, como me demoraba 8 o 9 días, busqué por mi zona y conseguí uno para el día siguiente.
         </P>
         
         <P>
@@ -598,41 +597,41 @@ export const Body = () => {
         </P>
         
         <P>
-        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “La oncología del sistema endocrino es de terror en Argentina. No saben nada los oncólogos. Por eso los endocrinólogos no derivamos”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después, con la tomografía y el aparente resultado ambiguo de 60 días de mitotano a dosis aumentada.
+        Parecía que nada de lo que dijo ese hombre tenía sentido. Lo encontré en las redes sociales para, finalmente, descartarlo como un perfecto imbécil. Le hablé al endocrinólogo de todo esto y me dijo: “<I>La oncología del sistema endocrino es de terror en Argentina; no saben nada los oncólogos... por eso los endocrinólogos no derivamos</I>”. Sin embargo, la posibilidad de un diagnóstico equivocado resurgió después, con la tomografía y el aparente resultado ambiguo de 60 días de mitotano a dosis aumentada.
         </P>
 
     </>:<>
 
         <P>
-        I wanted to know if an oncologist could shed some light on the new condition and on the treatment; ask him what he thought of mitotane and if it could be combined with another treatment. I always noticed a resistance from the endocrinologist to refer me to an oncologist but this time, being so direct, he gave me a contact. Since it took me 8 or 9 days, I looked around my area and got one for the next day.
+        I wanted to know if an oncologist could shed some light on the new condition and on the treatment; ask it what it thought of mitotane and if it could be combined with another treatment. I always noticed a resistance from the endocrinologist to refer me to an oncologist but this time, being so direct, he gave me a contact. However, since it took me 8 or 9 days, I looked around my area and got one for the next day.
         </P>
         
         <P>
-        I can't say that it went well for me but in the end everything was left undefined; all can be. So I will be objective. It was Thursday, March 3, 2022. She began by asking who was taking care of her and following up. It visibly upset him when I told him an endocrinologist, when he was expecting an oncologist. I think he felt attacked, invaded, and behaved like the well-known car mechanic who raises the hood and irresponsibly criticizes the job he worked for before him.
+        I cannot say that it went well for me but in the end everything was left undefined; all can be. So I will be objective. It was Thursday, March 3, 2022. He began by asking who was taking care of her and following up. It visibly upset him when I told him an endocrinologist, when he was expecting an oncologist. I think he felt attacked, invaded, and behaved like the well-known car mechanic who raises the hood and irresponsibly criticizes the work of the one who came before him.
         </P>
         
         <P>
-        The oncologist found it "unlikely" that the location of the right adrenal cortex had caused these metastases. Although it seemed “possible”, for him there was not even evidence of a tumor in that gland, since the ultrasound only showed it to be “enlarged”. And it seemed "more likely" that it was all a simple liver tumor that migrated to the lungs.
+        The oncologist found it 'unlikely' that the situation of the right adrenal cortex had caused these metastases. Although it seemed 'possible', for him there was not even evidence of a tumor in that gland, since the ultrasound only showed it to be 'enlarged'. And it seemed 'more likely' that it was all a simple liver tumor that migrated to the lungs.
         </P>
         
         <P>
-        As such, the only hope was in conventional chemotherapy, those that destroy cancer cells but also bone marrow, invalidating the body's defenses, preparing it for the next expansion of cancer, and almost always causing death. While she told me that she was not going to resist conventional chemotherapy due to the state of her liver, she filled out some orders for blood and heart studies to start as soon as possible. I didn't see him again.
+        As such, the only hope was in conventional chemotherapy, those that destroy cancer cells but also bone marrow, invalidating the body's defenses, preparing it for the next expansion of cancer, and almost always causing death. While he told me that she was not going to resist conventional chemotherapy due to the state of her liver, he filled out some orders for blood and heart studies to start as soon as possible. I did not see him again.
         </P>
         
         <P>
-        Before I left on this whirlwind visit (because it seemed like I was being kicked out, as if there were people waiting outside, which there weren't), I wondered how I knew the metastases were from adrenal carcinoma and not something else. I realized what the best answer to that was, and I spoke up: if the secondaries weren't cancer cells of adrenal origin, there was no reason for resistance to mitotane. Mitotane's delay in destroying the adrenal cortices and causing corticosteroid insufficiency was the best proof I had of the accuracy of the endocrinologist's diagnosis. But the oncologist had to redouble the bet: he denied to death that mitotane is a chemotherapeutic drug. For him, it was an endocrine hormone-regulating drug and could never harm a tumor.
+        Before I left on this whirlwind visit (because it seemed like I was being kicked out, as if there were people waiting outside, which there were not), I wondered how I knew the metastases were from adrenal carcinoma and not something else. I realized what the best answer to that was, and I spoke up: if the secondaries were not cancer cells of adrenal origin, there was no reason for resistance to mitotane. Mitotane's delay in destroying the adrenal cortices and causing corticosteroid insufficiency was the best proof I had of the accuracy of the endocrinologist's diagnosis. But the oncologist had to redouble the bet: he denied to death that mitotane is a chemotherapeutic drug. For him, it was an endocrine hormone-regulating drug and could never harm a tumor.
         </P>
         
         <P>
-        I tried to tell him that that's what it does at low doses but at high doses it really destroys, as I had researched myself. He didn't want to listen to me. In my eyes, his only interest was to deny the diagnosis of the colleague (or non-colleague) who had made him “lack of ethics” by “invading” the market. And, perhaps, sell me a chemotherapy that does not work and causes suffering. I was very beaten. I doubted everything, the type of cancer, the mitotane and the endocrinologist, and I thought that Ally was about to collapse.
+        I tried to tell him that that is what it does at low doses but at high doses it really destroys, as I had researched myself. He did not want to listen to me. In my eyes, his only interest was to deny the diagnosis of the colleague (or non-colleague) who had made him 'lack of ethics' by 'invading' the market. And, perhaps, sell me a chemotherapy that does not work and causes suffering. I was very beaten. I doubted everything, the type of cancer, the mitotane and the endocrinologist, and I thought that Ally was about to collapse.
         </P>
         
         <P>
-        But then I started to investigate. That mitotane does chemotherapy I saw that all the sites that talk about the subject say it. I also got hold of a report summarizing over a decade of mitotane treatment in dogs from a university which, while the survival numbers aren't too optimistic, made it clear to me that mitotane can kill adrenal tumors and lung metastases, at least . And regarding the oncologist's alternative diagnosis, I read that tumors that originate in the liver are much less frequent than those that arrive as metastases, and that, if they do occur, one would expect to see one large tumor instead of many small ones.
+        But then I started to investigate. That mitotane does chemotherapy I saw that all the sites that talk about the subject say it. I also got hold of a report summarizing over a decade of mitotane treatment in dogs from a university which, while the survival numbers are not too optimistic, made it clear to me that mitotane can kill adrenal tumors and lung metastases, at least. And regarding the oncologist's alternative diagnosis, I read that tumors that originate in the liver are much less frequent than those that arrive as metastases, and that, if they do occur, one would expect to see one large tumor instead of many small ones.
         </P>
         
         <P>
-        It seemed that nothing that man said made any sense. I found him on social media to finally write him off as a complete asshole. I told the endocrinologist about all this and he told me: “Oncology of the endocrine system is terrifying in Argentina. Oncologists know nothing. That is why endocrinologists do not refer”. However, the possibility of a misdiagnosis resurfaced later, with the tomography and the apparent ambiguous result of 60 days of mitotane at an increased dose.
+        It seemed that nothing that man said made any sense. I found him on social media to finally write him off as a complete asshole. I told the endocrinologist about all this and he told me: “<I>Oncology of the endocrine system is terrifying in Argentina; oncologists know nothing... that is why endocrinologists do not refer</I>”. However, the possibility of a misdiagnosis resurfaced later, with the tomography and the apparent ambiguous result of 60 days of mitotane at an increased dose.
         </P>
 
     </>}
@@ -669,12 +668,12 @@ export const Body = () => {
         </P>
 
         <P>
-        I haven't read of any dog ​​that had an inferior vena cava occupied by an adrenal tumor, but I guess it goes without saying that all those treated with mitotane have this branch, and that's why they are called inoperable. But it is more striking that the subject is not mentioned even after the treatment has started, as if there was nothing to say. It does not appear as a challenge for the attempt to save them and neither does it reach a situation in which the tumor becomes extirpable as a result of chemotherapy. It's just never mentioned.
+        I have not read of any dog that had an inferior vena cava occupied by an adrenal tumor, but I guess it goes without saying that all those treated with mitotane have this branch, and that is why they are called inoperable. But it is more striking that the subject is not mentioned even after the treatment has started, as if there was nothing to say. It does not appear as a challenge for the attempt to save them and neither does it reach a situation in which the tumor becomes extirpable as a result of chemotherapy. It is just never mentioned.
         </P>
 
     </>}
 
-
+{/* ############################ */}
 
 
     <div style={ subtitleStyles } id={'14'}>
