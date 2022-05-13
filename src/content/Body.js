@@ -816,7 +816,7 @@ export const Body = () => {
     </>}
 
 
-{/* ######################## */}
+
 
     <div style={ subtitleStyles } id={'16'}>
         {!isEnglish ? "Los caóticos 20 días finales" : "The chaotic final 20 days"}
@@ -839,15 +839,15 @@ export const Body = () => {
     </>:<>
 
         <P>
-        I suffered these days not having measuring instruments to know what was happening and make decisions immediately, as happens, for example, to the insulin dependent with the glucometer. I was close to buying an expensive and questionable animal blood pressure monitor but read disappointed buyers. And the blood and urine tests took at least 2 days, and almost always 5. Faced with adversity, I began to keep a detailed record of everything I observed and of all the drugs and doses that I introduced, trying to understand what the endocrinologist did not tell me. explained and what the internet didn't tell me.
+        I suffered these days not having measuring instruments to know what was happening and make decisions immediately, as happens, for example, to the insulin dependent with the glucometer. I was close to buying an expensive and questionable animal blood pressure monitor but read disappointed buyers. And the blood and urine tests took at least 2 days, and almost always 5. Faced with adversity, I began to keep a detailed record of everything I observed and of all the drugs and doses that I introduced, trying to understand what the endocrinologist did not explain to me and what the internet did not tell me.
         </P>
         
         <P>
-        The 18th was not only a bad Friday, but also inaugurated the final 20 days, where replacement therapy was chaotic, with days of evident insufficiency and days of evident excess of corticoid hormones, and even a combination at the same time. Everyone came to believe later that death was to stop suffering but in reality he only suffered in these 20 days and only 5 were bad in a crisis of 9 hours, some were regular and others good, and, as I am going to argue, it was suffering for the chaos of the treatment, the lack of instruction and the absence of measurement instruments, and not because of the disease itself.
+        The 18th was not only a bad Friday, but also inaugurated the final 20 days, where replacement therapy was chaotic, with days of evident insufficiency and days of evident excess of corticoid hormones, and even a combination at the same time. Everyone came to believe later that death was to stop suffering but in reality she only suffered in these 20 days and only 5 were bad in a crisis of 9 hours, some were regular and others good; and, as I am going to argue, she was suffering for the chaos of the treatment, the lack of instruction and the absence of measurement instruments, and not because of the disease itself.
         </P>
 
         <P>
-        But it was painful to see her desperately drink water, with strange noises, and choke and spit or vomit part of what she had drunk when walking a few steps. Also that he asked for food every so often and that he licked himself and drank the infectious fluids all the time. There were times when he stained his nose, which was completely dry, and it remained yellow for days, impossible to wash off. And the hard lumps that remained on the hairs on the back and legs were pulled out, leaving bare patches.
+        But it was painful to see her desperately drink water, with strange noises, and choke and spit or vomit part of what she had drunk when walking a few steps. Also that she asked for food so often and that she licked herself and drank the infectious fluids all the time. There were times when she stained her nose, which was completely dry, and it remained yellow for days, impossible to wash off. And the hard clumps left in the hairs on the lower body and legs were pulled out, leaving bare parts.
         </P>
 
     </>}
@@ -879,7 +879,7 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            Creí que el mitotano triturado estaba causando una intoxicación en el cerebelo. Por eso, el domingo 20 fue día de descanso de mitotano, pero no funcionó. Después de cenar, decayó. Fue más leve tal vez; no parecía deshidratada y ya había comido, así que solo durmió.
+            Creí que el mitotano triturado estaba causando una intoxicación en el cerebelo. Por eso, el domingo 20 fue día de descanso de mitotano, pero no funcionó. Después de cenar, decayó otra vez. Fue más leve tal vez; no parecía deshidratada y ya había comido, así que solo durmió.
             </li>
         </P>
 
@@ -897,7 +897,7 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            El viernes 25 de marzo y hasta la crisis del miércoles 30 casi no hubo rastros de la infección urinaria. Por otro lado, desde este día me dediqué a mantenerle altas las dosis de corticoides, convencido de que las 4 crisis que había tenido eran de insuficiencia de corticoides, las primeras 3 ayudadas por el trilostano y la cuarta por avance del tratamiento. Y sin embargo tuvo una quinta crisis, más difícil de explicar, la noche del miércoles 30. Fueron entre 100 y 130 microgramos de fludrocortisona al día hasta la noche previa a la muerte y entre 3 y 1,5 mg de prednisolona al día hasta el 1 de abril, cuando la quité.
+            El viernes 25 de marzo y hasta la crisis del miércoles 30 casi no hubo rastros de la infección urinaria. Por otro lado, desde este día me dediqué a mantenerle altas las dosis de corticoides, convencido de que las 4 crisis que había tenido eran de insuficiencia de corticoides, las primeras 3 ayudadas por el trilostano y la cuarta por avance del tratamiento. Y sin embargo tuvo una quinta crisis, más difícil de explicar, la noche del miércoles 30. Fueron entre 90 y 130 microgramos de fludrocortisona al día hasta la noche previa a la muerte y entre 3 y 1,5 mg de prednisolona al día hasta el 1 de abril, cuando la quité.
             </li>
         </P>
 
@@ -909,7 +909,7 @@ export const Body = () => {
         
         <P style={ toggleListStyles }>
             <li>
-            El 25 y el 26 tuvo Cushing alto. El 27 no pero por la noche le temblaban las patas traseras al caminar, luego de la cena, pero lo asocié a una caída del sillón. El 28 y el 29 fueron días tranquilos pero con algunos signos de Cushing. Sobre el final del 29, temblaba al comer hueso y después le dio una crisis muy breve y distinta a las otras: algo en las patas traseras no la dejaba caminar bien, el abdomen estaba completamente inflamado, temblaba y respiraba agitada. Le di paracetamol pero mejoró antes de que pudiera hacer efecto, y durmió bien. Pensé que tenía la presión muy baja o muy alta, con deshidratación y fiebre.
+            El 25 y el 26 tuvo Cushing alto. El 27 no pero por la noche le temblaban las patas traseras al caminar, luego de la cena, pero lo asocié a una caída del sillón. El 28 y el 29 fueron días tranquilos pero con algunos signos de Cushing. Sobre el final del 29, temblaba al comer hueso y después le dio una crisis muy breve y distinta a las otras: algo en las patas traseras no la dejaba caminar bien, el abdomen estaba completamente inflamado, temblaba y respiraba agitada. Le di paracetamol pero mejoró antes de que pudiera hacer efecto, y durmió bien. Pensé que tenía la presión muy baja o muy alta, con deshidratación y fiebre. O calambres por insuficiencia de potasio.
             </li>
         </P>
         
@@ -946,7 +946,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        It seemed good to me in these 3 days (March 18, 19, 20) to give the synthetic corticosteroids but to combine them with 5 mg of trilostane to invalidate the production of what remained of the tumorous gland, and thus smooth the transition. I don't know if it was a bad idea or if I just implemented it wrong because I gave him less fludrocortisone than indicated: between 30 and 50 micrograms instead of 100, and because I didn't know the action times of the different drugs. And consider that, in general terms, these last 20 days were also high mitotane, although lower: if the daily average was 360 mg the first 40 days, in the next 20 it was 200. But first the facts:
+        It seemed good to me in these 3 days (March 18, 19, 20) to give the synthetic corticosteroids but to combine them with 5 mg of trilostane to invalidate the production of what remained of the tumorous gland, and thus smooth the transition. I do not know if it was a bad idea or if I just implemented it wrong because I gave him less fludrocortisone than indicated: between 30 and 50 micrograms instead of 100, and because I did not know the action times of the different drugs. And consider that, in general terms, these last 20 days were also high mitotane, although lower: if the daily average was 360 mg the first 40 days, in the next 20 it was 200. But first the facts:
         </P>
 
         <P style={ toggleListStyles }>
@@ -957,13 +957,13 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            Closing a good day, I wanted to give him the 150 mg of mitotane that was missing to complete the 400 mg for the day. He wasn't very hungry and he didn't want to eat with drugs inside the meat and we wanted to crush the mitotane like the night before. A few minutes after eating, the second crisis began. In fact, I could have sworn that the symptoms started before he finished eating, that he didn't eat much. It was around 9:00 p.m., and he recovered at around 6:00 a.m., like the day before, but one hour back.
+            Closing a good day, I wanted to give her the 150 mg of mitotane that was missing to complete the 400 mg for the day. She was not very hungry and did not want to eat with drugs inside the meat, so we wanted to crush the mitotane like the night before. A few minutes after eating, the second crisis began. In fact, I could have sworn that the symptoms started before she finished eating, that she did not eat much. It was around 9:00 p.m., and she recovered at around 6:00 a.m., like the day before, but one hour back.
             </li>
         </P>
 
         <P style={ toggleListStyles }>
             <li>
-            I thought the crushed mitotane was causing cerebellar poisoning. For this reason, Sunday the 20th was a mitotane rest day, but it did not work. After dinner, he collapsed. It was milder perhaps; she didn't seem dehydrated and she had already eaten, so she just slept.
+            I thought the crushed mitotane was causing cerebellar poisoning. For this reason, Sunday the 20th was a mitotane rest day, but it did not work. After dinner, she collapsed again. It was milder perhaps; she did not seem dehydrated and she had already eaten, so she just slept.
             </li>
         </P>
 
@@ -975,49 +975,49 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            On Thursday the 24th, a holiday, he had the fourth crisis, with the particularity of having been the only one during the day, between 1:15 p.m. and 10 p.m. He had taken 150 mg of mitotane at 10 am and nothing else. This time, the crisis seemed to be due to corticosteroid insufficiency without the help of trilostane; that is, the tumorous gland could no longer produce enough hormones when attacked by mitotane. In my eyes, this day 47 of treatment was equivalent to day 5 of treatment without metastasis: the day of the definitive introduction of synthetic corticosteroids, for life. At 2:00 p.m. and 4:00 p.m. I gave him corticosteroids, adding 70 micrograms of fludrocortisone and 3 mg of prednisolone. 
+            On Thursday the 24th, a holiday, she had the fourth crisis, with the particularity of having been the only one during the day, between 1:15 p.m. and 10 p.m. She had taken 150 mg of mitotane at 10 am and nothing else. This time, the crisis seemed to be due to corticosteroid insufficiency without the help of trilostane; that is, the tumorous gland could no longer produce enough hormones when attacked by mitotane. In my eyes, this day 47 of treatment was equivalent to day 5 of treatment without metastasis: the day of the definitive introduction of synthetic corticosteroids, for life. At 2:00 p.m. and 4:00 p.m. I gave her corticosteroids, adding 70 micrograms of fludrocortisone and 3 mg of prednisolone.
             </li>
         </P>
 
         <P style={ toggleListStyles }>
             <li>
-            On Friday, March 25, and until the crisis on Wednesday, March 30, there were almost no traces of urinary infection. On the other hand, from that day on I dedicated myself to keeping his corticosteroid doses high, convinced that the 4 crises he had had were corticosteroid insufficiency, the first 3 helped by trilostane and the fourth due to treatment progress. And yet he had a fifth crisis, more difficult to explain, on the night of Wednesday the 30th. It was between 100 and 130 micrograms of fludrocortisone a day until the night before his death and between 3 and 1.5 mg of prednisolone a day until the April 1, when I removed it.
+            On Friday, March 25, and until the crisis on Wednesday, March 30, there were almost no traces of urinary infection. On the other hand, from that day on I dedicated myself to keeping her corticosteroid doses high, convinced that the 4 crises she had had were corticosteroid insufficiency, the first 3 helped by trilostane and the fourth due to treatment progress. And yet she had a fifth crisis, more difficult to explain, on the night of Wednesday the 30th. It was between 90 and 130 micrograms of fludrocortisone a day until the night before her death, and between 3 and 1.5 mg of prednisolone a day until the April 1, when I removed it.
             </li>
         </P>
 
         <P style={ toggleListStyles }>
             <li>
-            On the 25th I made an appointment for tomography and since then I have dedicated myself to seeking stabilization, even though it cost me doses of mitotane. He had 13 days to achieve the end of the crises, hormonal stabilization, hydration and the end of the urinary infection.
+            On the 25th I made an appointment for tomography and since then I have dedicated myself to seeking stabilization, even though it cost me doses of mitotane. I had 13 days to achieve the end of the crises, hormonal stabilization, hydration and the end of the urinary infection.
             </li>
         </P>
         
         <P style={ toggleListStyles }>
             <li>
-            On the 25th and 26th he had a high Cushing. Not on the 27th, but at night his hind legs trembled when he walked, after dinner, but I associated it with a fall from the chair. The 28th and 29th were calm days but with some signs of Cushing. Around the end of the 29th, she trembled when eating bone and then she had a very brief crisis and different from the others: something in her hind legs did not allow her to walk properly, her abdomen was completely swollen, she trembled and she was breathing heavily. I gave her paracetamol but she got better before it could take effect, and she slept well. I thought I had very low or very high blood pressure, with dehydration and a fever.
+            On the 25th and 26th she had a high Cushing. Not on the 27th, but at night her hind legs trembled when she walked, after dinner, but I associated it with a fall from the chair. The 28th and 29th were calm days but with some signs of Cushing. Around the end of the 29th, she trembled when eating bone and then she had a very brief crisis and different from the others: something in her hind legs did not allow her to walk properly, her abdomen was completely swollen, she trembled and she was breathing heavily. I gave her paracetamol but she got better before it could take effect, and she slept well. I thought I had very low or very high blood pressure, with dehydration and a fever. Or cramps due to insufficient potassium.
             </li>
         </P>
         
         <P style={ toggleListStyles }>
             <li>
-            On the 30th he had uncontrolled infectious emissions, probably due to the excess of prednisolone. Faced with the picture of dehydration, especially noticeable in the nose and in the way of drinking water, noisy and very frequent, I did not give him mitotane as an exception, to see if he improved from this. Two things happened tonight: he had his fifth and final head-down seizure and I mistakenly gave him 130 micrograms of fludrocortisone when he had already started instead of the 65 he had planned (he closed the day with 180). I had been sleeping badly for many days. She ate a little of what was left over from dinner and slept. It had high emissions this 30 and 31, and again from April 4 to 6.
+            On the 30th she had uncontrolled infectious emissions, probably due to the excess of prednisolone. Faced with the picture of dehydration, especially noticeable in the nose and in the way of drinking water, noisy and very frequent, I did not give her mitotane as an exception, to see if she improved from this. Two things happened that night: she had her fifth and last head-down crisis and I mistakenly gave him 130 micrograms of fludrocortisone (when it had already started) instead of the 65 I had planned (she closed the day with 180). I had been sleeping badly for many days. She ate a little of what was left over from dinner and slept. She had high emissions this 30 and 31, and again from April 4 to 6.
             </li>
         </P>
 
         <P style={ toggleListStyles }>
             <li>
-            The 31st was a quiet day but with Cushing: dehydration, urine, hunger. After dinner and throughout the morning he drank water in desperate amounts. Apparently it was the delayed effect of the error in fludrocortisone from 26-30 hours earlier. It was an eternal night, so much so that at 4 in the morning I gave him trilostane to see if it would put out the fire, which I don't know if it had an effect because later he continued with Cushing, although the crisis itself ended around 5. A few hours before he had A urine sample was taken for analysis and a few hours later blood was drawn. The results gave crazy numbers, how could it be otherwise, and even the laboratory's attempt to measure sodium concentrations failed. I agreed to repeat the study immediately after the tomography.
+            The 31st was a quiet day but with Cushing: dehydration, urine, hunger. After dinner and throughout the morning she drank water in desperate amounts. Apparently it was the delayed effect of the error in fludrocortisone from 26-30 hours earlier. It was an eternal night, so much so that at 4 in the morning I gave her trilostane to see if it would put out the fire, which I do not know if it had an effect because later she continued with Cushing, although the crisis itself ended around 5. A few hours before a urine sample was taken for analysis, and a few hours later blood was drawn. The results gave crazy numbers, how could it be otherwise, and even the laboratory's attempt to measure sodium concentrations failed. I agreed to repeat the study immediately after the tomography.
             </li>
         </P>
 
         <P style={ toggleListStyles }>
             <li>
-            On April 1st, towards the end of a good day, I discovered on the internet that fludrocortisone acetate is both a mineralocorticoid and a glucocorticoid and the picture seemed to start to clear up, as I say below. It seems obvious now, but I remember well how difficult it was to find answers. At night he sneezed.
+            On April 1st, towards the end of a good day, I discovered on the internet that fludrocortisone acetate is both a mineralocorticoid and a glucocorticoid and the picture seemed to start to clear up, as I say below. It seems obvious now, but I remember well how difficult it was to find answers. At night she sneezed.
             </li>
         </P>
 
         <P style={ toggleListStyles }>
             <li>
-            April 2nd was fine, except for a little Cushing. She had face-to-face control with the endocrinologist at 12 noon, the first time he had taken her since January, who was surprised by how well he saw her. We mainly talked about the infection and agreed to eliminate the prednisolone.
+            April 2nd was fine, except for a little Cushing. She had face-to-face control with the endocrinologist at 12 noon, the first time I had taken her since January, who was surprised by how well he saw her. We mainly talked about the infection and agreed to eliminate the prednisolone.
             </li>
         </P>
 
@@ -1069,11 +1069,11 @@ export const Body = () => {
         </P>
 
         <P>
-        Days 18, 19 and 20 were 3 days of combining trilostane with synthetic corticosteroids because it seemed like a good idea to soften the replacement therapy by giving the synthetics preventively and, at the same time, giving trilostane to invalidate an internal production of corticosteroids that overlapped the others. But I'm wondering today why I gave him less than the prescribed dose of fludrocortisone (a third or a half of the prescribed 100 micrograms), while also giving him more prednisolone than prescribed (like double or 50% more than the prescribed milligram)? . The first is a drug that I obviously underestimated because I didn't understand what it did.
+        Days 18, 19 and 20 were 3 days of combining trilostane with synthetic corticosteroids because it seemed like a good idea to soften the replacement therapy by giving the synthetics preventively and, at the same time, giving trilostane to invalidate an internal production of corticosteroids that overlapped the others. But I'm wondering today why I gave her less than the prescribed dose of fludrocortisone (a third or a half of the prescribed 100 micrograms), while also giving her more prednisolone than prescribed (like double or 50% more than the prescribed milligram). The first is a drug that I obviously underestimated because I did not understand what it did.
         </P>
 
         <P>
-        It has always been clear that Cushing's is the handful of symptoms that corticosteroid excess causes: immunosuppression, dehydration, sodium retention, potassium excretion, high blood pressure, high blood glucose, carb starvation, fatty liver, muscle loss , fur degradation, ballooning belly around the liver. The only corticosteroid mentioned until metastases was cortisol. Cortisol seemed to be the only hormone secreted by the tumor gland, and it seemed to explain everything. However, in the adrenal cortices, 3 types of hormones are produced in 3 successive layers: in the innermost, sex hormones; in the middle, glucocorticoids; and in the outermost, mineralocorticoids. And cortisol is only the most important and major glucocorticoid in the body.
+        It has always been clear that Cushing's is the handful of symptoms that corticosteroid excess causes: immunosuppression, dehydration, sodium retention, potassium excretion, high blood pressure, high blood glucose, carb starvation, fatty liver, muscle loss, fur degradation, ballooning belly around the liver. The only corticosteroid mentioned until metastases was cortisol. Cortisol seemed to be the only hormone secreted by the tumor gland, and it seemed to explain everything. However, in the adrenal cortices, 3 types of hormones are produced in 3 successive layers: in the innermost, sex hormones; in the middle, glucocorticoids; and in the outermost, mineralocorticoids. And cortisol is only the most important and major glucocorticoid in the body.
         </P>
         
         <P>
@@ -1081,11 +1081,11 @@ export const Body = () => {
         </P>
         
         <P>
-        I knew that in the worst of 2020, Ally had high blood pressure, just as she had high blood pressure just before starting mitotane treatment in January 2022, and on April 2, right after the fludrocortisone misdose accident. They are the 3 times that the endocrinologist took his pressure, the only professional with this device that I knew. I ignored the concept of mineralocorticoids until well into mitotane treatment, and until then I had always believed that high blood pressure was an indirect consequence of cortisol (glucocorticoid), because it forces the liver to release its glucose stores, causing high glucose and triglyceride levels in blood I was wrong; glucose and triglycerides do not increase blood pressure.
+        I knew that in the worst of 2020, Ally had high blood pressure, just as she had high blood pressure just before starting mitotane treatment in January 2022, and on April 2, right after the fludrocortisone misdose accident. They are the 3 times that the endocrinologist took her pressure, the only professional with this device that I knew. I ignored the concept of mineralocorticoids until well into mitotane treatment, and until then I had always believed that high blood pressure was an indirect consequence of cortisol (glucocorticoid), because it forces the liver to release its glucose stores, causing high glucose and triglyceride levels in blood. I was wrong; glucose and triglycerides do not increase blood pressure.
         </P>
 
         <P>
-        This is why I believe that the crises in which I couldn't lift my head were primarily crises of insufficient mineralocorticoids, causing low blood pressure, dizziness, nausea and blurred vision, but with excessive glucocorticoids at the same time, causing thirst, dehydration and hungry. But I have against that for the last crisis, on March 30, I had been at more than 100 micrograms for 6 days, without trilostane. What I can do is sketch an <I>ad hoc</I> explanation based on the dehydration caused by excess glucocorticoids, as if I had given her a low blood pressure crisis even with the correct amount of aldosterone in her blood. blood. With enough fludrocortisone and without prednisolone, she only had Cushing's, which was eventually corrected by lowering the dose of the former. It's the best I can formulate.
+        This is why I believe that the crises in which she could not lift her head were primarily crises of insufficient mineralocorticoids, causing low blood pressure, dizziness, nausea and blurred vision, but with excessive glucocorticoids at the same time, causing thirst, dehydration and hungry. But I have against this explanation that, for the last crisis, on March 30, she had had more than 100 micrograms daily for 6 days, without trilostane. What I can do is sketch an <I>ad hoc</I> explanation based on the dehydration caused by excess glucocorticoids, as if I had given her a low blood pressure crisis even with the correct amount of aldosterone in her blood. With enough fludrocortisone and without prednisolone, she only had Cushing's, which was eventually corrected by lowering the dose of the former. It is the best I can formulate.
         </P>
 
     </>}
@@ -1139,7 +1139,7 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            When on Friday March 18 (first crisis) I gave him mitotane at night, the concentrations of glucocorticoids were higher than normal because he had been given prednisolone 9 hours before, but those of mineralocorticoids were below normal because he had not yet had an impact. fludrocortisone, and they went even lower, causing a 9-hour crisis, the 9 hours that were missing for the fludrocortisone to take effect and for the natural production to recover.
+            When on Friday March 18 (first crisis) I gave her mitotane at night, the concentrations of glucocorticoids were higher than normal because I had been given her prednisolone 9 hours before, but those of mineralocorticoids were below normal because fludrocortisone had not yet had an impact and they went even lower, causing a 9-hour crisis, the 9 hours that were missing for the fludrocortisone to take effect and for the natural production to recover.
             </li>
         </P>
 
@@ -1157,12 +1157,12 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            On March 30, she certainly had correct levels of fludrocortisone but had been abusing prednisolone for a few days.
+            On March 30, she certainly had correct levels of fludrocortisone but I had been abusing prednisolone for a few days.
             </li>
         </P>
 
         <P>
-        The delay in the effect of the corticosteroids would also explain why he came out of the crises of 20, 24 and 30 with a high Cushing. If this is correct, the crises from the head down were my creation for not knowing the supplements, their functions and their action times.
+        The delay in the effect of the corticosteroids would also explain why she came out of the crises of 20, 24 and 30 with a high Cushing. If this is correct, the crises of head down were my creation for not knowing the supplements, their functions and their action times.
         </P>
 
     </>}
@@ -1195,11 +1195,11 @@ export const Body = () => {
         </P>
         
         <P>
-        These days I was thinking of doing an X-ray of the chest and abdomen, an undemanding and minimally invasive study. But after this, I thought it was time for a fairly expensive and quite invasive full scan. She could not advance to the second stage, characterized by low corticosteroids for life, without knowing if she needed to have them high due to the presence of skull tumors and without knowing if the mitotane was working on the secondaries of the liver and lungs.
+        These days I was thinking of doing an X-ray of the chest and abdomen, an undemanding and minimally invasive study. But after this, I thought it was time for a fairly expensive and quite invasive full scan. I could not advance to the second stage, characterized by low corticosteroids for life, without knowing if she needed to have them high due to the presence of skull tumors and without knowing if the mitotane was working on the secondaries of the liver and lungs.
         </P>
         
         <P>
-        The one who told me where they did CT scans was also the endocrinologist. There he would die on April 6, the 60th day of treatment.
+        The one who told me where they did CT scans was also the endocrinologist. There she would die on April 6, the 60th day of treatment.
         </P>
 
     </>}
@@ -1226,9 +1226,9 @@ export const Body = () => {
         </P>
 
     </>:<>
-
+{/* ############################################### */}
         <P>
-        I adhere to scientific research that presents the use of antibiotics as if it were about bombing an entire metropolis to defeat a gang of criminals. So it wasn't fun for me to give Ally antibiotics knowing how bad they are, but I figured it wasn't time to think about the long term. Ultimately, it was too obvious to question that the amount of pus-containing fluids he was losing through his urinary tract ranged from nothing to a great deal depending entirely on glucocorticoids and absolutely nothing on antibiotics. That is, when cortisol was at a good level, there was a normal consumption of water and food and the emissions went away, but when they were high, I drank a lot, I was constantly hungry for carbohydrates and I lost fluids everywhere.
+        I adhere to scientific research that presents the use of antibiotics as if it were about bombing an entire metropolis to defeat a gang of criminals. So it was not fun for me to give Ally antibiotics knowing how bad they are, but I figured it wasn't time to think about the long term. Ultimately, it was too obvious to question that the amount of pus-containing fluids he was losing through his urinary tract ranged from nothing to a great deal depending entirely on glucocorticoids and absolutely nothing on antibiotics. That is, when cortisol was at a good level, there was a normal consumption of water and food and the emissions went away, but when they were high, I drank a lot, I was constantly hungry for carbohydrates and I lost fluids everywhere.
         </P>
         
         <P>
