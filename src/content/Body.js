@@ -410,7 +410,7 @@ export const Body = () => {
     {!isEnglish ? <>
 
         <P>
-        El tratamiento empezó el domingo 6 de febrero de 2022. Y que sepa bien el lector: fue un desastre retirarle el trilostano el día anterior al comienzo del tratamiento con mitotano. Se suponía que ambas drogas no se debían usar juntas porque ambas reducen la producción de corticoides y si la cantidad de corticoides baja mucho hay riesgo de muerte. La idea era ir bajando los corticoides en sangre gradualmente por efecto exclusivo del mitotano, que demoraría entre 3 y 5 días en causar una deficiencia notoria, ante la cual comenzaría la suplementación con corticoides sintéticos de vía oral: prednisolona en gotas (glucocorticoide, 1 mg al día) y acetato de fludrocortisona (mineralocorticoide y glucocorticoide a la vez, 100 microgramos al día), que siempre se introduce acompañada con comida con sal. Y, en caso de emergencia, se usarían corticoides inyectables de acción inmediata: dexametasona (glucocorticoide, 1,5 mg) e hidrocortisona (mineralocorticoide y glucocorticoide a la vez, 10 mg).
+        El tratamiento empezó el domingo 6 de febrero de 2022. Y que sepa bien el lector: fue un desastre retirarle el trilostano el día anterior al comienzo del tratamiento con mitotano. Se suponía que ambas drogas no se debían usar juntas porque ambas reducen la producción de corticoides y si la cantidad de corticoides baja mucho hay riesgo de muerte. La idea era ir bajando los corticoides en sangre gradualmente por efecto exclusivo del mitotano, que demoraría entre 3 y 5 días en causar una deficiencia notoria, ante la cual comenzaría la suplementación con corticoides sintéticos de vía oral: prednisolona en gotas (glucocorticoide, 1.25 mg al día) y acetato de fludrocortisona (mineralocorticoide y glucocorticoide a la vez, 100 microgramos al día), que siempre se introduce acompañada con comida con sal. Y, en caso de emergencia, se usarían corticoides inyectables de acción inmediata: dexametasona (glucocorticoide, 1,5 mg) e hidrocortisona (mineralocorticoide y glucocorticoide a la vez, 10 mg).
         </P>
         
         <P>
@@ -440,7 +440,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        The treatment began on Sunday, February 6, 2022. And let the reader know: it was a disaster to withdraw the trilostane the day before the start of the mitotane treatment. Both drugs were not supposed to be used together because they both reduce the production of corticosteroids and if the amount of corticosteroids drops too low there is a risk of death. The idea was to gradually lower blood corticosteroids due to the exclusive effect of mitotane, which would take between 3 and 5 days to cause a noticeable deficiency, before which supplementation with oral synthetic corticosteroids would begin: prednisolone in drops (glucocorticoid, 1 mg daily) and fludrocortisone acetate (mineralocorticoid and glucocorticoid at the same time, 100 micrograms daily), which is always introduced with salty food. And, in an emergency, immediate-acting injectable corticosteroids would be used: dexamethasone (glucocorticoid, 1.5 mg) and hydrocortisone (mineralocorticoid and glucocorticoid at the same time, 10 mg).
+        The treatment began on Sunday, February 6, 2022. And let the reader know: it was a disaster to withdraw the trilostane the day before the start of the mitotane treatment. Both drugs were not supposed to be used together because they both reduce the production of corticosteroids and if the amount of corticosteroids drops too low there is a risk of death. The idea was to gradually lower blood corticosteroids due to the exclusive effect of mitotane, which would take between 3 and 5 days to cause a noticeable deficiency, before which supplementation with oral synthetic corticosteroids would begin: prednisolone in drops (glucocorticoid, 1.25 mg daily) and fludrocortisone acetate (mineralocorticoid and glucocorticoid at the same time, 100 micrograms daily), which is always introduced with salty food. And, in an emergency, immediate-acting injectable corticosteroids would be used: dexamethasone (glucocorticoid, 1.5 mg) and hydrocortisone (mineralocorticoid and glucocorticoid at the same time, 10 mg).
         </P>
         
         <P>
@@ -673,7 +673,7 @@ export const Body = () => {
 
     </>}
 
-{/* ############################ */}
+
 
 
     <div style={ subtitleStyles } id={'14'}>
@@ -705,15 +705,15 @@ export const Body = () => {
         </P>
         
         <P>
-        I also started to slightly increase the trilostane dose to reduce dehydration and combat the urinary tract infection. I was installed there to personally take on the problem of reducing his appetite and still giving him 450 mg of mitotane per day in 3 meals. I gradually went from 7.5mg to 20mg daily in 5 days. He weighed 3.5 kg with visceral fat and loss of muscle. He got very well from the signs of Cushing's and the infection but, immediately afterwards, I began to quickly reduce the dose because, with his appetite normalized, it was becoming more and more difficult for me to eat with the mitotane in the food.
+        I also started to slightly increase the trilostane dose to reduce dehydration and combat the urinary tract infection. I was installed there to personally take on the problem of reducing his appetite and still giving her 450 mg of mitotane per day in 3 meals. I gradually went from 7.5mg to 20mg daily in 5 days. She weighed 3.5 kg with visceral fat and loss of muscle. She got very well from the signs of Cushing's and the infection but, immediately afterwards, I began to quickly reduce the dose because, with his appetite normalized, it was getting harder and harder for her to eat with mitotane in her food.
         </P>
         
         <P>
-        In the following days, I thought that the primary tumor was about to disappear and that I should no longer use trilostane at all, due to the risk of lowering the corticosteroids too much. Some days I didn't give him, and other days I gave him 3 or 4 mg if he had an abnormally high appetite. It was an anxiety error but it must be understood that, for corticosteroids, the slogan was better than more than less. There was a risk of death in low corticosteroids.
+        In the following days, I thought that the primary tumor was about to disappear and that I should no longer use trilostane at all, due to the risk of lowering the corticosteroids too much. Some days I did not give her, and other days I gave her 3 or 4 mg if she had an abnormally high appetite. It was an anxiety error but it must be understood that, for corticosteroids, the slogan was better more than less. There was a risk of death in low corticosteroids.
         </P>
         
         <P>
-        On the 35th, a crisis of emission of infectious fluids was unleashed as had not been seen before. The night before he had taken her to a family gathering. I reintroduced trilostane, now in a rationed way because I hardly had any left and I had to wait a few days to get it again; I used like 4mg a day. It deteriorated fast. Much Cushing: hunger, thirst, infectious fluids. When I bought again, on day 38, it recovered very quickly. I introduced 15 mg the first 24 hours, 12 the following and 10 the following.
+        On the 35th, a crisis of emission of infectious fluids was unleashed as had not been seen before. The night before I had taken her to a family gathering. I reintroduced trilostane, now in a rationed way because I hardly had any left and I had to wait a few days to get it again; I used like 4mg a day. It deteriorated fast. Much Cushing: hunger, thirst, infectious fluids. When I bought again, on day 38, she recovered very quickly. I introduced 15 mg the first 24 hours, 12 the following and 10 the following.
         </P>
 
     </>}
@@ -736,7 +736,7 @@ export const Body = () => {
         </P>
         
         <P>
-        A la hora, me convencí de que me había equivocado al darle inhibidor de corticoides y usé por primera vez los corticoides sintéticos, en dosis bajas: como 30 microgramos de fludrocortisona y 1 mg de prednisolona; o sea, el 30% y el 50% respectivamente de la dosis diaria de reemplazo. No sé por qué pero mejoró de inmediato. Esta mejora fue causa de gran confusión en los días siguientes porque ninguna de estas 2 drogas es de efecto inmediato. El breve y pobre texto del endocrinólogo que explicaba el tratamiento hablaba de inyecciones para casos de emergencia, pero no lo asocié con una posible demora en el efecto de los productos de vía oral, sino con la imposibilidad de lograr que comiera.
+        A la hora, me convencí de que me había equivocado al darle inhibidor de corticoides y usé por primera vez los corticoides sintéticos, en dosis bajas: como 30 microgramos de fludrocortisona y 1 mg de prednisolona; o sea, el 30% y el 80% respectivamente de las dosis diarias de reemplazo. No sé por qué pero mejoró de inmediato. Esta mejora fue causa de gran confusión en los días siguientes porque ninguna de estas 2 drogas es de efecto inmediato. El breve y pobre texto del endocrinólogo que explicaba el tratamiento hablaba de inyecciones para casos de emergencia, pero no lo asocié con una posible demora en el efecto de los productos de vía oral, sino con la imposibilidad de lograr que comiera.
         </P>
         
         <P>
@@ -772,15 +772,15 @@ export const Body = () => {
     </>:<>
 
         <P>
-        Then came Friday March 18, 2022, the 41st day of treatment. At mid-morning, I noticed her sore when she got on all fours. It seemed to me that he had no strength in his hind legs or that his abdomen ached. I was worried about the liver. Days later there were 2 other times when it seemed to me that his abdomen hurt, having a lot of noise of fluids on the right side, and I resolved it immediately with 100 mg of paracetamol.
+        Then came Friday March 18, 2022, the 41st day of treatment. At mid-morning, I noticed her sore when she got on all fours. It seemed to me that she had no strength in her hind legs or that her abdomen ached. I was worried about the liver. Days later there were 2 other times when it seemed to me that her abdomen hurt, having a lot of noise of fluids on the right side, and I resolved it immediately with 100 mg of paracetamol.
         </P>
         
         <P>
-        In the meantime, I didn't understand what was happening but it seemed like a good idea not to give him food, stop the mitotane but give him 5 mg of trilostane diluted in milk to prevent the Cushing's from coming back, and wait; these 5 mg complete the 10 that I mentioned before. Then it got bad in another way. She no longer seemed in pain but rather weak, listless, she walked slowly and looked at the floor; more or less as I expected it to happen due to the effect of chemotherapy and corticosteroid deficiency.
+        In the meantime, I did not understand what was happening but it seemed like a good idea not to give her food, stop the mitotane but give her 5 mg of trilostane diluted in milk to prevent the Cushing's from coming back, and wait; these 5 mg complete the 10 that I mentioned before. Then she got bad in another way. She no longer seemed in pain but rather weak, listless, she walked slowly and looked at the floor; more or less as I expected it to happen due to the effect of chemotherapy and corticosteroid deficiency.
         </P>
-        
+
         <P>
-        Within an hour, I was convinced that I had made a mistake by giving him a corticosteroid inhibitor and I used synthetic corticosteroids for the first time, in low doses: like 30 micrograms of fludrocortisone and 1 mg of prednisolone; that is, 30% and 50%, respectively, of the daily replacement dose. I don't know why but it got better immediately. This improvement was a cause of great confusion in the following days because neither of these 2 drugs has an immediate effect. The brief and poor text from the endocrinologist that explained the treatment spoke of injections for emergency cases, but I did not associate it with a possible delay in the effect of oral products, but with the impossibility of getting him to eat.
+        Within an hour, I was convinced that I had made a mistake by giving her the corticosteroid inhibitor and I used synthetic corticosteroids for the first time, in low doses: like 30 micrograms of fludrocortisone and 1 mg of prednisolone; that is, 30% and 80%, respectively, of the daily replacement doses. I do not know why but she got better immediately. This improvement was a cause of great confusion in the following days because neither of these 2 drugs has an immediate effect. The brief and poor text from the endocrinologist that explained the treatment spoke of injections for emergency cases, but I did not associate it with a possible delay in the effect of oral products, but with the impossibility of getting her to eat.
         </P>
         
         <P>
@@ -788,7 +788,7 @@ export const Body = () => {
         </P>
         
         <P>
-        With her in well-being, the synthetic corticosteroids consumed at noon and the false idea that she would no longer depend on the tumorous gland, that night I wanted to give her 150 mg of mitotane. He didn't have much of an appetite and would only eat if he didn't find drugs in the food. I wanted to grind up the mitotane and put it in the meat. He ate half but it made him very ill. It was the first of 5 crises, all in March (18, 19, 20, 24, 30), which had these characteristics:
+        With her in well-being, the synthetic corticosteroids consumed at noon and the false idea that she would no longer depend on the tumorous gland, that night I wanted to give her 150 mg of mitotane. She did not have much of an appetite and would only eat if she did not find drugs in the food. I wanted to grind up the mitotane and put it in the meat. She ate half but it made her very ill. It was the first of 5 crises, all in March (18, 19, 20, 24, 30), which had these characteristics:
         </P>
 
         <P style={ toggleListStyles }>
@@ -799,7 +799,7 @@ export const Body = () => {
             
         <P style={ toggleListStyles }>
             <li>
-            when wanting to drink water, she trembled in front of the plate, as if she couldn't, helplessly, to later drink by submerging his nose in the water, with the consequent discomfort due to the water entering the respiratory tract;
+            when wanting to drink water, she trembled in front of the plate, as if she could not, helplessly, to later drink by submerging her nose in the water, with the consequent discomfort due to the water entering the respiratory tract;
             </li>
         </P>
             
@@ -810,13 +810,13 @@ export const Body = () => {
         </P>
 
         <P>
-        A diferencia de lo que se esperaba de la quimioterapia, estos signos ocurrían con hambre y sed, y el comportamiento frente al agua no estaba en los papeles. Fue muy confuso, y queriendo resolver esta confusión fue que acabamos en la tomografía que le costó la vida, el día 60.
+        Unlike what was expected from chemotherapy, these signs occurred with hunger and thirst, and the behavior in front of the water dish was not in the papers. It was very confusing, and wanting to resolve this confusion, we ended up in the tomography that cost her her life, on day 60.
         </P>
 
     </>}
 
 
-
+{/* ######################## */}
 
     <div style={ subtitleStyles } id={'16'}>
         {!isEnglish ? "Los caóticos 20 días finales" : "The chaotic final 20 days"}
