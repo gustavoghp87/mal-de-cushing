@@ -50,7 +50,7 @@ export const Body = () => {
         </P>
         
         <P>
-        When she was recovering, the surgery came. She left the operating room shaking like a leaf in the wind and barricaded himself in the big chair for 4 days. She wouldn't let anyone get close to her. She took many antibiotics, of course, with painkillers and antacids (tramadol, firocoxib, amlodipine). She then fully recovered. It was, in total, 2 very stressful weeks.
+        When she was recovering, the surgery came. She left the operating room shaking like a leaf in the wind and barricaded himself in the big chair for 4 days. She would not let anyone get close to her. She took many antibiotics, of course, with painkillers and antacids (tramadol, firocoxib, amlodipine). She then fully recovered. It was, in total, 2 very stressful weeks.
         </P>
         
         <P>
@@ -97,11 +97,11 @@ export const Body = () => {
         </P>
         
         <P>
-        I would not say that she deteriorated more during the following months, but she did suddenly worsen in April 2020, 19 months after the castration and along with the decreed mandatory confinement. She was hungry all the time and got a hard bulging belly around his liver (the one from visceral fat that causes fatty liver disease from metabolic stress). She reached 4.9 kg, which was almost double the value prior to surgery (2.7 kg, that is, 6 pounds to 10.8 pounds). She couldn't stop drinking water, and yet her nose was completely dry. After eating, she drank large amounts of water and did not have enough space left to open her lungs well and made noises when breathing.
+        I would not say that she deteriorated more during the following months, but she did suddenly worsen in April 2020, 19 months after the castration and along with the decreed mandatory confinement. She was hungry all the time and got a hard bulging belly around his liver (the one from visceral fat that causes fatty liver disease from metabolic stress). She reached 4.9 kg, which was almost double the value prior to surgery (2.7 kg, that is, 6 pounds to 10.8 pounds). She could not stop drinking water, and yet her nose was completely dry. After eating, she drank large amounts of water and did not have enough space left to open her lungs well and made noises when breathing.
         </P>
         
         <P>
-        While we waited for another round of tests, including an endless thyroid test, one of the veterinarians wanted to suggest an ultrasound to rule out Cushing's disease due to an adrenal gland tumor. She said it with fear, I don't know if for fear of competing with her colleagues from the same center or because of the seriousness of the disease. An ultrasound, so that it is understood, is a cheap study and an appointment is made for the same day. And so it was, and so I had an immediate diagnosis of Cushing's disease due to adrenal carcinoma in the right gland. A carcinoma is a tumor of superficial tissues.
+        While we waited for another round of tests, including an endless thyroid test, one of the veterinarians wanted to suggest an ultrasound to rule out Cushing's disease due to an adrenal gland tumor. She said it with fear, I do not know if for fear of competing with her colleagues from the same center or because of the seriousness of the disease. An ultrasound, so that it is understood, is a cheap study and an appointment is made for the same day. And so it was, and so I had an immediate diagnosis of Cushing's disease due to adrenal carcinoma in the right gland. A carcinoma is a tumor of superficial tissues.
         </P>
         
         <P>
@@ -227,7 +227,7 @@ export const Body = () => {
         </P>
         
         <P>
-        When difficult times came, remembering that this professional recommended this to me in time (as he had also suggested a few months before to attack the branch in the vein with radiotherapy) helped me to trust him more than others. However, doing this seemed too much. I remember looking for where to do a tomography to find out if it really was a metastasis, but I couldn't find it. And the idea of anesthetizing her to take an ultrasound liver biopsy scared me. On top of that, the ultrasounds indicated that the primary tumor and the occupation of the inferior vena cava had shrunk somewhat. All other indicators were fine, and she was at her best. I wanted to think that nothing would happen.
+        When difficult times came, remembering that this professional recommended this to me in time (as he had also suggested a few months before to attack the branch in the vein with radiotherapy) helped me to trust him more than others. However, doing this seemed too much. I remember looking for where to do a tomography to find out if it really was a metastasis, but I could not find it. And the idea of anesthetizing her to take an ultrasound liver biopsy scared me. On top of that, the ultrasounds indicated that the primary tumor and the occupation of the inferior vena cava had shrunk somewhat. All other indicators were fine, and she was at her best. I wanted to think that nothing would happen.
         </P>
         
         <P>
@@ -379,7 +379,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Returning to the liver, the endocrinologist indicated that the only hope lay in the chemotherapy treatment with mitotane that he had recommended 8 months earlier. This time I wanted to start it right away. I always had in mind the conflict of interest that existed when the professional who did the treatment was the same one who sold me the drugs. But I seemed to have no choice, and he had it in his favor that he recommended this to me in May and I didn't want to.
+        Returning to the liver, the endocrinologist indicated that the only hope lay in the chemotherapy treatment with mitotane that he had recommended 8 months earlier. This time I wanted to start it right away. I always had in mind the conflict of interest that existed when the professional who did the treatment was the same one who sold me the drugs. But I seemed to have no choice, and he had it in his favor that he recommended this to me in May and I did not want to.
         </P>
         
         <P>
@@ -1039,11 +1039,11 @@ export const Body = () => {
     {!isEnglish ? <>
 
         <P>
-        Eso fue lo que pasó, resumidamente. La explicación que parece más verosímil, aunque parezca ridículo que un informático formule tesis de trabajo de la ciencia médica, siendo, no obstante, que no es mi culpa; la explicación más verosímil parece ser que Ally tenía los mineralocorticoides demasiado bajos pero los glucocorticoides demasiado altos. Así se podría explicar el hambre y la sed combinados con presión arterial baja, náuseas y visión borrosa, en un contexto de deshidratación con inmunodepresión.
+        Eso fue lo que pasó, resumidamente. Lo que creo que pasó es que Ally tenía los mineralocorticoides demasiado bajos pero los glucocorticoides demasiado altos. Así se podría explicar el hambre y la sed combinados con presión arterial baja, náuseas y visión borrosa, en un contexto de deshidratación con inmunodepresión.
         </P>
 
         <P>
-        Los días 18, 19 y 20 fueron 3 días de combinar trilostano con corticoides sintéticos porque me pareció buena idea suavizar la terapia de reemplazo dándole los sintéticos preventivamente y, a la vez, darle trilostano para invalidar una producción interna de corticoides que se encimara a los otros. Pero me pregunto hoy por qué le di de fludrocortisona menos de la dosis indicada (un tercio o la mitad de los 100 microgramos recetados), mientras le daba también más prednisolona de la recetada (como el doble o un 50% más del miligramo indicado). La primera es una droga que, evidentemente, subestimé porque no entendía lo que hacía.
+        Los días 18, 19 y 20 fueron 3 días de combinar trilostano con corticoides sintéticos porque me pareció buena idea suavizar la terapia de reemplazo dándole los sintéticos preventivamente y, a la vez, darle trilostano para invalidar una producción interna de corticoides que se encimara a los otros. Pero me pregunto hoy por qué le di de fludrocortisona menos de la dosis indicada (un tercio o la mitad de los 100 microgramos recetados), mientras le daba también más prednisolona de la recetada (como el doble o un 50% más del miligramo indicado). La primera es una droga que, evidentemente, subestimé porque no entendía lo que hacía y porque no aparecía en los ensayos clínicos que leí.
         </P>
 
         <P>
@@ -1065,11 +1065,11 @@ export const Body = () => {
     </>:<>
 
         <P>
-        That was what happened, in short. The explanation that seems most plausible, although it seems ridiculous that a computer scientist formulates work thesis of medical science, being, however, that it is not my fault; the most plausible explanation seems to be that Ally had too low mineralocorticoids but too high glucocorticoids. This could explain the hunger and thirst combined with low blood pressure, nausea and blurred vision, in a context of dehydration with immunosuppression.
+        That was what happened, in short. What I think happened is that Ally had too low mineralocorticoids but too high glucocorticoids. This could explain the hunger and thirst combined with low blood pressure, nausea and blurred vision, in a context of dehydration with immunosuppression.
         </P>
 
         <P>
-        Days 18, 19 and 20 were 3 days of combining trilostane with synthetic corticosteroids because it seemed like a good idea to soften the replacement therapy by giving the synthetics preventively and, at the same time, giving trilostane to invalidate an internal production of corticosteroids that overlapped the others. But I'm wondering today why I gave her less than the prescribed dose of fludrocortisone (a third or a half of the prescribed 100 micrograms), while also giving her more prednisolone than prescribed (like double or 50% more than the prescribed milligram). The first is a drug that I obviously underestimated because I did not understand what it did.
+        Days 18, 19 and 20 were 3 days of combining trilostane with synthetic corticosteroids because it seemed like a good idea to soften the replacement therapy by giving the synthetics preventively and, at the same time, giving trilostane to invalidate an internal production of corticosteroids that overlapped the others. But I am wondering today why I gave her less than the prescribed dose of fludrocortisone (a third or a half of the prescribed 100 micrograms), while also giving her more prednisolone than prescribed (like double or 50% more than the prescribed milligram). The first is a drug that I obviously underestimated because I did not understand what it did and because it did not show up in the clinical trials I read.
         </P>
 
         <P>
@@ -1222,21 +1222,21 @@ export const Body = () => {
         </P>
         
         <P>
-        Por eso me tocó predecir con éxito lastimoso que si le daba antibióticos líquidos en la boca, y que si le diluía ahí los corticoides, iba a tener ataques de estornudos, por si quedaba alguna duda. Pasó sus últimas semanas estornudando a cada rato, salvo cuando tenía Cushing muy alto. El resto es explicar, al menos como excusa, por qué cuesta tanto esconder drogas en la comida de una perra tan chica, de estómago cerrado y harta de tantas drogas.
+        Por eso me tocó predecir con éxito lastimoso que si le daba antibióticos junto con corticoides sintéticos iba a tener ataques de estornudos, por si quedaba alguna duda. Pasó sus últimas semanas estornudando a cada rato, salvo cuando tenía Cushing muy alto.
         </P>
 
     </>:<>
-{/* ############################################### */}
+
         <P>
-        I adhere to scientific research that presents the use of antibiotics as if it were about bombing an entire metropolis to defeat a gang of criminals. So it was not fun for me to give Ally antibiotics knowing how bad they are, but I figured it wasn't time to think about the long term. Ultimately, it was too obvious to question that the amount of pus-containing fluids he was losing through his urinary tract ranged from nothing to a great deal depending entirely on glucocorticoids and absolutely nothing on antibiotics. That is, when cortisol was at a good level, there was a normal consumption of water and food and the emissions went away, but when they were high, I drank a lot, I was constantly hungry for carbohydrates and I lost fluids everywhere.
+        I adhere to scientific research that presents the use of antibiotics as if it were about bombing an entire metropolis to defeat a gang of criminals. So it was not fun for me to give Ally antibiotics knowing how bad they are, but I figured it was not time to think about the long term. Ultimately, it was too obvious to question that the amount of pus-containing fluids she was losing through her urinary tract ranged from nothing to a great deal depending entirely on glucocorticoids and absolutely nothing on antibiotics. That is, when cortisol was at a good level, there was a normal consumption of water and food and the emissions went away, but when they were high, she drank a lot, was constantly hungry for carbohydrates and lost fluids everywhere.
         </P>
         
         <P>
-        By the time Ally was in treatment, it was already quite clear to me that what people and allergists call "allergic rhinitis" is about an imbalance in the power relations between fungi and bacteria in the nasal mucosa. It's not an allergy. Allergy is when the immune system attacks something that it shouldn't attack. Instead, what happens here is that the immune system reacts correctly to the enormous amount of toxic waste that the fungi produce. Therefore, the formula for developing "allergic rhinitis" is to take antibiotics to destroy the bacteria in the nasal mucosa, along with corticosteroids to anesthetize the immune system in the area. This frees the area for the fungi to advance and take up position. Then come sneezing and runny nose, depending on the humidity of the environment, the consumption of industrial carbohydrates and alcohol, and the concentration of corticosteroids in the blood.
+        By the time Ally was in treatment, it was already quite clear to me that what people and allergists call "allergic rhinitis" is about an imbalance in the power relations between fungi and bacteria in the nasal mucosa. It is not an allergy. Allergy is when the immune system attacks something that it should not attack. Instead, what happens here is that the immune system reacts correctly to the enormous amount of toxic waste that the fungi produce. Therefore, the formula for developing "allergic rhinitis" is to take antibiotics to destroy the bacteria in the nasal mucosa, along with corticosteroids to anesthetize the immune system in the area. This frees the area for the fungi to advance and take up position. Then come sneezing and runny nose, depending on the humidity of the environment, the consumption of industrial carbohydrates and alcohol, and the concentration of corticosteroids in the blood.
         </P>
         
         <P>
-        That is why I had to predict with pitiful success that if I gave him liquid antibiotics in his mouth, and that if I diluted the corticosteroids there, he would have sneezing attacks, in case there was any doubt. He spent his last weeks sneezing every few minutes, except when he had a very high Cushing. The rest is to explain, at least as an excuse, why it is so difficult to hide drugs in the food of such a small dog, with a closed stomach and fed up with so many drugs.
+        That is why I had to predict with pitiful success that if I gave her antibiotics along with synthetic corticosteroids she would have sneezing attacks, in case there was any doubt. She spent her last weeks sneezing every few minutes, except when she had a very high Cushing.
         </P>
 
     </>}
@@ -1267,49 +1267,15 @@ export const Body = () => {
         </P>
         
         <P>
-        Por eso las 5 cosas que yo le pedía a la tomografía eran estas:
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            tumor primario destruido;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            ausencia de tumores en el cráneo;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            ausencia de tumores linfáticos en la zona de la garganta;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            explicación optimista a las masas que asomaban del lado izquierdo;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
-            </li>
+        Por eso las 5 cosas que yo le pedía a la tomografía eran estas: tumor primario destruido; ausencia de tumores en el cráneo; ausencia de tumores linfáticos en la zona de la garganta; explicación optimista a las masas que asomaban del lado izquierdo; alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
         </P>
         
         <P>
-        El último es el punto más polémico. Yo decía que si a pesar de haber pasado 2 meses volando de corticoides y comiendo carbohidratos, los secundarios no habían logrado avanzar, entonces tendríamos una visión muy positiva para la segunda etapa. Lo menciono porque, al mismo tiempo, todo profesional de la medicina exigía inmediata eutanasia al ver las imágenes de la radiografía, como pasaría el día de la tomografía.
+        Respecto al último punto, yo decía que si a pesar de haber pasado 2 meses volando de corticoides y comiendo carbohidratos, los secundarios no habían logrado avanzar, entonces tendríamos una visión muy positiva para la segunda etapa. Lo menciono porque, al mismo tiempo, todo profesional de la medicina exigía inmediata eutanasia al ver las imágenes de la radiografía, como pasaría el día de la tomografía.
         </P>
         
         <P>
-        Cuando se acercaba la hora de partir me debatí sobre si darle la fludrocortisona del día o salteármela hasta la vuelta. La verdad es que volaba de Cushing y chorreaba fluidos infecciosos, pero hacia el mediodía se fue normalizando, al pasar las 14 horas desde la última toma de corticoides. Decidí darle a la vuelta.
-        </P>
-        
-        <P>
-        En el taxi, cerca de llegar después de 30 minutos de viaje, comenzó a hacer ruido al ventilar, parecido a aquella vez que terminamos en urgencias pero más suave. Quise pensar que era sed, pero no bebió ni orinó.
+        Cuando se acercaba la hora de ir me debatí sobre si darle la fludrocortisona del día o salteármela hasta la vuelta. La verdad es que volaba de Cushing y chorreaba fluidos infecciosos, pero hacia el mediodía se fue normalizando, al pasar las 14 horas desde la última toma de corticoides. Decidí darle a la vuelta.
         </P>
         
         <P>
@@ -1319,65 +1285,31 @@ export const Body = () => {
     </>:<>
     
         <P>
-        The decision to completely withdraw prednisolone (glucocorticoid) and maintain around 100 micrograms of fludrocortisone (mineralocorticoid and glucocorticoid) seemed correct in the days between the attack on March 30 and death on April 6. Right or wrong, there were 7 days without seizures. However, this 0.1 mg dose appeared to be excessive in the final 72 hours. I reasoned that if the calculation was 30 micrograms per kilo of dog (3.5 kg per 30), perhaps one had to calculate on a 2.8 kg weight for the loss of muscle caused by Cushing's.
+        The decision to completely withdraw prednisolone (glucocorticoid) and maintain around 100 micrograms of fludrocortisone (mineralocorticoid and glucocorticoid) seemed correct in the days between the attack on March 30 and death on April 6. Right or wrong, there were 7 days without seizures. However, this 0.1 mg dose appeared to be excessive in the final 72 hours. I reasoned that if the calculation was 30 micrograms per kilo of dog (3.5 times 30), perhaps one had to calculate on a 2.8 kg weight for the loss of muscle caused by Cushing's.
         </P>
 
         <P>
-        I wanted to wait until after the scan to lower the dose of fludrocortisone; however, on Tuesday (the day before the tomography) I tried to give him trilostane trying to reduce the symptoms. There was no appreciable effect. In other words, the symptoms were due to oral corticosteroids and not due to the tumor. That's how I reasoned and it's hard not to be like that.
+        I wanted to wait until after the scan to lower the dose of fludrocortisone; however, on Tuesday (the day before the tomography) I tried to give her trilostane trying to reduce the symptoms. There was no appreciable effect. In other words, the symptoms were due to oral corticosteroids and not due to the tumor. That is how I reasoned and it is hard not to be like that.
         </P>
 
         <P>
-        April 6, 2022 was the day I was waiting for. I mean, I went from avoiding the scan because I wanted to spare my dog ​​a bad time to wanting her badly. He considered the induction stage over and wanted to know 5 things to confidently advance to the second stage of treatment.
+        April 6, 2022 was the day I was waiting for. I mean, I went from avoiding the scan because I wanted to spare my dog a bad time to wanting her badly. I considered the induction stage over and wanted to know 5 things to confidently advance to the second stage of treatment.
         </P>
         
         <P>
-        By the way, if the first stage consisted of destroying the primary tumor, doing as much damage as possible to the secondary ones and achieving an external and conscious control of the levels of corticosteroids in the blood, the second stage was this: reduce the levels of corticosteroids as much as possible. corticosteroids to turn on the immune system to the max, go back to eating only at night, eliminate carbohydrates again, maximize the production of macrophages with vitamin D3 (which I was already giving him since the beginning of March), and, if possible, alkalize the body with bicarbonate of sodium and potassium; and, of course, continue with mitotane. (Removing carbohydrates is reviewed when there are advanced metastases because they eat so much glucose that they starve healthy cells and can cause hypoglycemia).
+        By the way, if the first stage consisted of destroying the primary tumor, doing as much damage as possible to the secondary ones and achieving an external and conscious control of the levels of corticosteroids in the blood, the second stage was this: reduce the levels of corticosteroids as much as possible. corticosteroids to turn on the immune system to the max, go back to eating only at night, eliminate carbohydrates again, maximize the production of macrophages with vitamin D3 (which I was already giving her since the beginning of March), and, if possible, alkalize the body with bicarbonate of soda and potassium; and, of course, continue with mitotane. (Removing carbohydrates is reviewed when there are advanced metastases because they eat so much glucose that they starve healthy cells and can cause hypoglycemia).
         </P>
         
         <P>
-        That is why the 5 things that I asked of the tomography were these:
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            primary tumor destroyed;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            absence of tumors in the skull;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            absence of lymphatic tumors in the throat area;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            optimistic explanation to the masses that appeared on the left side;
-            </li>
-        </P>
-        
-        <P style={ toggleListStyles }>
-            <li>
-            some reduction of secondaries, or at least that they had not advanced.
-            </li>
+        That is why the 5 things that I asked of the tomography were these: primary tumor destroyed; absence of tumors in the skull; absence of lymphatic tumors in the throat area; optimistic explanation to the masses that appeared on the left side; some reduction of secondaries, or at least that they had not advanced.
         </P>
         
         <P>
-        The last is the most controversial point. I said that if, despite having spent 2 months flying off corticosteroids and eating carbohydrates, the secondary ones had not been able to progress, then we would have a very positive vision for the second stage. I mention it because, at the same time, every medical professional demanded immediate euthanasia when seeing the X-ray images, as would happen on the day of the tomography.
+        Regarding the last point, I said that if, despite having spent 2 months flying off corticosteroids and eating carbohydrates, the secondary ones had not been able to progress, then we would have a very positive vision for the second stage. I mention it because, at the same time, every medical professional demanded immediate euthanasia when seeing the X-ray images, as would happen on the day of the tomography.
         </P>
         
         <P>
-        As the time to leave approached, I debated whether to give him the fludrocortisone for the day or skip it until I got back. The truth is that he was flying from Cushing's and was dripping with infectious fluids, but by noon he was returning to normal, after 14 hours had passed since the last corticosteroid intake. I decided to turn it around.
-        </P>
-        
-        <P>
-        In the taxi, close to arriving after 30 minutes of travel, it began to make noise when ventilating, similar to that time we ended up in the emergency room but softer. I wanted to think it was thirst, but he didn't drink or urinate.
+        As the time to leave approached, I debated whether to give her the fludrocortisone for the day or skip it until I got back. The truth is that she was flying from Cushing's and was dripping with infectious fluids, but by noon she was returning to normal, after 14 hours had passed since the last corticosteroid intake. I decided to give her when we got back.
         </P>
         
         <P>
@@ -1400,7 +1332,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Se fue haciendo más evidente que no podía abrir los pulmones. La alcé y mi hermana pudo verle la lengua violeta. Ahí sí nos tomaron en serio y se la llevaron a la sala de shock. La sedaron y le metieron el hocico en una máscara plástica hecha con una botella con una manguera que daba oxígeno. Mientras estuvo bien sedada se quedó en la máscara.
+        Se fue haciendo más evidente que no podía abrir los pulmones. La alcé y pudimos verle la lengua violeta. Ahí sí nos tomaron en serio y se la llevaron a la sala de shock. La sedaron y le metieron el hocico en una máscara plástica hecha con una botella con una manguera que daba oxígeno. Mientras estuvo bien sedada se quedó en la máscara.
         </P>
         
         <P>
@@ -1408,7 +1340,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Recibí ahí un gran golpe que me preparó para el KO por parte del encargado de la sala de shock, que creo que era cirujano. Cuando le dije que ella no producía corticoides y después agregué que en lo que iba del día no le había dado corticoides porque había tenido signos de Cushing alto, preguntó si tenía Cushing o si no producía corticoides, como si hubiese una contradicción muy evidente en mi relato. La respuesta era muy sencilla: tenía Cushing por el suministro externo de una dosis incorrectamente alta. Pero me costó unos segundos poder decirle eso. La verdad que apartó la mirada al decirlo. No me creía. Es más, me estaba descalificando. Quería imponerse sobre mí y hacer prevalecer su voluntad eutanasiadora. Por supuesto que él no conocía el mitotano pero preguntó si le había hecho cirugía de remoción de adrenales. Expliqué que no porque ya era inoperable cuando estuvo el diagnóstico y le mencioné el asunto de la vena cava inferior.
+        Recibí ahí un gran golpe por parte del encargado de la sala de shock, que creo que era cirujano. Cuando le dije que ella no producía corticoides y después agregué que en lo que iba del día no le había dado corticoides porque había tenido signos de Cushing alto, preguntó si tenía Cushing o si no producía corticoides, como si hubiese una contradicción muy evidente en mi relato. La respuesta era muy sencilla: tenía Cushing por el suministro externo de una dosis incorrectamente alta. La verdad que no me creía. Es más, me estaba descalificando. Quería imponerse sobre mí y hacer prevalecer su voluntad eutanasiadora. Por supuesto que él no conocía el mitotano pero preguntó si le había hecho cirugía de remoción de adrenales. Expliqué que no porque ya era inoperable cuando estuvo el diagnóstico y le mencioné el asunto de la vena cava inferior.
         </P>
         
         <P>
@@ -1416,7 +1348,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Como no me derrotaba, redobló la apuesta diciendo que el pulmón derecho ya casi no tenía espacio propio y que el otro estaba en parte tomado también, y que así no podía vivir. Le pregunté si había visto el hígado y me dijo que sí, que el tumor suprarrenal estaba ahí invadiendo la vena cava inferior y que “todo el abdomen era un gran tumor”. Me retiró la mirada cuando lo decía. Me pregunté si solamente estaba repitiendo lo que le dije antes porque no podía ser que las imágenes mostraran eso.
+        Como no me derrotaba, redobló la apuesta diciendo que el pulmón derecho ya casi no tenía espacio propio y que el otro estaba en parte tomado también, y que así no podía vivir. Le pregunté si había visto el hígado y me dijo que sí, que el tumor suprarrenal estaba ahí invadiendo la vena cava inferior y que “<I>todo el abdomen era un gran tumor</I>”. Me retiró la mirada cuando lo decía. Me pregunté si solamente estaba repitiendo lo que le dije antes porque no podía ser que las imágenes mostraran eso.
         </P>
         
         <P>
@@ -1424,45 +1356,33 @@ export const Body = () => {
         </P>
         
         <P>
-        No atiné a llamar al endocrinólogo, quien días después diría que “sedantes con corticoides y un diurético la hubieran sacado de la crisis”. Tampoco tuve la rebeldía de usar la ampolla por mi cuenta o de mirar la tomografía en la computadora de la otra sala. Lo que dijo el encargado de la sala de shock me hizo creer que el tratamiento nunca funcionó, y que quizás nos habíamos precipitado al aceptar sin más que los tumores eran metástasis adrenales; en fin, que había hecho todo mal y solamente estaba haciendo sufrir a mi perra.
-        </P>
-        
-        <P>
-        Me siguieron atormentando para que aceptara una eutanasia con distintos argumentos, mencionando lo terrible de los resultados en las imágenes y las virtudes humanísticas de hacerlo. Se turnaban los distintos empleados para taladrarme la cabeza. Ally esforzándose por respirar me desmoralizaba más a cada minuto. Mi hermana salió para llamar a mi madre para que viniese y no volví a pensar en los corticoides. Pedí que le dieran más sedante hasta que llegara ella, mientras le sostenía la manguera de oxígeno frente a la boca. Cada vez la sedaban menos, seguramente para no matarla sin autorización.
-        </P>
-        
-        <P>
-        En 30 minutos llegó mi madre. Para entonces yo estaba vencido y apuré a la gente para que lo hicieran cuanto antes. Firmé la eutanasia apoyando la cabeza sobre Ally porque no quería que me alejara de ella. Fue un alivio después de dos horas de verla esforzarse por respirar. Fueron 2 horas desde que me la devolvieron. Me fui con el aplastamiento de quien lleva a su perra amada a un estudio, esperanzado, pero lo obligan a matarla, como si de una oportunidad única se tratase.
-        </P>
-        
-        <P>
-        Los veterinarios en la clínica del tomógrafo no sabían qué tipo de cáncer tenía, no sabían qué tratamiento estaba haciendo, no sabían cuál era el punto de partida sobre el cual comparar la situación y no sabían si yo soy un desquiciado que no sabía desprenderse de su perro terminal o si en realidad sí sabía lo que estaba haciendo. Llegué al lugar con muchas dudas sobre el tratamiento, no estaba bien instruido sobre el uso de corticoides inyectables en urgencias y no me esperaba nada de lo que pasó.
+        No atiné a llamar al endocrinólogo, quien días después diría que "<I>sedantes con corticoides y un diurético la hubieran sacado de la crisis</I>". Lo que dijo el encargado de la sala de shock me hizo creer que el tratamiento nunca funcionó, y que quizás nos habíamos precipitado al aceptar sin más que los tumores eran metástasis adrenales; en fin, que había hecho todo mal y solamente estaba haciendo sufrir a mi perra. Después vienen algunos detalles que no importan.
         </P>
 
     </>:<>
 
         <P>
-        25 minutes later it was returned to me, while waking up. We lift it. They gave me a CD with the images and it seemed that we were leaving. But there was something odd about her grimace, the way she set her mouth and the lost look. We supported her on the table and watched her gasp for breath. I asked for help and mentioned that he might need corticosteroids for his condition. They paid no attention to me; They thought he exaggerated.
+        25 minutes later she was returned to me, while waking up. We lift it. They gave me a CD with the images and it seemed that we were leaving. But there was something odd about her grimace, the way she set her mouth and the lost look. We supported her on the table and watched her gasp for breath. I asked for help and mentioned that she might need corticosteroids for his condition. They paid no attention to me; they thought I exaggerated.
         </P>
         
         <P>
-        It became more apparent that he couldn't open his lungs. I held her up and my sister could see her purple tongue. There they did take us seriously and took her to the shock room. They sedated her and put her nose into a plastic mask made from a bottle with a hose that gave oxygen. While she was well sedated she stayed in the mask.
+        It became more apparent that she could not open her lungs. I held her up and we could see her purple tongue. There they did take us seriously and took her to the shock room. They sedated her and put her nose into a plastic mask made from a bottle with a hose that gave oxygen. While she was well sedated she stayed in the mask.
         </P>
         
         <P>
-        I explained the condition again but no one wanted to give him corticosteroids. I had a vial of glucocorticoids in my backpack and a syringe. He had no injectable mineralocorticoids; nor the courage to use the vial on my own.
+        I explained the condition again but no one wanted to give her corticosteroids. I had a vial of glucocorticoids in my backpack and a syringe. I had no injectable mineralocorticoids; nor the courage to use the vial on my own.
         </P>
         
         <P>
-        I took a big hit there that set me up for KO by the shock room attendant, who I think was a surgeon. When I told her that she did not produce corticosteroids and then added that so far this day I had not given her corticosteroids because she had had signs of high Cushing's, she asked if she had Cushing's or if she did not produce corticosteroids, as if there was a very evident contradiction in my story. The answer was very simple: he had Cushing's from the external supply of an incorrectly high dose. But it took me a few seconds to tell him that. The truth that he looked away when he said it. He didn't believe me. What's more, he was disqualifying me. He wanted to impose himself on me and make his euthanasia will prevail. Of course he didn't know about mitotane but he asked if she had had adrenal removal surgery. I explained no because it was already inoperable when the diagnosis was made and I mentioned the matter of the inferior vena cava.
+        I took a big hit there by the shock room attendant, who I think was a surgeon. When I told him that she did not produce corticosteroids and then added that so far this day I had not given her corticosteroids because she had had signs of high Cushing's, he asked if she had Cushing's or if she did not produce corticosteroids, as if there was a very evident contradiction in my story. The answer was very simple: she had Cushing's from the external supply of an incorrectly high dose. The truth was he did not believe me. What is more, he was disqualifying me. He wanted to impose himself on me and make his euthanasia will prevail. Of course he did not know about mitotane but he asked if she had had adrenal removal surgery. I explained no because it was already inoperable when the diagnosis was made and I mentioned the matter of the inferior vena cava.
         </P>
         
         <P>
-        He was gone for a moment. When she returned, she said that she had seen the CT scan, that the condition of her lungs was extremely bad, and that it was time to let her go with a lethal injection. I tried to explain to him that the state of his lungs had been extremely bad for months and that, nevertheless, he was breathing every day; and that, in fact, he had entered the clinic on foot. That the sedatives and the situation had put her in a crisis and I needed to take her away. But he wet her sides and put an ultrasound on her to show me that there were very large tumors. The largest was 18 millimeters, I found out the next day.
+        He was gone for a moment. When he returned, he said that he had seen the CT scan, that the condition of her lungs was extremely bad, and that it was time to let her go with a lethal injection. I tried to explain to him that the state of his lungs had been extremely bad for months and that, nevertheless, she was breathing every day; and that, in fact, she had entered the clinic on foot. That the sedatives and the situation had put her in a crisis and I needed to take her away. But he wet her sides and put an ultrasound on her to show me that there were very large tumors. The largest was 18 millimeters (0.7 inches), I found out the next day.
         </P>
         
         <P>
-        Since he didn't defeat me, he doubled the bet saying that the right lung hardly had any space of its own and that the other one was also partly taken, and that he couldn't live like that. I asked him if he had seen the liver and he said yes, that the adrenal tumor was there invading the inferior vena cava and that “the entire abdomen was a large tumor”. He looked away from me when he said it. I wondered if he was just repeating what I told him earlier because the pictures couldn't possibly show that.
+        Since he did not defeat me, he doubled the bet saying that the right lung hardly had any space of its own and that the other one was also partly taken, and that she could not live like that. I asked him if he had seen the liver and he said yes, that the adrenal tumor was there invading the inferior vena cava and that "<I>the entire abdomen was a large tumor</I>". He looked away from me when he said it. I wondered if he was just repeating what I told him earlier because the pictures could not possibly show that.
         </P>
         
         <P>
@@ -1470,19 +1390,7 @@ export const Body = () => {
         </P>
         
         <P>
-        I did not manage to call the endocrinologist, who days later would say that “sedatives with corticosteroids and a diuretic would have gotten her out of the crisis”. I also didn't have the rebelliousness to use the vial on my own or to look at the scan on the computer in the other room. What the person in charge of the shock room said made me believe that the treatment never worked, and that perhaps we had been too hasty in simply accepting that the tumors were adrenal metastases; in short, that I had done everything wrong and was only making my dog ​​suffer.
-        </P>
-        
-        <P>
-        They continued to torment me to accept euthanasia with different arguments, mentioning the terrible results in the images and the humanistic virtues of doing it. Different employees took turns drilling into my head. Ally gasping for breath made me more demoralized by the minute. My sister went out to call my mother to come and I didn't think about corticosteroids again. I asked for more sedation until she arrived, holding the oxygen hose to her mouth. They sedated her less and less, surely so as not to kill her without authorization.
-        </P>
-        
-        <P>
-        In 30 minutes my mother arrived. By then I was defeated and I pressed people to do it as soon as possible. I signed the euthanasia by resting my head on Ally because I didn't want to be away from her. It was a relief after two hours of watching her gasp for breath. It was 2 hours since they returned it to me. I left with the crush of someone who takes his beloved dog to a studio, hoping, but they force him to kill her, as if it were a unique opportunity.
-        </P>
-        
-        <P>
-        The vets at the CT scanner's clinic didn't know what type of cancer he had, they didn't know what treatment he was undergoing, they didn't know what the starting point was from which to compare the situation, and they didn't know if I was a madman who didn't know how to let go of his terminal dog or if he really did know what he was doing. I arrived at the place with many doubts about the treatment, I was not well instructed about the use of injectable corticosteroids in the emergency room and I did not expect anything of what happened.
+        I did not manage to call the endocrinologist, who days later would say that "<I>sedatives with corticosteroids and a diuretic would have gotten her out of the crisis</I>". What the person in charge of the shock room said made me believe that the treatment never worked, and that perhaps we had been too hasty in simply accepting that the tumors were adrenal metastases; in short, that I had done everything wrong and was only making my dog suffer. Then come some details that do not matter.
         </P>
 
     </>}
@@ -1501,25 +1409,25 @@ export const Body = () => {
         </P>
         
         <P>
-        “Múltiples imágenes nodulares distribuidas a modo de suelta de globos, que presentan diámetros entre 2 y 18 milímetros”, “profuso infiltrado del espacio aéreo que se extiende en el parénquima de ambos pulmones”,  “áreas de consolidación y presencia de broncograma aéreo y aumento del patrón intersticial”, “a nivel abdominal se aprecia múltiples imágenes nodulares en el hígado de entre 2 y 23 milímetros de diámetro”, “marcada hepatomegalia” (inflamación del hígado), “el abdomen muestra linfadenopatías reactivas en el peritoneo” (tumores linfáticos infecciosos). Y la conclusión: "Imágenes obtenidas compatibles con múltiples imágenes nodulares en ambos pulmones y a nivel del hígado con presencia de linfonódulos reactivos a nivel del peritoneo que son compatibles con secundarismos (MTS)".
+        "<I>Múltiples imágenes nodulares distribuidas a modo de suelta de globos, que presentan diámetros entre 2 y 18 milímetros</I>", "<I>profuso infiltrado del espacio aéreo que se extiende en el parénquima de ambos pulmones</I>", "<I>áreas de consolidación y presencia de broncograma aéreo y aumento del patrón intersticial</I>", "<I>a nivel abdominal se aprecia múltiples imágenes nodulares en el hígado de entre 2 y 23 milímetros de diámetro</I>", "<I>marcada hepatomegalia</I>" (inflamación del hígado), "<I>el abdomen muestra linfadenopatías reactivas en el peritoneo</I>" (tumores linfáticos infecciosos). Y la conclusión: "<I>Imágenes obtenidas compatibles con múltiples imágenes nodulares en ambos pulmones y a nivel del hígado con presencia de linfonódulos reactivos a nivel del peritoneo que son compatibles con secundarismos (MTS)</I>".
         </P>
         
         <P>
-        Era hora de mirar las imágenes. Nunca había visto una tomografía computada. Miré mucho tratando de determinar si había empeorado o mejorado desde los estudios anteriores. Y anduve 2 días envenenado por no poder encontrar en las imágenes el tumor primario (que es muy notorio en la radiografía de febrero) ni la invasión de la vena cava inferior, que era lo que me había derrotado en la sala de shock. Respecto a las 5 cosas que yo necesitaba de la tomografía, las primeras 4 parecían cumplirse a mis ojos y quizás la última también: tumor primario destruido, ausencia de tumores en el cráneo, ausencia de tumores linfáticos en la zona de la garganta, explicación optimista a las masas que asomaban del lado izquierdo (parece que sí era el bazo empujado por el hígado), y alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
+        Era hora de mirar las imágenes. Nunca había visto una tomografía computada. Miré mucho tratando de determinar si había empeorado o mejorado desde los estudios anteriores. No poder encontrar en las imágenes el tumor primario (que es muy notorio en la radiografía de febrero) ni la invasión de la vena cava inferior, que era lo que me había derrotado en la sala de shock. Respecto a las 5 cosas que yo necesitaba de la tomografía, las primeras 4 parecían cumplirse a mis ojos y quizás la última también: tumor primario destruido, ausencia de tumores en el cráneo, ausencia de tumores linfáticos en la zona de la garganta, explicación optimista a las masas que asomaban del lado izquierdo (parece que sí era el bazo empujado por el hígado), y alguna reducción de los secundarios, o al menos que no hubiesen avanzado.
         </P>
 
     </>:<>
 
         <P>
-        I didn't want to look at the pictures. 27 hours after the death I received the report, quite brief. Reading it, I first noticed that the skull was clean, and the throat too. And then it caught my attention that he said, words more, words less, the same thing that the ultrasound in January and the X-ray in February had said, but adding a lymphatic problem of secondary importance.
+        I did not want to look at the pictures. 27 hours after the death I received the report, quite brief. Reading it, I first noticed that the skull was clean, and the throat too. And then it caught my attention that it said, words more, words less, the same thing that the ultrasound in January and the X-ray in February had said, but adding a lymphatic problem of secondary importance.
         </P>
         
         <P>
-        “Multiple nodular images distributed in the manner of balloon release, with diameters between 2 and 18 millimeters”, “profuse airspace infiltrate that extends into the parenchyma of both lungs”, “areas of consolidation and presence of air bronchogram and increased of the interstitial pattern”, “at the abdominal level multiple nodular images can be seen in the liver between 2 and 23 millimeters in diameter”, “marked hepatomegaly” (inflammation of the liver), “the abdomen shows reactive lymphadenopathy in the peritoneum” (lymphadenopathy infectious). And the conclusion: "Images obtained compatible with multiple nodular images in both lungs and at the level of the liver with the presence of reactive lymph nodes at the level of the peritoneum that are compatible with secondary (MTS)".
+        "<I>Multiple nodular images distributed in the manner of balloon release, with diameters between 2 and 18 millimeters</I>", "<I>profuse airspace infiltrate that extends into the parenchyma of both lungs</I>", "<I>areas of consolidation and presence of air bronchogram and increased of the interstitial pattern</I>", "<I>at the abdominal level multiple nodular images can be seen in the liver between 2 and 23 millimeters in diameter</I>", "<I>marked hepatomegaly</I>" (inflammation of the liver), "<I>the abdomen shows reactive lymphadenopathy in the peritoneum</I>" (lymphadenopathy infectious). And the conclusion: "<I>Images obtained compatible with multiple nodular images in both lungs and at the level of the liver with the presence of reactive lymph nodes at the level of the peritoneum that are compatible with secondary (MTS)</I>".
         </P>
         
         <P>
-        It was time to look at the pictures. I had never seen a CT scan. I looked a lot trying to determine if it had gotten worse or better since the previous studies. And I spent 2 days poisoned by not being able to find the primary tumor in the images (which is very noticeable in the February X-ray) or the invasion of the inferior vena cava, which was what had defeated me in the shock room. Regarding the 5 things that I needed from the tomography, the first 4 seemed to be fulfilled in my eyes and perhaps the last one too: destroyed primary tumor, absence of tumors in the skull, absence of lymphatic tumors in the throat area, optimistic explanation to the masses that appeared on the left side (it seems that it was the spleen pushed by the liver), and some reduction of the secondary ones, or at least that they had not advanced.
+        It was time to look at the pictures. I had never seen a CT scan. I looked a lot trying to determine if she had gotten worse or better since the previous studies. I could not find the primary tumor on the images (which is very noticeable in the February X-ray) or the invasion of the inferior vena cava, which was what had defeated me in the shock room. Regarding the 5 things that I needed from the tomography, the first 4 seemed to be fulfilled in my eyes and perhaps the last one too: destroyed primary tumor, absence of tumors in the skull, absence of lymphatic tumors in the throat area, optimistic explanation to the masses that appeared on the left side (it seems that it was the spleen pushed by the liver), and some reduction of the secondary ones, or at least that they had not advanced.
         </P>
 
     </>}
@@ -1538,7 +1446,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Habían pasado 3 días. Escuchó con atención lo que pasó en ese lugar. Por supuesto que no estuvo de acuerdo con lo que hicieron en el centro del tomógrafo y mencionó eso que dije: “sedantes, corticoides y diuréticos la sacaban de la crisis”. Pero también dijo que el estado del hígado era terminal y que le quedaban pocos días o semanas de vida. Habló del hígado, no habló de los pulmones. Y me mostró el tumor primario y la ramificación en la vena en las imágenes de la tomografía en la laptop que llevé.
+        Habían pasado 3 días. Escuchó con atención lo que pasó en ese lugar. Por supuesto que no estuvo de acuerdo con lo que hicieron en el centro del tomógrafo y mencionó eso que dije: "sedantes, corticoides y diuréticos la sacaban de la crisis". Pero también dijo que el estado del hígado era terminal y que le quedaban pocos días o semanas de vida. Habló del hígado, no habló de los pulmones. Y me mostró el tumor primario y la ramificación en la vena en las imágenes de la tomografía en la laptop que llevé.
         </P>
         
         <P>
@@ -1546,11 +1454,11 @@ export const Body = () => {
         </P>
         
         <P>
-        Y no es que me fíe del todo. Después de que le narrara lo que pasó en el centro y cómo me impusieron la eutanasia apuntando a una gravedad extrema en las imágenes, le indiqué qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia: básicamente, mostrarme el tumor primario en las imágenes y decirme que la situación de los pulmones no le permitía seguir viviendo. Me mostró el tumor adrenal y la ramificación en la vena como dos manchas blancas, chatas, del mismo lado que los tumores linfáticos, y que se ven idénticas a las manchas blancas chatas del lado sano. Le dije que sí pero hoy sigue siendo muy confuso. Pero no importa ya. Y cuanto más miro las imágenes más creo que los pulmones estaban mejor que en la radiografía. Aparte me acuerdo que no habló de los pulmones en ningún momento de la conversación sino solo del hígado. Pero ya no importa.
+        Y no es que me fíe del todo. Después de que le narrara lo que pasó en el centro y cómo me impusieron la eutanasia apuntando a una gravedad extrema en las imágenes, le indiqué qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia: básicamente, mostrarme el tumor primario en las imágenes y decirme que la situación de los pulmones no le permitía seguir viviendo. Me mostró el tumor adrenal y la ramificación en la vena como dos manchas blancas, chatas, del mismo lado que los tumores linfáticos, y que se ven idénticas a las manchas blancas chatas del lado sano. Le dije que sí pero hoy sigue siendo muy confuso Pero no importa ya.
         </P>
         
         <P>
-        Seguramente me voy a preguntar siempre si el estado era y siempre fue terminal. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si había manera de salvarla, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 6 crisis, no sé qué le pasó en las 2 horas finales, no sé si hice lo correcto. Supongo que si 17 mil mg de mitotano en 59 días no le hicieron ningún daño aparente a los tumores del hígado, no había manera de salvarla, en definitiva. Por lo demás, queda claro que los profesionales que conocí no están preparados para curar una enfermedad grave sino solo para hacer algo en las etapas iniciales, y recomendar eutanasia después (o imponerla).
+        Seguramente me voy a preguntar siempre si el estado era y siempre fue terminal. Al final de cuentas, todo quedó indefinido, por eso no doy nombres. No sé qué tipo de cáncer tenía, no sé si estaba funcionando el tratamiento, no sé si me mintieron los profesionales, no sé si completé la inducción, no sé por qué tuvo 5 crisis, no sé qué le pasó en las 2 horas finales, no sé si hice lo correcto. Supongo que si 17 mil mg de mitotano en 59 días no le hicieron ningún daño aparente a los tumores del hígado, no había manera de salvarla, en definitiva.
         </P>
 
         <P>
@@ -1560,27 +1468,27 @@ export const Body = () => {
     </>:<>
 
         <P>
-        My inability to see the primary tumor on the CT images forced me to make an appointment with the endocrinologist. I told him that I wanted to give him the drugs that I had left over, an amount in money equivalent to all the consultations that he charged me since I met him... which in any case was not much compared to the drugs and the tomography; and that he also wanted to talk a little to close the story.
+        My inability to see the primary tumor on the CT images forced me to make an appointment with the endocrinologist. I told him that I wanted to give him the drugs that I had left over, an amount in money equivalent to all the consultations that he charged me since I met him... which in any case was not much compared to the drugs and the tomography; and that I also wanted to talk a little to close the story.
         </P>
         
         <P>
-        3 days had passed. He listened carefully to what happened in that place. Of course she did not agree with what they did in the tomograph center and mentioned what I said: “sedatives, corticosteroids and diuretics took her out of the crisis”. But he also said that the state of the liver was terminal and that he had only days or weeks to live. He talked about the liver, he didn't talk about the lungs. And he showed me the primary tumor and the branch in the vein in the CT images on the laptop I brought.
+        3 days had passed. He listened carefully to what happened in that place. Of course he did not agree with what they did in the tomograph center and mentioned what I said: "<I>sedatives, corticosteroids and diuretics took her out of the crisis</I>". But he also said that the state of the liver was terminal and that she had only days or weeks to live. He talked about the liver, he did not talk about the lungs. And he showed me the primary tumor and the branch in the vein in the CT images on the laptop I brought.
         </P>
         
         <P>
-        His was nothing new. He always thought I was terminal, he just never wanted to stop me. Being a researcher, he found it interesting to humor me to see what I could achieve. I was aware of this at all times, although I never cared. By the way, he is such an investigator that a few minutes after death he asked me for permission to do a biopsy on the corpse. Perhaps he doubted his own diagnosis regarding metastases or just wanted to do more research, as he said.
+        His was nothing new. He always thought it was terminal but he just never wanted to stop me. Being a researcher, he found it interesting to humor me to see what I could achieve. I was aware of this at all times, although I never cared. By the way, he is such an investigator that a few minutes after death he asked me for permission to do a biopsy on the corpse. Perhaps he doubted his own diagnosis regarding metastases or just wanted to do more research, as he said.
         </P>
         
         <P>
-        And it's not that I trust him at all. After I told him what happened in the center and how they imposed euthanasia on me pointing to extreme gravity in the images, I told him what he had to tell me so that I could achieve peace and close the story: basically, show me the primary tumor in the images and tell me that the situation of the lungs did not allow him to continue living. He showed me the adrenal tumor and branch vein as two flat white spots on the same side as the lymphatic tumors, and looking identical to the flat white spots on the healthy side. I said yes but today it is still very confusing. But it doesn't matter anymore. And the more I look at the images, the more I think the lungs were better than on the X-ray. Besides, I remember that he did not talk about the lungs at any point in the conversation, but only about the liver. But it doesn't matter anymore.
+        And it is not that I trust him at all. After I told him what happened in the center and how they imposed euthanasia on me pointing to extreme gravity in the images, I told him what he had to tell me so that I could achieve peace and close the story: basically, show me the primary tumor in the images and tell me that the situation of the lungs did not allow her to continue living. He showed me the adrenal tumor and branch vein as two flat white spots on the same side as the lymphatic tumors, and looking identical to the flat white spots on the healthy side. I said yes but today it is still very confusing. But it does not matter anymore. And the more I look at the images, the more I think the lungs were better than on the X-ray.
         </P>
         
         <P>
-        Surely I will always ask myself if the state was and always was terminal. In the end, everything was undefined, that's why I don't give names. I don't know what type of cancer she had, I don't know if the treatment was working, I don't know if there was a way to save her, I don't know if the professionals lied to me, I don't know if I completed the induction, I don't know why she had 6 crises, I don't know what it happened to him in the final 2 hours, I don't know if I did the right thing. I suppose that if 17,000 mg of mitotane in 59 days did no apparent damage to the liver tumors, there was no way to save her, ultimately. For the rest, it is clear that the professionals I met are not prepared to cure a serious illness but only to do something in the initial stages, and recommend euthanasia afterwards (or impose it).
+        Surely I will always ask myself if the state was and always was terminal. In the end, everything was undefined, that is why I do not give names. I do not know what type of cancer she had, I do not know if the treatment was working, I do not know if the professionals lied to me, I do not know if I completed the induction, I do not know why she had 5 crises, I do not know what it happened to her in the final 2 hours, I do not know if I did the right thing. I suppose that if 17,000 mg of mitotane in 59 days did no apparent damage to the liver tumors, there was no way to save her, ultimately.
         </P>
 
         <P>
-        Regarding the endocrinologist, I could make a balance of pros and cons but it would be repeating. I will remember him as the one who sent me to war with a knife. I shook his hand with an open hand because I always perceived that he was not a parishioner of the coronavirus doctrine; and I told him that we'll see each other soon, but I didn't look him in the eye. I hope I don't have to see it again.
+        Regarding the endocrinologist, I could make a balance of pros and cons but it would be repeating. I will remember him as the one who sent me to war with a knife. We shake hands because I always perceived that he was not a parishioner of the coronavirus doctrine; and I told him that we will see each other soon, but I did not look him in the eye. I hope I do not have to see it again.
         </P>
 
     </>}

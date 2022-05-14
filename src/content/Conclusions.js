@@ -11,16 +11,16 @@ export const Conclusions = () => {
 
     <P>
     {!isEnglish ? <>
-        Los que hacemos software estamos acostumbrados a que la gente del mundo publique sus resoluciones y sus explicaciones para que los lea quiensea que esté buscando. Por esa línea escribí, y dejé lo más claro que pude en este sitio los errores propios, la autocrítica que corresponde y lo que considero es el superlativo grado de atraso y subdesarrollo que tiene el ejercicio de las profesiones veterinarias. Por eso, considerar:
+        Los que hacemos software estamos acostumbrados a que la gente del mundo publique sus resoluciones y sus explicaciones para que los lea quiensea que esté buscando. Por esa línea escribí, y dejé lo más claro que pude los errores propios, la autocrítica que corresponde y lo que considero es el superlativo grado de atraso y subdesarrollo que tiene el ejercicio de las profesiones veterinarias. Por eso, considerar:
         </>:<>
-        Those of us who make software are used to people around the world posting their resolutions and explanations for whoever is looking to read them. For that line I wrote, and I left as clear as I could on this site my own mistakes, the corresponding self-criticism and what I consider to be the superlative degree of backwardness and underdevelopment that the exercise of the veterinary professions has. Therefore, consider:
+        Those of us who make software are used to people around the world posting their resolutions and explanations for whoever is looking to read them. For that line I wrote, and I left as clear as I could my own mistakes, the corresponding self-criticism and what I consider to be the superlative degree of backwardness and underdevelopment that the exercise of the veterinary professions has. Therefore, consider:
     </>}
     </P>
 
     <P style={ toggleListStyles }>
         <li>
         {!isEnglish ? <>
-            El mal de Cushing surge de la degeneración como tumor de alguna de las glándulas que producen hormonas de estrés. Están especialmente expuestos los animales que procesan mal el estrés, el miedo, el temor y la ansiedad. A los de este tipo se los debe considerar animales frágiles y evitarles las situaciones que les son adversas; básicamente, las que les hacen temblar.
+            El mal de Cushing surge de la degeneración como tumor de alguna de las glándulas que producen hormonas de estrés. Están especialmente expuestos los animales que procesan mal el estrés, el miedo, el temor y la ansiedad. A los de este tipo se los debe considerar animales frágiles y evitarles las situaciones que les son adversas.
             </>:<>
             Cushing's disease arises from tumor-like degeneration of one of the glands that produce stress hormones. Animals that process stress, fear and anxiety poorly are particularly exposed. Those of this type should be considered fragile animals and avoid situations that are adverse to them; basically, the ones that make them tremble.
             </>}
