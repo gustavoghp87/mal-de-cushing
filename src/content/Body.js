@@ -632,7 +632,7 @@ export const Body = () => {
         
         <P>
         It seemed that nothing that man said made any sense. I found him on social media to finally write him off as a complete asshole. I told the endocrinologist about all this and he told me: “<I>Oncology of the endocrine system is terrifying in Argentina; oncologists know nothing... that is why endocrinologists do not refer</I>”. However, the possibility of a misdiagnosis resurfaced later, with the tomography and the apparent ambiguous result of 60 days of mitotane at an increased dose.
-        </P>
+        </P>mitotano y tr
 
     </>}
 
@@ -646,7 +646,7 @@ export const Body = () => {
     {!isEnglish ? <>
 
         <P>
-        Para estos días entendí algo que también puede servir. Absolutamente todo lo que pude leer acerca del mitotano es anterior a la existencia del trilostano, y esto es bastante importante. El mitotano se usa para tratar el mal de Cushing en animales desde los años 60. Lo común nunca fue hacer una quimioterapia que cause la completa destrucción de las cortezas suprarrenales y una insuficiencia de corticoides para después suplementar con corticoides sintéticos (terapia de reemplazo) sino que lo normal siempre fue buscar una destrucción parcial de la corteza tumorosa para forzarla a producir menos corticoides, primero con un período de inducción de suministrodiario y después con una dosis semanal, y nada más. (En este otro tratamiento, la única suplementación es con prednisolona, sin fludrocortisona.)
+        Para estos días entendí algo que también puede servir. Absolutamente todo lo que pude leer acerca del mitotano es anterior a la existencia del trilostano, y esto es bastante importante. El mitotano se usa para tratar el mal de Cushing en animales desde los años 60. Lo común nunca fue hacer una quimioterapia que cause la completa destrucción de las cortezas suprarrenales y una insuficiencia de corticoides para después suplementar con corticoides sintéticos (terapia de reemplazo) sino que lo normal siempre fue buscar una destrucción parcial de la corteza tumorosa para forzarla a producir menos corticoides, primero con un período de inducción de suministrodiario y después con una dosis semanal, y nada más.
         </P>
         
         <P>
@@ -654,13 +654,17 @@ export const Body = () => {
         </P>
 
         <P>
-        No leí de ningún perro que tuviera la vena cava inferior ocupada por un tumor suprarrenal pero supongo que se sobreentiende que todos los tratados con mitotano tienen esta ramificación, y por eso se los llama inoperables. Pero es más llamativo que no se mencione el tema tampoco después de iniciado el tratamiento, como si no hubiese nada para decir. No aparece como un desafío para el intento de salvarlos y tampoco se llega a una situación en la que el tumor se vuelva extirpable como gracia de la quimioterapia. Solamente no se lo menciona nunca.
+        Esta diferencia entre tratamientos con mitotano (buscando una destrucción parcial regular o una destrucción definitiva) explica también por qué la prednisolona aparece como la única droga de suplementación en los documentos que conseguí, y por qué en ningún caso aparece mencionado el acetato de fludrocortisona. Esto va a ser muy importante después.
+        </P>
+
+        <P>
+        Como comentario final sobre este tema, no leí de ningún perro que tuviera la vena cava inferior ocupada por un tumor suprarrenal pero supongo que se sobreentiende que todos los tratados con mitotano tienen esta ramificación, y por eso se los llama inoperables. Pero es más llamativo que no se mencione el tema tampoco después de iniciado el tratamiento, como si no hubiese nada para decir. No aparece como un desafío para el intento de salvarlos y tampoco se llega a una situación en la que el tumor se vuelva extirpable como gracia de la quimioterapia. Solamente no se lo menciona nunca.
         </P>
 
     </>:<>
 
         <P>
-        For these days I understood something that can also serve. Absolutely everything I could read about mitotane predates trilostane, and this is pretty important. Mitotane has been used to treat Cushing's disease in animals since the 1960s. The common thing was never to do chemotherapy that causes the complete destruction of the adrenal cortices and corticosteroid insufficiency and then supplement with synthetic corticosteroids (replacement therapy) but that the normal thing was always to look for a partial destruction of the tumorous cortex to force it to produce less corticosteroids, first with an induction period of daily supply and then with a weekly dose, and nothing more. (In this other treatment, the only supplementation is with prednisolone, without fludrocortisone.)
+        For these days I understood something that can also serve. Absolutely everything I could read about mitotane predates trilostane, and this is pretty important. Mitotane has been used to treat Cushing's disease in animals since the 1960s. The common thing was never to do chemotherapy that causes the complete destruction of the adrenal cortices and corticosteroid insufficiency and then supplement with synthetic corticosteroids (replacement therapy) but that the normal thing was always to look for a partial destruction of the tumorous cortex to force it to produce less corticosteroids, first with an induction period of daily supply and then with a weekly dose, and nothing more.
         </P>
         
         <P>
@@ -668,7 +672,11 @@ export const Body = () => {
         </P>
 
         <P>
-        I have not read of any dog that had an inferior vena cava occupied by an adrenal tumor, but I guess it goes without saying that all those treated with mitotane have this branch, and that is why they are called inoperable. But it is more striking that the subject is not mentioned even after the treatment has started, as if there was nothing to say. It does not appear as a challenge for the attempt to save them and neither does it reach a situation in which the tumor becomes extirpable as a result of chemotherapy. It is just never mentioned.
+        This difference between treatments with mitotane (looking for a regular partial destruction or a definitive destruction) also explains why prednisolone appears as the only supplementation drug in the documents that I obtained, and why fludrocortisone acetate is not mentioned in any case. This is going to be very important later.
+        </P>
+
+        <P>
+        As a final comment on this topic, I have not read of any dog that had an inferior vena cava occupied by an adrenal tumor, but I guess it goes without saying that all those treated with mitotane have this branch, and that is why they are called inoperable. But it is more striking that the subject is not mentioned even after the treatment has started, as if there was nothing to say. It does not appear as a challenge for the attempt to save them and neither does it reach a situation in which the tumor becomes extirpable as a result of chemotherapy. It is just never mentioned.
         </P>
 
     </>}
@@ -1090,7 +1098,7 @@ export const Body = () => {
 
     </>}
 
-
+no y mitotano
 
 
     <div style={ subtitleStyles } id={'19'}>
