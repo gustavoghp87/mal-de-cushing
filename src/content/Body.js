@@ -1446,7 +1446,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Habían pasado 3 días. Escuchó con atención lo que pasó en ese lugar. Por supuesto que no estuvo de acuerdo con lo que hicieron en el centro del tomógrafo y mencionó eso que dije: "sedantes, corticoides y diuréticos la sacaban de la crisis". Pero también dijo que el estado del hígado era terminal y que le quedaban pocos días o semanas de vida. Habló del hígado, no habló de los pulmones. Y me mostró el tumor primario y la ramificación en la vena en las imágenes de la tomografía en la laptop que llevé.
+        Habían pasado 3 días. Escuchó con atención lo que pasó en ese lugar. Por supuesto que no estuvo de acuerdo con lo que hicieron en el centro del tomógrafo y mencionó eso que dije: "<I>sedantes, corticoides y diuréticos la sacaban de la crisis</I>". Pero también dijo que el estado del hígado era terminal y que le quedaban pocos días o semanas de vida. Habló del hígado, no habló de los pulmones. Y me mostró el tumor primario y la ramificación en la vena en las imágenes de la tomografía en la laptop que llevé.
         </P>
         
         <P>
@@ -1454,7 +1454,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Y no es que me fíe del todo. Después de que le narrara lo que pasó en el centro y cómo me impusieron la eutanasia apuntando a una gravedad extrema en las imágenes, le indiqué qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia: básicamente, mostrarme el tumor primario en las imágenes y decirme que la situación de los pulmones no le permitía seguir viviendo. Me mostró el tumor adrenal y la ramificación en la vena como dos manchas blancas, chatas, del mismo lado que los tumores linfáticos, y que se ven idénticas a las manchas blancas chatas del lado sano. Le dije que sí pero hoy sigue siendo muy confuso Pero no importa ya.
+        Y no es que me fíe del todo. Después de que le narrara lo que pasó en el centro y cómo me impusieron la eutanasia apuntando a una gravedad extrema en las imágenes, le indiqué qué era lo que tenía que decirme para que yo alcanzara la paz y cerrar la historia: básicamente, mostrarme el tumor primario en las imágenes y decirme que la situación de los pulmones no le permitía seguir viviendo. Me mostró el tumor adrenal y la ramificación en la vena como dos manchas blancas, chatas, del mismo lado que los tumores linfáticos, y que se ven idénticas a las manchas blancas chatas del lado sano. Le dije que sí pero hoy sigue siendo muy confuso. Pero no importa ya.
         </P>
         
         <P>
@@ -1462,7 +1462,7 @@ export const Body = () => {
         </P>
 
         <P>
-        Respecto al endocrinólogo, podría hacer un balance de pros y contras pero sería repetir. Lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano con la mano abierta porque siempre percibí que no era un feligrés de la doctrina del coronavirus; y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
+        Respecto al endocrinólogo, podría hacer un balance de pros y contras pero sería repetir. No hay dudas de que fue el profesional más preparado de los que conocí, y aun así lo recordaré como quien me mandó a la guerra con un cuchillo. Le estreché la mano con la mano abierta porque siempre percibí que no era un feligrés de la doctrina del coronavirus; y le dije que nos vemos pronto, pero no lo miré a los ojos. Espero no tener que volver a verlo.
         </P>
 
     </>:<>
@@ -1480,7 +1480,7 @@ export const Body = () => {
         </P>
         
         <P>
-        And it is not that I trust him at all. After I told him what happened in the center and how they imposed euthanasia on me pointing to extreme gravity in the images, I told him what he had to tell me so that I could achieve peace and close the story: basically, show me the primary tumor in the images and tell me that the situation of the lungs did not allow her to continue living. He showed me the adrenal tumor and branch vein as two flat white spots on the same side as the lymphatic tumors, and looking identical to the flat white spots on the healthy side. I said yes but today it is still very confusing. But it does not matter anymore. And the more I look at the images, the more I think the lungs were better than on the X-ray.
+        And it is not that I trust him at all. After I told him what happened in the center and how they imposed euthanasia on me pointing to extreme gravity in the images, I told him what he had to tell me so that I could achieve peace and close the story: basically, show me the primary tumor in the images and tell me that the situation of the lungs did not allow her to continue living. He showed me the adrenal tumor and branch vein as two flat white spots on the same side as the lymphatic tumors, and looking identical to the flat white spots on the healthy side. I said yes but today it is still very confusing. But it does not matter anymore.
         </P>
         
         <P>
@@ -1488,7 +1488,7 @@ export const Body = () => {
         </P>
 
         <P>
-        Regarding the endocrinologist, I could make a balance of pros and cons but it would be repeating. I will remember him as the one who sent me to war with a knife. We shake hands because I always perceived that he was not a parishioner of the coronavirus doctrine; and I told him that we will see each other soon, but I did not look him in the eye. I hope I do not have to see it again.
+        Regarding the endocrinologist, I could make a balance of pros and cons but it would be repeating. There is no doubt that he was the most prepared professional I have ever met, and even so I will remember him as the one who sent me to war with a knife. We shake hands because I always perceived that he was not a parishioner of the coronavirus doctrine; and I told him that we will see each other soon, but I did not look him in the eye. I hope I do not have to see it again.
         </P>
 
     </>}

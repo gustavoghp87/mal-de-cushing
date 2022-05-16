@@ -10,7 +10,7 @@ export const LanguageBtn = () => {
 
     return (
         <div style={{ paddingTop: isMobile ? '120px' : '90px' }}>
-            <div className={styles.card + ' d-block m-auto'} onClick={() => dispatch(changeIsEnglishReducer())}>
+            <div className={styles.card + ' d-block m-auto'} style={{ cursor: 'pointer' }} onClick={() => dispatch(changeIsEnglishReducer())}>
                 <h2 className={'mb-0 text-center'} style={{ width: '250px' }}>
                     {isEnglish ? "Versión en Español" : "English version"}
                     &nbsp; <ArrowBarRight />
