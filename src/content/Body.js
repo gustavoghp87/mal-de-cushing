@@ -197,7 +197,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Yo no sabía mucho de tumores en este tiempo pero sí sabía que son grandes consumidores de glucosa, por lo que, sumado a la sospecha de que los alimentos balanceados para mascotas están detrás de los horribles números del cáncer, la pasamos en mayo 2020 a una dieta de solo productos cárnicos; es decir, todo proteína y grasa y nada de carbohidratos, y a una única comida nocturna para reducir la inflamación de bajo grado a una porción breve del día. Creí que así el tumor no tendría manera de crecer, por la escasez de glucosa y por la maximización del tiempo en que el sistema inmunológico está en estado de alerta.
+        Yo no sabía mucho de tumores en este tiempo pero sí sabía que son grandes consumidores de glucosa, por lo que, sumado a la sospecha de que los alimentos balanceados para mascotas están detrás de los horribles números del cáncer, la pasamos en mayo 2020 a una dieta de solo productos cárnicos; es decir, todo proteína y grasa y nada de carbohidratos, y a una única comida nocturna para reducir la inflamación de bajo grado a una porción breve del día. Alimento balanceado una vez por semana. Creí que así el tumor no tendría manera de crecer, por la escasez de glucosa y por la maximización del tiempo en que el sistema inmunológico está en estado de alerta.
         </P>
         
         <P>
@@ -231,7 +231,7 @@ export const Body = () => {
         </P>
         
         <P>
-        I did not know much about tumors at this time but I did know that they are great consumers of glucose, so, added to the suspicion that balanced pet food is behind the horrible cancer numbers, we passed her in May 2020 to a diet of only meat products; that is, all protein and fat and no carbohydrates, and a single evening meal to reduce low-grade inflammation to a short portion of the day. I thought that in this way the tumor would have no way of growing, due to the lack of glucose and the maximization of the time in which the immune system is in a state of alert.
+        I did not know much about tumors at this time but I did know that they are great consumers of glucose, so, added to the suspicion that balanced pet food is behind the horrible cancer numbers, we passed her in May 2020 to a diet of only meat products; that is, all protein and fat and no carbohydrates, and a single evening meal to reduce low-grade inflammation to a short portion of the day. Dry dogs food once a week. I thought that in this way the tumor would have no way of growing, due to the lack of glucose and the maximization of the time in which the immune system is in a state of alert.
         </P>
         
         <P>
