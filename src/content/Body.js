@@ -205,7 +205,7 @@ export const Body = () => {
         </P>
 
         <P>
-        Con los parámetros estudiados en valores normales (que no lo estaban), la mancha de 4 milímetros en la ecografía del hígado tenía que ser otra cosa.
+        Con los parámetros estudiados en valores normales (que no lo estaban) y sin síntomas de ningún tipo, la mancha de 4 milímetros en la ecografía del hígado tenía que ser otra cosa.
         </P>
 
     </>:<>
@@ -239,7 +239,7 @@ export const Body = () => {
         </P>
 
         <P>
-        With the parameters studied at normal values ​​(which were not), the 0.16-inches spot on the ultrasound of the liver had to be something else.
+        With the parameters studied at normal values ​​(which were not) and no symptoms of any kind, the 0.16-inches spot on the ultrasound of the liver had to be something else.
         </P>
 
     </>}
@@ -257,7 +257,7 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            Un tumor surge cuando muchas células sufren un daño interno y fallan los mecanismos externos para su destrucción. Para explicar el daño en las células, considerar la teoría de la acidificación de los órganos. Por la otra parte, la causa fundamental de que fallen los mecanismos externos para el aniquilamiento de las células cancerosas es algún tipo de inmunodepresión, porque son las células inmunológicas las que tienen que destruirlas.
+            Un tumor surge cuando muchas células sufren un daño interno y fallan los mecanismos externos para su destrucción. (Para explicar el daño en las células, considerar la teoría de la acidificación de los órganos.) La causa fundamental de que fallen los mecanismos externos para el aniquilamiento de las células cancerosas es algún tipo de inmunodepresión, porque son las células inmunológicas las que tienen que destruirlas.
             </li>
         </P>
 
@@ -293,7 +293,7 @@ export const Body = () => {
 
         <P style={ toggleListStyles }>
             <li>
-            A tumor arises when many cells suffer internal damage and the external mechanisms for their destruction fail. To explain cell damage, consider the organ acidification theory. On the other hand, the fundamental cause of failure of the external mechanisms for the annihilation of cancer cells is some type of immunosuppression, because it is the immune cells that have to destroy them.
+            A tumor arises when many cells suffer internal damage and the external mechanisms for their destruction fail. (To explain cell damage, consider the organ acidification theory.) The fundamental cause of failure of the external mechanisms for the annihilation of cancer cells is some type of immunosuppression, because it is the immune cells that have to destroy them.
             </li>
         </P>
 
@@ -422,7 +422,7 @@ export const Body = () => {
         </P>
         
         <P>
-        Ally voló de corticoides. Engordó a alta velocidad, se deshidrató, desarrolló apetito voraz y hasta se infectó con una infección urinaria por “Klebsiella pneumoniae” que la molestó durante 30 días y la atormentó durante los 20 días finales, a causa de la inmunodepresión que causan los corticoides altos. Todo en pocos días, mientras yo estaba con los corticoides sintéticos en la mano preocupado por que los corticoides en sangre no bajaran demasiado, más allá de lo llamativo de que los dos momentos de rápida degradación por Cushing hayan sido cuando dejó de pasar algunas horas al día sola, o sea, cuando durmió poco: abril 2020 y febrero 2022.
+        Ally voló de corticoides. Engordó a alta velocidad, se deshidrató, desarrolló apetito voraz y hasta se infectó con una infección urinaria por “Klebsiella pneumoniae” que la molestó durante 30 días y la atormentó durante los 20 días finales, a causa de la inmunodepresión que causan los corticoides altos. Todo en pocos días, mientras yo estaba con los corticoides sintéticos en la mano preocupado de que los corticoides en sangre no bajaran demasiado, más allá de lo llamativo de que los dos momentos de rápida degradación por Cushing hayan sido cuando dejó de pasar algunas horas al día sola, o sea, cuando durmió poco: abril 2020 y febrero 2022.
         </P>
         
         <P>
@@ -434,7 +434,7 @@ export const Body = () => {
         </P>
 
         <P>
-        Comentario aparte, leí después de perros que se curaron completamente de Cushing y de metástasis pulmonares tratando con mitotano pero no leí de ningún perro con metástasis hepática que hayan podido curar; de hecho, leí de algunos que eutanasiaron en pleno tratamiento ni bien conocerse que tenían metástasis hepáticas.
+        Comentario aparte, leí después de perros que se "curaron" de Cushing y de metástasis pulmonares tratando con mitotano pero no leí de ningún perro con metástasis hepática que hayan podido curar; de hecho, leí de algunos que eutanasiaron en pleno tratamiento ni bien conocerse que tenían metástasis hepáticas, no sé por qué.
         </P>
 
     </>:<>
@@ -464,7 +464,7 @@ export const Body = () => {
         </P>
 
         <P>
-        Side comment, I read after dogs that were completely cured of Cushing's and lung metastases by treating with mitotane but I did not read of any dogs with liver metastases that they were able to cure; in fact, I read of some who were euthanized in the middle of treatment as soon as it was known that they had liver metastases.
+        Side comment, I read after dogs that were "cured" of Cushing's and lung metastases by treating with mitotane but I did not read of any dogs with liver metastases that they were able to cure; in fact, I read of some who were euthanized in the middle of treatment as soon as it was known that they had liver metastases, I do not know why.
         </P>
 
     </>}
@@ -479,11 +479,11 @@ export const Body = () => {
     {!isEnglish ? <>
 
         <P>
-        Cuando íbamos 4 o 5 días de mitotano probé darle alguna dosis baja de trilostano porque el Cushing la estaba atormentando. Se ponía mejor de inmediato, en algo así como media hora, pero luego tenía problemas nocturnos de agitación y deambular de acá para allá, y lo suspendí.
+        Cuando íbamos 4 o 5 días de mitotano probé darle alguna dosis baja de trilostano porque el Cushing la estaba atormentando. Se ponía mejor de inmediato, en algo así como media hora, pero luego tenía problemas nocturnos de agitación, palpitaciones y deambular de acá para allá, y lo suspendí.
         </P>
         
         <P>
-        Pero cuando, cerca del décimo día, vi que perdía un fluido verde amarillento con pus desde las vías urinarias supe que de una infección urinaria se trataba y tuve ahí la garantía de que era Cushing y no efectos secundarios del mitotano, como creía el endocrinólogo. También entendí que los problemas nocturnos que tenía cuando tomaba trilostano no eran algo malo de por sí, sino que era fiebre por estar combatiendo la infección que hasta entonces no se notaba.
+        Pero cuando, cerca del décimo día, vi que perdía un fluido verde amarillento con pus desde las vías urinarias supe que de una infección urinaria se trataba y tuve ahí la garantía de que sus síntomas eran Cushing y no efectos secundarios del mitotano, como creía el endocrinólogo. También entendí que los problemas nocturnos que tenía cuando tomaba trilostano no eran algo malo de por sí, sino que era fiebre por estar combatiendo la infección que hasta entonces no se notaba.
         </P>
         
         <P>
@@ -493,11 +493,11 @@ export const Body = () => {
     </>:<>
 
         <P>
-        When we were on 4 or 5 days of mitotane I tried to give her some low dose of trilostane because Cushing's was tormenting her. She used to get better right away, in about half an hour, but then she had nightly problems with agitation and wandering around, and I stopped it.
+        When we were on 4 or 5 days of mitotane I tried to give her some low dose of trilostane because Cushing's was tormenting her. She used to get better right away, in about half an hour, but then she had nightly problems with agitation, palpitations and wandering around, and I stopped it.
         </P>
         
         <P>
-        But when, around the tenth day, I saw that she was losing a yellowish green fluid with pus from the urinary tract, I knew that it was a urinary tract infection and I had the guarantee that it was Cushing's and not secondary effects of mitotane, as the endocrinologist believed. I also understood that the nocturnal problems that she had when she was taking trilostane were not something bad per se, but it was a fever from fighting the infection that had not been noticed until then.
+        But when, around the tenth day, I saw that she was losing a yellowish green fluid with pus from the urinary tract, I knew that it was a urinary tract infection and I had the guarantee that her symptoms were Cushing's and not secondary effects of mitotane, as the endocrinologist believed. I also understood that the nocturnal problems that she had when she was taking trilostane were not something bad per se, but it was a fever from fighting the infection that had not been noticed until then.
         </P>
         
         <P>
@@ -516,7 +516,7 @@ export const Body = () => {
     {!isEnglish ? <>
 
         <P>
-        El sábado 26 de febrero lo pasó conmigo. Al cerrar el día la dejé con mi madre para que tomara la última dosis del día de trilostano y mitotano. Trilostano consumía 7,5 mg por día en dos tomas y mitotano tomaba 400 mg en 3 tomas. No quiso comer mucho y poco después de cenar comenzó a agitarse. Había una tormenta eléctrica muy fuerte. Tuve un primer indicio de ansiedad por las tormentas uno o dos meses antes pero cerré todo y no pasó a mayores. Esta vez hiperventilaba cada vez con más ruido, como si el aire raspara contra algo seco. Como no mejoraba fui a verla. Me preocupé mucho y la llevé a una guardia 24 horas.
+        Para el sábado 26 de febrero, consumía 7,5 mg de trilostano por día en dos tomas y mitotano tomaba 400 mg en 3 tomas. Por la noche, no quiso comer mucho y poco después de cenar comenzó a agitarse. Había una tormenta eléctrica muy fuerte. Tuve un primer indicio de ansiedad por las tormentas uno o dos meses antes pero cerré todo y no pasó a mayores. Esta vez hiperventilaba cada vez con más ruido, como si el aire raspara contra algo seco. Me preocupé mucho y la llevé a una guardia 24 horas.
         </P>
         
         <P>
@@ -538,7 +538,7 @@ export const Body = () => {
     </>:<>
 
         <P>
-        On Saturday, February 26, she spent it with me. At the end of the day I left her with my mother to take her last dose of trilostane and mitotane for the day. Trilostane took 7.5 mg per day in two doses and mitotane took 400 mg in 3 doses. She did not want to eat much and shortly after dinner she started to get agitated. There was a very strong electrical storm. I had a first hint of storm anxiety a month or two before but I closed everything and it did not go any further. This time she was hyperventilating louder and louder, as if the air was scraping against something dry. Since she was not getting better, I went to see her. I was very worried and took her to a 24-hour guard.
+        By Saturday, February 26, she was taking 7.5 mg of trilostane per day in two doses and mitotane was taking 400 mg in 3 doses. In the evening, she did not want to eat much and shortly after dinner she began to get agitated. There was a very strong electrical storm. I had a first hint of storm anxiety a month or two before but I closed everything and it didn't go any further. This time she was hyperventilating louder and louder, as if the air was scraping against something dry. I was very worried and took her to a 24-hour guard.
         </P>
         
         <P>
