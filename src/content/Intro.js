@@ -65,5 +65,13 @@ export const Intro = () => {
     </>}
     </P>
 
+    <P className={'text-right'}>
+    {!isEnglish ? <>
+        Mayo 2022
+        </>:<>
+        May 2022
+    </>}
+    </P>
+
     </>)
 }
